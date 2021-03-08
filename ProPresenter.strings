@@ -42,136 +42,136 @@ If in doubt, make a string that is tied to a specific location in the UI.
 "GLOBAL_APPLICATION_NAME" = "ProPresenter";
 
 /* Global "OK" button content */
-"GLOBAL_OK_BUTTON_title" = "OK";
+"GLOBAL_OK_BUTTON_title" = "确定";
 
 /* Global "Cancel" button content */
-"GLOBAL_CANCEL_BUTTON_title" = "Cancel";
+"GLOBAL_CANCEL_BUTTON_title" = "取消";
 
 /* Global "Continue" button content */
-"GLOBAL_CONTINUE_BUTTON_title" = "Continue";
+"GLOBAL_CONTINUE_BUTTON_title" = "继续";
 
 /* Global "Yes" button content */
-"GLOBAL_YES_BUTTON_title" = "Yes";
+"GLOBAL_YES_BUTTON_title" = "是";
 
 /* Global "No" button content */
-"GLOBAL_NO_BUTTON_title" = "No";
+"GLOBAL_NO_BUTTON_title" = "否";
 
 /* Global "Quit" button title */
-"GLOBAL_QUIT" = "Quit";
+"GLOBAL_QUIT" = "退出";
 
 /* Global "Dismiss" button title to hide notifications, etc... */
-"GLOBAL_DISMISS" = "Dismiss";
+"GLOBAL_DISMISS" = "驳回";
 
 /* Global "Filter" placeholder text for filter/search bars. */
-"GLOBAL_FILTER_FIELD_placeholder" = "Filter";
+"GLOBAL_FILTER_FIELD_placeholder" = "筛选";
 
 /* Global "Rename" context menu item title */
-"GLOBAL_RENAME_MENU_ITEM_title" = "Rename";
+"GLOBAL_RENAME_MENU_ITEM_title" = "重命名";
 
 /* Global "Duplicate" context menu item title */
-"GLOBAL_DUPLICATE_MENU_ITEM_title" = "Duplicate";
+"GLOBAL_DUPLICATE_MENU_ITEM_title" = "复本";
 
 /* Global "Delete" title, used for context menus and or buttons */
-"GLOBAL_DELETE_title" = "Delete";
+"GLOBAL_DELETE_title" = "删除";
 
 /* Global "Delete All" title, used for context menus and or buttons */
-"GLOBAL_DELETE_ALL_title" = "Delete All";
+"GLOBAL_DELETE_ALL_title" = "全部删除";
 
 /* Global "Remove" title, used for context menus and or buttons */
-"GLOBAL_REMOVE_title" = "Remove";
+"GLOBAL_REMOVE_title" = "移除";
 
 /* Global "Reset" title, used for buttons */
-"GLOBAL_RESET_title" = "Reset";
+"GLOBAL_RESET_title" = "重置";
 
 /* Global "Show in Finder" context menu item title for mac */
-"GLOBAL_SHOW_IN_FINDER_MENU_ITEM_mac_title" = "Show in Finder";
+"GLOBAL_SHOW_IN_FINDER_MENU_ITEM_mac_title" = "在Finder中显示";
 
 /* Global "Open File Location" context menu item title for windows */
-"GLOBAL_SHOW_IN_FINDER_MENU_ITEM_windows_title" = "Open File Location";
+"GLOBAL_SHOW_IN_FINDER_MENU_ITEM_windows_title" = "打开文件位置";
 
 /* Global "Inspector" menu item and/or button title, can be seen in playlist item context menus */
-"GLOBAL_INSPECTOR_BUTTON_title" = "Inspector";
+"GLOBAL_INSPECTOR_BUTTON_title" = "检查";
 
 /* Global audio unit for milliseconds to be used when showing time */
 "GLOBAL_AUDIO_MS_UNIT" = "ms";
 
 /* Global "Save" title, used for context menus or buttons */
-"GLOBAL_SAVE" = "Save";
+"GLOBAL_SAVE" = "保存";
 
 /* Global "Done" title, used for context menus or buttons */
-"GLOBAL_DONE" = "Done";
+"GLOBAL_DONE" = "完成";
 
 /* Global "Back" title, used for buttons when navigating backwards through the UI */
-"GLOBAL_BACK_title" = "Back";
+"GLOBAL_BACK_title" = "后退";
 
 /* Global "Default" title */
-"GLOBAL_DEFAULT" = "Default";
+"GLOBAL_DEFAULT" = "默认";
 
 /* Global "Unknown" title */
-"GLOBAL_UNKNOWN" = "Unknown";
+"GLOBAL_UNKNOWN" = "未知";
 
 /* Global text for when a file cannot be found on disk. */
-"GLOBAL_GENERIC_FILE_NOT_LOCATED_message" = "This file couldn't be found";
+"GLOBAL_GENERIC_FILE_NOT_LOCATED_message" = "找不到此文件";
 
 /* Global text for when a file cannot be found on disk. %@ is the filename. */
-"GLOBAL_GENERIC_FILE_NOT_LOCATED_title" = "\"%@\" could not be located";
+"GLOBAL_GENERIC_FILE_NOT_LOCATED_title" = "\"%@\" 找不到";
 
 /* Global text for when a file cannot be saved to disk. %@ is the filename. */
-"GLOBAL_GENERIC_FILE_NOT_SAVED_title" = "\"%@\" could not be saved";
+"GLOBAL_GENERIC_FILE_NOT_SAVED_title" = "\"%@\" 无法保存";
 
 /* Global text for when a file cannot be removed from disk. %@ is the filename. */
-"GLOBAL_GENERIC_FILE_NOT_REMOVED_title" = "\"%@\" could not be removed";
+"GLOBAL_GENERIC_FILE_NOT_REMOVED_title" = "\"%@\" 无法删除";
 
 /* Global Login title */
-"GLOBAL_LOGIN_title" = "Login";
+"GLOBAL_LOGIN_title" = "登录";
 
 /* Global Logout title */
-"GLOBAL_LOGOUT_title" = "Logout";
+"GLOBAL_LOGOUT_title" = "注销";
 
 /* Global Enable title */
-"GLOBAL_ENABLE_title" = "Enable";
+"GLOBAL_ENABLE_title" = "启用";
 
 /* Abbreviation for decibel */
 "GLOBAL_AUDIO_LEVEL_UNIT" = "dB";
 
 /* Header for lists of audience screens. Generally used in menu items as a header item. */
-"GLOBAL_AUDIENCE_title" = "Audience";
+"GLOBAL_AUDIENCE_title" = "观众";
 
 /* Header for lists of stage screens. Generally used in menu items as a header item. */
-"GLOBAL_STAGE_title" = "Stage";
+"GLOBAL_STAGE_title" = "舞台";
 
 /* Global "On" title */
-"GLOBAL_ON" = "On";
+"GLOBAL_ON" = "打开";
 
 /* Global "Off" title */
-"GLOBAL_OFF" = "Off";
+"GLOBAL_OFF" = "关闭";
 
 /* Global "Select" title */
-"GLOBAL_SELECT" = "Select";
+"GLOBAL_SELECT" = "选择";
 
 /* Global "All" title */
-"GLOBAL_ALL" = "All";
+"GLOBAL_ALL" = "所有";
 
 /* Global "None" title */
-"GLOBAL_NONE" = "None";
+"GLOBAL_NONE" = "无";
 
 /* Global "Resume" button content */
-"GLOBAL_RESUME_BUTTON_title" = "Resume";
+"GLOBAL_RESUME_BUTTON_title" = "恢复";
 
 /* Abbreviation for "Points" - an arbitrary unit of measurement */
 "GLOBAL_POINT_UNIT" = "pt";
 
 /* Full name for "Pixels", a unit of measurement */
-"GLOBAL_PIXELS_title" = "Pixels";
+"GLOBAL_PIXELS_title" = "像素";
 
 /* Abbreviation for "Pixel" */
 "GLOBAL_PIXEL_UNIT" = "px";
 
 /* Global Width label */
-"GLOBAL_WIDTH" = "Width";
+"GLOBAL_WIDTH" = "宽度";
 
 /* Global Height label */
-"GLOBAL_HEIGHT" = "Height";
+"GLOBAL_HEIGHT" = "高度";
 
 /* Global X coordinate */
 "GLOBAL_X_COORDINATE" = "X";
@@ -180,54 +180,54 @@ If in doubt, make a string that is tied to a specific location in the UI.
 "GLOBAL_Y_COORDINATE" = "Y";
 
 /* Global "Multiple Values" title as a control's placeholder for when the user has selected multiple values and this control can't display all selected values */
-"GLOBAL_MULTIPLE_VALUES" = "Multiple Values";
+"GLOBAL_MULTIPLE_VALUES" = "多重值";
 
 /* Global "No Selection" text used as a placeholder when the user needs to pick an item but hasn't yet */
-"GLOBAL_NO_SELECTION" = "No Selection";
+"GLOBAL_NO_SELECTION" = "无选择";
 
 /* Title for the "Cut" action with regard to the clipboard */
-"GLOBAL_CUT_ACTION" = "Cut";
+"GLOBAL_CUT_ACTION" = "剪切";
 /* Title for the "Copy" action with regard to the clipboard */
-"GLOBAL_COPY_ACTION" = "Copy";
+"GLOBAL_COPY_ACTION" = "拷贝";
 /* Title for the "Paste" action with regard to the clipboard */
-"GLOBAL_PASTE_ACTION" = "Paste";
+"GLOBAL_PASTE_ACTION" = "粘贴";
 /* Title for the "Paste" action, which matches the text to the destination's style */
-"GLOBAL_PASTE_AND_MATCH_STYLE_ACTION" = "Paste and Match Style";
+"GLOBAL_PASTE_AND_MATCH_STYLE_ACTION" = "匹配样式粘贴";
 
 /* Global string for a button/menu item to save some configuration as the default configuration */
-"GLOBAL_SAVE_AS_DEFAULT_title" = "Save as Default";
+"GLOBAL_SAVE_AS_DEFAULT_title" = "保存为默认";
 /* Global string for a button/menu item to reset the configuration to the previously set default */
-"GLOBAL_RESET_TO_DEFAULT_title" = "Reset to Default";
+"GLOBAL_RESET_TO_DEFAULT_title" = "重置为默认值";
 
 /* Global string for an unconfigured object */
-"GLOBAL_UNCONFIGURED_title" = "Unconfigured";
+"GLOBAL_UNCONFIGURED_title" = "未配置";
 
 /* Global checkbox title shown in alert messages to not show this alert message again */
-"GLOBAL_DO_NOT_SHOW_AGAIN_title" = "Do not show again";
+"GLOBAL_DO_NOT_SHOW_AGAIN_title" = "不再显示";
 
 /* Global checkbox title shown in alert messages to use the user's choice next time instead of showing an alert */
-"GLOBAL_REMEMBER_MY_CHOICE_title" = "Remember my choice";
+"GLOBAL_REMEMBER_MY_CHOICE_title" = "记住我的选择";
 
 /* Global string for applying the selected action (usually in a dialog box) to all items */
-"GLOBAL_APPLY_TO_ALL" = "Apply to All";
+"GLOBAL_APPLY_TO_ALL" = "全部应用";
 
 /* Global string for "New" */
-"GLOBAL_NEW" = "New";
+"GLOBAL_NEW" = "新建";
 
 /* Global string for "Skip" */
-"GLOBAL_SKIP" = "Skip";
+"GLOBAL_SKIP" = "跳过";
 
 /* A pixel resolution. For example, 1920 x 1080. The values are width and height. */
 "GLOBAL_RESOLUTION_FORMAT" = "%i x %i";
 
 /* A placeholder title for an item that has no title */
-"GLOBAL_UNTITLED" = "Untitled";
+"GLOBAL_UNTITLED" = "无标题";
 
 /* Alert text for when multiple errors occurred in a single operation */
-"GLOBAL_MULTIPLE_ERRORS_message" = "There were multiple errors.";
+"GLOBAL_MULTIPLE_ERRORS_message" = "有多个错误。";
 
 /* Global label for an object's name */
-"GLOBAL_NAME" = "Name";
+"GLOBAL_NAME" = "名称";
 
 
 /*
@@ -239,63 +239,63 @@ Note: This section for *global string in the playlist areas* strings, i.e. "New 
 */
 
 /* Global Playlist title, also used for the name of a newly created playlist */
-"PLAYLIST_GLOBAL_PLAYLIST_title" = "Playlist";
+"PLAYLIST_GLOBAL_PLAYLIST_title" = "播放列表";
 
 /* Global Playlist area menu item title for "Add Playlist" */
-"PLAYLIST_GLOBAL_ADD_PLAYLIST_MENU_ITEM_title" = "Add Playlist";
+"PLAYLIST_GLOBAL_ADD_PLAYLIST_MENU_ITEM_title" = "添加到播放列表";
 
 /* Global Playlist area menu item title for "New Smart Playlist" */
-"PLAYLIST_GLOBAL_ADD_SMART_PLAYLIST_MENU_ITEM_title" = "New Smart Playlist";
+"PLAYLIST_GLOBAL_ADD_SMART_PLAYLIST_MENU_ITEM_title" = "新建智能播放列表";
 
 /* Global Playlist area menu item title for "New Playlist Folder" */
-"PLAYLIST_GLOBAL_ADD_PLAYLIST_FOLDER_MENU_ITEM_title" = "New Playlist Folder";
+"PLAYLIST_GLOBAL_ADD_PLAYLIST_FOLDER_MENU_ITEM_title" = "新建列表文件夹";
 
 /* Message shown when the user tries to import a file into a smart playlist. Smart playlists show the contents of a directory and don't allow the user to import their own files. */
-"PLAYLIST_GLOBAL_ALERT_SMART_PLAYLIST_IMPORT_message" = "You can not import a file to a smart playlist. Please select another playlist.";
+"PLAYLIST_GLOBAL_ALERT_SMART_PLAYLIST_IMPORT_message" = "您无法将文件导入智能播放列表. 请选择其他播放列表.";
 
 /* Default name for a newly created playlist folder */
-"PLAYLIST_GLOBAL_NEW_PLAYLIST_FOLDER_name" = "Untitled Folder";
+"PLAYLIST_GLOBAL_NEW_PLAYLIST_FOLDER_name" = "未命名文件夹";
 
 /* Title for button that deletes cues from a playlist */
-"PLAYLIST_GLOBAL_DELETE_CUES_title" = "Delete Cues";
+"PLAYLIST_GLOBAL_DELETE_CUES_title" = "删除提示";
 /* Title for button that deletes cues from a playlist and moves their files to the trash*/
-"PLAYLIST_GLOBAL_MOVE_TO_TRASH_title" = "Move To Trash";
+"PLAYLIST_GLOBAL_MOVE_TO_TRASH_title" = "移至回收站";
 
 /* Playlist Item Global "Playback Behavior" context menu item title used in playlist item areas */
-"PLAYLIST_ITEM_GLOBAL_PLAYBACK_BEHAVIOR_MENU_ITEM_title" = "Playback Behavior";
+"PLAYLIST_ITEM_GLOBAL_PLAYBACK_BEHAVIOR_MENU_ITEM_title" = "回放行为";
 
 /* Playback Behavior "Stop" menu item title, can be seen in playlist item context menus */
-"PLAYLIST_ITEM_GLOBAL_PLAYBACK_BEHAVIOR_STOP_MENU_ITEM_title" = "Stop";
+"PLAYLIST_ITEM_GLOBAL_PLAYBACK_BEHAVIOR_STOP_MENU_ITEM_title" = "停止";
 
 /* Playback Behavior "Loop" menu item and/or button title, can be seen in playlist item context menus */
-"PLAYLIST_ITEM_GLOBAL_PLAYBACK_BEHAVIOR_LOOP_MENU_ITEM_title" = "Loop";
+"PLAYLIST_ITEM_GLOBAL_PLAYBACK_BEHAVIOR_LOOP_MENU_ITEM_title" = "循环";
 
 /* Cue Completion Behavior "Next" menu item, can be seen in playlist item context menus */
-"PLAYLIST_ITEM_GLOBAL_CUE_COMPLETION_NEXT_MENU_ITEM_title" = "Next";
+"PLAYLIST_ITEM_GLOBAL_CUE_COMPLETION_NEXT_MENU_ITEM_title" = "下一个";
 
 /* The item count in the header of the playlist views non plural */
-"PLAYLIST_HEADER_ITEM_COUNT_title" = "1 ITEM";
+"PLAYLIST_HEADER_ITEM_COUNT_title" = "1 个物品";
 
 /* The item count in the header of the playlist views plural */
-"PLAYLIST_HEADER_ITEM_COUNT_PLURAL_title" = "%i ITEMS";
+"PLAYLIST_HEADER_ITEM_COUNT_PLURAL_title" = "%i 个物品";
 
 /* The duration in terms of 1 day in the header of the playlist views */
-"PLAYLIST_HEADER_DURATION_DAY_title" = "1 DAY";
+"PLAYLIST_HEADER_DURATION_DAY_title" = "1 日";
 
 /* The duration in terms of multiple days in the header of the playlist views */
-"PLAYLIST_HEADER_DURATION_DAY_PLURAL_title" = "%i DAYS";
+"PLAYLIST_HEADER_DURATION_DAY_PLURAL_title" = "%i 日";
 
 /* The duration in terms of 1 Hour in the header of the playlist views */
-"PLAYLIST_HEADER_DURATION_HOUR_title" = "1 HOUR";
+"PLAYLIST_HEADER_DURATION_HOUR_title" = "1 小时";
 
 /* The duration in terms of 2 Hours in the header of the playlist views */
-"PLAYLIST_HEADER_DURATION_HOUR_PLURAL_title" = "%i HOURS";
+"PLAYLIST_HEADER_DURATION_HOUR_PLURAL_title" = "%i 小时";
 
 /* The duration in terms of 1 Minute in the header of the playlist views */
-"PLAYLIST_HEADER_DURATION_MINUTE_title" = "1 MINUTE";
+"PLAYLIST_HEADER_DURATION_MINUTE_title" = "1 分钟";
 
 /* The duration in terms of 2 Minutes in the header of the playlist views */
-"PLAYLIST_HEADER_DURATION_MINUTE_PLURAL_title" = "%i MINUTES";
+"PLAYLIST_HEADER_DURATION_MINUTE_PLURAL_title" = "%i 分钟";
 
 
 /*
@@ -305,7 +305,7 @@ GLOBAL TRANSITIONS
 */
 
 /* Title for button that lets the user choose a transition when a transition isn't selected yet. */
-"TRANSITIONS_VIEW_CHOOSE_TRANSITIONS_BUTTON_title" = "Choose Transition";
+"TRANSITIONS_VIEW_CHOOSE_TRANSITIONS_BUTTON_title" = "选择过渡";
 /* Title for button that lets the user choose a transition when a transition is already selected. %@ is the transition name. %.1f is the duration. The result is "Transition: 2.5s"*/
 "TRANSITIONS_VIEW_TRANSITION_BUTTON_FORMAT_title" = "%@: %.1fs";
 
@@ -319,82 +319,82 @@ Note: This section enumerates the types of actions that are referenced throughou
 */
 
 /* The placeholder title for an unknown action. This shouldn't ever be displayed in the UI. */
-"ACTION_TYPE_UNKNOWN_title" = "Unknown Action";
+"ACTION_TYPE_UNKNOWN_title" = "未知操作";
 
 /* The title for a clear action type */
-"ACTION_TYPE_CLEAR_title" = "Clear";
+"ACTION_TYPE_CLEAR_title" = "清除";
 
 /* The title for the clear all action type */
-"ACTION_TYPE_CLEAR_ALL_title" = "Clear All";
+"ACTION_TYPE_CLEAR_ALL_title" = "全部清除";
 
 /* The title for the clear media action type */
-"ACTION_TYPE_CLEAR_MEDIA_title" = "Clear Media";
+"ACTION_TYPE_CLEAR_MEDIA_title" = "清除媒体";
 
 /* The title for the clear slide action type */
-"ACTION_TYPE_CLEAR_SLIDE_title" = "Clear Slide";
+"ACTION_TYPE_CLEAR_SLIDE_title" = "清除幻灯片";
 
 /* The title for the clear background action type */
-"ACTION_TYPE_CLEAR_BACKGROUND_title" = "Clear Bkg";
+"ACTION_TYPE_CLEAR_BACKGROUND_title" = "清除背景";
 
 /* The title for the clear props action type */
 "ACTION_TYPE_CLEAR_PROPS_title" = "Clear Props";
 
 /* The title for the clear messages action type */
-"ACTION_TYPE_CLEAR_MESSAGES_title" = "Clear Messages";
+"ACTION_TYPE_CLEAR_MESSAGES_title" = "清除消息";
 
 /* The title for the clear video input action type */
-"ACTION_TYPE_CLEAR_VIDEO_INPUT_title" = "Clear Video Input";
+"ACTION_TYPE_CLEAR_VIDEO_INPUT_title" = "清除视频输入";
 
 /* The title for the clear audio action type */
-"ACTION_TYPE_CLEAR_AUDIO_title" = "Clear Audio";
+"ACTION_TYPE_CLEAR_AUDIO_title" = "清除音频";
 
 /* The title for the clear announcement layer action type */
-"ACTION_TYPE_CLEAR_ANNOUNCEMENT_title" = "Clear Announcement";
+"ACTION_TYPE_CLEAR_ANNOUNCEMENT_title" = "清除公告";
 
 /* The title for the clear to logo action type */
-"ACTION_TYPE_CLEAR_TO_LOGO_title" = "Clear to Logo";
+"ACTION_TYPE_CLEAR_TO_LOGO_title" = "清除徽标";
 
 /* The title for the media action type */
-"ACTION_TYPE_MEDIA_title" = "Media";
+"ACTION_TYPE_MEDIA_title" = "媒体";
 
 /* The title for the video media action type */
-"ACTION_TYPE_GRAPHIC_MEDIA_title" = "Graphic";
+"ACTION_TYPE_GRAPHIC_MEDIA_title" = "图形";
 
 /* The title for the audio media action type */
-"ACTION_TYPE_AUDIO_MEDIA_title" = "Audio";
+"ACTION_TYPE_AUDIO_MEDIA_title" = "音频";
 
 /* The title for the image media action type */
-"ACTION_TYPE_IMAGE_MEDIA_title" = "Image";
+"ACTION_TYPE_IMAGE_MEDIA_title" = "图像";
 
 /* The title for the video input media action type */
-"ACTION_TYPE_LIVE_VIDEO_MEDIA_title" = "Video Input";
+"ACTION_TYPE_LIVE_VIDEO_MEDIA_title" = "视频输入";
 
 /* The title for the "load-webpage" media action type */
-"ACTION_TYPE_WEB_title" = "Web";
+"ACTION_TYPE_WEB_title" = "网络";
 
 /* The title for the stage action type */
-"ACTION_TYPE_STAGE_title" = "Stage";
+"ACTION_TYPE_STAGE_title" = "舞台";
 
 /* The title for the timer action type */
-"ACTION_TYPE_TIMER_title" = "Timer";
+"ACTION_TYPE_TIMER_title" = "计时器";
 
 /* The title for the prop action type */
-"ACTION_TYPE_PROP_title" = "Prop";
+"ACTION_TYPE_PROP_title" = "道具";
 
 /* The title for the audience look action type */
-"ACTION_TYPE_AUDIENCE_LOOK_title" = "Audience Look";
+"ACTION_TYPE_AUDIENCE_LOOK_title" = "观众看板";
 
 /* The title for the message action type */
-"ACTION_TYPE_MESSAGE_title" = "Message";
+"ACTION_TYPE_MESSAGE_title" = "消息";
 
 /* The title for the communication action type */
-"ACTION_TYPE_COMMUNICATION_title" = "Communication";
+"ACTION_TYPE_COMMUNICATION_title" = "通信";
 
 /* The title for the social media action type (currently unused) */
-"ACTION_TYPE_SOCIAL_MEDIA_title" = "Social Media";
+"ACTION_TYPE_SOCIAL_MEDIA_title" = "社交媒体";
 
 /* The title for the go to next timer */
-"ACTION_TYPE_GO_TO_NEXT_TIMER_title" = "Go to Next Timer";
+"ACTION_TYPE_GO_TO_NEXT_TIMER_title" = "转到下一个计时器";
 
 /*
 ------------------------------------------------------------------------------
@@ -406,57 +406,57 @@ i.e., Scale behavior, completion target, background/foreground, etc.
 */
 
 /* Title for the scale to fit behavior */
-"MEDIA_SCALE_BEHAVIOR_SCALE_TO_FIT_title" = "Scale to Fit";
+"MEDIA_SCALE_BEHAVIOR_SCALE_TO_FIT_title" = "缩放以适合";
 
 /* Title for the scale to fill behavior */
-"MEDIA_SCALE_BEHAVIOR_SCALE_TO_FILL_title" = "Scale to Fill";
+"MEDIA_SCALE_BEHAVIOR_SCALE_TO_FILL_title" = "缩放以填充";
 
 /* Title for the stretch to fill behavior */
-"MEDIA_SCALE_BEHAVIOR_STRETCH_TO_FILL_title" = "Stretch to Fill";
+"MEDIA_SCALE_BEHAVIOR_STRETCH_TO_FILL_title" = "拉伸填充";
 
 /* Title for the custom fit behavior */
-"MEDIA_SCALE_BEHAVIOR_CUSTOM_FIT_title" = "Custom Fit";
+"MEDIA_SCALE_BEHAVIOR_CUSTOM_FIT_title" = "自适应";
 
 /* Title for the None completion target behavior */
-"MEDIA_COMPLETION_TARGET_NONE_title" = "None";
+"MEDIA_COMPLETION_TARGET_NONE_title" = "无";
 
 /* Title for the Next completion target behavior */
-"MEDIA_COMPLETION_TARGET_NEXT_title" = "Next";
+"MEDIA_COMPLETION_TARGET_NEXT_title" = "下一个";
 
 /* Title for the Random completion target behavior */
-"MEDIA_COMPLETION_TARGET_RANDOM_title" = "Random";
+"MEDIA_COMPLETION_TARGET_RANDOM_title" = "随机";
 
 /* Title for the Cue completion target behavior */
-"MEDIA_COMPLETION_TARGET_CUE_title" = "Cue";
+"MEDIA_COMPLETION_TARGET_CUE_title" = "提示";
 
 /* Title for the First completion target behavior */
-"MEDIA_COMPLETION_TARGET_FIRST_title" = "First";
+"MEDIA_COMPLETION_TARGET_FIRST_title" = "第一个";
 
 /* Title for the hold last frame end behavior */
-"MEDIA_END_BEHAVIOR_HOLD_LAST_title" = "Hold Last Frame";
+"MEDIA_END_BEHAVIOR_HOLD_LAST_title" = "保持最后一帧";
 
 /* Title for the black after last frame end behavior */
-"MEDIA_END_BEHAVIOR_BLACK_title" = "Black after Last Frame";
+"MEDIA_END_BEHAVIOR_BLACK_title" = "最后一帧后后为黑色";
 
 /* Title for the clear after last frame end behavior */
-"MEDIA_END_BEHAVIOR_CLEAR_title" = "Clear after Last Frame";
+"MEDIA_END_BEHAVIOR_CLEAR_title" = "最后一帧后清除";
 
 /* Title for the fade to black end behavior */
-"MEDIA_END_BEHAVIOR_FADE_BLACK_title" = "Fade To Black";
+"MEDIA_END_BEHAVIOR_FADE_BLACK_title" = "逐渐变黑";
 
 /* Title for the fade to clear end behavior */
-"MEDIA_END_BEHAVIOR_FADE_CLEAR_title" = "Fade To Clear";
+"MEDIA_END_BEHAVIOR_FADE_CLEAR_title" = "逐渐清除";
 
 /* Title for the background trigger layer */
-"MEDIA_TRIGGER_LAYER_BACKGROUND_title" = "Background";
+"MEDIA_TRIGGER_LAYER_BACKGROUND_title" = "背景";
 
 /* Title for the foreground trigger layer */
-"MEDIA_TRIGGER_LAYER_FOREGROUND_title" = "Foreground";
+"MEDIA_TRIGGER_LAYER_FOREGROUND_title" = "前景";
 
 /* Title for the video input trigger layer */
-"MEDIA_TRIGGER_LAYER_VIDEO_INPUT_title" = "Video Input";
+"MEDIA_TRIGGER_LAYER_VIDEO_INPUT_title" = "视频输入";
 
-"MEDIA_TRIGGER_LAYER_FILL_title" = "Fill";
+"MEDIA_TRIGGER_LAYER_FILL_title" = "充满";
 
 
 /*
@@ -466,32 +466,32 @@ GLOBAL_SHAPE
 */
 
 /* Shape name for a rectangle */
-"GLOBAL_SHAPE_RECTANGLE" = "Rectangle";
+"GLOBAL_SHAPE_RECTANGLE" = "矩形";
 /* Shape name for a rectangle with rounded corners */
-"GLOBAL_SHAPE_ROUNDED_RECTANGLE" = "Rounded Rect";
+"GLOBAL_SHAPE_ROUNDED_RECTANGLE" = "圆角矩形";
 /* Shape name for an ellipse */
-"GLOBAL_SHAPE_ELLIPSE" = "Ellipse";
+"GLOBAL_SHAPE_ELLIPSE" = "椭圆";
 /* Shape name for a triangle (isosceles triangle) */
-"GLOBAL_SHAPE_ISOSCELES_TRIANGLE" = "Triangle";
+"GLOBAL_SHAPE_ISOSCELES_TRIANGLE" = "三角形";
 /* Shape name for a right triangle */
-"GLOBAL_SHAPE_RIGHT_TRIANGLE" = "Right Triangle";
+"GLOBAL_SHAPE_RIGHT_TRIANGLE" = "直角三角形";
 /* Shape name for a rhombus */
-"GLOBAL_SHAPE_RHOMBUS" = "Rhombus";
+"GLOBAL_SHAPE_RHOMBUS" = "菱形";
 /* Shape name for a star */
-"GLOBAL_SHAPE_STAR" = "Star";
+"GLOBAL_SHAPE_STAR" = "星形";
 /* Shape name for a shape with a customizable number of sides */
-"GLOBAL_SHAPE_POLYGON" = "Polygon";
+"GLOBAL_SHAPE_POLYGON" = "多边形";
 /* Shape name for an arrow */
-"GLOBAL_SHAPE_ARROW" = "Arrow";
+"GLOBAL_SHAPE_ARROW" = "箭头"
 /* Shape name for an arrow with arrowheads on both sides */
-"GLOBAL_SHAPE_DOUBLE_ARROW" = "Double Arrow";
+"GLOBAL_SHAPE_DOUBLE_ARROW" = "双向箭头";
 /* Shape name for a text element */
-"GLOBAL_SHAPE_TEXT" = "Text";
+"GLOBAL_SHAPE_TEXT" = "文本";
 
 /* The shape name for a custom shape that isn't closed. This is just a curved line. */
-"GLOBAL_SHAPE_LINE" = "Line";
+"GLOBAL_SHAPE_LINE" = "线";
 /* The shape name for a custom shape that is closed */
-"GLOBAL_SHAPE_CUSTOM" = "Custom";
+"GLOBAL_SHAPE_CUSTOM" = "自定义";
 
 
 /*
@@ -504,9 +504,9 @@ GLOBAL_VIDEO
 */
 
 /* Title for a generic video input device */
-"GLOBAL_VIDEO_INPUT_TYPE_GENERIC" = "Generic";
+"GLOBAL_VIDEO_INPUT_TYPE_GENERIC" = "通用";
 /* Title for a DirectShow video input device */
-"GLOBAL_VIDEO_INPUT_TYPE_DIRECTSHOW" = "Direct";
+"GLOBAL_VIDEO_INPUT_TYPE_DIRECTSHOW" = "直接";
 /* Abbreviation for BlackMagic Device */
 "GLOBAL_VIDEO_INPUT_TYPE_BLACKMAGIC" = "BMD";
 /* Title for AJA video input devices */
@@ -521,9 +521,9 @@ GLOBAL_VIDEO
 "GLOBAL_VIDEO_INPUT_TYPE_BLUEFISH" = "Bluefish";
 
 /* Title for menu item which opens the video input preferences tab */
-"GLOBAL_VIDEO_INPUT_SETUP_BUTTON_title" = "Video Input Setup…";
+"GLOBAL_VIDEO_INPUT_SETUP_BUTTON_title" = "视频输入设置…";
 /* Placeholder menu item title for when the user has not selected a video input device */
-"GLOBAL_VIDEO_INPUT_NO_VIDEO_SOURCE_title" = "- No Video Source -";
+"GLOBAL_VIDEO_INPUT_NO_VIDEO_SOURCE_title" = "- 没有视频源 -";
 
 
 /*
@@ -533,9 +533,9 @@ GLOBAL_VIDEO
  */
 
 /* Alert that the user tried to enter an invalid slide size */
-"SLIDE_SIZE_INVALID_ALERT_message" = "Invalid slide size";
+"SLIDE_SIZE_INVALID_ALERT_message" = "无效的幻灯片大小";
 /* Information about the invalid slide size. %.0f represents the user's requested width and height. */
-"SLIDE_SIZE_INVALID_ALERT_info" = "Provided size (%.0f x %.0f) is invalid. Height and width must be greater than zero and less than 30,000.";
+"SLIDE_SIZE_INVALID_ALERT_info" = "提供的尺寸 (%.0f x %.0f) 是无效的. 高度和宽度必须大于零且小于30,000。";
 
 
 /*
@@ -559,385 +559,385 @@ MAIN_MENU
 /* Title for top level menu item that contains application related options */
 "MAIN_MENU_APPLICATION_title" = "ProPresenter";
 /* Title for menu item that opens a window with information about ProPresenter */
-"MAIN_MENU_APPLICATION_ABOUT_PROPRESENTER_title" = "About ProPresenter";
+"MAIN_MENU_APPLICATION_ABOUT_PROPRESENTER_title" = "关于oPresenter";
 /* Title for menu item that opens the registration window */
-"MAIN_MENU_APPLICATION_REGISTRATION_title" = "Registration…";
+"MAIN_MENU_APPLICATION_REGISTRATION_title" = "激活…";
 /* Title for menu item that opens the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_title" = "Preferences…";
+"MAIN_MENU_APPLICATION_PREFERENCES_title" = "设置…";
 /* Title for menu item that checks for available updates to ProPresenter */
-"MAIN_MENU_APPLICATION_CHECK_FOR_UPDATES_title" = "Check for Updates";
+"MAIN_MENU_APPLICATION_CHECK_FOR_UPDATES_title" = "检查更新";
 /* Title for menu item that lists available services provided by MacOS */
-"MAIN_MENU_APPLICATION_SERVICES_mac_title" = "Services";
+"MAIN_MENU_APPLICATION_SERVICES_mac_title" = "服务";
 /* Title for menu item that hides the ProPresenter window */
-"MAIN_MENU_APPLICATION_HIDE_PRO_mac_title" = "Hide ProPresenter";
+"MAIN_MENU_APPLICATION_HIDE_PRO_mac_title" = "隐藏 ProPresenter";
 /* Title for menu item that hides other windows */
-"MAIN_MENU_APPLICATION_HIDE_OTHERS_mac_title" = "Hide Others";
+"MAIN_MENU_APPLICATION_HIDE_OTHERS_mac_title" = "隐藏其他";
 /* Title for menu item that shows all windows belonging to ProPresenter */
-"MAIN_MENU_APPLICATION_SHOW_ALL_mac_title" = "Show All";
+"MAIN_MENU_APPLICATION_SHOW_ALL_mac_title" = "显示所有";
 /* Title for menu item that quits the application */
-"MAIN_MENU_APPLICATION_QUIT_mac_title" = "Quit ProPresenter";
+"MAIN_MENU_APPLICATION_QUIT_mac_title" = "退出ProPresenter";
 
 /* Title for menu item that opens the General tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_GENERAL_title" = "General";
+"MAIN_MENU_APPLICATION_PREFERENCES_GENERAL_title" = "常规";
 /* Title for menu item that opens the Screens tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_SCREENS_title" = "Screens";
+"MAIN_MENU_APPLICATION_PREFERENCES_SCREENS_title" = "屏幕";
 /* Title for menu item that opens the Import tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_IMPORT_title" = "Import";
+"MAIN_MENU_APPLICATION_PREFERENCES_IMPORT_title" = "导入";
 /* Title for menu item that opens the Groups and Labels tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_GROUPS_AND_LABELS_title" = "Groups";
+"MAIN_MENU_APPLICATION_PREFERENCES_GROUPS_AND_LABELS_title" = "组";
 /* Title for menu item that opens the Inputs tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_INPUTS_title" = "Inputs";
+"MAIN_MENU_APPLICATION_PREFERENCES_INPUTS_title" = "输入";
 /* Title for menu item that opens the Network tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_NETWORK_title" = "Network";
+"MAIN_MENU_APPLICATION_PREFERENCES_NETWORK_title" = "网络";
 /* Title for menu item that opens the Sync tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_SYNC_title" = "Sync";
+"MAIN_MENU_APPLICATION_PREFERENCES_SYNC_title" = "同步";
 /* Title for menu item that opens the Resi tab in the preferences window */
 "MAIN_MENU_APPLICATION_PREFERENCES_RESI_title" = "Resi";
 /* Title for menu item that opens the Services tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_SERVICES_title" = "Services";
+"MAIN_MENU_APPLICATION_PREFERENCES_SERVICES_title" = "服务";
 /* Title for menu item that opens the Audio tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_AUDIO_title" = "Audio";
+"MAIN_MENU_APPLICATION_PREFERENCES_AUDIO_title" = "声音";
 /* Title for menu item that opens the Advanced tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_ADVANCED_title" = "Advanced";
+"MAIN_MENU_APPLICATION_PREFERENCES_ADVANCED_title" = "高级";
 /* Title for menu item that opens the Devices tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_DEVICES_title" = "Devices";
+"MAIN_MENU_APPLICATION_PREFERENCES_DEVICES_title" = "设备";
 /* Title for menu item that opens the Updates tab in the preferences window */
-"MAIN_MENU_APPLICATION_PREFERENCES_UPDATES_title" = "Updates";
+"MAIN_MENU_APPLICATION_PREFERENCES_UPDATES_title" = "更新";
 
 /* Title for top level menu item that contains options for creating, importing, and exporting presentation documents */
-"MAIN_MENU_FILE_MENU_title" = "File";
+"MAIN_MENU_FILE_MENU_title" = "文件";
 /* Title for menu item that creates a new, empty presentation */
-"MAIN_MENU_FILE_NEW_PRESENTATION_title" = "New Presentation";
+"MAIN_MENU_FILE_NEW_PRESENTATION_title" = "新演示";
 /* Title for menu item that creates a new, empty playlist */
-"MAIN_MENU_FILE_NEW_PLAYLIST_title" = "New Playlist";
+"MAIN_MENU_FILE_NEW_PLAYLIST_title" = "新播放清单";
 /* Title for menu item that creates a new, empty library */
-"MAIN_MENU_FILE_NEW_LIBRARY_title" = "New Library";
+"MAIN_MENU_FILE_NEW_LIBRARY_title" = "新库";
 /* Title for submenu that contains various ways the user can import presentations */
-"MAIN_MENU_FILE_IMPORT_SUBMENU_title" = "Import";
+"MAIN_MENU_FILE_IMPORT_SUBMENU_title" = "导入";
 /* Title for menu item that imports a ProPresenter document from disk */
-"MAIN_MENU_FILE_IMPORT_FILE_title" = "File…";
+"MAIN_MENU_FILE_IMPORT_FILE_title" = "文件…";
 /* Title for menu item that imports text from the clipboard and converts it into a new presentation */
-"MAIN_MENU_FILE_IMPORT_TEXT_FROM_CLIPBOARD_title" = "Text from clipboard…";
+"MAIN_MENU_FILE_IMPORT_TEXT_FROM_CLIPBOARD_title" = "剪贴板中的文字…";
 /* Title for menu item that imports slides from a PowerPoint document and converts them into a new presentation */
 "MAIN_MENU_FILE_IMPORT_POWERPOINT_title" = "PowerPoint…";
 /* Title for menu item that imports a song from SongSelect's API and converts the lyrics into a new presentation */
 "MAIN_MENU_FILE_IMPORT_SONGSELECT_title" = "SongSelect…";
 /* Title for menu item that imports a media file into the media bin */
-"MAIN_MENU_FILE_IMPORT_MEDIA_title" = "Media…";
+"MAIN_MENU_FILE_IMPORT_MEDIA_title" = "媒体…";
 /* Title for menu item that imports an entire ProPresenter library, including libraries from previous versions of ProPresenter */
-"MAIN_MENU_FILE_IMPORT_PROPRESENTER_LIBRARY_title" = "ProPresenter Library…";
+"MAIN_MENU_FILE_IMPORT_PROPRESENTER_LIBRARY_title" = "ProPresenter 库…";
 /* Title for submenu that contains various ways the user can export their presentations */
-"MAIN_MENU_FILE_EXPORT_SUBMENU_title" = "Export";
+"MAIN_MENU_FILE_EXPORT_SUBMENU_title" = "导出";
 /* Title for menu item that exports a copy of the currently selected presentation file */
-"MAIN_MENU_FILE_EXPORT_PRESENTATION_title" = "Presentation…";
+"MAIN_MENU_FILE_EXPORT_PRESENTATION_title" = "演示…";
 /* Title for menu item that exports the selected presentations, along with all media required to show those presentations. */
-"MAIN_MENU_FILE_EXPORT_PRESENTATION_BUNDLE_title" = "Presentation Bundle…";
+"MAIN_MENU_FILE_EXPORT_PRESENTATION_BUNDLE_title" = "演示包…";
 /* Title for menu item that exports the slide texts into a text file */
-"MAIN_MENU_FILE_EXPORT_TEXT_title" = "Text…";
+"MAIN_MENU_FILE_EXPORT_TEXT_title" = "文本…";
 /* Title for menu item that renders images for each slide in the presentation and saves those images to disk */
-"MAIN_MENU_FILE_EXPORT_SLIDE_IMAGES_title" = "Slide Images…";
+"MAIN_MENU_FILE_EXPORT_SLIDE_IMAGES_title" = "幻灯片图像…";
 /* Title for menu item that exports an entire playlist, including all media required to show that playlist */
-"MAIN_MENU_FILE_EXPORT_PLAYLIST_title" = "Playlist…";
+"MAIN_MENU_FILE_EXPORT_PLAYLIST_title" = "播放清单…";
 /* Title for menu item that exports the user's themes */
-"MAIN_MENU_FILE_EXPORT_THEMES_title" = "Themes…";
+"MAIN_MENU_FILE_EXPORT_THEMES_title" = "主题…";
 /* Title for menu item that prints the currently selected item */
-"MAIN_MENU_FILE_PRINT_title" = "Print…";
+"MAIN_MENU_FILE_PRINT_title" = "打印…";
 /* Title for menu item that closes the focused window */
-"MAIN_MENU_FILE_CLOSE_WINDOW_title" = "Close Window";
+"MAIN_MENU_FILE_CLOSE_WINDOW_title" = "关闭窗口";
 
 /* Title for top level menu that contains items related to editing text within the application */
-"MAIN_MENU_EDIT_MENU_title" = "Edit";
+"MAIN_MENU_EDIT_MENU_title" = "编辑";
 /* Title for menu item that copies the text attributes from a selected slide element */
-"MAIN_MENU_EDIT_COPY_COPY_TEXT_STYLE_title" = "Copy Text Style";
+"MAIN_MENU_EDIT_COPY_COPY_TEXT_STYLE_title" = "复制文字样式";
 /* Title for menu item that applies the copied text attributes to the selected slide elements. This is the counterpart of "Copy Text Style". */
-"MAIN_MENU_EDIT_PASTE_PASTE_TEXT_STYLE_title" = "Paste Text Style";
+"MAIN_MENU_EDIT_PASTE_PASTE_TEXT_STYLE_title" = "粘贴文字样式";
 /* Title for menu item for the default Duplicate action */
-"MAIN_MENU_EDIT_DUPLICATE_title" = "Duplicate";
+"MAIN_MENU_EDIT_DUPLICATE_title" = "复本";
 /* Title for menu item for the default Select All action */
-"MAIN_MENU_EDIT_SELECT_ALL_title" = "Select All";
+"MAIN_MENU_EDIT_SELECT_ALL_title" = "全选";
 /* Title for menu item for the default Deselect All action */
-"MAIN_MENU_EDIT_DESELECT_ALL_title" = "Deselect All";
+"MAIN_MENU_EDIT_DESELECT_ALL_title" = "取消选择";
 /* Title for menu item that opens the quick search window */
-"MAIN_MENU_EDIT_SEARCH_title" = "Search";
+"MAIN_MENU_EDIT_SEARCH_title" = "搜索";
 /* Title for Mac submenu which contains various options about automatic spelling/grammar proofing */
-"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_SUBMENU_title" = "Spelling and Grammar";
+"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_SUBMENU_title" = "拼写和语法";
 /* Title for Mac menu item to show spelling and grammar */
-"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_SHOW_SPELLING_AND_GRAMMAR_title" = "Show Spelling and Grammar";
+"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_SHOW_SPELLING_AND_GRAMMAR_title" = "显示拼写和语法";
 /* Title for Mac menu item to check the document's spelling and grammar */
-"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_CHECK_DOCUMENT_NOW_title" = "Check Document Now";
+"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_CHECK_DOCUMENT_NOW_title" = "立即检查文件";
 /* Title for Mac menu item to check spelling while typing */
-"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_CHECK_SPELLING_WHILE_TYPING_title" = "Check Spelling While Typing";
+"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_CHECK_SPELLING_WHILE_TYPING_title" = "键入时检查拼写";
 /* Title for Mac menu item to check grammar */
-"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_CHECK_GRAMMAR_WITH_SPELLING_title" = "Check Grammar With Spelling";
+"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_CHECK_GRAMMAR_WITH_SPELLING_title" = "检查拼写语法";
 /* Title for Mac menu item to automatically correct spelling mistakes */
-"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_CHECK_CORRECT_SPELLING_AUTOMATICALLY_title" = "Correct Spelling Automatically";
+"MAIN_MENU_EDIT_SPELLING_AND_GRAMMAR_CHECK_CORRECT_SPELLING_AUTOMATICALLY_title" = "自动纠正拼写";
 /* Title for Mac submenu which contains various text transformations */
-"MAIN_MENU_EDIT_TRANSFORMATIONS_SUBMENU_title" = "Transformations";
+"MAIN_MENU_EDIT_TRANSFORMATIONS_SUBMENU_title" = "转换";
 /* Title for Mac menu item to make selected text upper case */
-"MAIN_MENU_EDIT_TRANSFORMATIONS_MAKE_UPPERCASE_title" = "Make Upper Case";
+"MAIN_MENU_EDIT_TRANSFORMATIONS_MAKE_UPPERCASE_title" = "转为大写";
 /* Title for Mac menu item to make selected text lower case */
-"MAIN_MENU_EDIT_TRANSFORMATIONS_MAKE_LOWERCASE_title" = "Make Lower Case";
+"MAIN_MENU_EDIT_TRANSFORMATIONS_MAKE_LOWERCASE_title" = "转为小写";
 /* Title for Mac menu item to capitalize selected text */
-"MAIN_MENU_EDIT_TRANSFORMATIONS_CAPITALIZE_title" = "Capitalize";
+"MAIN_MENU_EDIT_TRANSFORMATIONS_CAPITALIZE_title" = "大写";
 /* Title for Mac submenu which contains text-to-speech options */
-"MAIN_MENU_EDIT_SPEECH_SUBMENU_title" = "Speech";
+"MAIN_MENU_EDIT_SPEECH_SUBMENU_title" = "说话";
 /* Title for Mac menu item to start speaking the current text */
-"MAIN_MENU_EDIT_SPEECH_START_SPEAKING_title" = "Start Speaking";
+"MAIN_MENU_EDIT_SPEECH_START_SPEAKING_title" = "开始说话";
 /* Title for Mac menu item to stop speaking the current text */
-"MAIN_MENU_EDIT_SPEECH_STOP_SPEAKING_title" = "Stop Speaking";
+"MAIN_MENU_EDIT_SPEECH_STOP_SPEAKING_title" = "停止说话";
 
 /* Title for top level menu that contains items related to the current presentation and what is currently triggered on the output */
-"MAIN_MENU_PRESENTATION_MENU_title" = "Presentation";
+"MAIN_MENU_PRESENTATION_MENU_title" = "演示";
 /* Title for menu item that creates a new slide in the current presentation */
-"MAIN_MENU_PRESENTATION_NEW_SLIDE_title" = "New Slide";
+"MAIN_MENU_PRESENTATION_NEW_SLIDE_title" = "新幻灯片";
 /* Title for menu item that triggers the next slide in the current presentation */
-"MAIN_MENU_PRESENTATION_NEXT_SLIDE_title" = "Next Slide";
+"MAIN_MENU_PRESENTATION_NEXT_SLIDE_title" = "下一张幻灯片";
 /* Title for menu item that triggers the previous slide in the current presentation */
-"MAIN_MENU_PRESENTATION_PREVIOUS_SLIDE_title" = "Previous Slide";
+"MAIN_MENU_PRESENTATION_PREVIOUS_SLIDE_title" = "上一张幻灯片";
 /* Title for menu item that triggers the next item in the media bin */
-"MAIN_MENU_PRESENTATION_NEXT_BACKGROUND_title" = "Next Background";
+"MAIN_MENU_PRESENTATION_NEXT_BACKGROUND_title" = "下一个背景";
 /* Title for menu item that triggers the previous item in the media bin */
-"MAIN_MENU_PRESENTATION_PREVIOUS_BACKGROUND_title" = "Previous Background";
+"MAIN_MENU_PRESENTATION_PREVIOUS_BACKGROUND_title" = "上一个背景";
 /* Title for menu item that clears everything from the output */
-"MAIN_MENU_PRESENTATION_CLEAR_ALL_title" = "Clear All";
+"MAIN_MENU_PRESENTATION_CLEAR_ALL_title" = "全部清除";
 /* Title for menu item that clears the currently triggered slide from the output */
-"MAIN_MENU_PRESENTATION_CLEAR_SLIDE_title" = "Clear Slide";
+"MAIN_MENU_PRESENTATION_CLEAR_SLIDE_title" = "清除幻灯片";
 /* Title for menu item that clears the currently triggered media item from the output */
-"MAIN_MENU_PRESENTATION_CLEAR_MEDIA_title" = "Clear Media";
+"MAIN_MENU_PRESENTATION_CLEAR_MEDIA_title" = "清除媒体";
 /* Title for menu item that clears the currently triggered props from the output */
-"MAIN_MENU_PRESENTATION_CLEAR_PROPS_title" = "Clear Props";
+"MAIN_MENU_PRESENTATION_CLEAR_PROPS_title" = "清除道具";
 /* Title for menu item that clears the currently triggered audio from the output */
-"MAIN_MENU_PRESENTATION_CLEAR_AUDIO_title" = "Clear Audio";
+"MAIN_MENU_PRESENTATION_CLEAR_AUDIO_title" = "清除音频";
 /* Title for menu item that clears the currently triggered messages from the output */
-"MAIN_MENU_PRESENTATION_CLEAR_MESSAGES_title" = "Clear Messages";
+"MAIN_MENU_PRESENTATION_CLEAR_MESSAGES_title" = "清除消息";
 /* Title for menu item that clears the currently triggered announcement */
-"MAIN_MENU_PRESENTATION_CLEAR_ANNOUNCEMENTS_title" = "Clear Announcements";
+"MAIN_MENU_PRESENTATION_CLEAR_ANNOUNCEMENTS_title" = "清除公告";
 /* Title for menu item that clears everything from the output and shows the user's logo */
-"MAIN_MENU_PRESENTATION_CLEAR_TO_LOGO_title" = "Clear to Logo";
+"MAIN_MENU_PRESENTATION_CLEAR_TO_LOGO_title" = "清除徽标";
 /* Title for menu item that shows the currently triggered presentation in the UI. Useful for when the user opens a different presentation and wants to jump back to the currently triggered presentation. */
-"MAIN_MENU_PRESENTATION_SHOW_TRIGGERED_PRESENTATION_title" = "Show Triggered Presentation";
+"MAIN_MENU_PRESENTATION_SHOW_TRIGGERED_PRESENTATION_title" = "显示触发的演示";
 /* Title for menu item that shows the currently triggered presentation on the announcements layer in the UI. Useful for when the user opens a different presentation and wants to jump back to the currently triggered presentation on the announcements layer. */
-"MAIN_MENU_PRESENTATION_SHOW_TRIGGERED_ANNOUNCEMENT_title" = "Show Triggered Announcement";
+"MAIN_MENU_PRESENTATION_SHOW_TRIGGERED_ANNOUNCEMENT_title" = "显示触发的公告";
 /* Title for menu item that shows the presentation in the library. Useful when the user is on a presentation contained within a playlist and wants to see that same presentation in the library. */
-"MAIN_MENU_PRESENTATION_REVEAL_IN_LIBRARY_title" = "Reveal in Library";
+"MAIN_MENU_PRESENTATION_REVEAL_IN_LIBRARY_title" = "在库中展示";
 /* Title for menu item that allows the user to trigger slides only on stage screens instead of audience screens */
-"MAIN_MENU_PRESENTATION_SLIDE_ON_STAGE_SCREEN_ONLY_title" = "Show Slide on Stage Screens Only";
+"MAIN_MENU_PRESENTATION_SLIDE_ON_STAGE_SCREEN_ONLY_title" = "仅在舞台屏幕上显示幻灯片";
 
 /* Title for top level menu that contains items related to the Editor. This is only visible when the Editor is open. */
-"MAIN_MENU_EDITOR_MENU_title" = "Editor";
+"MAIN_MENU_EDITOR_MENU_title" = "编辑";
 /* Title for menu item that contains a submenu to insert different slide elements */
-"MAIN_MENU_EDITOR_INSERT_title" = "Insert";
+"MAIN_MENU_EDITOR_INSERT_title" = "插入";
 /* Title for menu item that contains a submenu to modify text attributes */
-"MAIN_MENU_EDITOR_TEXT_SUBMENU_title" = "Text";
+"MAIN_MENU_EDITOR_TEXT_SUBMENU_title" = "文本";
 /* Title for menu item that applies the copied text style to all slides in the presentation */
-"MAIN_MENU_EDITOR_TEXT_APPLY_TEXT_STYLE_TO_ALL_SLIDES_title" = "Apply Text Style to All Slides";
+"MAIN_MENU_EDITOR_TEXT_APPLY_TEXT_STYLE_TO_ALL_SLIDES_title" = "将文字样式应用于所有幻灯片";
 /* Title for menu item that opens the font window so the user can select a different font */
-"MAIN_MENU_EDITOR_TEXT_CHANGE_FONT_title" = "Change Font";
+"MAIN_MENU_EDITOR_TEXT_CHANGE_FONT_title" = "变更字体";
 /* Title for menu item that toggles the bold attribute on the selected text */
-"MAIN_MENU_EDITOR_TEXT_BOLD_title" = "Bold";
+"MAIN_MENU_EDITOR_TEXT_BOLD_title" = "粗体";
 /* Title for menu item that toggles the italic attribute on the selected text */
-"MAIN_MENU_EDITOR_TEXT_ITALIC_title" = "Italic";
+"MAIN_MENU_EDITOR_TEXT_ITALIC_title" = "斜体";
 /* Title for menu item that toggles the underline attribute on the selected text */
-"MAIN_MENU_EDITOR_TEXT_UNDERLINE_title" = "Underline";
+"MAIN_MENU_EDITOR_TEXT_UNDERLINE_title" = "下划线";
 /* Title for menu item that toggles the strikethrough attribute on the selected text */
-"MAIN_MENU_EDITOR_TEXT_STRIKETHROUGH_title" = "Strikethrough";
+"MAIN_MENU_EDITOR_TEXT_STRIKETHROUGH_title" = "删除线";
 /* Title for menu item that increases the font size of the selected text */
-"MAIN_MENU_EDITOR_TEXT_BIGGER_title" = "Bigger";
+"MAIN_MENU_EDITOR_TEXT_BIGGER_title" = "变大";
 /* Title for menu item that decreases the font size of the selected text */
-"MAIN_MENU_EDITOR_TEXT_SMALLER_title" = "Smaller";
+"MAIN_MENU_EDITOR_TEXT_SMALLER_title" = "变小";
 /* Title for menu item that contains a submenu to modify the spacing between characters in the selected text */
-"MAIN_MENU_EDITOR_TEXT_CHARACTER_SPACING_SUBMENU_title" = "Character Spacing";
+"MAIN_MENU_EDITOR_TEXT_CHARACTER_SPACING_SUBMENU_title" = "字符间距";
 /* Title for menu item that sets the default character spacing for the selected text */
-"MAIN_MENU_EDITOR_TEXT_CHARACTER_SPACING_DEFAULT_title" = "Default";
+"MAIN_MENU_EDITOR_TEXT_CHARACTER_SPACING_DEFAULT_title" = "默认";
 /* Title for menu item that decreases the character spacing for the selected text */
-"MAIN_MENU_EDITOR_TEXT_CHARACTER_SPACING_TIGHTEN_title" = "Tighten";
+"MAIN_MENU_EDITOR_TEXT_CHARACTER_SPACING_TIGHTEN_title" = "紧缩";
 /* Title for menu item that increases the character spacing for the selected text */
-"MAIN_MENU_EDITOR_TEXT_CHARACTER_SPACING_LOOSEN_title" = "Loosen";
+"MAIN_MENU_EDITOR_TEXT_CHARACTER_SPACING_LOOSEN_title" = "宽松";
 /* Title for menu item that contains a submenu to modify the baseline for the selected text */
-"MAIN_MENU_EDITOR_TEXT_BASELINE_SUBMENU_title" = "Baseline";
+"MAIN_MENU_EDITOR_TEXT_BASELINE_SUBMENU_title" = "基准线";
 /* Title for menu item that sets the default text baseline for the selected text */
-"MAIN_MENU_EDITOR_TEXT_BASELINE_DEFAULT_title" = "Default";
+"MAIN_MENU_EDITOR_TEXT_BASELINE_DEFAULT_title" = "默认";
 /* Title for menu item that sets the baseline to superscript for the selected text */
-"MAIN_MENU_EDITOR_TEXT_BASELINE_SUPERSCRIPT_title" = "Use Superscript";
+"MAIN_MENU_EDITOR_TEXT_BASELINE_SUPERSCRIPT_title" = "使用上标";
 /* Title for menu item that sets the baseline to subscript for the selected text */
-"MAIN_MENU_EDITOR_TEXT_BASELINE_SUBSCRIPT_title" = "Use Subscript";
+"MAIN_MENU_EDITOR_TEXT_BASELINE_SUBSCRIPT_title" = "使用下标";
 /* Title for menu item that increases the baseline by one level for the selected text */
-"MAIN_MENU_EDITOR_TEXT_BASELINE_RAISE_title" = "Raise";
+"MAIN_MENU_EDITOR_TEXT_BASELINE_RAISE_title" = "增加";
 /* Title for menu item that decreases the baseline by one level for the selected text */
-"MAIN_MENU_EDITOR_TEXT_BASELINE_LOWER_title" = "Lower";
+"MAIN_MENU_EDITOR_TEXT_BASELINE_LOWER_title" = "降低";
 /* Title for menu item that contains a submenu to modify the capitalization style for the selected text */
-"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_SUBMENU_title" = "Capitalization";
+"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_SUBMENU_title" = "大写";
 /* Title for menu item that removes the capitalization style from the selected text */
-"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_NONE_title" = "None";
+"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_NONE_title" = "无";
 /* Title for menu item that causes the selected text to be shown in all capital letters */
-"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_ALL_CAPS_title" = "All Caps";
+"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_ALL_CAPS_title" = "全部大写";
 /* Title for menu item that causes the selected text to be shown in small capital letters */
-"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_SMALL_CAPS_title" = "Small Caps";
+"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_SMALL_CAPS_title" = "小写";
 /* Title for menu item that causes the selected text to be shown in title case */
-"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_TITLE_CASE_title" = "Title Case";
+"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_TITLE_CASE_title" = "标题样式";
 /* Title for menu item that causes the selected text to be shown with every word capitalized */
-"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_START_CASE_title" = "Start Case";
+"MAIN_MENU_EDITOR_TEXT_CAPITALIZATION_START_CASE_title" = "起始样式";
 /* Title for menu item that contains a submenu to modify the text's alignment within the element */
-"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_SUBMENU_title" = "Alignment";
+"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_SUBMENU_title" = "对齐";
 /* Title for menu item that sets text to be horizontally left aligned */
-"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_LEFT_title" = "Left";
+"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_LEFT_title" = "左";
 /* Title for menu item that sets text to be horizontally center aligned */
-"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_CENTER_title" = "Center";
+"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_CENTER_title" = "中";
 /* Title for menu item that sets text to be horizontally right aligned */
-"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_RIGHT_title" = "Right";
+"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_RIGHT_title" = "右";
 /* Title for menu item that sets text to be horizontally justified */
-"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_JUSTIFIED_title" = "Justify";
+"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_JUSTIFIED_title" = "分散对齐";
 /* Title for menu item that sets text to be vertically top aligned */
-"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_TOP_title" = "Top";
+"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_TOP_title" = "上";
 /* Title for menu item that sets text to be vertically bottom aligned */
-"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_BOTTOM_title" = "Bottom";
+"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_BOTTOM_title" = "下";
 /* Title for menu item that sets text to be vertically middle/center aligned */
-"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_MIDDLE_title" = "Middle";
+"MAIN_MENU_EDITOR_TEXT_ALIGNMENT_MIDDLE_title" = "中";
 /* Title for menu item that contains a submenu to modify the element's arrangement within the current slide */
-"MAIN_MENU_EDITOR_ARRANGEMENT_SUBMENU_title" = "Arrangement";
+"MAIN_MENU_EDITOR_ARRANGEMENT_SUBMENU_title" = "排列";
 /* Title for menu item that moves the selected item up by one in the z-order */
-"MAIN_MENU_EDITOR_ARRANGEMENT_BRING_FORWARD_title" = "Bring Forward";
+"MAIN_MENU_EDITOR_ARRANGEMENT_BRING_FORWARD_title" = "前移";
 /* Title for menu item that moves the selected item to the top of the z-order */
-"MAIN_MENU_EDITOR_ARRANGEMENT_BRING_TO_FRONT_title" = "Bring to Front";
+"MAIN_MENU_EDITOR_ARRANGEMENT_BRING_TO_FRONT_title" = "移动到最前";
 /* Title for menu item that moves the selected item down by one in the z-order */
-"MAIN_MENU_EDITOR_ARRANGEMENT_SEND_BACKWARD_title" = "Send Backward";
+"MAIN_MENU_EDITOR_ARRANGEMENT_SEND_BACKWARD_title" = "后移";
 /* Title for menu item that moves the selected item to the bottom of the z-order */
-"MAIN_MENU_EDITOR_ARRANGEMENT_SEND_TO_BACK_title" = "Send to Back";
+"MAIN_MENU_EDITOR_ARRANGEMENT_SEND_TO_BACK_title" = "移到最后";
 /* Title for menu item that contains a submenu to align the selected objects within the slide */
-"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_SUBMENU_title" = "Align Objects";
+"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_SUBMENU_title" = "对齐对象";
 /* Title for menu item that horizontally aligns all elements to the left of the selected bounds */
-"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_LEFT_title" = "Left";
+"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_LEFT_title" = "左";
 /* Title for menu item that horizontally aligns all elements to the center of the selected bounds */
-"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_CENTER_title" = "Center";
+"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_CENTER_title" = "中";
 /* Title for menu item that horizontally aligns all elements to the right of the selected bounds */
-"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_RIGHT_title" = "Right";
+"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_RIGHT_title" = "右";
 /* Title for menu item that vertically aligns all elements to the top of the selected bounds */
-"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_TOP_title" = "Top";
+"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_TOP_title" = "上";
 /* Title for menu item that vertically aligns all elements to the middle/center of the selected bounds */
-"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_MIDDLE_title" = "Middle";
+"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_MIDDLE_title" = "中";
 /* Title for menu item that vertically aligns all elements to the bottom of the selected bounds */
-"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_BOTTOM_title" = "Bottom";
+"MAIN_MENU_EDITOR_ARRANGEMENT_ALIGN_OBJECTS_BOTTOM_title" = "下";
 /* Title for menu item that vertically flips the selected elements */
-"MAIN_MENU_EDITOR_ARRANGEMENT_FLIP_VERTICALLY_title" = "Flip Vertically";
+"MAIN_MENU_EDITOR_ARRANGEMENT_FLIP_VERTICALLY_title" = "垂直翻转";
 /* Title for menu item that horizontally flips the selected elements */
-"MAIN_MENU_EDITOR_ARRANGEMENT_FLIP_HORIZONTALLY_title" = "Flip Horizontally";
+"MAIN_MENU_EDITOR_ARRANGEMENT_FLIP_HORIZONTALLY_title" = "水平翻转";
 /* Title for menu item that locks the selected elements */
-"MAIN_MENU_EDITOR_ARRANGEMENT_LOCK_title" = "Lock";
+"MAIN_MENU_EDITOR_ARRANGEMENT_LOCK_title" = "锁定";
 /* Title for menu item that unlocks all elements */
-"MAIN_MENU_EDITOR_ARRANGEMENT_UNLOCK_ALL_title" = "Unlock All";
+"MAIN_MENU_EDITOR_ARRANGEMENT_UNLOCK_ALL_title" = "全部解锁";
 /* Title for menu item that toggles whether or not rulers are displayed in the edges of the editor */
-"MAIN_MENU_EDITOR_SHOW_RULERS_title" = "Show Rulers";
+"MAIN_MENU_EDITOR_SHOW_RULERS_title" = "显示标尺";
 /* Title for menu item that toggles whether or not template guidelines are overlaid in the editor */
-"MAIN_MENU_EDITOR_SHOW_TEMPLATE_GUIDES_title" = "Show Template Guides";
+"MAIN_MENU_EDITOR_SHOW_TEMPLATE_GUIDES_title" = "显示模板指南";
 /* Title for menu item that toggles whether or not slide guidelines are overlaid in the editor */
-"MAIN_MENU_EDITOR_SHOW_SLIDE_GUIDES_title" = "Show Slide Guides";
+"MAIN_MENU_EDITOR_SHOW_SLIDE_GUIDES_title" = "显示幻灯片指南";
 /* Title for menu item that contains a submenu to modify the editor's zoom setting */
-"MAIN_MENU_EDITOR_ZOOM_SUBMENU_title" = "Zoom";
+"MAIN_MENU_EDITOR_ZOOM_SUBMENU_title" = "缩放";
 /* Title for menu item that increases the editor's zoom setting */
-"MAIN_MENU_EDITOR_ZOOM_ZOOM_IN_title" = "Zoom In";
+"MAIN_MENU_EDITOR_ZOOM_ZOOM_IN_title" = "放大";
 /* Title for menu item that decreases the editor's zoom setting */
-"MAIN_MENU_EDITOR_ZOOM_ZOOM_OUT_title" = "Zoom Out";
+"MAIN_MENU_EDITOR_ZOOM_ZOOM_OUT_title" = "缩小";
 /* Title for menu item that zooms in to show the actual size of the editor, 100% */
-"MAIN_MENU_EDITOR_ZOOM_ACTUAL_SIZE_title" = "Actual Size";
+"MAIN_MENU_EDITOR_ZOOM_ACTUAL_SIZE_title" = "真实大小";
 /* Title for menu item that zooms the editor to show the entire slide, leaving a small margin (as a user experience design) */
-"MAIN_MENU_EDITOR_ZOOM_FIT_SLIDE_title" = "Fit Slide";
+"MAIN_MENU_EDITOR_ZOOM_FIT_SLIDE_title" = "适应幻灯片";
 /* Title for menu item that zooms the editor to fit the slide with no margins on the sides */
-"MAIN_MENU_EDITOR_ZOOM_FIT_CANVAS_title" = "Fit Canvas";
+"MAIN_MENU_EDITOR_ZOOM_FIT_CANVAS_title" = "适应画板";
 
 /* Title for top level menu that contains items related to the Calendar. This is only visible when the Calendar is open. */
-"MAIN_MENU_CALENDAR_MENU_title" = "Calendar";
+"MAIN_MENU_CALENDAR_MENU_title" = "日历";
 /* Title for menu item that toggles whether or not the calendar is enabled */
-"MAIN_MENU_CALENDAR_ENABLE_title" = "Enable Calendar";
+"MAIN_MENU_CALENDAR_ENABLE_title" = "启用日历";
 /* Title for menu item that creates a new event in the calendar */
-"MAIN_MENU_CALENDAR_NEW_EVENT_title" = "New Event";
+"MAIN_MENU_CALENDAR_NEW_EVENT_title" = "新事件";
 
 /* Title for the top level menu that contains items to change what is shown in the main UI and shows popup windows to control various other features */
-"MAIN_MENU_VIEW_MENU_title" = "View";
+"MAIN_MENU_VIEW_MENU_title" = "视图";
 /* Title for menu item that shows the Show view (which shows the contents of the current presentation) in the main window */
-"MAIN_MENU_VIEW_SHOW_title" = "Show";
+"MAIN_MENU_VIEW_SHOW_title" = "显示";
 /* Title for menu item that shows the Presentation Editor in the main window */
-"MAIN_MENU_VIEW_PRESENTATION_EDITOR_title" = "Presentation Editor";
+"MAIN_MENU_VIEW_PRESENTATION_EDITOR_title" = "Presentation 编辑器";
 /* Title for menu item that shows the Reflow Editor in the main window */
-"MAIN_MENU_VIEW_REFLOW_EDITOR_title" = "Reflow Editor";
+"MAIN_MENU_VIEW_REFLOW_EDITOR_title" = "重排编辑器";
 /* Title for menu item that shows the Bibles interface in the main window */
-"MAIN_MENU_VIEW_BIBLES_title" = "Bibles";
+"MAIN_MENU_VIEW_BIBLES_title" = "圣经";
 /* Title for menu item that toggles the Continuous Playlist feature, which shows the entire contents of the selected playlist in one, scrollable view */
-"MAIN_MENU_VIEW_CONTINUOUS_PLAYLIST" = "Continuous Playlist";
+"MAIN_MENU_VIEW_CONTINUOUS_PLAYLIST" = "连续播放清单";
 /* Title for menu item that opens the Timers window */
-"MAIN_MENU_VIEW_TIMERS_title" = "Timers";
+"MAIN_MENU_VIEW_TIMERS_title" = "计时器";
 /* Title for menu item that opens the Messages window */
-"MAIN_MENU_VIEW_MESSAGES_title" = "Messages";
+"MAIN_MENU_VIEW_MESSAGES_title" = "消息";
 /* Title for menu item that opens the Props window */
-"MAIN_MENU_VIEW_PROPS_title" = "Props";
+"MAIN_MENU_VIEW_PROPS_title" = "道具";
 /* Title for menu item that opens the Stage Display window */
-"MAIN_MENU_VIEW_STAGE_title" = "Stage";
+"MAIN_MENU_VIEW_STAGE_title" = "舞台";
 /* Title for menu item that opens the Planning Center Live window to show information about a selected Planning Center plan */
-"MAIN_MENU_VIEW_PLANNING_CENTER_title" = "Planning Center";
+"MAIN_MENU_VIEW_PLANNING_CENTER_title" = "规划中心";
 /* Title for menu item that opens the Media Store webpage in a ProPresenter web browser */
-"MAIN_MENU_VIEW_MEDIA_STORE_title" = "Media Store";
+"MAIN_MENU_VIEW_MEDIA_STORE_title" = "媒体商店";
 /* Title for menu item that opens and closes the Media Bin */
-"MAIN_MENU_VIEW_MEDIA_BIN_title" = "Media Bin";
+"MAIN_MENU_VIEW_MEDIA_BIN_title" = "媒体区";
 /* Title for menu item that opens the Calendar window */
-"MAIN_MENU_VIEW_CALENDAR_title" = "Calendar";
+"MAIN_MENU_VIEW_CALENDAR_title" = "日历";
 /* Title for menu item that opens the Action Palette window */
-"MAIN_MENU_VIEW_ACTION_PALETTE_title" = "Action Palette";
+"MAIN_MENU_VIEW_ACTION_PALETTE_title" = "动作面板";
 /* Title for menu item that opens the Test Patterns window */
-"MAIN_MENU_VIEW_TEST_PATTERNS_title" = "Test Patterns";
+"MAIN_MENU_VIEW_TEST_PATTERNS_title" = "测试图案";
 /* Title for menu item that opens the Download Manager window */
-"MAIN_MENU_VIEW_DOWNLOAD_MANAGER_title" = "Download Manager";
+"MAIN_MENU_VIEW_DOWNLOAD_MANAGER_title" = "下载管理器";
 /* Title for menu item containing a submenu of all ProPresenter screens. Selecting one of the submenu items changes the screen shown in the preview panel in the main window. */
-"MAIN_MENU_VIEW_PREVIEW_title" = "Preview";
+"MAIN_MENU_VIEW_PREVIEW_title" = "预览";
 
 /* Title for the top level menu that contains items related to all ProPresenter screens */
-"MAIN_MENU_SCREEN_MENU_title" = "Screens";
+"MAIN_MENU_SCREEN_MENU_title" = "屏幕";
 /* Title for menu item that enables audience/stage screens (key is used twice for both types of screen) */
-"MAIN_MENU_SCREEN_ENABLE_title" = "Enable";
+"MAIN_MENU_SCREEN_ENABLE_title" = "启用";
 /* Title for menu item that disables audience/stage screens (key is used twice for both types of screen) */
-"MAIN_MENU_SCREEN_DISABLE_title" = "Disable";
+"MAIN_MENU_SCREEN_DISABLE_title" = "禁用";
 /* Title for menu item showing the current audience look, which is appended programmatically so the end result will be "Live: {Audience Look Name}" */
-"MAIN_MENU_SCREEN_CURRENT_AUDIENCE_LOOK_title" = "Live:";
+"MAIN_MENU_SCREEN_CURRENT_AUDIENCE_LOOK_title" = "直播:";
 /* Title for menu item that opens the Audience Looks window */
-"MAIN_MENU_SCREEN_EDIT_AUDIENCE_LOOKS_title" = "Edit Looks…";
+"MAIN_MENU_SCREEN_EDIT_AUDIENCE_LOOKS_title" = "编辑观众外观…";
 /* Title for menu item that opens the Stage Layout editor */
-"MAIN_MENU_SCREEN_EDIT_STAGE_LAYOUTS_title" = "Edit Layouts…";
+"MAIN_MENU_SCREEN_EDIT_STAGE_LAYOUTS_title" = "编辑舞台布局…";
 /* Title for menu item that opens the Screen Configuration window */
-"MAIN_MENU_SCREEN_CONFIGURE_SCREENS_title" = "Configure Screens…";
+"MAIN_MENU_SCREEN_CONFIGURE_SCREENS_title" = "配置屏幕…";
 
 /* Title for the top level menu that contains items related to ProPresenter's open windows */
-"MAIN_MENU_WINDOW_MENU_title" = "Window";
+"MAIN_MENU_WINDOW_MENU_title" = "窗口";
 /* Title for menu item that restores the window */
-"MAIN_MENU_WINDOW_RESTORE_title" = "Restore";
+"MAIN_MENU_WINDOW_RESTORE_title" = "恢复";
 /* Title for menu item that minimizes the window */
-"MAIN_MENU_WINDOW_MINIMIZE_title" = "Minimize";
+"MAIN_MENU_WINDOW_MINIMIZE_title" = "最小化";
 /* Title for menu item that performs the system zoom action. */
-"MAIN_MENU_WINDOW_ZOOM_mac_title" = "Zoom";
+"MAIN_MENU_WINDOW_ZOOM_mac_title" = "缩放";
 /* Title for menu item that performs the system zoom action. */
-"MAIN_MENU_WINDOW_ZOOM_windows_title" = "Maximize";
+"MAIN_MENU_WINDOW_ZOOM_windows_title" = "最大化";
 /* Title for menu item that brings all ProPresenter windows to the front */
-"MAIN_MENU_WINDOW_BRING_ALL_TO_FRONT_title" = "Bring All to Front";
+"MAIN_MENU_WINDOW_BRING_ALL_TO_FRONT_title" = "全部置顶";
 /* Title for menu item that opens the Welcome to ProPresenter window */
-"MAIN_MENU_WINDOW_WELCOME_TO_PROPRESENTER_title" = "Welcome to ProPresenter";
+"MAIN_MENU_WINDOW_WELCOME_TO_PROPRESENTER_title" = "欢迎使用 ProPresenter";
 
 /* Title for the top level menu that contains items that help the user find documentation or support */
-"MAIN_MENU_HELP_MENU_title" = "Help";
+"MAIN_MENU_HELP_MENU_title" = "帮助";
 /* Title for menu item that opens the main ProPresenter support page in the user's web browser */
-"MAIN_MENU_HELP_PROPRESENTER_HELP_title" = "ProPresenter Help";
+"MAIN_MENU_HELP_PROPRESENTER_HELP_title" = "ProPresenter 帮助";
 /* Title for menu item that opens a window to show new features introduced in recent updates */
-"MAIN_MENU_HELP_WHATS_NEW_title" = "What's New in ProPresenter";
+"MAIN_MENU_HELP_WHATS_NEW_title" = "ProPresenter的新功能";
 /* Title for menu item that finds the user's cursor in case they've lost it */
-"MAIN_MENU_HELP_FIND_MY_MOUSE_title" = "Find My Mouse";
+"MAIN_MENU_HELP_FIND_MY_MOUSE_title" = "找到我的鼠标";
 /* Title for menu item that empties the user's cache directory. Hidden until the user holds down the Option (ALT) key and used primarily for support troubleshooting. */
-"MAIN_MENU_HELP_EMPTY_CACHE_title" = "Empty Cache";
+"MAIN_MENU_HELP_EMPTY_CACHE_title" = "清空缓存";
 /* Title for menu item that resets all user preferences. Hidden until the user holds down the Option (ALT) key and used primarily for support troubleshooting. */
-"MAIN_MENU_HELP_RESET_ALL_PREFERENCES_title" = "Reset All Preferences";
+"MAIN_MENU_HELP_RESET_ALL_PREFERENCES_title" = "重置所有首选项";
 /* Title for menu item that restores user preferences from a backup. Hidden until the user holds down the Option (ALT) key and used primarily for support troubleshooting. */
-"MAIN_MENU_HELP_REVERT_ALL_PREFERENCES_title" = "Restore From Backup";
+"MAIN_MENU_HELP_REVERT_ALL_PREFERENCES_title" = "从备份还原";
 /* Title for menu item that restores user preferences from a specific backup. %@ is a string containing the date the backup was created. */
-"MAIN_MENU_HELP_REVERT_ALL_PREFERENCES_FROM_DATE_title" = "Restore Preferences from Backup on %@";
+"MAIN_MENU_HELP_REVERT_ALL_PREFERENCES_FROM_DATE_title" = "从备份 %@ 还原首选项";
 /* Title for menu item that allows the user to submit feedback to Renewed Vision about beta versions of ProPresenter */
-"MAIN_MENU_HELP_SEND_FEEDBACK_title" = "Feedback…";
+"MAIN_MENU_HELP_SEND_FEEDBACK_title" = "反馈…";
 /* Title for menu item to show options for screen stats */
-"MAIN_MENU_HELP_ADVANCED_ON_SCREEN_STATS_title" = "Advanced On Screen Stats";
+"MAIN_MENU_HELP_ADVANCED_ON_SCREEN_STATS_title" = "屏幕高级设置";
 
 
 /*
@@ -985,139 +985,139 @@ UNDO
 */
 
 /* Windows title for Undo events. This is the prefix for any of the following `UNDO_` keys. */
-"UNDO_title" = "Undo %@";
+"UNDO_title" = "撤消 %@";
 /* Windows title for Redo events. This is the prefix for any of the following `UNDO_` keys. */
-"REDO_title" = "Redo %@";
+"REDO_title" = "重做 %@";
 
 /* Undo title for when a user renames something */
-"UNDO_GLOBAL_SET_NAME" = "Set Name";
+"UNDO_GLOBAL_SET_NAME" = "设置名称";
 /* Undo title for when the user sets a global transition in the contiguous view or media bin */
-"UNDO_GLOBAL_SET_TRANSITION" = "Set Transition";
+"UNDO_GLOBAL_SET_TRANSITION" = "设置过渡";
 /* Undo title for when a user imports media */
-"UNDO_GLOBAL_IMPORT" = "Import";
+"UNDO_GLOBAL_IMPORT" = "导入";
 /* Undo title for when a user enters text */
-"UNDO_GLOBAL_TEXT" = "Text";
+"UNDO_GLOBAL_TEXT" = "文本";
 /* Undo title for when the user changes what file a media fill points to */
-"UNDO_GLOBAL_CHANGE_MEDIA_SOURCE" = "Change Media Source";
+"UNDO_GLOBAL_CHANGE_MEDIA_SOURCE" = "更改媒体来源";
 
 /* Undo title for when the user resizes a slide */
-"UNDO_SLIDE_SIZE" = "Set Slide Size";
+"UNDO_SLIDE_SIZE" = "设置幻灯片大小";
 /* Undo title for when the user changes a slide's background color */
-"UNDO_SLIDE_BACKGROUND_COLOR" = "Set Background Color";
+"UNDO_SLIDE_BACKGROUND_COLOR" = "设置背景色";
 /* Undo title for when the user enables or disables showing the slide's background color */
-"UNDO_SLIDE_BACKGROUND_COLOR_ENABLE" = "Set Background Color Enabled";
+"UNDO_SLIDE_BACKGROUND_COLOR_ENABLE" = "启用背景色";
 /* Undo title for when the user inserts a single guideline onto the slide */
-"UNDO_SLIDE_GUIDELINE_INSERT" = "Insert Guideline";
+"UNDO_SLIDE_GUIDELINE_INSERT" = "插入参考线";
 /* Undo title for when the user inserts multiple guidelines onto the slide */
-"UNDO_SLIDE_GUIDELINE_INSERT_plural" = "Insert Guidelines";
+"UNDO_SLIDE_GUIDELINE_INSERT_plural" = "插入多条参考线";
 /* Undo title for when the user removes a single guideline from the slide */
-"UNDO_SLIDE_GUIDELINE_REMOVE" = "Remove Guideline";
+"UNDO_SLIDE_GUIDELINE_REMOVE" = "删除参考线";
 /* Undo title for when the user removes multiple guidelines from the slide */
-"UNDO_SLIDE_GUIDELINE_REMOVE_plural" = "Remove Guidelines";
+"UNDO_SLIDE_GUIDELINE_REMOVE_plural" = "删除多条参考线";
 /* Undo title for when the user replaces a single guideline on the slide */
-"UNDO_SLIDE_GUIDELINE_REPLACE" = "Replace Guideline";
+"UNDO_SLIDE_GUIDELINE_REPLACE" = "替换参考线";
 /* Undo title for when the user replaces multiple guidelines on the slide */
-"UNDO_SLIDE_GUIDELINE_REPLACE_plural" = "Replace Guidelines";
+"UNDO_SLIDE_GUIDELINE_REPLACE_plural" = "替换多条参考线";
 /* Undo title for when the user inserts a single element onto the slide */
-"UNDO_SLIDE_ELEMENT_INSERT" = "Insert Display Element";
+"UNDO_SLIDE_ELEMENT_INSERT" = "插入显示元素";
 /* Undo title for when the user inserts multiple elements onto the slide */
-"UNDO_SLIDE_ELEMENT_INSERT_plural" = "Insert Display Elements";
+"UNDO_SLIDE_ELEMENT_INSERT_plural" = "插入显示元素";
 /* Undo title for when the user removes a single element from the slide */
-"UNDO_SLIDE_ELEMENT_REMOVE" = "Remove Display Element";
+"UNDO_SLIDE_ELEMENT_REMOVE" = "删除显示元素";
 /* Undo title for when the user removes multiple elements from the slide */
-"UNDO_SLIDE_ELEMENT_REMOVE_plural" = "Remove Display Elements";
+"UNDO_SLIDE_ELEMENT_REMOVE_plural" = "删除显示元素";
 /* Undo title for when the user replaces an element on the slide */
-"UNDO_SLIDE_ELEMENT_REPLACE" = "Replace Display Element";
+"UNDO_SLIDE_ELEMENT_REPLACE" = "替换显示元素";
 /* Undo title for when the user replaces multiple elements on the slide */
-"UNDO_SLIDE_ELEMENT_REPLACE_plural" = "Replace Display Elements";
+"UNDO_SLIDE_ELEMENT_REPLACE_plural" = "替换显示元素";
 /* Undo title for when the user moves an element in the list of elements */
-"UNDO_SLIDE_ELEMENT_MOVE" = "Move Display Element";
+"UNDO_SLIDE_ELEMENT_MOVE" = "移动显示元素";
 /* Undo title for when the user sets the list of elements on the slide */
-"UNDO_SLIDE_ELEMENT_SET_plural" = "Set Elements";
+"UNDO_SLIDE_ELEMENT_SET_plural" = "设置元素";
 /* Undo title for when the user rearranges their elements on the slide, changing the z-order */
-"UNDO_SLIDE_ELEMENT_ARRANGE" = "Arrange Elements";
+"UNDO_SLIDE_ELEMENT_ARRANGE" = "排列元素";
 /* Undo title for when the user changes what causes an element to start building in or out */
-"UNDO_SLIDE_ELEMENT_BUILD_SET_START_TYPE" = "Set Element Build Start";
+"UNDO_SLIDE_ELEMENT_BUILD_SET_START_TYPE" = "设置构件开始";
 /* Undo title for when the user changes the delay between the build triggering and changes being rendered on the output */
-"UNDO_SLIDE_ELEMENT_BUILD_SET_DELAY_TIME" = "Set Element Build Delay Time";
+"UNDO_SLIDE_ELEMENT_BUILD_SET_DELAY_TIME" = "设置构件延迟时间";
 /* Undo title for when the user inserts a build into the slide */
-"UNDO_SLIDE_BUILD_INSERT" = "Insert Build";
+"UNDO_SLIDE_BUILD_INSERT" = "插入构件";
 /* Undo title for when the user removes a build from the slide */
-"UNDO_SLIDE_BUILD_REMOVE" = "Remove Build";
+"UNDO_SLIDE_BUILD_REMOVE" = "删除构件";
 /* Undo title for when the user rearranges a build on the slide */
-"UNDO_SLIDE_BUILD_MOVE" = "Move Build";
+"UNDO_SLIDE_BUILD_MOVE" = "移动构件";
 /* Undo title for when the user changes the build start type for the slide (as opposed to a build for an element) */
-"UNDO_SLIDE_BUILD_SET_START_TYPE" = "Set Start Type";
+"UNDO_SLIDE_BUILD_SET_START_TYPE" = "设置开始类型";
 /* Undo title for when the user changes the build delay time for the slide (as opposed to a build delay time for an element) */
-"UNDO_SLIDE_BUILD_SET_SLIDE_DELAY" = "Set Slide Delay";
+"UNDO_SLIDE_BUILD_SET_SLIDE_DELAY" = "设置幻灯片延迟";
 /* Undo title for when the user sets a transition for this slide's build */
-"UNDO_SLIDE_BUILD_SET_SLIDE_TRANSITION" = "Set Slide Transition";
+"UNDO_SLIDE_BUILD_SET_SLIDE_TRANSITION" = "设置幻灯片过渡";
 /* Undo title for when the user creates a build in for the slide */
-"UNDO_SLIDE_BUILD_IN" = "Set Build In";
+"UNDO_SLIDE_BUILD_IN" = "添加构件";
 /* Undo title for when the user creates a build out for the slide */
-"UNDO_SLIDE_BUILD_OUT" = "Set Build Out";
+"UNDO_SLIDE_BUILD_OUT" = "移除构件";
 /* Undo title for when the user changes how text is shown on the element */
-"UNDO_SLIDE_TEXT_REVEAL_SET_TYPE" = "Set Text Reveal Type";
+"UNDO_SLIDE_TEXT_REVEAL_SET_TYPE" = "设置文字显示类型";
 /* Undo title for when the user changes which line of text to start the build-in from. Lines before this "index" are already shown with the element instead of having to build in. */
-"UNDO_SLIDE_TEXT_REVEAL_SET_INDEX" = "Set Reveal From Index";
+"UNDO_SLIDE_TEXT_REVEAL_SET_INDEX" = "设置从索引显示";
 /* Undo title for when the user merges a slide in the reflow editor */
-"UNDO_SLIDE_REFLOW_MERGE" = "Merge Slide";
+"UNDO_SLIDE_REFLOW_MERGE" = "合并幻灯片";
 /* Undo title for when the user breaks a slide in the reflow editor */
-"UNDO_SLIDE_REFLOW_BREAK" = "Break Slide";
+"UNDO_SLIDE_REFLOW_BREAK" = "拆分幻灯片";
 /* Undo title for when the user converts a media action on a slide to an element with a media fill */
-"UNDO_SLIDE_CONVERT_MEDIA_TO_ELEMENT" = "Convert Media To Slide Element";
+"UNDO_SLIDE_CONVERT_MEDIA_TO_ELEMENT" = "将媒体转换为幻灯片元素";
 
 /* Undo title for when the user enables a visibility link on an element */
-"UNDO_DATA_LINK_VISIBILITY_ENABLED" = "Set Visibility Enabled";
+"UNDO_DATA_LINK_VISIBILITY_ENABLED" = "使可见";
 /* Undo title for when the user changes what a visibility link is linked to - a video, a timer, or another slide element */
-"UNDO_DATA_LINK_VISIBILITY_TYPE" = "Set Visibility Type";
+"UNDO_DATA_LINK_VISIBILITY_TYPE" = "设置可见类型";
 /* Undo title for when the user changes the criteria (conditions own the criteria) for element visibility - this is generally a reference to another slide element or a timer/video countdown. */
-"UNDO_DATA_LINK_VISIBILITY_SET_CRITERIA" = "Set Visibility Criteria";
+"UNDO_DATA_LINK_VISIBILITY_SET_CRITERIA" = "设置可见标准";
 /* Undo title for when the user changes the conditions for when an element is visible */
-"UNDO_DATA_LINK_VISIBILITY_SET_CONDITIONS" = "Set Visibility Conditions";
+"UNDO_DATA_LINK_VISIBILITY_SET_CONDITIONS" = "设置可见条件";
 
 /* Undo title for when the user changes the criteria in the element visibility link */
-"UNDO_DATA_LINK_VISIBILITY_CRITERION" = "Set Element Visibility Criterion";
+"UNDO_DATA_LINK_VISIBILITY_CRITERION" = "设置元素可见标准";
 /* Undo title for when the user changes which other slide element is referenced in a visibility link */
-"UNDO_DATA_LINK_VISIBILITY_CONDITION_SET_ELEMENT" = "Set Visibility Element Condition";
+"UNDO_DATA_LINK_VISIBILITY_CONDITION_SET_ELEMENT" = "设置可见元素条件";
 /* Undo title for when the user changes which timer is referenced in a visibility link */
-"UNDO_DATA_LINK_VISIBILITY_CONDITION_SET_TIMER" = "Set Visibility Timer Condition";
+"UNDO_DATA_LINK_VISIBILITY_CONDITION_SET_TIMER" = "设置可见计时器条件";
 
 /* Undo title for when the user changes what the text link is getting its text from */
-"UNDO_DATA_LINK_TEXT_TYPE" = "Set Text Link Type";
+"UNDO_DATA_LINK_TEXT_TYPE" = "设置文字链接类型";
 /* Undo title for when the user enables or disables the text link */
-"UNDO_DATA_LINK_TEXT_ENABLE" = "Enable Text Link";
+"UNDO_DATA_LINK_TEXT_ENABLE" = "启用文字链接";
 /* Undo title for when the user changes which slide (current/next) the linked text should be from */
-"UNDO_DATA_LINK_TEXT_SOURCE" = "Set Text Link Source";
+"UNDO_DATA_LINK_TEXT_SOURCE" = "设置文字链接源";
 /* Undo title for when the user changes options about where the linked text is coming from - from the current/next slide or the slide notes. */
-"UNDO_DATA_LINK_TEXT_OPTIONS" = "Set Text Link Options";
+"UNDO_DATA_LINK_TEXT_OPTIONS" = "设置文字链接选项";
 /* Undo title for when the user changes the option to preserve notes formatting */
-"UNDO_DATA_LINK_TEXT_PRESERVE_NOTES_FORMAT" = "Preserve Notes Format";
+"UNDO_DATA_LINK_TEXT_PRESERVE_NOTES_FORMAT" = "保留注释格式";
 
 /* Undo title for when the user adds a color trigger */
-"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_ADD" = "Add Color Trigger";
+"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_ADD" = "添加颜色触发器";
 /* Undo title for when the user removes a color trigger */
-"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_REMOVE" = "Remove Color Trigger";
+"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_REMOVE" = "删除颜色触发器";
 /* Undo title for when the user rearranges a color trigger */
-"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_MOVE" = "Move Color Trigger";
+"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_MOVE" = "移动色彩触发器";
 /* Undo title for when the user changes the time for a color trigger - a color trigger changes the text color when a timer reaches a certain value */
-"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_SET_TIME" = "Set Color Trigger Time";
+"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_SET_TIME" = "设置色彩触发时间";
 /* Undo title for when the user changes the color for a color trigger - a color trigger changes the text color when a timer reaches a certain value */
-"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_SET_COLOR" = "Set Color Trigger Color";
+"UNDO_DATA_LINK_TEXT_COLOR_TRIGGER_SET_COLOR" = "设置颜色触发色";
 /* Undo title for when the user customizes the display format for a countdown timer */
-"UNDO_DATA_LINK_TEXT_COUNTDOWN_TIMER_SET_FORMAT" = "Set Countdown Timer Format";
+"UNDO_DATA_LINK_TEXT_COUNTDOWN_TIMER_SET_FORMAT" = "设置倒计时器格式";
 /* Undo title for when the user customizes text around a countdown timer's value */
-"UNDO_DATA_LINK_TEXT_COUNTDOWN_TIMER_SET_TEXT" = "Set Countdown Timer Text";
+"UNDO_DATA_LINK_TEXT_COUNTDOWN_TIMER_SET_TEXT" = "设置倒计时器文字";
 /* Undo title for when the user sets the color triggers on their linked text */
-"UNDO_DATA_LINK_TEXT_COUNTDOWN_TIMER_SET_COLOR_TRIGGERS" = "Set Countdown Timer Color Triggers";
+"UNDO_DATA_LINK_TEXT_COUNTDOWN_TIMER_SET_COLOR_TRIGGERS" = "设置倒计时器颜色";
 /* Undo title for when the user changes the timer the text link is getting its value from */
-"UNDO_DATA_LINK_TEXT_COUNTDOWN_TIMER_SET_TIMER" = "Set Countdown Timer";
+"UNDO_DATA_LINK_TEXT_COUNTDOWN_TIMER_SET_TIMER" = "设置倒数计时器";
 /* Undo title for when the user changes group source type */
-"UNDO_DATA_LINK_TEXT_GROUP_SOURCE" = "Set Group Source";
+"UNDO_DATA_LINK_TEXT_GROUP_SOURCE" = "设定群组来源";
 /* Undo title for when the user changes the playlist item source */
-"UNDO_DATA_LINK_TEXT_PLAYLIST_ITEM" = "Set Playlist Item Source";
+"UNDO_DATA_LINK_TEXT_PLAYLIST_ITEM" = "设置播放列表项来源";
 /* Undo title for when the user changes the show arrangement option */
-"UNDO_DATA_LINK_TEXT_PLAYLIST_ITEM_SHOW_ARRANGEMENT" = "Set Show Arrangement";
+"UNDO_DATA_LINK_TEXT_PLAYLIST_ITEM_SHOW_ARRANGEMENT" = "设置显示安排";
 /* Undo title for when the user changes auto advance source type */
 "UNDO_DATA_LINK_TEXT_AUTO_ADVANCE_SOURCE" = "Set Auto Advance Source";
 /* Undo title for when the user customizes the display format of the auto advance time remaining */
@@ -2252,60 +2252,60 @@ This menu contains strings shared between the Main Menu's editor menu and the
 */
 
 /* Title for menu item that adds a text element to the current slide */
-"EDITOR_MENU_INSERT_TEXT_title" = "Text";
+"EDITOR_MENU_INSERT_TEXT_title" = "文本";
 /* Title for menu item that adds a shape element to the current slide */
-"EDITOR_MENU_INSERT_SHAPE_title" = "Shape";
+"EDITOR_MENU_INSERT_SHAPE_title" = "形状";
 /* Title for menu item that adds a slide element with a media fill to the current slide */
-"EDITOR_MENU_INSERT_MEDIA_title" = "Media";
+"EDITOR_MENU_INSERT_MEDIA_title" = "媒体";
 /* Title for menu item that adds a slide element with a video input media fill to the current slide */
-"EDITOR_MENU_INSERT_VIDEO_INPUT_title" = "Video Input";
+"EDITOR_MENU_INSERT_VIDEO_INPUT_title" = "视频输入";
 /* Title for menu item that adds a slide element with a web fill to the current slide */
-"EDITOR_MENU_INSERT_WEB_title" = "Web";
+"EDITOR_MENU_INSERT_WEB_title" = "网页";
 
 /* Title for submenu that adds a slide element linked to the current slide, either text, preview image, or notes. Available for stage layouts only. */
-"EDITOR_MENU_INSERT_CURRENT_SLIDE_ITEM_title" = "Current Slide";
+"EDITOR_MENU_INSERT_CURRENT_SLIDE_ITEM_title" = "当前幻灯片";
 /* Title for submenu that adds a slide element linked to the next slide, either text, preview image, or notes. Available for stage layouts only. */
-"EDITOR_MENU_INSERT_NEXT_SLIDE_ITEM_title" = "Next Slide";
+"EDITOR_MENU_INSERT_NEXT_SLIDE_ITEM_title" = "下一张幻灯片";
 /* Title for menu item that adds a slide element linked to current/next slide text */
-"EDITOR_MENU_INSERT_SLIDE_PREVIEW_TEXT_title" = "Text";
+"EDITOR_MENU_INSERT_SLIDE_PREVIEW_TEXT_title" = "文本";
 /* Title for menu item that adds a slide element linked to current/next slide preview image */
-"EDITOR_MENU_INSERT_SLIDE_PREVIEW_IMAGE_title" = "Preview Image";
+"EDITOR_MENU_INSERT_SLIDE_PREVIEW_IMAGE_title" = "预览图片";
 /* Title for menu item that adds a slide element linked to current/next slide notes */
-"EDITOR_MENU_INSERT_SLIDE_NOTES_title" = "Notes";
+"EDITOR_MENU_INSERT_SLIDE_NOTES_title" = "笔记";
 /* Title for menu item that adds a slide element linked to current/next slide element matching name */
-"EDITOR_MENU_INSERT_SLIDE_ELEMENT_MATCHING_NAME_title" = "Match Element Name";
+"EDITOR_MENU_INSERT_SLIDE_ELEMENT_MATCHING_NAME_title" = "匹配元素名称";
 
 /* Title for menu item that adds a slide element which shows a preview of another screen. Available for stage layouts only. */
-"EDITOR_MENU_INSERT_SCREEN_PREVIEW_title" = "Screen Preview";
+"EDITOR_MENU_INSERT_SCREEN_PREVIEW_title" = "屏幕预览";
 /* Title for menu item that adds a slide element which shows a chord chart attached to the currently triggered cue. Available for stage layouts only. */
-"EDITOR_MENU_INSERT_CHORD_CHART_title" = "Chord Chart";
+"EDITOR_MENU_INSERT_CHORD_CHART_title" = "和弦图";
 /* Title for menu item that adds a slide element which shows a message for people on the stage. Available for stage layouts only. */
-"EDITOR_MENU_INSERT_STAGE_MESSAGE_title" = "Stage Message";
+"EDITOR_MENU_INSERT_STAGE_MESSAGE_title" = "舞台信息";
 /* Title for menu item that shows a Planning Center web page for the currently selected plan. Available for stage layouts only. */
-"EDITOR_MENU_INSERT_PLANNING_CENTER_LIVE_title" = "Planning Center Live";
+"EDITOR_MENU_INSERT_PLANNING_CENTER_LIVE_title" = "规划中心视图";
 /* Title for submenu which contains a list of timers. Selecting one of these timers will add a slide element linked to a timer's current time. Available for stage layouts only. */
-"EDITOR_MENU_INSERT_TIMER_title" = "Timers";
+"EDITOR_MENU_INSERT_TIMER_title" = "计时器";
 /* Title for menu item that adds a slide element which shows the current time. Available for stage layouts only. */
-"EDITOR_MENU_INSERT_SYSTEM_CLOCK_title" = "System Clock";
+"EDITOR_MENU_INSERT_SYSTEM_CLOCK_title" = "系统时钟";
 /* Title for menu item that adds a slide element which shows the remaining time on the currently triggered video. Available for stage layouts only. */
-"EDITOR_MENU_INSERT_VIDEO_COUNTDOWN_title" = "Video Countdown";
+"EDITOR_MENU_INSERT_VIDEO_COUNTDOWN_title" = "视频倒计时";
 /* Title for menu item that adds a slide element which shows an image file. */
-"EDITOR_MENU_INSERT_IMAGE_title" = "Image";
+"EDITOR_MENU_INSERT_IMAGE_title" = "图像";
 /* Title for menu item that adds a slide element which shows the captures status . Available for stage layouts only. */
-"EDITOR_MENU_INSERT_CAPTURE_STATUS_title" = "Capture Status";
+"EDITOR_MENU_INSERT_CAPTURE_STATUS_title" = "捕获状态";
 
 /* Describes the contents of an "empty" media fill */
-"MEDIA_FILL_TYPE_NONE" = "None";
+"MEDIA_FILL_TYPE_NONE" = "无";
 /* Describes the contents of a media fill containing an image file */
-"MEDIA_FILL_TYPE_IMAGE" = "Image";
+"MEDIA_FILL_TYPE_IMAGE" = "图像";
 /* Describes the contents of a media fill containing a video file */
-"MEDIA_FILL_TYPE_VIDEO" = "Video";
+"MEDIA_FILL_TYPE_VIDEO" = "视频";
 /* Describes the contents of a media fill containing an audio file */
-"MEDIA_FILL_TYPE_AUDIO" = "Audio";
+"MEDIA_FILL_TYPE_AUDIO" = "音频";
 /* Describes the contents of a media fill containing a reference to a video input device */
-"MEDIA_FILL_TYPE_VIDEO_INPUT" = "Video Input";
+"MEDIA_FILL_TYPE_VIDEO_INPUT" = "视频输入";
 /* Describes the contents of a media fill containing a URL to a web page */
-"MEDIA_FILL_TYPE_WEB" = "Web";
+"MEDIA_FILL_TYPE_WEB" = "网页";
 
 
 /*
@@ -2345,840 +2345,840 @@ EDITOR
 "EDITOR_FOOTER_HEIGHT_label" = "H:";
 
 /* Tooltip for the button in the editor's footer that shows grid options */
-"EDITOR_GRID_BUTTON_tooltip" = "Grid";
+"EDITOR_GRID_BUTTON_tooltip" = "网格";
 /* Tooltip for the button in the editor's footer that shows zoom options */
-"EDITOR_ZOOM_BUTTON_tooltip" = "Zoom";
+"EDITOR_ZOOM_BUTTON_tooltip" = "缩放";
 /* Tooltip for the button in the editor's footer that enables/disables the ruler */
-"EDITOR_RULER_BUTTON_tooltip" = "Ruler";
+"EDITOR_RULER_BUTTON_tooltip" = "标尺";
 /* Tooltip for the button in the editor's footer that shows/hides the checkerboard background to indicate transparency on the slide */
-"EDITOR_CHECKERBOARD_BACKGROUND_BUTTON_tooltip" = "Checkerboard Background";
+"EDITOR_CHECKERBOARD_BACKGROUND_BUTTON_tooltip" = "棋盘背景";
 /* Tooltip for the button in the editor's footer that shows guidelines options */
-"EDITOR_GUIDELINES_BUTTON_tooltip" = "Guidelines";
+"EDITOR_GUIDELINES_BUTTON_tooltip" = "参考线";
 
 /* The header for the Grid options popover in the editor */
-"EDITOR_GRID_ENABLED_HEADER_label" = "Grid";
+"EDITOR_GRID_ENABLED_HEADER_label" = "网格";
 /* The label for the color picker that changes the grid's color */
-"EDITOR_GRID_COLOR_label" = "Color";
+"EDITOR_GRID_COLOR_label" = "颜色";
 /* The label for the control that sets the number of units between each gridline */
-"EDITOR_GRID_SPACING_label" = "Spacing";
+"EDITOR_GRID_SPACING_label" = "间距";
 /* The number of subdivisions between each gridline. A value of 2 means each grid "square" is cut into 4 "sub-squares". */
-"EDITOR_GRID_SUBDIVISIONS_label" = "Subdivisions";
+"EDITOR_GRID_SUBDIVISIONS_label" = "细分";
 
 /* Header for the slide guidelines options within the editor guides popover */
-"EDITOR_GUIDELINES_SLIDE_GUIDES_HEADER_label" = "Slide Guidelines";
+"EDITOR_GUIDELINES_SLIDE_GUIDES_HEADER_label" = "幻灯片参考线";
 /* Title for the checkbox that enables slide guidelines */
-"EDITOR_GUIDELINES_SLIDE_GUIDES_ENABLE_BUTTON_title" = "Show Slide Guides";
+"EDITOR_GUIDELINES_SLIDE_GUIDES_ENABLE_BUTTON_title" = "显示幻灯片参考线";
 /* Header for the template guidelines options within the editor guides popover */
-"EDITOR_GUIDELINES_TEMPLATE_GUIDES_HEADER_label" = "Template Guidelines";
+"EDITOR_GUIDELINES_TEMPLATE_GUIDES_HEADER_label" = "模板参考线";
 /* Title for the checkbox that enables guidelines from the slide template the user chose */
-"EDITOR_GUIDELINES_TEMPLATE_GUIDES_ENABLE_BUTTON_title" = "Show Template Guides";
+"EDITOR_GUIDELINES_TEMPLATE_GUIDES_ENABLE_BUTTON_title" = "显示模板参考线";
 /* Header for the alignment guidelines and drag-and-drop snapping in the editor guides popover */
-"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_HEADER_label" = "Alignment Guides";
+"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_HEADER_label" = "对齐参考";
 /* Title for the checkbox that enables guidelines and snapping for matching relative spacing between elements */
-"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_RELATIVE_SPACING_BUTTON_title" = "Show Relative Spacing";
+"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_RELATIVE_SPACING_BUTTON_title" = "显示相对间距";
 /* Title for the checkbox that enables guidelines and snapping for resizing elements to match the size of other elements */
-"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_RELATIVE_SIZING_BUTTON_title" = "Show Relative Sizing";
+"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_RELATIVE_SIZING_BUTTON_title" = "显示相对大小";
 /* Title for the checkbox that enables guidelines and snapping for the centers of other elements */
-"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_CENTER_GUIDES_BUTTON_title" = "Show Object Center Guides";
+"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_CENTER_GUIDES_BUTTON_title" = "显示对象中心点";
 /* Title for the checkbox that enables guidelines and snapping for the edges of other elements */
-"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_EDGE_GUIDES_BUTTON_title" = "Show Object Edge Guides";
+"EDITOR_GUIDELINES_ALIGNMENT_GUIDES_EDGE_GUIDES_BUTTON_title" = "显示对象边缘参考线";
 
 /* Title for a menu item that changes the zoom level. %i is the zoom percentage as an integer. %% is a percent symbol. The result looks like "25%" */
 "EDITOR_ZOOM_MENU_ITEM_title" = "%i%%";
 /* Title for a menu item that allows the user to type in a custom zoom percentage */
-"EDITOR_ZOOM_CUSTOM_ITEM_title" = "Custom…";
+"EDITOR_ZOOM_CUSTOM_ITEM_title" = "自定义…";
 /* Title for a menu item that sets the zoom level to automatically fit the slide to the editor */
-"EDITOR_ZOOM_FIT_title" = "Fit";
+"EDITOR_ZOOM_FIT_title" = "适应";
 
 /* Title for the shape inspector, shown when the user is using a custom scale on their element */
-"EDITOR_CUSTOM_SCALE_SHAPE_title" = "Shape";
+"EDITOR_CUSTOM_SCALE_SHAPE_title" = "形状";
 
 /* Title for menu item that allows the user to select a specific element when they've right clicked on an area where two elements overlap */
-"EDITOR_MENU_SELECT_ELEMENT_title" = "Select Element";
+"EDITOR_MENU_SELECT_ELEMENT_title" = "选择元素";
 /* Title for menu item that hides the selected element from the canvas */
-"EDITOR_MENU_HIDE_title" = "Hide";
+"EDITOR_MENU_HIDE_title" = "隐藏";
 /* Title for menu item that unhides the selected element from the canvas */
-"EDITOR_MENU_UNHIDE_title" = "Unhide";
+"EDITOR_MENU_UNHIDE_title" = "取消隐藏";
 /* Title for menu item that prevents the selected element from being modified */
-"EDITOR_MENU_LOCK_title" = "Lock";
+"EDITOR_MENU_LOCK_title" = "锁定";
 /* Title for menu item that allows the selected element to be modified */
-"EDITOR_MENU_UNLOCK_title" = "Unlock";
+"EDITOR_MENU_UNLOCK_title" = "取消锁定";
 /* Title for menu item that inserts text on the selected element */
-"EDITOR_MENU_ADD_TEXT_title" = "Add Text";
+"EDITOR_MENU_ADD_TEXT_title" = "添加文字";
 /* Title for menu item that edits existing text on the selected element */
-"EDITOR_MENU_EDIT_TEXT_title" = "Edit Text";
+"EDITOR_MENU_EDIT_TEXT_title" = "编辑文字";
 /* Title for menu item that edits existing media on the selected element */
-"EDITOR_MENU_EDIT_MEDIA_title" = "Edit Media";
+"EDITOR_MENU_EDIT_MEDIA_title" = "编辑媒体";
 /* Title for menu item that allows the user to edit points in the shape, potentially transforming it into a new shape altogether */
-"EDITOR_MENU_MAKE_EDITABLE_title" = "Make Editable";
+"EDITOR_MENU_MAKE_EDITABLE_title" = "使可编辑";
 /* Title for menu item that copies the text style from the selected element */
-"EDITOR_MENU_COPY_TEXT_STYLE_title" = "Copy Text Style";
+"EDITOR_MENU_COPY_TEXT_STYLE_title" = "复制文字样式";
 /* Title for menu item that applies the copied text style to the selected elements */
-"EDITOR_MENU_PASTE_TEXT_STYLE_title" = "Paste Text Style";
+"EDITOR_MENU_PASTE_TEXT_STYLE_title" = "粘贴文字样式";
 /* Title for submenu that contains items that allow the user to align their selected elements */
-"EDITOR_MENU_ALIGN_title" = "Align";
+"EDITOR_MENU_ALIGN_title" = "对齐";
 /* Title for menu item that aligns the selected elements to the leftmost element */
-"EDITOR_MENU_ALIGN_LEFT_title" = "Align Left";
+"EDITOR_MENU_ALIGN_LEFT_title" = "左对齐";
 /* Title for menu item that aligns the horizontal center of all selected elements */
-"EDITOR_MENU_ALIGN_CENTER_title" = "Align Center";
+"EDITOR_MENU_ALIGN_CENTER_title" = "居中对齐";
 /* Title for menu item that aligns the selected elements to the rightmost element */
-"EDITOR_MENU_ALIGN_RIGHT_title" = "Align Right";
+"EDITOR_MENU_ALIGN_RIGHT_title" = "右对齐";
 /* Title for menu item that aligns the selected elements to the topmost element */
-"EDITOR_MENU_ALIGN_TOP_title" = "Align Top";
+"EDITOR_MENU_ALIGN_TOP_title" = "顶部对齐";
 /* Title for menu item that aligns the vertical middle of all selected elements */
-"EDITOR_MENU_ALIGN_MIDDLE_title" = "Align Middle";
+"EDITOR_MENU_ALIGN_MIDDLE_title" = "中间对齐";
 /* Title for menu item that aligns the selected elements to the bottommost element */
-"EDITOR_MENU_ALIGN_BOTTOM_title" = "Align Bottom";
+"EDITOR_MENU_ALIGN_BOTTOM_title" = "底部对齐";
 /* Title for submenu that contains items that allow the user to space out the selected elements */
-"EDITOR_MENU_DISTRIBUTE_title" = "Distribute";
+"EDITOR_MENU_DISTRIBUTE_title" = "分布";
 /* Title for menu item that spaces the selected items so there's equal vertical and horizontal space between all */
-"EDITOR_MENU_DISTRIBUTE_EVENLY_title" = "Distribute Evenly";
+"EDITOR_MENU_DISTRIBUTE_EVENLY_title" = "均匀分布";
 /* Title for menu item that spaces the selected items so there's equal horizontal space between all */
-"EDITOR_MENU_DISTRIBUTE_HORIZONTALLY_title" = "Distribute Horizontally";
+"EDITOR_MENU_DISTRIBUTE_HORIZONTALLY_title" = "水平分布";
 /* Title for menu item that spaces the selected items so there's equal vertical space between all */
-"EDITOR_MENU_DISTRIBUTE_VERTICALLY_title" = "Distribute Vertically";
+"EDITOR_MENU_DISTRIBUTE_VERTICALLY_title" = "垂直分布";
 /* Title for menu item that deletes a slide guideline */
-"EDITOR_MENU_DELETE_GUIDELINE_title" = "Delete Guideline";
+"EDITOR_MENU_DELETE_GUIDELINE_title" = "删除参考线";
 /* Title for menu item that deletes multiple slide guidelines */
-"EDITOR_MENU_DELETE_GUIDELINES_title" = "Delete Guidelines";
+"EDITOR_MENU_DELETE_GUIDELINES_title" = "删除参考线";
 /* Title for menu item removes a point from a shape. Used when "Make Editable" is active. */
-"EDITOR_MENU_REMOVE_POINT_title" = "Remove Point";
+"EDITOR_MENU_REMOVE_POINT_title" = "删除点";
 /* Title for menu item to continue creating a custom shape */
-"EDITOR_MENU_CONTINUE_DRAWING_title" = "Continue Drawing";
+"EDITOR_MENU_CONTINUE_DRAWING_title" = "继续绘制";
 /* Title for menu item to finish creating a custom shape and close that shape */
-"EDITOR_MENU_CLOSE_PATH_title" = "Close Path";
+"EDITOR_MENU_CLOSE_PATH_title" = "封闭路径";
 /* Title for menu item to stop creating a custom shape */
-"EDITOR_MENU_END_DRAWING_title" = "End Drawing";
+"EDITOR_MENU_END_DRAWING_title" = "结束绘制";
 /* Title for menu item that copies a slide guideline */
-"EDITOR_MENU_COPY_SLIDE_GUIDELINE_title" = "Copy Guides";
+"EDITOR_MENU_COPY_SLIDE_GUIDELINE_title" = "复制参考线";
 /* Title for menu item that removes all slide guidelines */
-"EDITOR_MENU_PASTE_SLIDE_GUIDELINE_title" = "Paste Guides";
+"EDITOR_MENU_PASTE_SLIDE_GUIDELINE_title" = "粘贴参考线";
 /* Title for menu item that pastes a copied slide guideline */
-"EDITOR_MENU_REMOVE_ALL_SLIDE_GUIDELINES_title" = "Remove All Guides";
+"EDITOR_MENU_REMOVE_ALL_SLIDE_GUIDELINES_title" = "删除所有参考线";
 /* Title for menu item that moves the selected elements up by one in the Z-order */
-"EDITOR_MENU_MOVE_FORWARD_title" = "Move Forward";
+"EDITOR_MENU_MOVE_FORWARD_title" = "前移";
 /* Title for menu item that moves the selected elements down by one in the Z-order */
-"EDITOR_MENU_MOVE_BACKWARD_title" = "Move Backward";
+"EDITOR_MENU_MOVE_BACKWARD_title" = "后移";
 /* Title for menu item that moves the selected elements to the top of the Z-order */
-"EDITOR_MENU_BRING_FRONT_title" = "Bring to Front";
+"EDITOR_MENU_BRING_FRONT_title" = "置顶";
 /* Title for menu item that moves the selected elements to the bottom of the Z-order */
-"EDITOR_MENU_SEND_BACK_title" = "Send to Back";
+"EDITOR_MENU_SEND_BACK_title" = "置底";
 
 /* Label shown above the outline when editing presentations, but no presentation is selected. Usually not shown in the UI. */
-"EDITOR_OUTLINE_PRESENTATION_label" = "Slides";
+"EDITOR_OUTLINE_PRESENTATION_label" = "幻灯片";
 /* Label shown above the outline when editing stage layouts */
-"EDITOR_OUTLINE_STAGE_LAYOUTS_label" = "Layouts";
+"EDITOR_OUTLINE_STAGE_LAYOUTS_label" = "布局";
 /* Label shown above the outline when editing masks */
-"EDITOR_OUTLINE_STAGE_MASKS_label" = "Masks";
+"EDITOR_OUTLINE_STAGE_MASKS_label" = "遮罩";
 /* Label shown above the outline when editing props */
-"EDITOR_OUTLINE_STAGE_PROPS_label" = "Props";
+"EDITOR_OUTLINE_STAGE_PROPS_label" = "道具";
 
 /* Title for the menu item to add a new slide to the presentation under edit */
 "EDITOR_OUTLINE_MENU_ADD_NEW_SLIDE_title" = "Add New Slide";
 
 /* Default name for a new slide */
-"EDITIOR_NEW_SLIDE_name" = "Slide";
+"EDITIOR_NEW_SLIDE_name" = "幻灯片";
 
 /* Title for the menu item to apply a theme to a slide in the editor */
-"EDITOR_OUTLINE_ITEM_MENU_THEMES_title" = "Themes";
+"EDITOR_OUTLINE_ITEM_MENU_THEMES_title" = "主题";
 
 /* Title for the button which shows the contents of the editor on the output */
-"EDITOR_SHOW_BUTTON_title" = "Show";
-"EDITOR_SHOW_BUTTON_tooltip" = "Show the current slide";
+"EDITOR_SHOW_BUTTON_title" = "显示";
+"EDITOR_SHOW_BUTTON_tooltip" = "显示当前幻灯片";
 
 /* Title for placeholder menu item for a menu showing the list of stage screens when the user hasn't configured any stage screens yet */
-"EDITOR_SHOW_STAGE_LAYOUT_NO_STAGE_SCREENS_title" = "No stage screens configured";
+"EDITOR_SHOW_STAGE_LAYOUT_NO_STAGE_SCREENS_title" = "未配置舞台屏幕";
 
 /* Header for the section which shows the list of slide elements */
-"EDITOR_OBJECT_LIST_HEADER_label" = "Objects";
+"EDITOR_OBJECT_LIST_HEADER_label" = "对象";
 
 /* Default placeholder for text shapes */
-"EDITOR_SHAPE_DEFAULT_TEXT_placeholder" = "Text";
+"EDITOR_SHAPE_DEFAULT_TEXT_placeholder" = "文本";
 
 /* Label shown above shapes that have a linked fill */
-"EDITOR_SHAPE_FILL_LINK_label" = "Fill: %@";
+"EDITOR_SHAPE_FILL_LINK_label" = "填充: %@";
 /* Label shown above shapes that have fill link that are in an invalid state */
-"EDITOR_SHAPE_FILL_LINK_UNCONFIGURED_label" = "Fill: Unconfigured";
+"EDITOR_SHAPE_FILL_LINK_UNCONFIGURED_label" = "填充: 未设定";
 /* Label shown above shapes that have a linked web fill. %@ is the URL the user entered. */
 "EDITOR_SHAPE_WEB_FILL_LINK_label" = "URL: %@";
 /* Label shown above shapes that have a linked web fill but where the user hasn't entered a URL */
-"EDITOR_SHAPE_WEB_FILL_LINK_UNCONFIGURED_label" = "URL: Unconfigured";
+"EDITOR_SHAPE_WEB_FILL_LINK_UNCONFIGURED_label" = "URL: 未设定";
 
 /* Label shown above shapes that have a linked video input fill. %@ is the name of the video input. */
-"EDITOR_SHAPE_VIDEO_INPUT_LINK_label" = "Video Input: %@";
+"EDITOR_SHAPE_VIDEO_INPUT_LINK_label" = "视频输入: %@";
 /* The name for a video input. %i is the index of this video input. */
-"EDITOR_SHAPE_VIDEO_INPUT_NAME_title" = "Input %i";
+"EDITOR_SHAPE_VIDEO_INPUT_NAME_title" = "输入 %i";
 
 /* Label shown above shapes that have linked text that are in an invalid state */
-"EDITOR_SHAPE_TEXT_LINK_UNCONFIGURED_label" = "Text: Unconfigured";
+"EDITOR_SHAPE_TEXT_LINK_UNCONFIGURED_label" = "文字：未配置";
 /* Label shown above shapes that have linked text */
-"EDITOR_SHAPE_TEXT_LINK_label" = "Text: %@";
+"EDITOR_SHAPE_TEXT_LINK_label" = "文本: %@";
 
 /* Label shown above shapes that have a visibility link */
-"EDITOR_SHAPE_VISIBILITY_LINK_label" = "Visibility";
+"EDITOR_SHAPE_VISIBILITY_LINK_label" = "可见";
 
 /* Title for the point count option shown when editing a star shape */
-"EDITOR_POPOVER_STAR_POINT_COUNT_title" = "Points";
+"EDITOR_POPOVER_STAR_POINT_COUNT_title" = "点数";
 /* Title for the number of sides shown when editing a polygon */
-"EDITOR_POPOVER_POLYGON_SIDES_title" = "Sides";
+"EDITOR_POPOVER_POLYGON_SIDES_title" = "侧面";
 
 /* Label for the shape's radius (in this case it's the distance from the center the star extends). The format ends up looking like this: "Radius: 25%", where %.0f is a percentage and %% resolves to a single '%' symbol. */
-"EDITOR_POPOVER_RADIUS_label" = "Radius: %.0f%%";
+"EDITOR_POPOVER_RADIUS_label" = "半径: %.0f%%";
 /* Label for the shape's roundness (in this case this is a measure of how rounded the corners of a rounded rectangle are). %.0f is a percentage and %% resolves to a single '%' symbol. */
-"EDITOR_POPOVER_ROUNDNESS_label" = "Roundness: %.0f%%";
+"EDITOR_POPOVER_ROUNDNESS_label" = "圆度: %.0f%%";
 /* Label for when a rectangle is sized to be square. %1.0f is the pixel width/height (they are equal) and %@ is a unit (typically pixels) */
-"EDITOR_POPOVER_SQUARE_label" = "Square: %1.0f%@";
+"EDITOR_POPOVER_SQUARE_label" = "正方形: %1.0f%@";
 
 /* Label for a popover shown when beginning a custom drawing */
-"EDITOR_POPOVER_CUSTOM_SHAPE_DRAWING_STEP_ONE_label" = "Click anywhere to start your path.";
+"EDITOR_POPOVER_CUSTOM_SHAPE_DRAWING_STEP_ONE_label" = "单击任意位置以开始您的路径.";
 /* Shown after the first point has been placed. Instructs the user how to create and manipulate lines */
-"EDITOR_POPOVER_CUSTOM_SHAPE_DRAWING_STEP_TWO_label" = "Click to create a line.\nClick and drag to create a curved line.";
+"EDITOR_POPOVER_CUSTOM_SHAPE_DRAWING_STEP_TWO_label" = "点击创建一条线.\n单击并拖动以创建一条曲线.";
 /* Shown after the second point has been placed. Instructs the user how to close the path or end the drawing */
-"EDITOR_POPOVER_CUSTOM_SHAPE_DRAWING_STEP_THREE_label" = "Click the first point to close the path.\nPress escape to end the editing.";
+"EDITOR_POPOVER_CUSTOM_SHAPE_DRAWING_STEP_THREE_label" = "单击第一个点以关闭路径.\n按Escape键结束编辑.";
 
 /* Title for the build in section of the build inspector */
-"EDITOR_BUILD_IN_title" = "Build In";
+"EDITOR_BUILD_IN_title" = "内建";
 /* Displayed with a build to designate it as a build in */
-"EDITOR_BUILD_IN_subtitle" = "In";
+"EDITOR_BUILD_IN_subtitle" = "内";
 /* Title for the build out section of the build inspector */
-"EDITOR_BUILD_OUT_title" = "Build Out";
+"EDITOR_BUILD_OUT_title" = "扩建";
 /* Displayed in a build to designate it as a build out */
-"EDITOR_BUILD_OUT_subtitle" = "Out";
+"EDITOR_BUILD_OUT_subtitle" = "外";
 /* Label for the build order table */
-"EDITOR_BUILD_ORDER_label" = "Build Order";
+"EDITOR_BUILD_ORDER_label" = "构建顺序";
 /* Label for the field to set the delay on a build */
-"EDITOR_BUILD_DELAY_label" = "Delay";
+"EDITOR_BUILD_DELAY_label" = "延迟";
 /* Label for the start option */
-"EDITOR_BUILD_START_TYPE_label" = "Start";
+"EDITOR_BUILD_START_TYPE_label" = "开始";
 /* Title for the button to add a build */
-"EDITOR_BUILD_ADD_BUILD_BUTTON_title" = "Add Build…";
+"EDITOR_BUILD_ADD_BUILD_BUTTON_title" = "添加构建…";
 /* Title for the button to reset the build transition to the default parameters */
-"EDITOR_BUILD_RESET_TO_DEFAULT_PARAMETERS_title" = "Reset to Default Parameters";
+"EDITOR_BUILD_RESET_TO_DEFAULT_PARAMETERS_title" = "重置为默认参数";
 /* Label for the delivery option */
-"EDITOR_BUILD_DELIVERY_label" = "Delivery";
+"EDITOR_BUILD_DELIVERY_label" = "交付";
 /* Start type that will trigger a build on click */
-"EDITOR_BUILD_START_TYPE_ON_CLICK_title" = "On Click";
+"EDITOR_BUILD_START_TYPE_ON_CLICK_title" = "点击时";
 /* Start type that triggers the build automatically */
-"EDITOR_BUILD_START_TYPE_AUTOMATICALLY_title" = "Automatically";
+"EDITOR_BUILD_START_TYPE_AUTOMATICALLY_title" = "自动地";
 /* Start type that will trigger a build with the previous build */
-"EDITOR_BUILD_START_TYPE_WITH_PREVIOUS_BUILD_title" = "With Previous Build";
+"EDITOR_BUILD_START_TYPE_WITH_PREVIOUS_BUILD_title" = "使用以前的构建";
 /* Start type that will trigger a build after the previous build */
-"EDITOR_BUILD_START_TYPE_AFTER_PREVIOUS_BUILD_title" = "After Previous Build";
+"EDITOR_BUILD_START_TYPE_AFTER_PREVIOUS_BUILD_title" = "在之前的构建之后";
 /* Start type that will trigger a build along with the initial slide trigger */
-"EDITOR_BUILD_START_TYPE_WITH_SLIDE_title" = "With Slide";
+"EDITOR_BUILD_START_TYPE_WITH_SLIDE_title" = "使用幻灯片";
 /* Start type that will trigger a build after the slide transition completes */
-"EDITOR_BUILD_START_TYPE_AFTER_TRANSITION_title" = "After Transition";
+"EDITOR_BUILD_START_TYPE_AFTER_TRANSITION_title" = "过渡后";
 /* Start type to trigger a build with a specific build */
-"EDITOR_BUILD_START_TYPE_WITH_BUILD_title" = "With Build %d";
+"EDITOR_BUILD_START_TYPE_WITH_BUILD_title" = "使用构建 %d";
 /* Start type to trigger a build after a specific build */
-"EDITOR_BUILD_START_TYPE_AFTER_BUILD_title" = "After Build %d";
+"EDITOR_BUILD_START_TYPE_AFTER_BUILD_title" = "构建 %d 后";
 /* Title for the button to change the build transition */
-"EDITOR_BUILD_CHANGE_TRANSITION_title" = "Change";
+"EDITOR_BUILD_CHANGE_TRANSITION_title" = "改变";
 /* Displayed on the slide build inspector when there is no other build transition selected */
-"EDITOR_BUILD_DEFAULT_TRANSITION_title" = "Default";
+"EDITOR_BUILD_DEFAULT_TRANSITION_title" = "默认";
 /* Option to display a build all at once */
-"EDITOR_BUILD_DELIVERY_TYPE_ALL_AT_ONCE_title" = "All At Once";
+"EDITOR_BUILD_DELIVERY_TYPE_ALL_AT_ONCE_title" = "一次全部";
 /* Option to display a build one step at a time, based on the bulleted list in the shape's text */
-"EDITOR_BUILD_DELIVERY_TYPE_BY_BULLET_title" = "By Bullet";
+"EDITOR_BUILD_DELIVERY_TYPE_BY_BULLET_title" = "快速";
 /* Option to display a build one step at a time, based on underlined words in the shape's text */
-"EDITOR_BUILD_DELIVERY_TYPE_BY_UNDERLINE_title" = "Underline";
+"EDITOR_BUILD_DELIVERY_TYPE_BY_UNDERLINE_title" = "强调";
 /* Option to start the build from a specific step, effectively skipping the previous steps */
-"EDITOR_BUILD_DELIVERY_FROM_title" = "Build From";
+"EDITOR_BUILD_DELIVERY_FROM_title" = "构建于";
 
 /* Title for the presentation inspector tab */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_TAB_title" = "Presentation";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_TAB_title" = "演示";
 /* Title for button that enables a background color on the current presentation */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_BACKGROUND_ENABLE_BUTTON_title" = "Background";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_BACKGROUND_ENABLE_BUTTON_title" = "背景";
 /* Label for the popup button that changes the size of the slides in the current presentation */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SIZE_label" = "Size";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SIZE_label" = "尺寸";
 /* The label displayed next to the slide size menu when the slide's size does not match any available screen sizes */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SIZE_MISMATCH_label" = "Selected size does not match any of the configured screens";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SIZE_MISMATCH_label" = "所选尺寸与任何已配置的屏幕都不匹配";
 /* The button title for the button that resizes the slides to match the available screen size */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SIZE_MISMATCH_BUTTON_title" = "Resize";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SIZE_MISMATCH_BUTTON_title" = "调整大小";
 /* The text in the size popup button when no size is selected. This should never happen but this text is to cover the possibility it does. */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_NO_SIZE_title" = "No Size";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_NO_SIZE_title" = "无大小";
 /* Header in the slide size popup menu for a list of output sizes configured in ProPresenter */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SCREEN_SIZE_placeholder" = "Screen Size";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SCREEN_SIZE_placeholder" = "屏幕尺寸";
 /* Header in the slide size popup menu for a list of common screen sizes (1920x1080 for example) */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COMMON_SCREEN_SIZES_HEADER_label" = "Common Sizes";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COMMON_SCREEN_SIZES_HEADER_label" = "常用尺寸";
 /* Title for the menu item that allows the user to enter a custom size for their slide */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_CUSTOM_SCREEN_SIZE_ITEM_title" = "Custom Size…";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_CUSTOM_SCREEN_SIZE_ITEM_title" = "自定义大小…";
 /* Instructions for the custom size dialog that lets the user set a custom slide width and height */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_CUSTOM_SIZE_DESCRIPTION_label" = "Enter a width and height for the slide.";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_CUSTOM_SIZE_DESCRIPTION_label" = "输入幻灯片的宽度和高度.";
 /* Instructions for the window that lets the user resize their slide to the resolution of one of their screens */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SELECT_SCREEN_SIZE_label" = "Select a slide size:";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_SELECT_SCREEN_SIZE_label" = "选择幻灯片大小:";
 /* Label for the section of the inspector that controls the default transition for the presentation */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_TRANSITION_HEADER_label" = "Transition";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_TRANSITION_HEADER_label" = "过渡";
 /* Title for the button to choose a presentation's transition */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_CHOOSE_TRANSITION_BUTTON_title" = "Choose Transition";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_CHOOSE_TRANSITION_BUTTON_title" = "选择过渡";
 /* Header for the copyright section */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_HEADER_label" = "Copyright";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_HEADER_label" = "版权";
 /* Label for the title of the copyrighted material */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_TITLE_label" = "Title";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_TITLE_label" = "标题";
 /* Label for the artist field of the copyright information */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_ARTIST_label" = "Artist";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_ARTIST_label" = "艺术家";
 /* Label for the author field of the copyright information */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_AUTHOR_label" = "Author";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_AUTHOR_label" = "作者";
 /* Label for the publisher of the copyrighted material */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_PUBLISHER_label" = "Publisher";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_PUBLISHER_label" = "发行人";
 /* Label for the CCLI number of the copyrighted material */
 "EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_CCLI_NUMBER_label" = "CCLI #";
 /* Label for the copyright year */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_YEAR_label" = "Year";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_YEAR_label" = "年";
 /* Title for the checkbox that allows the user to decide whether or not to display copyright information on the output */
-"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_DISPLAY_COPYRIGHT_BUTTON_title" = "Display Copyright";
+"EDITOR_PRESENTATION_PRESENTATION_INSPECTOR_COPYRIGHT_DISPLAY_COPYRIGHT_BUTTON_title" = "显示版权";
 
 /* Title for the slide inspector tab */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_TAB_title" = "Slide";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_TAB_title" = "幻灯片";
 /* Title for the checkbox that enables or disables the slide */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_ENABLED_BUTTON_title" = "Enabled";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_ENABLED_BUTTON_title" = "已启用";
 /* Title for the hotkey text field */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_HOTKEY_label" = "Hot Key";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_HOTKEY_label" = "热键";
 /* Header for the inspector section that allows the user to put a label on their slide */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_LABEL_label" = "Label";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_LABEL_label" = "标签";
 /* Title for the menu item to create a new custom label */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_NEW_LABEL_title" = "New Label";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_NEW_LABEL_title" = "新标签";
 /* Title for the checkbox that enables a slide background color */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_BACKGROUND_BUTTON_title" = "Background";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_BACKGROUND_BUTTON_title" = "背景";
 /* Header for the chord chart section */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_HEADER_label" = "Chord Chart";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_HEADER_label" = "和弦图";
 /* Title for button that shows a file open panel to let the user pick a chord chart */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_CHOOSE_BUTTON_title" = "Choose…";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_CHOOSE_BUTTON_title" = "选择…";
 /* Tooltip for button that shows a file open panel to let the user pick a chord chart */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_CHOOSE_BUTTON_tooltip" = "Choose a new chord chart";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_CHOOSE_BUTTON_tooltip" = "选择一个新的和弦图";
 /* Title for the file open panel to pick a chord chart */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_OPEN_PANEL_title" = "Select a Chord Chart";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_OPEN_PANEL_title" = "选择一个和弦图";
 /* Title for the menu item that opens a popover to show a bigger version of the selected chord chart */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_PREVIEW_ITEM_title" = "Preview";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_CHORD_CHART_PREVIEW_ITEM_title" = "预览";
 /* Title for the drop down that allows the user to change slide media action behavior to foreground or background */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_BEHAVIOR_title" = "Media Behavior";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_BEHAVIOR_title" = "媒体动作";
 /* Title for the drop down that allows the user to change slide live video media action behavior to foreground, background, live video */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_VIDEO_INPUT_BEHAVIOR_title" = "Video Input Behavior";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_VIDEO_INPUT_BEHAVIOR_title" = "视频输入动作";
 /* Title for the checkbox that enables or disables always re-triggering for slide media actions */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_ALWAYS_RETRIGGER_title" = "Always Retrigger";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_ALWAYS_RETRIGGER_title" = "总是触发";
 /* Header title for the media action section in the slide inspector */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_MEDIA_ACTION_HEADER_title" = "Media Action";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_MEDIA_ACTION_HEADER_title" = "媒体动作";
 /* Header title for the media action section in the slide inspector */
-"EDITOR_PRESENTATION_SLIDE_INSPECTOR_VIDEO_INPUT_ACTION_HEADER_title" = "Video Input Action";
+"EDITOR_PRESENTATION_SLIDE_INSPECTOR_VIDEO_INPUT_ACTION_HEADER_title" = "视频输入动作";
 
 /* Title for the shape inspector tab */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_TAB_title" = "Shape";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_TAB_title" = "形状";
 
 /* Label for the slide element's position controls, which are the X and Y coordinates */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_POSITION_label" = "Position";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_POSITION_label" = "位置";
 /* Label for the slide element's size controls, which are its width and height */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SIZE_label" = "Size";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SIZE_label" = "尺寸";
 /* Tooltip for the button that ensures width and height are locked relative to each other, so the shape's width to height ratio doesn't change */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_ASPECT_RATIO_LOCK_BUTTON_tooltip" = "Preserve Aspect Ratio";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_ASPECT_RATIO_LOCK_BUTTON_tooltip" = "锁定宽高比";
 /* Tooltip shown over the disabled height control when the user sets the height to automatically adjust based on the size of its text */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_HEIGHT_CHANGE_DISABLED_tooltip" = "One or more selected element's height is determined by text. Disable Text Scaling in the text tab to manually set height.";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_HEIGHT_CHANGE_DISABLED_tooltip" = "一个或多个选定元素的高度由文本确定. 在“文本”选项卡中禁用“文本缩放”以手动设置高度.";
 /* Label for transformations that can be applied to the shape */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_TRANSFORM_label" = "Transform";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_TRANSFORM_label" = "变换";
 /* Label for the control for the shape's rotation */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_ROTATION_CONTROL_title" = "Rotation";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_ROTATION_CONTROL_title" = "旋转";
 /* Tooltip for the button that flips the shape horizontally */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FLIP_HORIZONTALLY_BUTTON_tooltip" = "Flip Horizontally";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FLIP_HORIZONTALLY_BUTTON_tooltip" = "水平翻转";
 /* Tooltip for the button that flips the shape vertically */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FLIP_VERTICALLY_BUTTON_tooltip" = "Flip Vertically";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FLIP_VERTICALLY_BUTTON_tooltip" = "垂直翻转";
 
 /* Label for the checkbox that enables a shape's fill, which fills the bounds of the shape with a configurable color, image, video, etc… */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_label" = "Fill";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_label" = "填充";
 /* Title for the control which changes the angle between two colors in a color gradient */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_GRADIENT_ANGLE_CONTROL_title" = "Angle";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_GRADIENT_ANGLE_CONTROL_title" = "角度";
 /* Title for button that enables the custom scale editor for media fills */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_EDIT_SCALE_BUTTON_title" = "Edit Scale";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_EDIT_SCALE_BUTTON_title" = "编辑比例";
 
 /* Placeholder when no file URL was selected */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_NO_URL_placeholder" = "No URL";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_NO_URL_placeholder" = "无URL";
 /* Placeholder when multiple items are selected with different URLs */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_MULTIPLE_URLS_placeholder" = "Multiple URLs";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_MULTIPLE_URLS_placeholder" = "多个URL";
 /* Alert text shown when the user inputs an invalid URL */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_INVALID_URL_alert" = "Invalid URL";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_INVALID_URL_alert" = "无效的URL";
 /* Alert text shown when an audio file is added to the editor */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_AUDIO_NOT_SUPPORTED_alert" = "Audio files are not supported";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_AUDIO_NOT_SUPPORTED_alert" = "不支持音频文件";
 /* Informative text shown within an alert for when the user inputs an invalid URL */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_INVALID_URL_info" = "Please enter a valid URL to set a web fill";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FILL_INVALID_URL_info" = "请输入有效的URL以设置网页填充";
 /* Label for the current URL when no URL is selected */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_NO_FILE_SELECTED_label" = "No File Selected";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_NO_FILE_SELECTED_label" = "未选择文件";
 /* Title for button which allows the user to select a media file */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_CHOOSE_FILE_BUTTON_title" = "Choose";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_CHOOSE_FILE_BUTTON_title" = "选择";
 /* Title for button which allows the user to replace their selected media file with a different media file */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_REPLACE_FILE_BUTTON_title" = "Replace";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_REPLACE_FILE_BUTTON_title" = "替换";
 
 
 /* Label for the control that changes the opacity of the shape */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_OPACITY_label" = "Opacity";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_OPACITY_label" = "不透明度";
 
 /* Label for the checkbox that enables stroke around a shape */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_STROKE_label" = "Stroke";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_STROKE_label" = "描边";
 /* Label for the control for the stroke's width */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_STROKE_WIDTH_label" = "Width";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_STROKE_WIDTH_label" = "宽度";
 /* Label for the control for the stroke's style (changes the line from solid to dashed, for example) */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_STROKE_STYLE_label" = "Style";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_STROKE_STYLE_label" = "样式";
 
 /* Label for the checkbox that enables a shadow for the shape */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_label" = "Shadow";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_label" = "阴影";
 /* Label for the control for how blurry the shadow is */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_BLUR_label" = "Blur";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_BLUR_label" = "模糊";
 /* Label for the control for how opaque the shadow is */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_OPACITY_label" = "Opacity";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_OPACITY_label" = "不透明度";
 /* Label for the control for the angle at which the shadow is cast */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_ANGLE_label" = "Angle";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_ANGLE_label" = "角度";
 /* Label for the control for the distance between the shape and its shadow */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_OFFSET_label" = "Offset";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_SHADOW_OFFSET_label" = "偏移";
 
 /* Label for the checkbox that enables the edges of a shape to be feathered, or softened */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FEATHERING_label" = "Feathering";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_FEATHERING_label" = "羽化";
 
 /* Label for the checkbox that enables a visibility link, so this shape will show or hide itself based on configurable conditions */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_label" = "Visibility";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_label" = "能见度";
 /* Label for the visibility link condition */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_SHOWN_WHEN_label" = "Object is shown when:";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_SHOWN_WHEN_label" = "如下情况下可见:";
 /* Menu item for showing the slide element when all of the specified conditions are met */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_ALL_CONDITIONS_MET_title" = "All of the following conditions are met";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_ALL_CONDITIONS_MET_title" = "满足以下所有条件";
 /* Menu item for showing the slide element when any of the specified conditions are met */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_ANY_CONDITIONS_MET_title" = "Any of the following conditions are met";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_ANY_CONDITIONS_MET_title" = "满足任一条件";
 /* Menu item for showing the slide element when none of the specified conditions are met */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_NO_CONDITIONS_MET_title" = "None of the following conditions are met";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_NO_CONDITIONS_MET_title" = "不满足任一条件";
 /* Placeholder menu item for when multiple slide elements are selected with different "Object is shown when:" selections */
-"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_MULTIPLE_CONDITIONS_SELECTED_label" = "Multiple Conditions Selected";
+"EDITOR_PRESENTATION_SHAPE_INSPECTOR_VISIBILITY_MULTIPLE_CONDITIONS_SELECTED_label" = "选择了多个条件";
 
 
 /* Title for the text inspector */
-"EDITOR_TEXT_INSPECTOR_TAB_title" = "Text";
+"EDITOR_TEXT_INSPECTOR_TAB_title" = "文本";
 /* Title for the build inspector */
-"EDITOR_BUILD_INSPECTOR_TAB_title" = "Build";
+"EDITOR_BUILD_INSPECTOR_TAB_title" = "构建";
 
 /* Title for button that copies the text style from the selected slide element */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_COPY_STYLE_BUTTON_title" = "Copy Style";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_COPY_STYLE_BUTTON_title" = "复制样式";
 /* Title for button that pastes the text style to the selected slide elements*/
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_PASTE_STYLE_BUTTON_title" = "Paste Style";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_PASTE_STYLE_BUTTON_title" = "粘贴样式";
 
 /* Title for the checkbox for text strikethrough */
-"EDITOR_PRESENTATION_TEXT_POPOVER_STRIKETHROUGH_BUTTON_title" = "Strikethrough";
+"EDITOR_PRESENTATION_TEXT_POPOVER_STRIKETHROUGH_BUTTON_title" = "删除线";
 /* Label for the control that sets capitalization style */
-"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_label" = "Capitalization";
+"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_label" = "大写";
 /* Title for the menu item which sets no capitalization transform */
-"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_NONE_title" = "None";
+"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_NONE_title" = "无";
 /* Title for the menu item which sets all letters to be capitalized */
-"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_ALL_CAPS_title" = "All Caps";
+"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_ALL_CAPS_title" = "全部大写";
 /* Title for the menu item which sets all letters to be shown as small capital letters */
-"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_SMALL_CAPS_title" = "Small Caps";
+"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_SMALL_CAPS_title" = "全部小写";
 /* Title for the menu item which capitalizes all significant words in the text */
-"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_TITLE_CASE_title" = "Title Case";
+"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_TITLE_CASE_title" = "标题样式";
 /* Title for the menu item which capitalizes all words in the text */
-"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_START_CASE_title" = "Start Case";
+"EDITOR_PRESENTATION_TEXT_POPOVER_CAPITALIZATION_START_CASE_title" = "起始样式";
 /* Label for the control which modifies the text baseline (raising or lowering the text) */
-"EDITOR_PRESENTATION_TEXT_POPOVER_BASELINE_label" = "Baseline";
+"EDITOR_PRESENTATION_TEXT_POPOVER_BASELINE_label" = "基准线";
 /* Label for the control which modifies the space in between characters */
-"EDITOR_PRESENTATION_TEXT_POPOVER_CHARACTER_SPACING_label" = "Character Spacing";
+"EDITOR_PRESENTATION_TEXT_POPOVER_CHARACTER_SPACING_label" = "字符间距";
 /* Label for the control which modifies the height of each line */
-"EDITOR_PRESENTATION_TEXT_POPOVER_LINE_HEIGHT_label" = "Line Height";
+"EDITOR_PRESENTATION_TEXT_POPOVER_LINE_HEIGHT_label" = "线高";
 /* Label for the control which modifies the space between each line */
-"EDITOR_PRESENTATION_TEXT_POPOVER_LINE_SPACING_label" = "Line Spacing";
+"EDITOR_PRESENTATION_TEXT_POPOVER_LINE_SPACING_label" = "行间距";
 /* Label for the control which modifies the space between each paragraph */
-"EDITOR_PRESENTATION_TEXT_POPOVER_PARAGRAPH_SPACING_label" = "Paragraph Spacing";
+"EDITOR_PRESENTATION_TEXT_POPOVER_PARAGRAPH_SPACING_label" = "段落间距";
 /* Label for the controls which change the text margins within the selected slide element */
-"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_label" = "Margins";
+"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_label" = "边缘";
 /* Label for the control for the left text margin */
-"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_LEFT_label" = "Left";
+"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_LEFT_label" = "左";
 /* Label for the control for the top text margin */
-"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_TOP_label" = "Top";
+"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_TOP_label" = "上";
 /* Label for the control for the bottom text margin */
-"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_BOTTOM_label" = "Bottom";
+"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_BOTTOM_label" = "下";
 /* Label for the control for the right text margin */
-"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_RIGHT_label" = "Right";
+"EDITOR_PRESENTATION_TEXT_POPOVER_MARGINS_RIGHT_label" = "右";
 
 /* Menu item for no text scaling mode */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_NONE_title" = "No text scaling";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_NONE_title" = "无文字缩放";
 /* Menu item for automatically setting the slide element's height to fit the text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_ADJUST_CONTAINER_HEIGHT_title" = "Fit container to text";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_ADJUST_CONTAINER_HEIGHT_title" = "使容器适合文本";
 /* Menu item for increasing the text size to fill the slide element */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_SCALE_FONT_UP_title" = "Scale text up to fit container";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_SCALE_FONT_UP_title" = "放大文字以适合容器";
 /* Menu item for decreasing the text size to fit the slide element */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_SCALE_FONT_DOWN_title" = "Scale text down to fit container";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_SCALE_FONT_DOWN_title" = "缩小文字以适合容器";
 /* Menu item for increasing and decreasing the text size to fit the slide element */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_SCALE_FONT_UP_DOWN_title" = "Scale text up or down to fit container";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_SCALING_SCALE_FONT_UP_DOWN_title" = "放大或缩小文本以适合容器";
 
 /* Label for the checkbox that enables stroke on text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_STROKE_label" = "Stroke";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_STROKE_label" = "描边";
 /* Label for the control which changes the width of the text stroke */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_STROKE_WIDTH_label" = "Width";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_STROKE_WIDTH_label" = "宽度";
 
 /* Label for the checkbox which enables "Lines Only", meaning the element's fill is displayed only behind lines of text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_label" = "Lines Only";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_label" = "只有行";
 /* Label for the section of controls that affect vertical placement */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_VERTICAL_label" = "Vertical";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_VERTICAL_label" = "垂直的";
 /* Label for the control which lets the user add or remove height from the mask */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_VERTICAL_PADDING_label" = "Padding";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_VERTICAL_PADDING_label" = "空白";
 /* Label for the control which lets the user adjust the Y position of the mask */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_VERTICAL_ALIGNMENT_label" = "Alignment";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_VERTICAL_ALIGNMENT_label" = "对齐";
 /* Label for the section of controls that affect horizontal placement */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_HORIZONTAL_label" = "Horizontal";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_HORIZONTAL_label" = "水平的";
 /* Label for the control which lets the user add or remove width from the mask */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_HORIZONTAL_PADDING_label" = "Padding";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_HORIZONTAL_PADDING_label" = "空白";
 /* Label for the control which lets the user adjust the X position of the mask */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_HORIZONTAL_ALIGNMENT_label" = "Alignment";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_HORIZONTAL_ALIGNMENT_label" = "对齐";
 /* Label for the control which adjusts the style of the line mask, which is how we calculate the width of the fill */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_STYLE_label" = "Style";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_STYLE_label" = "样式";
 /* Menu item title for the option which spans the width of the element */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_STYLE_FULL_WIDTH_title" = "Full Width";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_STYLE_FULL_WIDTH_title" = "全部宽度";
 /* Menu item title for the option which spans the width of the text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_STYLE_LINE_WIDTH_title" = "Line Width";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_STYLE_LINE_WIDTH_title" = "行宽";
 /* Menu item title for the option which spans the width of the widest line of text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_STYLE_MAX_LINE_WIDTH_title" = "Max Line Width";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_STYLE_MAX_LINE_WIDTH_title" = "最大行宽";
 
 /* Label for the checkbox which enables a text list */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_label" = "List";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_label" = "列表";
 /* Label for the control which changes the size of the list bullets */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_SIZE_label" = "Size";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_SIZE_label" = "尺寸";
 /* Label for the section of this view that allows the user to change indentation settings */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_INDENT_label" = "Indent";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_INDENT_label" = "缩进";
 /* Label for the control that adjusts the indent for the list bullet */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_INDENT_BULLET_label" = "Bullet";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_INDENT_BULLET_label" = "符号";
 /* Label for the control that adjusts the indent for the actual text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_INDENT_TEXT_label" = "Text";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LIST_INDENT_TEXT_label" = "文本";
 
 /* Label for the checkbox which enables a text link, setting the text of this element to that of a clock, timer, other slide element, etc… */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_label" = "Linked Text";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_label" = "链接文字";
 /* Label for the data source for the text link */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_SOURCE_label" = "Source";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_SOURCE_label" = "来源";
 
 /* Title for the no text transform on the source text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_TRANSFORM_NONE_title" = "No Transform";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_TRANSFORM_NONE_title" = "无变换";
 /* Title for the text transform which removes line returns from the source text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_TRANSFORM_REMOVE_LINE_RETURNS_title" = "Remove Line Returns";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_TRANSFORM_REMOVE_LINE_RETURNS_title" = "移除换行?";
 /* Title for the text transform which puts a line break after each word from the source text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_TRANSFORM_ONE_WORD_PER_LINE_title" = "One Word Per Line";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_TRANSFORM_ONE_WORD_PER_LINE_title" = "每行一个词";
 /* Title for the text transform which puts a line break after each character from the source text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_TRANSFORM_ONE_CHARACTER_PER_LINE_title" = "One Character Per Line";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TEXT_TRANSFORM_ONE_CHARACTER_PER_LINE_title" = "每行一个字符";
 
 /* Label for the header of date/time format in timer and system clock links */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_FORMAT_label" = "Format";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_FORMAT_label" = "格式";
 /* Label for the date format used in timer and system clock links */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_DATE_label" = "Date";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_DATE_label" = "日期";
 /* Item for the date format that does not display a date on the timer/clock text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_DATE_NONE_ITEM_title" = "No Date";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_DATE_NONE_ITEM_title" = "无日期";
 /* Label for the time format used in timer and system clock links */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_TIME_label" = "Time";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_TIME_label" = "时间";
 /* Item for the time format that does not display a time on the timer/clock text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_TIME_NONE_ITEM_title" = "No Time";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_TIME_NONE_ITEM_title" = "无时间";
 /* Title for the checkbox that enables 24-hour time */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_24_HOUR_TIME_BUTTON_title" = "24 Hour";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_24_HOUR_TIME_BUTTON_title" = "24小时";
 /* Label for the header for the color triggers table - these change the color when the time hits a certain value */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_COLOR_TRIGGERS_label" = "Color Triggers";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_COLOR_TRIGGERS_label" = "颜色触发器";
 /* Placeholder label when multiple items are selected with different color triggers */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_MULTIPLE_COLOR_TRIGGERS_label" = "Multiple Color Trigger Values";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_MULTIPLE_COLOR_TRIGGERS_label" = "多个颜色触发值";
 /* Label for the time column in the color triggers table */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_COLOR_TRIGGERS_NAME_label" = "Time";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_COLOR_TRIGGERS_NAME_label" = "时间";
 /* Label for the color column in the color triggers table */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_COLOR_TRIGGERS_COLOR_label" = "Color";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_TIMER_COLOR_TRIGGERS_COLOR_label" = "颜色";
 /* Label for the auto advance destination */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_AUTO_ADANCE_DESTINATION_label" = "Destination";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINKED_AUTO_ADANCE_DESTINATION_label" = "目的地";
 
 /* Label for how fast the text ticker scrolls text across the screen */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_SCROLL_SPEED_label" = "Scroll Speed";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_SCROLL_SPEED_label" = "滚动速度";
 /* Label for controls regarding text ticker looping the text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_LOOP_label" = "Loop";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_LOOP_label" = "循环";
 /* Title for button that enables the loop on the text ticker */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_LOOP_ENABLE_BUTTON_title" = "Enable:";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_LOOP_ENABLE_BUTTON_title" = "启用:";
 /* Label for the delay between text looping in the text ticker */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_LOOP_DELAY_label" = "Delay";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_LOOP_DELAY_label" = "延迟";
 /* Label for the delimiter between different items in the source text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_DELIMITER_label" = "Delimiter";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_DELIMITER_label" = "定界符";
 /* Label for the section where the user configures the text source - it could be manually typed text, an RSS feed, or a text file */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_SOURCE_label" = "Source";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_SOURCE_label" = "来源";
 /* Placeholder for the text field where the user can enter a URL to their RSS feed */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_SOURCE_RSS_URL_placeholder" = "Feed URL";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_SOURCE_RSS_URL_placeholder" = "订阅URL";
 /* Label for the popup button where the user can decide what should be shown in the text ticker from the RSS feed */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_SOURCE_RSS_CONTENT_label" = "Content";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_SOURCE_RSS_CONTENT_label" = "内容";
 /* Option for the RSS text ticker source that shows both the title and description of each item in the feed */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_RSS_TITLE_AND_DESCRIPTION_title" = "Title and Description";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_RSS_TITLE_AND_DESCRIPTION_title" = "标题和说明";
 /* Option for the RSS text ticker source that shows only the title of each item in the feed */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_RSS_TITLE_title" = "Title";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_TEXT_TICKER_RSS_TITLE_title" = "标题";
 
 /* Title for the button which shows and hides the slide notes view */
-"EDITOR_PRESENTATION_SLIDE_NOTES_BUTTON_title" = "Slide Notes";
-"EDITOR_PRESENTATION_SLIDE_NOTES_BUTTON_tooltip" = "Toggle visibility of the slide notes editor";
+"EDITOR_PRESENTATION_SLIDE_NOTES_BUTTON_title" = "幻灯片备注";
+"EDITOR_PRESENTATION_SLIDE_NOTES_BUTTON_tooltip" = "切换幻灯片注释编辑器的可见性";
 
 /* Label for the slide notes section */
-"EDITOR_PRESENTATION_SLIDE_NOTES_HEADER_label" = "Slide Notes";
+"EDITOR_PRESENTATION_SLIDE_NOTES_HEADER_label" = "幻灯片备注";
 /* Label for the slide notes background color control */
-"EDITOR_PRESENTATION_SLIDE_NOTES_BACKGROUND_COLOR_label" = "Background Color:";
+"EDITOR_PRESENTATION_SLIDE_NOTES_BACKGROUND_COLOR_label" = "背景颜色:";
 
 /* Title for the theme slide inspector tab */
-"EDITOR_THEME_SLIDE_INSPECTOR_TAB_title" = "Theme Slide";
+"EDITOR_THEME_SLIDE_INSPECTOR_TAB_title" = "主题幻灯片";
 /* Title for the theme slide background color */
-"EDITOR_THEME_SLIDE_INSPECTOR_BACKGROUND_title" = "Background";
+"EDITOR_THEME_SLIDE_INSPECTOR_BACKGROUND_title" = "背景";
 /* Title for the theme slide size */
-"EDITOR_THEME_SLIDE_INSPECTOR_SIZE_title" = "Size";
+"EDITOR_THEME_SLIDE_INSPECTOR_SIZE_title" = "尺寸";
 
 /* Title for the default stage layout name, used when creating a new stage layout */
-"EDITOR_STAGE_DEFAULT_LAYOUT_NAME_title" = "Stage Layout";
+"EDITOR_STAGE_DEFAULT_LAYOUT_NAME_title" = "舞台布局";
 /* Title for the stage layout inspector tab */
-"EDITOR_STAGE_LAYOUT_INSPECTOR_TAB_title" = "Layout";
+"EDITOR_STAGE_LAYOUT_INSPECTOR_TAB_title" = "布局";
 /* Title for the stage layout background color */
-"EDITOR_STAGE_LAYOUT_INSPECTOR_BACKGROUND_title" = "Background";
+"EDITOR_STAGE_LAYOUT_INSPECTOR_BACKGROUND_title" = "背景";
 /* Title for the stage layout size */
-"EDITOR_STAGE_LAYOUT_INSPECTOR_SIZE_title" = "Size";
+"EDITOR_STAGE_LAYOUT_INSPECTOR_SIZE_title" = "尺寸";
 
 /* Title for the prop inspector tab */
-"EDITOR_PROP_INSPECTOR_TAB_title" = "Prop";
+"EDITOR_PROP_INSPECTOR_TAB_title" = "道具";
 /* Placeholder text for the editable text field for the selected prop's name */
-"EDITOR_PROP_INSPECTOR_NAME_placeholder" = "Prop Name";
+"EDITOR_PROP_INSPECTOR_NAME_placeholder" = "道具名称";
 /* Title for the prop background color */
-"EDITOR_PROP_INSPECTOR_BACKGROUND_title" = "Background";
+"EDITOR_PROP_INSPECTOR_BACKGROUND_title" = "背景";
 /* Title for the prop size */
-"EDITOR_PROP_INSPECTOR_SIZE_title" = "Size";
+"EDITOR_PROP_INSPECTOR_SIZE_title" = "尺寸";
 /* Alert shown when resizing props */
-"EDITOR_PROP_INSPECTOR_RESIZE_alert" = "Changing the size will be applied to all props. Do you want to continue?";
+"EDITOR_PROP_INSPECTOR_RESIZE_alert" = "更改大小将应用于所有道具。你要继续吗?";
 /* Title for the prop transition */
-"EDITOR_PROP_INSPECTOR_TRANSITION_title" = "Transition";
+"EDITOR_PROP_INSPECTOR_TRANSITION_title" = "过渡";
 /* Title for the default Prop name, used when creating a new Prop */
-"EDITOR_PROP_NEW_PROP_NAME_title" = "Prop";
+"EDITOR_PROP_NEW_PROP_NAME_title" = "道具";
 
 /* Alert shown when the user tries to resize a prop */
-"EDITOR_PROP_RESIZE_ALERT_message" = "Changing the size will be applied to all props. Do you want to continue?";
+"EDITOR_PROP_RESIZE_ALERT_message" = "更改大小将应用于所有道具。你要继续吗?";
 /* Button in the alert that continues with the resize operation */
-"EDITOR_PROP_RESIZE_ALERT_RESIZE_BUTTON_title" = "Resize";
+"EDITOR_PROP_RESIZE_ALERT_RESIZE_BUTTON_title" = "调整大小";
 
 /* Title for the mask inspector tab */
-"EDITOR_MASK_INSPECTOR_TAB_title" = "Mask";
+"EDITOR_MASK_INSPECTOR_TAB_title" = "遮罩";
 /* Placeholder text for the editable text field for the selected mask's name */
-"EDITOR_MASK_INSPECTOR_NAME_placeholder" = "Mask Name";
+"EDITOR_MASK_INSPECTOR_NAME_placeholder" = "遮罩名称";
 /* Title for the mask size */
-"EDITOR_MASK_INSPECTOR_SIZE_title" = "Size";
+"EDITOR_MASK_INSPECTOR_SIZE_title" = "尺寸";
 /* Title for the default Mask name, used when creating a new Mask */
-"EDITOR_MASK_NEW_MASK_NAME_title" = "Mask";
+"EDITOR_MASK_NEW_MASK_NAME_title" = "遮罩";
 
 /* Title for the CCLI inspector tab */
-"EDITOR_CCLI_INSPECTOR_TAB_title" = "Slide";
+"EDITOR_CCLI_INSPECTOR_TAB_title" = "幻灯片";
 /* Alert shown when the user attempts to remove the only CCLI linked element */
-"EDITOR_CCLI_INSPECTOR_DELETE_DENIED_ALERT_message" = "You cannot delete the last CCLI linked item from the CCLI slide";
-"EDITOR_CCLI_INSPECTOR_DELETE_DENIED_ALERT_info" = "The CCLI slide must have at least one linked item to display CCLI information";
+"EDITOR_CCLI_INSPECTOR_DELETE_DENIED_ALERT_message" = "您不能从CCLI幻灯片中删除最后一个CCLI链接的项目";
+"EDITOR_CCLI_INSPECTOR_DELETE_DENIED_ALERT_info" = "CCLI幻灯片必须至少具有一个链接项才能显示CCLI信息";
 
 /* The title of an element fill that is a solid color */
-"GRAPHIC_FILL_COLOR_title" = "Color";
+"GRAPHIC_FILL_COLOR_title" = "颜色";
 /* The title of an element fill that is a gradient between two colors */
-"GRAPHIC_FILL_GRADIENT_title" = "Gradient";
+"GRAPHIC_FILL_GRADIENT_title" = "坡度";
 /* The title of an element fill that is a media file (image, video) */
-"GRAPHIC_FILL_MEDIA_title" = "Media";
+"GRAPHIC_FILL_MEDIA_title" = "媒体";
 /* The title of an element fill that is a webpage */
-"GRAPHIC_FILL_WEB_title" = "Web";
+"GRAPHIC_FILL_WEB_title" = "网页";
 /* The title of an element fill that is a video input */
-"GRAPHIC_FILL_VIDEO_INPUT_title" = "Video Input";
+"GRAPHIC_FILL_VIDEO_INPUT_title" = "视频输入";
 /* The title of an element fill that is from another slide element */
-"GRAPHIC_FILL_LINKED_OBJECT_title" = "Linked Object";
+"GRAPHIC_FILL_LINKED_OBJECT_title" = "链接对象";
 
 /* Placeholder for a text link that hasn't been configured yet */
-"TEXT_LINK_NONE_SELECTED_PLACEHOLDER_title" = "Choose Type";
+"TEXT_LINK_NONE_SELECTED_PLACEHOLDER_title" = "选择类型";
 /* Name for a text link to another slide object */
-"TEXT_LINK_SLIDE_OBJECT_title" = "Slide Object";
+"TEXT_LINK_SLIDE_OBJECT_title" = "滑动对象";
 
 /* Name for a text link to a timer */
-"TEXT_LINK_COUNTDOWN_TIMER_title" = "Timer";
+"TEXT_LINK_COUNTDOWN_TIMER_title" = "计时器";
 /* Name for a text link menu item to a list of timers */
-"TEXT_LINK_COUNTDOWN_TIMERS_title" = "Timers";
+"TEXT_LINK_COUNTDOWN_TIMERS_title" = "计时器";
 /* Name for a text link to the system clock */
-"TEXT_LINK_SYSTEM_CLOCK_title" = "System Clock";
+"TEXT_LINK_SYSTEM_CLOCK_title" = "系统时钟";
 /* Name for a text link to a text ticker (text which scrolls across the screen) */
-"TEXT_LINK_TEXT_TICKER_title" = "Text Ticker";
+"TEXT_LINK_TEXT_TICKER_title" = "文字浮带";
 /* Inline label for text ticker file source */
-"TEXT_LINK_TEXT_TICKER_FILE_SOURCE_title" = " From File";
+"TEXT_LINK_TEXT_TICKER_FILE_SOURCE_title" = "从文件";
 /* Inline label for text ticker RSS source */
-"TEXT_LINK_TEXT_TICKER_RSS_SOURCE_title" = " From RSS Feed";
+"TEXT_LINK_TEXT_TICKER_RSS_SOURCE_title" = "从RSS订阅";
 /* Name for a text link to a slide group's text*/
-"TEXT_LINK_GROUP_NAME_title" = "Group";
+"TEXT_LINK_GROUP_NAME_title" = "组";
 /* Name for a text link to auto advance time remaining*/
-"TEXT_LINK_AUTO_ADVANCE_TIME_REMAINING_title" = "Auto Advance Time";
+"TEXT_LINK_AUTO_ADVANCE_TIME_REMAINING_title" = "自动前进时间";
 /* Title for a menu item with specific links to the current slide */
-"TEXT_LINK_CURRENT_SLIDE_title" = "Current Slide";
+"TEXT_LINK_CURRENT_SLIDE_title" = "当前幻灯片";
 /* Name for a text link to the current slide's text. Shown for stage layouts. */
-"TEXT_LINK_CURRENT_SLIDE_TEXT_title" = "Current Slide Text";
+"TEXT_LINK_CURRENT_SLIDE_TEXT_title" = "当前幻灯片文字";
 /* Name for a text link to the current slide's notes. Shown for stage layouts. */
-"TEXT_LINK_CURRENT_SLIDE_NOTES_title" = "Current Slide Notes";
+"TEXT_LINK_CURRENT_SLIDE_NOTES_title" = "当前幻灯片备注";
 /* Name for a text link to an element on the current slide matching a given name. Shown for stage layouts. */
-"TEXT_LINK_CURRENT_SLIDE_ELEMENT_MATCHING_NAME_title" = "Current Slide Element";
+"TEXT_LINK_CURRENT_SLIDE_ELEMENT_MATCHING_NAME_title" = "当前幻灯片元素";
 /* Placeholder for entering a name to match elements against. Shown for stage layouts. */
-"TEXT_LINK_ELEMENT_MATCHING_NAME_PLACEHOLDER_title" = "Matching Element Name";
+"TEXT_LINK_ELEMENT_MATCHING_NAME_PLACEHOLDER_title" = "匹配元素名称";
 /* Title for the option to preserve note formatting. Shown for stage layouts. */
-"TEXT_LINK_SLIDE_NOTES_PRESERVE_FORMAT_title" = "Preserve Notes Format";
+"TEXT_LINK_SLIDE_NOTES_PRESERVE_FORMAT_title" = "保留备注格式";
 /* Title for a menu item with specific links to the next slide */
-"TEXT_LINK_NEXT_SLIDE_title" = "Next Slide";
+"TEXT_LINK_NEXT_SLIDE_title" = "下一张幻灯片";
 /* Name for a text link to the next slide's text. Shown for stage layouts. */
-"TEXT_LINK_NEXT_SLIDE_TEXT_title" = "Next Slide Text";
+"TEXT_LINK_NEXT_SLIDE_TEXT_title" = "下一张幻灯片文字";
 /* Name for a text link to the next slide's notes. Shown for stage layouts. */
-"TEXT_LINK_NEXT_SLIDE_NOTES_title" = "Next Slide Notes";
+"TEXT_LINK_NEXT_SLIDE_NOTES_title" = "下一张幻灯片备注";
 /* Name for a text link to an element on the next slide matching a given name. Shown for stage layouts. */
-"TEXT_LINK_NEXT_SLIDE_ELEMENT_MATCHING_NAME_title" = "Next Slide Element";
+"TEXT_LINK_NEXT_SLIDE_ELEMENT_MATCHING_NAME_title" = "下一个幻灯片元素";
 /* Title for a menu item with specific links to the current slide's group text */
-"TEXT_LINK_GROUP_NAME_CURRENT_SLIDE_title" = "Current Slide";
+"TEXT_LINK_GROUP_NAME_CURRENT_SLIDE_title" = "当前幻灯片";
 /* Title for a menu item with specific links to the next slide's group text */
-"TEXT_LINK_GROUP_NAME_NEXT_SLIDE_title" = "Next Slide";
+"TEXT_LINK_GROUP_NAME_NEXT_SLIDE_title" = "下一张幻灯片";
 /* Title for a menu item with specific links to the next group text */
-"TEXT_LINK_GROUP_NAME_NEXT_GROUP_title" = "Next in Arrangement";
+"TEXT_LINK_GROUP_NAME_NEXT_GROUP_title" = "安排中的下一个";
 
 /* Name for a text link to the playlist item */
-"TEXT_LINK_PLAYLIST_ITEM_title" = "Playlist";
+"TEXT_LINK_PLAYLIST_ITEM_title" = "播放清单";
 /* Name for a text link to the current playlist source */
-"TEXT_LINK_PLAYLIST_ITEM_PARENT_PLAYLIST_title" = "Playlist Name";
+"TEXT_LINK_PLAYLIST_ITEM_PARENT_PLAYLIST_title" = "播放清单名称";
 /* Name for a text link to the playlist item source */
-"TEXT_LINK_PLAYLIST_ITEM_CURRENT_title" = "Current Item";
+"TEXT_LINK_PLAYLIST_ITEM_CURRENT_title" = "当前项";
 /* Name for a text link to the next playlist item source */
-"TEXT_LINK_PLAYLIST_ITEM_NEXT_title" = "Next Item";
+"TEXT_LINK_PLAYLIST_ITEM_NEXT_title" = "下一项";
 /* Name for a text link to the current header source */
-"TEXT_LINK_PLAYLIST_ITEM_CURRENT_HEADER_title" = "Current Header";
+"TEXT_LINK_PLAYLIST_ITEM_CURRENT_HEADER_title" = "当前标题";
 /* Name for a text link to the next header source */
-"TEXT_LINK_PLAYLIST_ITEM_NEXT_HEADER_title" = "Next Header";
+"TEXT_LINK_PLAYLIST_ITEM_NEXT_HEADER_title" = "下一个标题";
 /* Placeholder for a text link to the current playlist */
-"TEXT_LINK_PLAYLIST_ITEM_PARENT_PLAYLIST_PLACEHOLDER_title" = "Playlist Name";
+"TEXT_LINK_PLAYLIST_ITEM_PARENT_PLAYLIST_PLACEHOLDER_title" = "播放清单名称";
 /* Name for the option to display the arrangement name along with the playlist item */
-"TEXT_LINK_PLAYLIST_ITEM_SHOW_ARRANGEMENT_title" = "Show Arrangement";
+"TEXT_LINK_PLAYLIST_ITEM_SHOW_ARRANGEMENT_title" = "显示安排";
 /* Placeholder for a text link to either the current or next playlist item */
-"TEXT_LINK_PLAYLIST_ITEM_PLACEHOLDER_title" = "Playlist Item Name";
+"TEXT_LINK_PLAYLIST_ITEM_PLACEHOLDER_title" = "播放清单项目名称";
 /* Placeholder for a text link to either the current or next playlist header */
-"TEXT_LINK_PLAYLIST_HEADER_PLACEHOLDER_title" = "Header Name";
+"TEXT_LINK_PLAYLIST_HEADER_PLACEHOLDER_title" = "标题名称";
 /* Title for a menu item for showing the auto advance remaing time for presentation*/
-"TEXT_LINK_AUTO_ADVANCE_TIME_REMAINING_PRESENTATION_title" = "Presentation";
+"TEXT_LINK_AUTO_ADVANCE_TIME_REMAINING_PRESENTATION_title" = "展示";
 /* Title for a menu item for showing the auto advance remaing time for announcement*/
-"TEXT_LINK_AUTO_ADVANCE_TIME_REMAINING_ANNOUNCEMENT_title" = "Announcement";
+"TEXT_LINK_AUTO_ADVANCE_TIME_REMAINING_ANNOUNCEMENT_title" = "公告";
 /* Name for a text link to the presentation notes. Shown for stage layouts. */
-"TEXT_LINK_PRESENTATION_NOTES_title" = "Operator Notes";
+"TEXT_LINK_PRESENTATION_NOTES_title" = "操作员须知";
 /* Name for a text link to the capture session. Shown for stage layouts. */
-"TEXT_LINK_CAPTURE_title" = "Capture";
+"TEXT_LINK_CAPTURE_title" = "捕获";
 /* Title for a menu item with specific links to the capture session's status text */
-"TEXT_LINK_CAPTURE_STATUS_TEXT_title" = "Current Status";
+"TEXT_LINK_CAPTURE_STATUS_TEXT_title" = "当前状态";
 /* Title for a menu item with specific links to the capture session's elapsed time */
-"TEXT_LINK_CAPTURE_ELAPSED_TIME_title" = "Elapsed Time";
+"TEXT_LINK_CAPTURE_ELAPSED_TIME_title" = "已用时间";
 /* Placeholder for a text link to the capture session using the current status */
-"TEXT_LINK_CAPTURE_STATUS_PLACEHOLDER_title" = "Capture Status";
+"TEXT_LINK_CAPTURE_STATUS_PLACEHOLDER_title" = "捕获状态";
 /* Title for capture status text link when stream status is inactive */
-"TEXT_LINK_CAPTURE_STATUS_INACTIVE_title" = "Inactive";
+"TEXT_LINK_CAPTURE_STATUS_INACTIVE_title" = "不活跃";
 /* Title for capture status text link when stream status is active */
-"TEXT_LINK_CAPTURE_STATUS_ACTIVE_title" = "Active";
+"TEXT_LINK_CAPTURE_STATUS_ACTIVE_title" = "活跃";
 /* Title for capture status text link when stream status is caution */
-"TEXT_LINK_CAPTURE_STATUS_CAUTION_title" = "Caution";
+"TEXT_LINK_CAPTURE_STATUS_CAUTION_title" = "警告";
 /* Title for capture status text link when stream status is error */
-"TEXT_LINK_CAPTURE_STATUS_ERROR_title" = "Error";
+"TEXT_LINK_CAPTURE_STATUS_ERROR_title" = "错误";
 
 /* Name for a text link to display a slide count */
-"TEXT_LINK_SLIDE_COUNT_title" = "Slide Count";
+"TEXT_LINK_SLIDE_COUNT_title" = "幻灯片总数";
 /* Title for the option to display the current slide number */
-"TEXT_LINK_SLIDE_COUNT_CURRENT_title" = "Current";
+"TEXT_LINK_SLIDE_COUNT_CURRENT_title" = "当前";
 /* Title for the option to display the number of slide remaining */
-"TEXT_LINK_SLIDE_COUNT_REMAINING_title" = "Remaining";
+"TEXT_LINK_SLIDE_COUNT_REMAINING_title" = "剩余";
 /* Title for the option to display the total number of slides */
-"TEXT_LINK_SLIDE_COUNT_TOTAL_title" = "Total";
+"TEXT_LINK_SLIDE_COUNT_TOTAL_title" = "全部";
 
 /* Title for a text link to the stage message. Shown for stage layouts. */
-"TEXT_LINK_STAGE_MESSAGE_title" = "Stage Message";
+"TEXT_LINK_STAGE_MESSAGE_title" = "舞台消息";
 /* Title for the option to flash the stage message on the output when shown. Shown for stage layouts. */
-"TEXT_LINK_STAGE_MESSAGE_FLASH_CONDITION_title" = "Flash When Message Shown";
+"TEXT_LINK_STAGE_MESSAGE_FLASH_CONDITION_title" = "显示消息时闪烁";
 /* Title for the flash color option */
-"TEXT_LINK_STAGE_MESSAGE_FLASH_COLOR_title" = "Flash Color";
+"TEXT_LINK_STAGE_MESSAGE_FLASH_COLOR_title" = "闪烁颜色";
 
 /* Name for a text link to the remaining time on the currently playing video. Shown for stage layouts. */
-"TEXT_LINK_VIDEO_COUNTDOWN_title" = "Video Countdown";
+"TEXT_LINK_VIDEO_COUNTDOWN_title" = "视频倒计时";
 /* Option for the video countdown text link that doesn't show the current time remaining when the video is set to loop */
-"TEXT_LINK_VIDEO_COUNTDOWN_IGNORE_LOOPING_VIDEO_OPTION_title" = "Ignore Looping Videos";
+"TEXT_LINK_VIDEO_COUNTDOWN_IGNORE_LOOPING_VIDEO_OPTION_title" = "忽略循环播放的视频";
 
 /* Name for a text link to CCLI information. Shown for the CCLI editor. */
 "TEXT_LINK_CCLI_title" = "CCLI";
 
 /* Name for a fill link which shows the user's specified chord chart in the element */
-"FILL_LINK_CHORD_CHART_title" = "Chord Chart";
+"FILL_LINK_CHORD_CHART_title" = "和弦图";
 /* Name for a fill link which shows the currently displayed slide inside the element */
-"FILL_LINK_CURRENT_SLIDE_IMAGE_title" = "Current Slide Image";
+"FILL_LINK_CURRENT_SLIDE_IMAGE_title" = "当前幻灯片图像";
 /* Name for a fill link which shows the next slide inside the element */
-"FILL_LINK_NEXT_SLIDE_IMAGE_title" = "Next Slide Image";
+"FILL_LINK_NEXT_SLIDE_IMAGE_title" = "下一张幻灯片图片";
 /* Name for a fill link which shows the contents of a screen inside the element */
-"FILL_LINK_SCREEN_PREVIEW_title" = "Screen Preview";
+"FILL_LINK_SCREEN_PREVIEW_title" = "屏幕预览";
 /* Name for a fill link which shows the color of an arrangement group */
-"FILL_LINK_GROUP_COLOR_title" = "Group Color";
+"FILL_LINK_GROUP_COLOR_title" = "编组颜色";
 /* Name for a fill link which shows the color of the capture status */
-"FILL_LINK_CAPTURE_STATUS_COLOR_title" = "Capture Status Color";
+"FILL_LINK_CAPTURE_STATUS_COLOR_title" = "捕获状态颜色";
 
 /* Name for a fill link which shows the current Planning Center Live plan information inside the element */
-"FILL_LINK_PLANNING_CENTER_title" = "Planning Center Live";
+"FILL_LINK_PLANNING_CENTER_title" = "规划直播";
 /* Title for the Planning Center Live theme option */
-"FILL_LINK_PLANNING_CENTER_THEME_title" = "Theme";
+"FILL_LINK_PLANNING_CENTER_THEME_title" = "主题";
 /* Title for the light theme option */
-"FILL_LINK_PLANNING_CENTER_THEME_LIGHT_title" = "Light";
+"FILL_LINK_PLANNING_CENTER_THEME_LIGHT_title" = "浅色";
 /* Title for the dark theme option */
-"FILL_LINK_PLANNING_CENTER_THEME_DARK_title" = "Dark";
+"FILL_LINK_PLANNING_CENTER_THEME_DARK_title" = "深色";
 /* Title for the Planning Center Live time format option */
-"FILL_LINK_PLANNING_CENTER_TIME_FORMAT_title" = "Time Format";
+"FILL_LINK_PLANNING_CENTER_TIME_FORMAT_title" = "时间格式";
 /* Title for the full item length time format option */
-"FILL_LINK_PLANNING_CENTER_TIME_FORMAT_FULL_ITEM_LENGTH_title" = "Full Item Length";
+"FILL_LINK_PLANNING_CENTER_TIME_FORMAT_FULL_ITEM_LENGTH_title" = "完整时长";
 /* Title for the end item on time time format option */
-"FILL_LINK_PLANNING_CENTER_TIME_FORMAT_END_ITEM_ON_TIME_title" = "End Item on Time";
+"FILL_LINK_PLANNING_CENTER_TIME_FORMAT_END_ITEM_ON_TIME_title" = "到时结束项目";
 /* Title for the end service on time format option */
-"FILL_LINK_PLANNING_CENTER_TIME_FORMAT_END_SERVICE_ON_TIME_title" = "End Service on Time";
+"FILL_LINK_PLANNING_CENTER_TIME_FORMAT_END_SERVICE_ON_TIME_title" = "到时结束服务";
 
 /* Name for a fill link which mirrors the contents of another slide element */
-"FILL_LINK_SLIDE_OBJECT_title" = "Slide Object";
+"FILL_LINK_SLIDE_OBJECT_title" = "幻灯片对象";
 
 /* Placeholder for text ticker data source when the user hasn't configured it yet */
-"TEXT_TICKER_SOURCE_NONE_PLACEHOLDER_title" = "Select Source…";
+"TEXT_TICKER_SOURCE_NONE_PLACEHOLDER_title" = "选择来源…";
 /* Title for text ticker data source from an RSS feed */
-"TEXT_TICKER_SOURCE_RSS_FEED_title" = "RSS Feed";
+"TEXT_TICKER_SOURCE_RSS_FEED_title" = "RSS订阅";
 /* Title for text ticker data source from user-entered text */
-"TEXT_TICKER_SOURCE_TEXT_title" = "Text";
+"TEXT_TICKER_SOURCE_TEXT_title" = "文本";
 /* Title for text ticker data source from a text file */
-"TEXT_TICKER_SOURCE_FILE_title" = "File";
+"TEXT_TICKER_SOURCE_FILE_title" = "文件";
 
 /* Placeholder for visibility link type when the user hasn't configured it yet */
-"VISIBILITY_LINK_NONE_PLACEHOLDER_title" = "Choose Type";
+"VISIBILITY_LINK_NONE_PLACEHOLDER_title" = "选择类型";
 /* Title for a visibility link to another object */
-"VISIBILITY_LINK_SLIDE_OBJECT_title" = "Slide Object";
+"VISIBILITY_LINK_SLIDE_OBJECT_title" = "幻灯片对象";
 /* Title for a visibility link to a timer */
-"VISIBILITY_LINK_TIMER_title" = "Timer";
+"VISIBILITY_LINK_TIMER_title" = "定时器";
 /* Title for a visibility link to the currently playing video's time */
-"VISIBILITY_LINK_VIDEO_COUNTDOWN_title" = "Video Countdown";
+"VISIBILITY_LINK_VIDEO_COUNTDOWN_title" = "视频倒计时";
 /* Title for a visibility link to the capture session */
-"VISIBILITY_LINK_CAPTURE_SESSION_title" = "Capture Session";
+"VISIBILITY_LINK_CAPTURE_SESSION_title" = "捕捉会议";
 /* Title for a visibility link to video input if its live or not in the audience screen */
-"VISIBILITY_LINK_VIDEO_INPUT_title" = "Video Input";
+"VISIBILITY_LINK_VIDEO_INPUT_title" = "视频输入";
 
 /* Title for the condition where the other slide object has text. See "VISIBILITY_LINK_SLIDE_OBJECT_title" */
-"VISIBILITY_LINK_CONDITION_HAS_TEXT_title" = "Has text";
+"VISIBILITY_LINK_CONDITION_HAS_TEXT_title" = "有文字";
 /* Title for the condition where the other slide object does not have text. See "VISIBILITY_LINK_SLIDE_OBJECT_title" */
-"VISIBILITY_LINK_CONDITION_DOES_NOT_HAVE_TEXT_title" = "Does not have text";
+"VISIBILITY_LINK_CONDITION_DOES_NOT_HAVE_TEXT_title" = "无文字";
 
 /* Title for the condition where the linked timer has time remaining. See "VISIBILITY_LINK_TIMER_title" */
-"VISIBILITY_LINK_CONDITION_TIMER_HAS_TIME_REMAINING_title" = "Has time remaining";
+"VISIBILITY_LINK_CONDITION_TIMER_HAS_TIME_REMAINING_title" = "剩余时间";
 /* Title for the condition where the linked timer does not have time remaining. See "VISIBILITY_LINK_TIMER_title" */
-"VISIBILITY_LINK_CONDITION_TIMER_HAS_EXPIRED_title" = "Has expired";
+"VISIBILITY_LINK_CONDITION_TIMER_HAS_EXPIRED_title" = "已过期";
 /* Title for the condition where the linked timer is currently running. See "VISIBILITY_LINK_TIMER_title" */
-"VISIBILITY_LINK_CONDITION_TIMER_IS_RUNNING_title" = "Is running";
+"VISIBILITY_LINK_CONDITION_TIMER_IS_RUNNING_title" = "正在进行";
 /* Title for the condition where the linked timer is not running. See "VISIBILITY_LINK_TIMER_title" */
-"VISIBILITY_LINK_CONDITION_TIMER_IS_NOT_RUNNING_title" = "Is not running";
+"VISIBILITY_LINK_CONDITION_TIMER_IS_NOT_RUNNING_title" = "没有运行";
 
 /* Title for the condition where the currently playing video has time remaining. See "VISIBILITY_LINK_VIDEO_COUNTDOWN_title" */
-"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_HAS_TIME_REMAINING_title" = "Has time remaining";
+"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_HAS_TIME_REMAINING_title" = "剩余时间";
 /* Title for the condition where the currently playing video has no time remaining. See "VISIBILITY_LINK_VIDEO_COUNTDOWN_title" */
-"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_HAS_FINISHED_title" = "Has finished";
+"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_HAS_FINISHED_title" = "已完成";
 /* Title for the condition where the currently triggered video is playing. See "VISIBILITY_LINK_VIDEO_COUNTDOWN_title" */
-"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_IS_PLAYING_title" = "Is playing";
+"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_IS_PLAYING_title" = "正在播放";
 /* Title for the condition where the currently triggered video is not playing. See "VISIBILITY_LINK_VIDEO_COUNTDOWN_title" */
-"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_IS_NOT_PLAYING_title" = "Is not playing";
+"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_IS_NOT_PLAYING_title" = "未播放";
 /* Title for the condition where the currently triggered video is set to loop. See "VISIBILITY_LINK_VIDEO_COUNTDOWN_title" */
-"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_IS_LOOPING_title" = "Is looping";
+"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_IS_LOOPING_title" = "正在循环";
 /* Title for the condition where the currently triggered video is not set to loop. See "VISIBILITY_LINK_VIDEO_COUNTDOWN_title" */
-"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_IS_NOT_LOOPING_title" = "Is not looping";
+"VISIBILITY_LINK_CONDITION_VIDEO_COUNTDOWN_IS_NOT_LOOPING_title" = "未循环";
 
 /* Title for the condition where capture session is active" */
-"VISIBILITY_LINK_CONDITION_CAPTURE_SESSION_ACTIVE_title" = "Is active";
+"VISIBILITY_LINK_CONDITION_CAPTURE_SESSION_ACTIVE_title" = "活跃";
 /* Title for the condition where capture session is inactive" */
-"VISIBILITY_LINK_CONDITION_CAPTURE_SESSION_INACTIVE_title" = "Is inactive";
+"VISIBILITY_LINK_CONDITION_CAPTURE_SESSION_INACTIVE_title" = "不活跃";
 /* Title for the condition where the target video input is actve */
-"VISIBILITY_LINK_CONDITION_VIDEO_INPUT_IS_ACTIVE_title" = "Is active";
+"VISIBILITY_LINK_CONDITION_VIDEO_INPUT_IS_ACTIVE_title" = "活跃";
 /* Title for the condition where the target video input is inactive */
-"VISIBILITY_LINK_CONDITION_VIDEO_INPUT_IS_INACTIVE_title" = "Is inactive";
+"VISIBILITY_LINK_CONDITION_VIDEO_INPUT_IS_INACTIVE_title" = "不活跃";
 /* Title for choosing a video input for visibility link */
-"VISIBILITY_LINK_CONDITION_VIDEO_INPUT_CHOOSE_INPUT_title" = "Video Input:";
+"VISIBILITY_LINK_CONDITION_VIDEO_INPUT_CHOOSE_INPUT_title" = "视频输入:";
 /* The title when undoing setting the index of A video input visibility link  */
-"UNDO_VISIBILITY_LINK_CONDITION_VIDEO_INPUT_INDEX_action_title" = "Set Input";
+"UNDO_VISIBILITY_LINK_CONDITION_VIDEO_INPUT_INDEX_action_title" = "设置输入";
 
 /*
 ------------------------------------------------------------------------------
@@ -3187,15 +3187,15 @@ REFLOW_EDITOR
 */
 
 /* Title for the reflow editor */
-"REFLOW_EDITOR_title" = "Reflow Editor";
+"REFLOW_EDITOR_title" = "重排编辑器";
 /* Title for the button to break text to a new slide */
-"REFLOW_EDITOR_INSERT_SLIDE_BREAK_title" = "Insert Slide Break";
+"REFLOW_EDITOR_INSERT_SLIDE_BREAK_title" = "插入幻灯片分隔符";
 
 /* Alert shown when attempting to merge the text of two slides when two valid text elements were not found */
-"REFLOW_EDITOR_MERGE_SLIDE_ALERT_message" = "Cannot combine slides without a text element";
+"REFLOW_EDITOR_MERGE_SLIDE_ALERT_message" = "无法合并没有文本元素的幻灯片";
 
 /* Alert shown when attempting to merge the text of two slides in different groups */
-"REFLOW_EDITOR_MERGE_GROUPS_ALERT_message" = "Cannot combine slides in different groups";
+"REFLOW_EDITOR_MERGE_GROUPS_ALERT_message" = "无法合并不同的组中的幻灯片";
 
 
 /*
@@ -3206,47 +3206,47 @@ THEMES
 */
 
 /* Title for the themes menu, which contains a list of themes currently in Pro */
-"THEMES_title" = "Themes";
+"THEMES_title" = "主题";
 
 /* Name for a new template */
-"THEMES_NEW_TEMPLATE_name" = "New Template";
+"THEMES_NEW_TEMPLATE_name" = "新模板";
 
 /* A placeholder menu item for when the themes menu must display an icon */
-"THEMES_TEMPLATE_PLACEHOLDER_ITEM_title" = "Template";
+"THEMES_TEMPLATE_PLACEHOLDER_ITEM_title" = "模板";
 
 /* Title for the menu item that takes the selected slide and creates a new theme from it */
-"THEMES_MENU_NEW_THEME_FROM_SELECTION_title" = "New Theme from Selection";
+"THEMES_MENU_NEW_THEME_FROM_SELECTION_title" = "从已选中内容创建新主题";
 /* Title for the submenu item that takes the selected slide and adds a new themes to the parent theme */
-"THEMES_MENU_ADD_SELECTION_TO_THEME_title" = "Add Selection to Theme";
+"THEMES_MENU_ADD_SELECTION_TO_THEME_title" = "将选择添加到主题";
 /* Title for the menu item that opens the "New Theme" window so the user can enter a theme name and create a new theme */
-"THEMES_MENU_NEW_THEME_title" = "New Theme…";
+"THEMES_MENU_NEW_THEME_title" = "新主题…";
 /* Title for the menu item to open the theme editor */
-"THEMES_MENU_EDIT_THEME_title" = "Edit…";
+"THEMES_MENU_EDIT_THEME_title" = "编辑…";
 /* Title for the menu item to remove a theme */
-"THEMES_MENU_REMOVE_THEME_title" = "Delete Theme";
+"THEMES_MENU_REMOVE_THEME_title" = "删除主题";
 
 /* Alert shown when applying a theme to multiple presentations. Only shown on Windows. */
-"THEMES_ALERT_APPLY_TO_ALL_PRESENTATIONS_message" = "Are you sure you want to change the theme for all selected presentations?";
+"THEMES_ALERT_APPLY_TO_ALL_PRESENTATIONS_message" = "您确定要更改所有选定演示文稿的主题吗？?";
 
 /* Message for the alert shown when deleting a theme */
-"THEMES_ALERT_DELETE_THEME_message" = "Are you sure you want to delete the theme \"%@\"?";
+"THEMES_ALERT_DELETE_THEME_message" = "您确定要删除主题 \"%@\"?";
 /* Info for the alert shown when deleting a theme */
-"THEMES_ALERT_DELETE_THEME_info" = "You cannot undo this action";
+"THEMES_ALERT_DELETE_THEME_info" = "您无法撤消此操作";
 
 /* Alert shown when the user tries to create a template from the selected slide(s) but no slides are selected */
-"THEMES_ALERT_NO_SELECTED_SLIDES_message" = "No slides are selected";
+"THEMES_ALERT_NO_SELECTED_SLIDES_message" = "没有选择幻灯片";
 
 /* The title for the New Theme window */
-"THEMES_CREATE_WINDOW_title" = "New Theme";
+"THEMES_CREATE_WINDOW_title" = "新主题";
 
 /* The title for the alert that is shown when the user enters a name which already exists */
-"THEMES_CREATE_WINDOW_ALREADY_EXISTS_ALERT_message" = "A theme with that name already exists!";
+"THEMES_CREATE_WINDOW_ALREADY_EXISTS_ALERT_message" = "已存在同名的主题!";
 
 /* The placeholder string for the new theme window's text field */
-"THEMES_CREATE_WINDOW_NAME_TEXT_FIELD_placeholder" = "New Theme";
+"THEMES_CREATE_WINDOW_NAME_TEXT_FIELD_placeholder" = "新主题";
 
 /* The label describing the new theme's name text field */
-"THEMES_CREATE_WINDOW_NAME_TEXT_FIELD_label" = "Save As:";
+"THEMES_CREATE_WINDOW_NAME_TEXT_FIELD_label" = "另存为:";
 
 
 /*
@@ -3256,24 +3256,24 @@ THEMES
  */
 
 /* Title for when no transition is selected */
-"TRANSITIONS_NONE_SELECTED_title" = "None";
+"TRANSITIONS_NONE_SELECTED_title" = "无";
 /* Title for the button that lets the user choose a new transition */
-"TRANSITIONS_CHOOSE_BUTTON_title" = "Choose…";
+"TRANSITIONS_CHOOSE_BUTTON_title" = "选择…";
 /* Title for the button that lets the user create a new transition preset */
-"TRANSITIONS_NEW_FAVORITE_WINDOW_title" = "New Transition Favorite";
+"TRANSITIONS_NEW_FAVORITE_WINDOW_title" = "新过渡";
 /* Tooltip for the button that selects the default transition. This button's title is the global default string. */
-"TRANSITIONS_USE_DEFAULT_BUTTON_tooltip" = "Use Default Transition";
+"TRANSITIONS_USE_DEFAULT_BUTTON_tooltip" = "使用默认过渡";
 /* Label for the text field where the user can enter a name for their new transition favorite */
-"TRANSITIONS_NEW_FAVORITE_WINDOW_NAME_label" = "Name:";
+"TRANSITIONS_NEW_FAVORITE_WINDOW_NAME_label" = "名称:";
 
 /* Error message for when the user tries to save a transition favorite with an existing name */
-"TRANSITIONS_ERROR_TRANSITION_NAME_COLLISION_title" = "There is already a transition with that name";
+"TRANSITIONS_ERROR_TRANSITION_NAME_COLLISION_title" = "已经有该名称的过渡";
 /* Error message for when the user tries to save a preset with an existing name */
-"TRANSITIONS_ERROR_PRESET_NAME_COLLISION_title" = "There is already a preset with that name";
+"TRANSITIONS_ERROR_PRESET_NAME_COLLISION_title" = "已经有一个具有该名称的预设";
 /* Error message for when the user tries to save a transition favorite with an invalid name */
-"TRANSITIONS_ERROR_TRANSITION_INVALID_NAME_title" = "Invalid transition name. Transition names must contain at least one character.";
+"TRANSITIONS_ERROR_TRANSITION_INVALID_NAME_title" = "无效的过渡名称。过渡名称必须至少包含一个字符。";
 /* Error message for when the user tries to save a preset with an invalid name */
-"TRANSITIONS_ERROR_PRESET_INVALID_NAME_title" = "Invalid preset name. Preset names must contain at least one character.";
+"TRANSITIONS_ERROR_PRESET_INVALID_NAME_title" = "无效的预设名称。预设名称必须至少包含一个字符。";
 
 
 /*
@@ -3283,112 +3283,112 @@ MAIN_TOOLBAR
 */
 
 /* Main toolbar: search button label */
-"MAIN_TOOLBAR_SEARCH_BUTTON_label" = "Search";
+"MAIN_TOOLBAR_SEARCH_BUTTON_label" = "搜索";
 
 /* Main toolbar: search button tool tip */
-"MAIN_TOOLBAR_SEARCH_BUTTON_toolTip" = "Search library contents and SongSelect";
+"MAIN_TOOLBAR_SEARCH_BUTTON_toolTip" = "搜索库内容和SongSelect";
 
 /* Main toolbar: search button tool tip */
-"MAIN_TOOLBAR_SEARCH_BUTTON_NON_HOW_toolTip" = "Search library contents";
+"MAIN_TOOLBAR_SEARCH_BUTTON_NON_HOW_toolTip" = "搜索库内容";
 
 /* Main toolbar: text style view button label */
-"MAIN_TOOLBAR_TEXT_STYLE_BUTTON_label" = "Text";
+"MAIN_TOOLBAR_TEXT_STYLE_BUTTON_label" = "文本";
 
 /* Main toolbar: text style view button tool tip */
-"MAIN_TOOLBAR_TEXT_STYLE_BUTTON_toolTip" = "Adjust the slide's text style";
+"MAIN_TOOLBAR_TEXT_STYLE_BUTTON_toolTip" = "调整幻灯片的文字样式";
 
 /* Main toolbar: theme view button label */
-"MAIN_TOOLBAR_THEME_BUTTON_label" = "Theme";
+"MAIN_TOOLBAR_THEME_BUTTON_label" = "主题";
 
 /* Main toolbar: theme view button tool tip */
-"MAIN_TOOLBAR_THEME_BUTTON_toolTip" = "Apply a theme to the selection";
+"MAIN_TOOLBAR_THEME_BUTTON_toolTip" = "将主题应用于选区";
 
 /* Main toolbar: label for button to switch to show view */
-"MAIN_TOOLBAR_SHOW_BUTTON_label" = "Show";
+"MAIN_TOOLBAR_SHOW_BUTTON_label" = "展示";
 
 /* Main toolbar: tool tip for button to switch to show view */
-"MAIN_TOOLBAR_SHOW_BUTTON_toolTip" = "Enter Show Mode";
+"MAIN_TOOLBAR_SHOW_BUTTON_toolTip" = "进入展示模式";
 
 /* Main toolbar: label for button to switch to edit view */
-"MAIN_TOOLBAR_EDIT_BUTTON_label" = "Edit";
+"MAIN_TOOLBAR_EDIT_BUTTON_label" = "编辑";
 
 /* Main toolbar: tool tip for button to switch to edit view */
-"MAIN_TOOLBAR_EDIT_BUTTON_toolTip" = "Edit the selected presentation";
+"MAIN_TOOLBAR_EDIT_BUTTON_toolTip" = "编辑所选的演示文稿";
 
 /* Main toolbar: label for button to switch to reflow view */
-"MAIN_TOOLBAR_REFLOW_BUTTON_label" = "Reflow";
+"MAIN_TOOLBAR_REFLOW_BUTTON_label" = "重排";
 
 /* Main toolbar: tool tip for button to switch to reflow view */
-"MAIN_TOOLBAR_REFLOW_BUTTON_toolTip" = "Reflow the selected presentation";
+"MAIN_TOOLBAR_REFLOW_BUTTON_toolTip" = "重排所选演示文稿";
 
 /* Main toolbar: label for button to switch to bible view */
-"MAIN_TOOLBAR_BIBLE_BUTTON_label" = "Bible";
+"MAIN_TOOLBAR_BIBLE_BUTTON_label" = "圣经";
 
 /* Main toolbar: tool tip for button to switch to bible view */
-"MAIN_TOOLBAR_BIBLE_BUTTON_toolTip" = "Create slides and presentations from the Bible";
+"MAIN_TOOLBAR_BIBLE_BUTTON_toolTip" = "使用圣经创建幻灯片和演示文稿";
 
 /* Main toolbar: label for button to open more menu */
-"MAIN_TOOLBAR_MORE_BUTTON_label" = "More";
+"MAIN_TOOLBAR_MORE_BUTTON_label" = "更多";
 
 /* Main toolbar: tool tip for button to open more menu */
-"MAIN_TOOLBAR_MORE_BUTTON_toolTip" = "More";
+"MAIN_TOOLBAR_MORE_BUTTON_toolTip" = "更多";
 
 /* Main toolbar: label for timers button to toggle timers view */
-"MAIN_TOOLBAR_TIMERS_BUTTON_label" = "Timers";
+"MAIN_TOOLBAR_TIMERS_BUTTON_label" = "计时器";
 
 /* Main toolbar: tool tip for timers button to toggle timers view */
-"MAIN_TOOLBAR_TIMERS_BUTTON_toolTip" = "Show or hide timers";
+"MAIN_TOOLBAR_TIMERS_BUTTON_toolTip" = "显示或隐藏计时器";
 
 /* Main toolbar: label for messages button to toggle messages view */
-"MAIN_TOOLBAR_MESSAGES_BUTTON_label" = "Messages";
+"MAIN_TOOLBAR_MESSAGES_BUTTON_label" = "消息";
 
 /* Main toolbar: tool tip for messages button to toggle messages view */
-"MAIN_TOOLBAR_MESSAGES_BUTTON_toolTip" = "Show or hide messages";
+"MAIN_TOOLBAR_MESSAGES_BUTTON_toolTip" = "显示或隐藏消息";
 
 /* Main toolbar: label for props button to toggle props view */
-"MAIN_TOOLBAR_PROPS_BUTTON_label" = "Props";
+"MAIN_TOOLBAR_PROPS_BUTTON_label" = "道具";
 
 /* Main toolbar: tool tip for props button to toggle props view */
-"MAIN_TOOLBAR_PROPS_BUTTON_toolTip" = "Show or hide props control";
+"MAIN_TOOLBAR_PROPS_BUTTON_toolTip" = "显示或隐藏道具视图";
 
 /* Main toolbar: label for stage button to toggle stage view */
-"MAIN_TOOLBAR_STAGE_BUTTON_label" = "Stage";
+"MAIN_TOOLBAR_STAGE_BUTTON_label" = "舞台";
 
 /* Main toolbar: tool tip for stage button to toggle stage view */
-"MAIN_TOOLBAR_STAGE_BUTTON_toolTip" = "Show or hide stage controls";
+"MAIN_TOOLBAR_STAGE_BUTTON_toolTip" = "显示或隐藏舞台视图";
 
 /* Main toolbar: label for store button to toggle the web store view */
-"MAIN_TOOLBAR_WEBSTORE_BUTTON_label" = "Store";
+"MAIN_TOOLBAR_WEBSTORE_BUTTON_label" = "商店";
 
 /* Main toolbar: tool tip for store button to toggle the web store view */
-"MAIN_TOOLBAR_WEBSTORE_BUTTON_toolTip" = "Show the media store";
+"MAIN_TOOLBAR_WEBSTORE_BUTTON_toolTip" = "显示媒体商店";
 
 /* Main toolbar: label for media button to toggle the media bin view */
-"MAIN_TOOLBAR_MEDIA_BIN_BUTTON_label" = "Media";
+"MAIN_TOOLBAR_MEDIA_BIN_BUTTON_label" = "媒体";
 
 /* Main toolbar: tool tip for media button to toggle the media bin view */
-"MAIN_TOOLBAR_MEDIA_BIN_BUTTON_toolTip" = "Show or hide the media bin";
+"MAIN_TOOLBAR_MEDIA_BIN_BUTTON_toolTip" = "显示或隐藏媒体库";
 
 /* Main toolbar: label for feedback button to toggle the feedback view - beta only */
-"MAIN_TOOLBAR_FEEDBACK_BUTTON_label" = "Feedback";
+"MAIN_TOOLBAR_FEEDBACK_BUTTON_label" = "反馈";
 
 /* Main toolbar: tool tip for feedback button to toggle the feedback view - beta only */
-"MAIN_TOOLBAR_FEEDBACK_BUTTON_toolTip" = "Share feedback with us";
+"MAIN_TOOLBAR_FEEDBACK_BUTTON_toolTip" = "向我们分享反馈";
 
 /* Main toolbar: more button menu item for opening the stage editor */
-"MAIN_TOOLBAR_MORE_MENU_STAGE_EDITOR_ITEM_title" = "Stage Editor";
+"MAIN_TOOLBAR_MORE_MENU_STAGE_EDITOR_ITEM_title" = "舞台编辑器";
 
 /* Main toolbar: more button menu item for opening the theme editor */
-"MAIN_TOOLBAR_MORE_MENU_THEME_EDITOR_ITEM_title" = "Theme Editor";
+"MAIN_TOOLBAR_MORE_MENU_THEME_EDITOR_ITEM_title" = "主题编辑器";
 
 /* Main toolbar: more button menu item for opening the ccli editor */
-"MAIN_TOOLBAR_MORE_MENU_CCLI_EDITOR_ITEM_title" = "CCLI Editor";
+"MAIN_TOOLBAR_MORE_MENU_CCLI_EDITOR_ITEM_title" = "CCLI 编辑器";
 
 /* Main toolbar: more button menu item for opening the props editor */
-"MAIN_TOOLBAR_MORE_MENU_PROPS_EDITOR_ITEM_title" = "Props Editor";
+"MAIN_TOOLBAR_MORE_MENU_PROPS_EDITOR_ITEM_title" = "道具编辑器";
 
 /* Main toolbar: more button menu item for opening the mask editor */
-"MAIN_TOOLBAR_MORE_MENU_MASK_EDITOR_ITEM_title" = "Mask Editor";
+"MAIN_TOOLBAR_MORE_MENU_MASK_EDITOR_ITEM_title" = "遮罩编辑器";
 
 /*
 ------------------------------------------------------------------------------
@@ -3403,94 +3403,94 @@ LIBRARY_PLAYLIST
 */
 
 /* Default name for the automatically created library on first launch */
-"LIBRARY_PLAYLIST_DEFAULT_LIBRARY_name" = "Default";
+"LIBRARY_PLAYLIST_DEFAULT_LIBRARY_name" = "默认";
 
 /* Title for the library header inside the "Add To" contextual menu item */
-"LIBRARY_PLAYLIST_LIBRARY_HEADER_title" = "LIBRARY";
+"LIBRARY_PLAYLIST_LIBRARY_HEADER_title" = "库";
 
 /* Title for the playlist header inside the "Add To" contextual menu item */
-"LIBRARY_PLAYLIST_PLAYLIST_HEADER_title" = "PLAYLIST";
+"LIBRARY_PLAYLIST_PLAYLIST_HEADER_title" = "播放清单";
 
 /* Title for the playlist which handles video inputs */
-"LIBRARY_PLAYLIST_VIDEO_INPUT_PLAYLIST_title" = "Video Input";
+"LIBRARY_PLAYLIST_VIDEO_INPUT_PLAYLIST_title" = "视频输入";
 
 /* Title for the playlist which handles items downloaded from the media store */
-"LIBRARY_PLAYLIST_DOWNLOADS_PLAYLIST_title" = "Downloads";
+"LIBRARY_PLAYLIST_DOWNLOADS_PLAYLIST_title" = "资料下载";
 
 /* Default name of a new user-created library */
-"LIBRARY_PLAYLIST_NEW_LIBRARY_name" = "New Library";
+"LIBRARY_PLAYLIST_NEW_LIBRARY_name" = "新建库";
 
 /* Default name of a new playlist */
-"LIBRARY_PLAYLIST_NEW_PLAYLIST_name" = "New Playlist";
+"LIBRARY_PLAYLIST_NEW_PLAYLIST_name" = "新播放清单";
 
 /* Default name of a new presentation */
-"LIBRARY_PLAYLIST_NEW_PRESENTATION_name" = "New Presentation";
+"LIBRARY_PLAYLIST_NEW_PRESENTATION_name" = "新演示";
 
 /* Default name of a new header */
-"LIBRARY_PLAYLIST_NEW_HEADER_name" = "Header";
+"LIBRARY_PLAYLIST_NEW_HEADER_name" = "标题";
 
 /* Title of the library outline */
-"LIBRARY_PLAYLIST_OUTLINE_HEADER_LIBRARY_title" = "Library";
+"LIBRARY_PLAYLIST_OUTLINE_HEADER_LIBRARY_title" = "库";
 
 /* Title of the playlist outline */
-"LIBRARY_PLAYLIST_OUTLINE_HEADER_PLAYLIST_title" = "Playlist";
+"LIBRARY_PLAYLIST_OUTLINE_HEADER_PLAYLIST_title" = "播放清单";
 
 /* Title for the menu item to add a new library */
-"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_LIBRARY_title" = "New Library";
+"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_LIBRARY_title" = "新建库";
 
 /* Title for the menu item to add a new presentation */
-"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_PRESENTATION_title" = "New Presentation";
+"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_PRESENTATION_title" = "新演示";
 
 /* Title for the menu item to add a new playlist */
-"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_PLAYLIST_title" = "New Playlist";
+"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_PLAYLIST_title" = "新播放清单";
 
 /* Title for the menu item to add a new playlist folder */
-"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_PLAYLIST_FOLDER_title" = "New Playlist Folder";
+"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_PLAYLIST_FOLDER_title" = "新播放列表文件夹";
 
 /* Title for the menu item to add a Planning Center service */
-"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_PCO_PLAYLIST_FOLDER_title" = "Planning Center Service…";
+"LIBRARY_PLAYLIST_OUTLINE_NEW_MENU_NEW_PCO_PLAYLIST_FOLDER_title" = "规划服务…";
 
 /* Title for the menu item to export a single item */
-"LIBRARY_PLAYLIST_EXPORT_title" = "Export";
+"LIBRARY_PLAYLIST_EXPORT_title" = "导出";
 
 /* Title for the menu item to refresh a PCO playlist from the PCO servers */
-"LIBRARY_PLAYLIST_REFRESH_PCO_ITEM_title" = "Refresh";
+"LIBRARY_PLAYLIST_REFRESH_PCO_ITEM_title" = "刷新";
 
 /* Title for the button to download an update to a PCO playlist */
-"LIBRARY_PLAYLIST_PCO_ITEM_UPDATE_AVAILABLE_title" = "Update Available";
+"LIBRARY_PLAYLIST_PCO_ITEM_UPDATE_AVAILABLE_title" = "可用更新";
 
 /* Title for the menu item to convert a PCO playlist to a standard playlist */
-"LIBRARY_PLAYLIST_CONVERT_PCO_PLAYLIST_TO_STANDARD_PLAYLIST_title" = "Convert to Standard Playlist";
+"LIBRARY_PLAYLIST_CONVERT_PCO_PLAYLIST_TO_STANDARD_PLAYLIST_title" = "转换为标准播放列表";
 
 /* Title for the menu item to print the current playlist */
-"LIBRARY_PLAYLIST_PRINT_ITEM_title" = "Print";
+"LIBRARY_PLAYLIST_PRINT_ITEM_title" = "打印";
 
 /* Label for the item count */
-"LIBRARY_PLAYLIST_ITEMS_COUNT_SINGULAR_label" = "ITEM";
+"LIBRARY_PLAYLIST_ITEMS_COUNT_SINGULAR_label" = "物品";
 
 /* Label for the item count */
-"LIBRARY_PLAYLIST_ITEMS_COUNT_PLURAL_label" = "ITEMS";
+"LIBRARY_PLAYLIST_ITEMS_COUNT_PLURAL_label" = "物品";
 
 /* Label shown when a Planning Center service has update to download */
-"LIBRARY_PLAYLIST_ITEMS_UPDATE_AVAILABLE_label" = "Updates Available";
+"LIBRARY_PLAYLIST_ITEMS_UPDATE_AVAILABLE_label" = "可用更新";
 
 /* Label shown when a file is downloading from PCO */
-"LIBRARY_PLAYLIST_ITEMS_DOWNLOADING_label" = "Downloading %@";
+"LIBRARY_PLAYLIST_ITEMS_DOWNLOADING_label" = "正在下载 %@";
 
 /* Title for the menu item to add a new presentation */
-"LIBRARY_PLAYLIST_ITEMS_NEW_MENU_NEW_PRESENTATION_title" = "New Presentation";
+"LIBRARY_PLAYLIST_ITEMS_NEW_MENU_NEW_PRESENTATION_title" = "新演示";
 
 /* Title for the menu item to add a new header */
-"LIBRARY_PLAYLIST_ITEMS_NEW_MENU_NEW_HEADER_title" = "New Header";
+"LIBRARY_PLAYLIST_ITEMS_NEW_MENU_NEW_HEADER_title" = "新标题";
 
 /* Title for the menu item to add an item to a library/playlist */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_ADD_TO_title" = "Add to";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_ADD_TO_title" = "添加到";
 
 /* Title for the menu item to move a presentation to a different library */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_MOVE_TO_title" = "Move to";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_MOVE_TO_title" = "移动到";
 
 /* Title for the menu item to upload an item to PCO */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_UPLOAD_TO_PCO_title" = "Upload to PCO";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_UPLOAD_TO_PCO_title" = "上传到PCO";
 
 /* Title for the menu item to resize a presentation */
 "LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_RESIZE_title" = "Resize";
@@ -3935,7 +3935,7 @@ PRESENTATION
 "PRESENTATION_CONTEXT_MENU_ADD_ACTION_STAGE_title" = "Stage";
 
 /* Title for the submenu item to add a timer action to a slide */
-"PRESENTATION_CONTEXT_MENU_ADD_ACTION_TIMER_title" = "Timer";
+"PRESENTATION_CONTEXT_MENU_ADD_ACTION_TIMER_title" = "定时器";
 
 /* Title for the submenu item to add a communication action to a slide */
 "PRESENTATION_CONTEXT_MENU_ADD_ACTION_COMMUNICATION_title" = "Communication";
@@ -5120,13 +5120,13 @@ RECORDING
 "GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_CCLI_NUMBER_title" = "CCLI #";
 
 /* The title for a button that exports the user's CCLI reporting data */
-"GENERAL_PREFERENCES_CCLI_REPORTING_EXPORT_BUTTON_title" = "Export";
+"GENERAL_PREFERENCES_CCLI_REPORTING_EXPORT_BUTTON_title" = "导出";
 
 /* The title for an alert displayed when the user tries to reset their CCLI reporting data */
-"GENERAL_PREFERENCES_CCLI_REPORTING_RESET_ALERT_message" = "Are you sure you want to erase all report data?";
+"GENERAL_PREFERENCES_CCLI_REPORTING_RESET_ALERT_message" = "您确定要删除所有报告数据吗？?";
 
 /* The title for an alert displayed when ProPresenter is unable to reset CCLI reporting data */
-"GENERAL_PREFERENCES_CCLI_REPORTING_RESET_ALERT_UNABLE_message" = "CCLIData.txt could not be removed";
+"GENERAL_PREFERENCES_CCLI_REPORTING_RESET_ALERT_UNABLE_message" = "CCLIData.txt 无法删除";
 
 
 /*
@@ -5136,112 +5136,112 @@ RECORDING
  */
 
 /* Title for "no output device" in the main audio output selection */
-"AUDIO_PREFERENCES_MAIN_OUTPUT_NO_DEVICE_ITEM_title" = "None";
+"AUDIO_PREFERENCES_MAIN_OUTPUT_NO_DEVICE_ITEM_title" = "无";
 
 /* Title for the channel count field */
-"AUDIO_PREFERENCES_CHANNEL_COUNT_title" = "Channel Count";
+"AUDIO_PREFERENCES_CHANNEL_COUNT_title" = "频道数";
 
 /* Title for the inspector device header */
-"AUDIO_PREFERENCES_HEADER_INSPECTOR_title" = "Inspector";
+"AUDIO_PREFERENCES_HEADER_INSPECTOR_title" = "检验";
 
 /* Title for the option to use the main audio device for the media inspector */
-"AUDIO_PREFERENCES_INSPECTOR_LISTEN_ON_MAIN_title" = "Listen On Main";
+"AUDIO_PREFERENCES_INSPECTOR_LISTEN_ON_MAIN_title" = "主听";
 
 /* Title for the inspector device selection field */
-"AUDIO_PREFERENCES_INSPECTOR_DEVICE_title" = "Device";
+"AUDIO_PREFERENCES_INSPECTOR_DEVICE_title" = "设备";
 
 /* Title for the inspector audio routing button */
-"AUDIO_PREFERENCES_INSPECTOR_ROUTING_title" = "Routing…";
+"AUDIO_PREFERENCES_INSPECTOR_ROUTING_title" = "路由…";
 
 /* Title for the inspector audio level slider */
-"AUDIO_PREFERENCES_INSPECTOR_LEVEL_title" = "Level";
+"AUDIO_PREFERENCES_INSPECTOR_LEVEL_title" = "等级";
 
 /* Title for the inspector delay field TODO: unused in ProMac */
-"AUDIO_PREFERENCES_INSPECTOR_DELAY_title" = "Delay";
+"AUDIO_PREFERENCES_INSPECTOR_DELAY_title" = "延迟";
 
 /* Title for the main device header */
-"AUDIO_PREFERENCES_HEADER_MAIN_title" = "Main";
+"AUDIO_PREFERENCES_HEADER_MAIN_title" = "主要";
 
 /* Title for the main device selection field */
-"AUDIO_PREFERENCES_MAIN_DEVICE_title" = "Device";
+"AUDIO_PREFERENCES_MAIN_DEVICE_title" = "设备";
 
 /* Title for the main audio routing button */
-"AUDIO_PREFERENCES_MAIN_ROUTING_title" = "Routing…";
+"AUDIO_PREFERENCES_MAIN_ROUTING_title" = "路由…";
 
 /* Title for the main audio level slider */
-"AUDIO_PREFERENCES_MAIN_LEVEL_title" = "Level";
+"AUDIO_PREFERENCES_MAIN_LEVEL_title" = "等级";
 
 /* Title for the main delay field */
-"AUDIO_PREFERENCES_MAIN_DELAY_title" = "Delay";
+"AUDIO_PREFERENCES_MAIN_DELAY_title" = "延迟";
 
 /* Title for the SDI/NDI header */
 "AUDIO_PREFERENCES_HEADER_SDI_NDI_title" = "SDI & NDI";
 
 /* Title for the enabling/disabling SDI/NDI option */
-"AUDIO_PREFERENCES_SDI_NDI_ENABLE_title" = "Enable";
+"AUDIO_PREFERENCES_SDI_NDI_ENABLE_title" = "启用";
 
 /* Title for the SDI/NDI audio routing button */
-"AUDIO_PREFERENCES_SDI_NDI_ROUTING_title" = "Routing…";
+"AUDIO_PREFERENCES_SDI_NDI_ROUTING_title" = "路由…";
 
 /* Title for the SDI/NDI audio level slider */
-"AUDIO_PREFERENCES_SDI_NDI_LEVEL_title" = "Level";
+"AUDIO_PREFERENCES_SDI_NDI_LEVEL_title" = "等级";
 
 /* Title for the SDI/NDI delay field */
-"AUDIO_PREFERENCES_SDI_NDI_DELAY_title" = "Delay";
+"AUDIO_PREFERENCES_SDI_NDI_DELAY_title" = "延迟";
 
 /* Label for ProPresenter channels in the audio routing view */
-"AUDIO_PREFERENCES_ROUTING_PROPRESENTER_CHANNEL_label" = "ProPresenter Channel";
+"AUDIO_PREFERENCES_ROUTING_PROPRESENTER_CHANNEL_label" = "ProPresenter 渠道";
 
 /* Label for physical device channels in the audio routing view */
-"AUDIO_PREFERENCES_ROUTING_DEVICE_CHANNEL_label" = "Device Channel";
+"AUDIO_PREFERENCES_ROUTING_DEVICE_CHANNEL_label" = "设备频道";
 
 /* Name for an individual ProPresenter audio channel. %i is the channel's number. */
-"AUDIO_PREFERENCES_ROUTING_PROPRESENTER_CHANNEL_INDEX_label" = "Pro Channel %i";
+"AUDIO_PREFERENCES_ROUTING_PROPRESENTER_CHANNEL_INDEX_label" = "专业频道 %i";
 
 /* Name for an individual audio channel. %i is the channel's number. */
-"AUDIO_PREFERENCES_ROUTING_CHANNEL_INDEX_label" = "Channel %i";
+"AUDIO_PREFERENCES_ROUTING_CHANNEL_INDEX_label" = "频道 %i";
 
 /* Name for a new audio channel */
-"AUDIO_PREFERENCES_AUDIO_CHANNEL_name" = "Audio Channel %@";
+"AUDIO_PREFERENCES_AUDIO_CHANNEL_name" = "声音频道 %@";
 
 /* Tool tip for the "Test Tone" button which plays a tone through the selected audio channel */
-"AUDIO_PREFERENCES_TEST_TONE_BUTTON_tooltip" = "Test Tone";
+"AUDIO_PREFERENCES_TEST_TONE_BUTTON_tooltip" = "测试音";
 
 /* Abbreviation for the "Test Tone" button which plays a tone through the selected audio channel */
 "AUDIO_PREFERENCES_TEST_TONE_BUTTON_title" = "T";
 
 /* Tool tip for the "Mute" button which mutes audio from that channel */
-"AUDIO_PREFERENCES_MUTE_BUTTON_tooltip" = "Mute";
+"AUDIO_PREFERENCES_MUTE_BUTTON_tooltip" = "静音";
 
 /* Abbreviation for the "Mute" button which mutes audio from that channel*/
 "AUDIO_PREFERENCES_MUTE_BUTTON_title" = "M";
 
 /* Tool tip for the "Solo" button which mutes all other channels */
-"AUDIO_PREFERENCES_SOLO_BUTTON_tooltip" = "Solo";
+"AUDIO_PREFERENCES_SOLO_BUTTON_tooltip" = "独奏";
 
 /* Abbreviation for the "Solo" button which mutes all other channels */
 "AUDIO_PREFERENCES_SOLO_BUTTON_title" = "S";
 
 /* Tool tip for the button that mutes all audio channels */
-"AUDIO_PREFERENCES_MUTE_ALL_BUTTON_tooltip" = "Mute All";
+"AUDIO_PREFERENCES_MUTE_ALL_BUTTON_tooltip" = "全部静音";
 
 /* Abbreviation for the "Mute All" button that mutes all audio channels */
 "AUDIO_PREFERENCES_MUTE_ALL_BUTTON_title" = "M";
 
 /* Tool tip for the button that clears any channel set to "Solo" */
-"AUDIO_PREFERENCES_CLEAR_SOLO_BUTTON_tooltip" = "Clear Solo";
+"AUDIO_PREFERENCES_CLEAR_SOLO_BUTTON_tooltip" = "清除独奏";
 
 /* Abbreviation for the "Clear Solo" button that removes "Solo" from all channels */
 "AUDIO_PREFERENCES_CLEAR_SOLO_BUTTON_title" = "S";
 
 /* Title for the button that allows the user to automate their mapping. This button contains options for "AUDIO_PREFERENCES_CHANNEL_AUTO_MAP_BUTTON_title" and "AUDIO_PREFERENCES_CHANNEL_CLEAR_MAP_BUTTON_title" */
-"AUDIO_PREFERENCES_CHANNEL_MAPPING_BUTTON_title" = "Mapping…";
+"AUDIO_PREFERENCES_CHANNEL_MAPPING_BUTTON_title" = "映射…";
 
 /* Title for the menu item that allows the user to generate an automatic audio channel map */
-"AUDIO_PREFERENCES_CHANNEL_AUTO_MAP_BUTTON_title" = "Auto";
+"AUDIO_PREFERENCES_CHANNEL_AUTO_MAP_BUTTON_title" = "自动";
 
 /* Title for the menu item that allows the user to clear their audio channel map */
-"AUDIO_PREFERENCES_CHANNEL_CLEAR_MAP_BUTTON_title" = "Clear";
+"AUDIO_PREFERENCES_CHANNEL_CLEAR_MAP_BUTTON_title" = "清除";
 
 
 /*
@@ -5257,34 +5257,34 @@ RECORDING
  ------------------------------------------------------------------------------
  */
 /* displayed at the top of the update preferences */
-"UPDATE_PREFERENCES_UPDATE_LABEL_title" = "Updates";
+"UPDATE_PREFERENCES_UPDATE_LABEL_title" = "更新";
 
 /* title for "Check for Updates" button */
-"UPDATE_PREFERENCES_CHECK_NOW_BUTTON_title" = "Check Now";
+"UPDATE_PREFERENCES_CHECK_NOW_BUTTON_title" = "现在检查";
 
 /* title for "Show Release Notes" button */
-"UPDATE_PREFERENCES_SHOW_RELEASE_NOTES_BUTTON_title" = "Show Release Notes";
+"UPDATE_PREFERENCES_SHOW_RELEASE_NOTES_BUTTON_title" = "显示版本说明";
 
 /* title for the "Installed Version:" label */
-"UPDATE_PREFERENCES_INSTALLED_VERSION_LABEL_title" = "Installed Version: ";
+"UPDATE_PREFERENCES_INSTALLED_VERSION_LABEL_title" = "安装版本: ";
 
 /* title for the "Updated: " label*/
-"UPDATE_PREFERENCES_UPDATED_DATE_LABEL_title" = "Updated: ";
+"UPDATE_PREFERENCES_UPDATED_DATE_LABEL_title" = "更新: ";
 
 /* title for the notify for available updates checkbox */
-"UPDATE_PREFERENCES_NOTIFY_FOR_UPDATES_CHECKBOX_title" = "Notify when updates are available";
+"UPDATE_PREFERENCES_NOTIFY_FOR_UPDATES_CHECKBOX_title" = "有可用更新时通知";
 
 /* title for the update channel header */
-"UPDATE_PREFERENCES_UPDATE_CHANNEL_LABEL_title" = "Update Channel";
+"UPDATE_PREFERENCES_UPDATE_CHANNEL_LABEL_title" = "更新频道";
 
 /* title for the download update button */
-"UPDATE_PREFERENCES_DOWNLOAD_UPDATE_BUTTON_title" = "Download Update";
+"UPDATE_PREFERENCES_DOWNLOAD_UPDATE_BUTTON_title" = "下载更新";
 
 /* title for release channel explanation label */
-"UPDATE_PREFERENCES_CHANNEL_EXPLANATION_RELEASE_title" = "Release channel builds are stable versions which have received extensive testing prior to release.";
+"UPDATE_PREFERENCES_CHANNEL_EXPLANATION_RELEASE_title" = "Release版本是稳定版本，已在发布之前进行了广泛的测试.";
 
 /* title for beta channel explanation label */
-"UPDATE_PREFERENCES_CHANNEL_EXPLANATION_BETA_title" = "The beta builds are published more frequently and include less tested features and improvements. Use in live production is cautioned and should only be done after extensive testing in your environment.";
+"UPDATE_PREFERENCES_CHANNEL_EXPLANATION_BETA_title" = "Beta版本的发布更加频繁，并且包含较少经过测试的功能和改进。注意在现场制作中使用，只有在您的环境中进行了广泛的测试之后才能使用。";
 
 /* title for the release channel menu item */
 "UPDATE_CHANNEL_RELEASE_MENU_title" = "Release";
@@ -5293,16 +5293,16 @@ RECORDING
 "UPDATE_CHANNEL_BETA_MENU_title" = "Beta";
 
 /* title for confirmation dialog when switching from beta to release channel */
-"UPDATE_CHANNEL_DIALOG_SWITCH_CHANNEL_title" = "You are currently running a beta version. Do you want to restore the release version?";
+"UPDATE_CHANNEL_DIALOG_SWITCH_CHANNEL_title" = "您当前正在运行Beta版。您要还原Release版本吗？";
 
 /* title for confirmation dialog explanation when switching from beta to release channel */
-"UPDATE_CHANNEL_DIALOG_SWITCH_CHANNEL_EXPLANATION_title" = "You may continue to use the beta version, but will no longer get updates until the next production release.";
+"UPDATE_CHANNEL_DIALOG_SWITCH_CHANNEL_EXPLANATION_title" = "您可以继续使用Beta版本，但是直到下一个正式版本发布之前，您将不再获得更新。";
 
 /* title for the button in confirmation dialog when switching from beta to release channel to continue using beta version */
-"UPDATE_CHANNEL_DIALOG_SWITCH_CHANNEL_CONTINUE_BETA_title" = "Continue Beta";
+"UPDATE_CHANNEL_DIALOG_SWITCH_CHANNEL_CONTINUE_BETA_title" = "继续Beta版";
 
 /* title for the button in confirmation dialog when switching from beta to release channel to switch to release version */
-"UPDATE_CHANNEL_DIALOG_SWITCH_CHANNEL_INSTALL_RELEASE_title" = "Install Release";
+"UPDATE_CHANNEL_DIALOG_SWITCH_CHANNEL_INSTALL_RELEASE_title" = "安装Release版";
 
 
 /*
@@ -7065,7 +7065,7 @@ TIMERS_WINDOW
 "TIMERS_WINDOW_RESET_ALL_BUTTON_tooltip" = "Reset All Timers";
 
 /* Name for a new timer added by the user */
-"TIMERS_WINDOW_NEW_TIMER_name" = "Timer";
+"TIMERS_WINDOW_NEW_TIMER_name" = "定时器";
 
 /* Name for the preset countdown timer */
 "TIMERS_WINDOW_DEFAULT_COUNTDOWN_TIMER_name" = "Segment Countdown";
@@ -7896,46 +7896,46 @@ AUDIENCE_LOOKS
 "AUDIENCE_LOOKS_SAVE_MENU_RESET_title" = "Reset to Default";
 
 /* Title for the menu item to save a look and rename it */
-"AUDIENCE_LOOKS_SAVE_MENU_SAVE_AS_title" = "Save as…";
+"AUDIENCE_LOOKS_SAVE_MENU_SAVE_AS_title" = "另存为…";
 
 /* The default name for a newly created mask */
-"AUDIENCE_LOOKS_DEFAULT_MASK_name" = "Mask";
+"AUDIENCE_LOOKS_DEFAULT_MASK_name" = "遮罩";
 
 /* Label for the mask selection for a look */
-"AUDIENCE_LOOKS_MASK_label" = "Mask";
+"AUDIENCE_LOOKS_MASK_label" = "遮罩";
 
 /* Title for the menu item that opens the mask editor */
-"AUDIENCE_LOOKS_MASK_EDIT_title" = "Edit Masks";
+"AUDIENCE_LOOKS_MASK_EDIT_title" = "编辑遮罩";
 
 /* Title for the menu item that adds a new mask */
-"AUDIENCE_LOOKS_MASK_ADD_NEW_title" = "Add New Mask";
+"AUDIENCE_LOOKS_MASK_ADD_NEW_title" = "添加新遮罩";
 
 /* Label for the option to enable props and messages */
-"AUDIENCE_LOOKS_PROPS_MESSAGES_label" = "Props/Messages";
+"AUDIENCE_LOOKS_PROPS_MESSAGES_label" = "道具/消息";
 
 /* Label for the option to enable announcements */
-"AUDIENCE_LOOKS_ANNOUNCEMENTS_label" = "Announcements";
+"AUDIENCE_LOOKS_ANNOUNCEMENTS_label" = "公告";
 
 /* Label for the alternate template selection for a presentation */
-"AUDIENCE_LOOKS_PRESENTATION_label" = "Presentation";
+"AUDIENCE_LOOKS_PRESENTATION_label" = "演示";
 
 /* Label for the option to enable slides */
-"AUDIENCE_LOOKS_SLIDE_label" = "Slide";
+"AUDIENCE_LOOKS_SLIDE_label" = "幻灯片";
 
 /* Label for the option to enable media */
-"AUDIENCE_LOOKS_MEDIA_label" = "Media";
+"AUDIENCE_LOOKS_MEDIA_label" = "媒体";
 
 /* Label for the option to enable live video inputs */
-"AUDIENCE_LOOKS_VIDEO_INPUT_label" = "Video Input";
+"AUDIENCE_LOOKS_VIDEO_INPUT_label" = "视频输入";
 
 /* Default name for a new look added by the user */
-"AUDIENCE_LOOKS_NEW_LOOK_name" = "Look";
+"AUDIENCE_LOOKS_NEW_LOOK_name" = "视角";
 
 /* Title for the dialog shown when Save As is chosen */
-"AUDIENCE_LOOKS_NEW_LOOK_title" = "New Audience Look";
+"AUDIENCE_LOOKS_NEW_LOOK_title" = "新观众视角";
 
 /* Label for the name field for the new look */
-"AUDIENCE_LOOKS_NEW_LOOK_NAME_label" = "Name:";
+"AUDIENCE_LOOKS_NEW_LOOK_NAME_label" = "名称:";
 
 
 /*
@@ -7945,7 +7945,7 @@ MIGRATION_WINDOW
 */
 
 /* Title of the migration window */
-"MIGRATION_WINDOW_title" = "Migration";
+"MIGRATION_WINDOW_title" = "移动";
 
 /* Explanation of the table from which to select libraries to migrate */
 "MIGRATION_WINDOW_LIBRARY_EXPLANATION_label" = "Select previous ProPresenter libraries you wish to import. You can change the \"New Location\" of the library in the table below.";
@@ -9272,14 +9272,14 @@ EFFECTS
 "EFFECT_PARAMETER_SCALE_name" = "Scale";
 "EFFECT_PARAMETER_SCRATCHES_name" = "Scratches";
 "EFFECT_PARAMETER_SEPIA_EFFECT_name" = "Sepia Effect";
-"EFFECT_PARAMETER_SHARPNESS_name" = "Sharpness";
-"EFFECT_PARAMETER_SIDES_name" = "Sides";
-"EFFECT_PARAMETER_SIZE_name" = "Size";
-"EFFECT_PARAMETER_SPEED_name" = "Speed";
-"EFFECT_PARAMETER_STRENGTH_name" = "Strength";
-"EFFECT_PARAMETER_TOLERANCE_name" = "Tolerance";
-"EFFECT_PARAMETER_VIGNETTE_name" = "Vignette";
-"EFFECT_PARAMETER_ZOOM_name" = "Zoom";
+"EFFECT_PARAMETER_SHARPNESS_name" = "锐利";
+"EFFECT_PARAMETER_SIDES_name" = "侧面";
+"EFFECT_PARAMETER_SIZE_name" = "尺寸";
+"EFFECT_PARAMETER_SPEED_name" = "速度";
+"EFFECT_PARAMETER_STRENGTH_name" = "力量";
+"EFFECT_PARAMETER_TOLERANCE_name" = "宽容";
+"EFFECT_PARAMETER_VIGNETTE_name" = "小插图";
+"EFFECT_PARAMETER_ZOOM_name" = "缩放";
 
 
 /*
@@ -9289,7 +9289,7 @@ WEB_STORE
 */
 
 /* Title for the web store window */
-"WEB_STORE_WINDOW_title" = "Web Store";
+"WEB_STORE_WINDOW_title" = "网上商店";
 
 
 /*
@@ -9299,9 +9299,9 @@ TIMECODE
 */
 
 /* Error message for when the user has entered invalid characters into a timecode value */
-"TIMECODE_ERROR_INVALID_CHARACTERS_title" = "Time values can only contain numbers and separators (.,:;).";
+"TIMECODE_ERROR_INVALID_CHARACTERS_title" = "时间值只能包含数字和分隔符(.,:;).";
 /* Error message for when the user has entered too many numeric sections into a time value */
-"TIMECODE_ERROR_TOO_MANY_SECTIONS_title" = "Time values can only have up to 4 sections.";
+"TIMECODE_ERROR_TOO_MANY_SECTIONS_title" = "时间值最多只能包含4个部分.";
 
 
 /*
@@ -9313,13 +9313,13 @@ ERROR
 */
 
 /* An error shown when the user sets an invalid media end behavior */
-"ERROR_SET_LOOP_TYPE" = "Invalid end behavior!";
+"ERROR_SET_LOOP_TYPE" = "无效的结束行为!";
 
 /* An error shown when the user enters an invalid value for the number of times a video should loop */
-"ERROR_SET_LOOP_COUNT" = "Please enter a positive whole number.";
+"ERROR_SET_LOOP_COUNT" = "请输入一个正整数.";
 
 /* An error shown when the user enters an invalid value for the number of seconds a video should play */
-"ERROR_SET_LOOP_DURATION" = "Please enter a positive duration in seconds.";
+"ERROR_SET_LOOP_DURATION" = "请输入一个以秒为单位的正时长.";
 
 
 /*
@@ -9329,7 +9329,7 @@ OPENGL_ALERT
 */
 
 /* Alert shown when ProPresenter could not create an OpenGL context from any graphics device */
-"OPENGL_ALERT_message" = "ProPresenter requires an OpenGL 3.2 compatible graphics card and driver. Please ensure the graphics drivers for your system are up-to-date.";
+"OPENGL_ALERT_message" = "ProPresenter需要兼容OpenGL 3.2的图形卡和驱动程序. 请确保系统的图形驱动程序是最新的.";
 
 
 /*
@@ -9339,8 +9339,8 @@ FOLDER_PERMISSION_ALERT
 */
 
 /* Message for the alert shown when a folder on disk could not be accessed */
-"FOLDER_PERMISSION_ALERT_message" = "ProPresenter requires access to \"%@\". Please ensure that you have proper permissions to access that folder and the files within.";
+"FOLDER_PERMISSION_ALERT_message" = "ProPresenter需要访问 \"%@\". 请确保您具有访问该文件夹和其中文件的权限.";
 /* Info for the alert shown when a folder on disk could not be accessed, precedes a link to a help webpage */
-"FOLDER_PERMISSION_ALERT_info" = "For more information, please visit";
+"FOLDER_PERMISSION_ALERT_info" = "需要了解更多信息，请访问";
 /* Title for the help webpage */
-"FOLDER_PERMISSION_ALERT_WEBPAGE_title" = "Opening ProPresenter 7 on Windows from a Non-Admin User";
+"FOLDER_PERMISSION_ALERT_WEBPAGE_title" = "在Windows上从非管理员用户打开ProPresenter 7";
