@@ -8095,76 +8095,76 @@ WELCOME_WINDOW
 */
 
 /* Title for the welcome window */
-"WELCOME_WINDOW_title" = "Welcome To ProPresenter";
+"WELCOME_WINDOW_title" = "欢迎来到 ProPresenter";
 
 /* Title for the go back button to return to the welcome page. There is a "Back" arrow with this button. */
-"WELCOME_WINDOW_GO_BACK_BUTTON_WELCOME_title" = "Welcome";
+"WELCOME_WINDOW_GO_BACK_BUTTON_WELCOME_title" = "欢迎";
 
 /* Title for the go back button to return to the screen config page. There is a "Back" arrow with this button. */
-"WELCOME_WINDOW_GO_BACK_BUTTON_SCREEN_CONFIG_title" = "Screen Configuration";
+"WELCOME_WINDOW_GO_BACK_BUTTON_SCREEN_CONFIG_title" = "屏幕配置";
 
 /* Title for the go back button to return to the migration page. There is a "Back" arrow with this button. */
-"WELCOME_WINDOW_GO_BACK_BUTTON_MIGRATION_title" = "Migration";
+"WELCOME_WINDOW_GO_BACK_BUTTON_MIGRATION_title" = "迁移";
 
 /* Title for the go back button to return to the customization page. There is a "Back" arrow with this button. */
-"WELCOME_WINDOW_GO_BACK_BUTTON_CUSTOMIZATION_title" = "Customization";
+"WELCOME_WINDOW_GO_BACK_BUTTON_CUSTOMIZATION_title" = "定制";
 
 /* Title for the button to accept the license agreement */
-"WELCOME_WINDOW_EULA_ACCEPT_BUTTON_title" = "Accept";
+"WELCOME_WINDOW_EULA_ACCEPT_BUTTON_title" = "接受";
 
 /* Title for the button to not accept the license agreement */
-"WELCOME_WINDOW_EULA_DISAGREE_BUTTON_title" = "Disagree";
+"WELCOME_WINDOW_EULA_DISAGREE_BUTTON_title" = "不同意";
 
 /* Label for the migration page */
-"WELCOME_WINDOW_MIGRATE_label" = "Migrate Existing Information";
+"WELCOME_WINDOW_MIGRATE_label" = "迁移现有信息";
 
 /* Label for the option to migrate libraries */
-"WELCOME_WINDOW_MIGRATE_LIBRARIES_label" = "Libraries";
+"WELCOME_WINDOW_MIGRATE_LIBRARIES_label" = "库";
 
 /* Label for the option to migrate playlists */
-"WELCOME_WINDOW_MIGRATE_PLAYLISTS_label" = "Library Playlists";
+"WELCOME_WINDOW_MIGRATE_PLAYLISTS_label" = "库播放清单";
 
 /* Label for the option to migrate media */
-"WELCOME_WINDOW_MIGRATE_MEDIA_label" = "Media Bin";
+"WELCOME_WINDOW_MIGRATE_MEDIA_label" = "媒体区";
 
 /* Label for the option to migrate audio */
-"WELCOME_WINDOW_MIGRATE_AUDIO_label" = "Audio Bin";
+"WELCOME_WINDOW_MIGRATE_AUDIO_label" = "音频区";
 
 /* Label for the option to migrate other settings files */
-"WELCOME_WINDOW_MIGRATE_SETTINGS_label" = "Settings and Support Files";
+"WELCOME_WINDOW_MIGRATE_SETTINGS_label" = "设置和支持文件";
 
 /* Title for the web link on how to migrate from another computer */
-"WELCOME_WINDOW_MIGRATE_HELP_LINK_title" = "Migrating From Another Computer?";
+"WELCOME_WINDOW_MIGRATE_HELP_LINK_title" = "从另一台计算机迁移？";
 
 /* Label shown when migration is in progress */
-"WELCOME_WINDOW_MIGRATE_IN_PROGRESS_label" = "Migration In Progress";
+"WELCOME_WINDOW_MIGRATE_IN_PROGRESS_label" = "正在进行迁移";
 
 /* Label shown when migration is complete */
-"WELCOME_WINDOW_MIGRATE_COMPLETE_label" = "Migration Complete";
+"WELCOME_WINDOW_MIGRATE_COMPLETE_label" = "迁移完成";
 
 /* Title for the button to start migration */
-"WELCOME_WINDOW_MIGRATE_BUTTON_title" = "Migrate";
+"WELCOME_WINDOW_MIGRATE_BUTTON_title" = "迁移";
 
 /* Title for the open panel which allows the user to manually select a library to migrate */
-"WELCOME_WINDOW_MIGRATE_OPEN_PANEL_title" = "Choose a folder for your ProPresenter Documents";
+"WELCOME_WINDOW_MIGRATE_OPEN_PANEL_title" = "选择用于ProPresenter文档的文件夹";
 
 /* Customized title for the "Open" button in the open panel, which allows the user to manually select a library to migrate */
-"WELCOME_WINDOW_MIGRATE_OPEN_PANEL_OPEN_BUTTON_title" = "Select";
+"WELCOME_WINDOW_MIGRATE_OPEN_PANEL_OPEN_BUTTON_title" = "选择";
 
 /* Title for the button to abort migration */
-"WELCOME_WINDOW_MIGRATE_ABORT_BUTTON_title" = "Abort Migration";
+"WELCOME_WINDOW_MIGRATE_ABORT_BUTTON_title" = "中断迁移";
 
 /* Title for the button to skip migration */
-"WELCOME_WINDOW_MIGRATE_SKIP_BUTTON_title" = "Skip Migration";
+"WELCOME_WINDOW_MIGRATE_SKIP_BUTTON_title" = "跳过迁移";
 
 /* Title for the screen config page */
-"WELCOME_WINDOW_SCREEN_CONFIG_title" = "Configure Screens";
+"WELCOME_WINDOW_SCREEN_CONFIG_title" = "配置屏幕";
 
 /* Placeholder for screen selection */
-"WELCOME_WINDOW_SCREEN_CONFIG_SCREEN_NAME_placeholder" = "Select an output device…";
+"WELCOME_WINDOW_SCREEN_CONFIG_SCREEN_NAME_placeholder" = "选择输出设备…";
 
 /* Explanation of what an audience screen will do */
-"WELCOME_WINDOW_SCREEN_CONFIG_AUDIENCE_explanation" = "screens showing content for the audience";
+"WELCOME_WINDOW_SCREEN_CONFIG_AUDIENCE_explanation" = "向观众显示内容的屏幕";
 
 /* Explanation of what a stage screen will do */
 "WELCOME_WINDOW_SCREEN_CONFIG_STAGE_explanation" = "screens showing content for the stage";
