@@ -2806,7 +2806,7 @@ EDITOR
 "EDITOR_PRESENTATION_TEXT_INSPECTOR_STROKE_WIDTH_label" = "宽度";
 
 /* Label for the checkbox which enables "Lines Only", meaning the element's fill is displayed only behind lines of text */
-"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_label" = "只有行";
+"EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_label" = "行";
 /* Label for the section of controls that affect vertical placement */
 "EDITOR_PRESENTATION_TEXT_INSPECTOR_LINES_ONLY_VERTICAL_label" = "垂直的";
 /* Label for the control which lets the user add or remove height from the mask */
@@ -3493,82 +3493,82 @@ LIBRARY_PLAYLIST
 "LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_UPLOAD_TO_PCO_title" = "上传到PCO";
 
 /* Title for the menu item to resize a presentation */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_RESIZE_title" = "Resize";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_RESIZE_title" = "调整大小";
 
 /* Title for the menu item to change the arrangement of a presentation */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_ARRANGEMENT_title" = "Arrangement";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_ARRANGEMENT_title" = "排列";
 
 /* Title for the master arrangement */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_ARRANGEMENT_MASTER_title" = "Master";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_ARRANGEMENT_MASTER_title" = "主要";
 
 /* Title for the menu item to open the selected presentation in the reflow editor */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_REFLOW_title" = "Reflow";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_REFLOW_title" = "重排";
 
 /* Title for the menu item to show the selected presentation in its library */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_SHOW_IN_LIBRARY_title" = "Show in Library";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_SHOW_IN_LIBRARY_title" = "在库中展示";
 
 /* Title for the menu item to export the selected items as a bundle */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_EXPORT_BUNDLE_title" = "Export as Bundle…";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_EXPORT_BUNDLE_title" = "导出为套件…";
 
 /* Title for the menu item to export the selected items as images */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_EXPORT_IMAGES_title" = "Export as Images…";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_EXPORT_IMAGES_title" = "导出为图像…";
 
 /* Title for the menu item to change the color of a playlist header */
-"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_CHANGE_COLOR_title" = "Change Color";
+"LIBRARY_PLAYLIST_ITEMS_CONTEXT_MENU_CHANGE_COLOR_title" = "改变颜色";
 
 /* The default name in the save file dialog when the user tries to export multiple playlists */
-"LIBRARY_PLAYLIST_EXPORT_MULTIPLE_PLAYLISTS_SAVE_NAME_title" = "Playlists";
+"LIBRARY_PLAYLIST_EXPORT_MULTIPLE_PLAYLISTS_SAVE_NAME_title" = "播放清单";
 
 /* Label for the dialog to select a library */
-"LIBRARY_PLAYLIST_SELECTOR_DIALOG_label" = "Select a library";
+"LIBRARY_PLAYLIST_SELECTOR_DIALOG_label" = "选择一个库";
 
 /* Label for the progress dialog that shows we're looking to find a matching PCO item within the user's local files */
-"LIBRARY_PLAYLIST_PROGRESS_PCO_MATCHING_message" = "Looking for library matches… %@";
+"LIBRARY_PLAYLIST_PROGRESS_PCO_MATCHING_message" = "寻找匹配的库… %@";
 
 /* Alert shown when trying to rename a library using invalid characters */
-"LIBRARY_PLAYLIST_ALERT_INVALID_CHARACTERS_LIBRARY_NAME_message" = "The name \"%@\" contains invalid characters.";
-"LIBRARY_PLAYLIST_ALERT_INVALID_CHARACTERS_LIBRARY_NAME_info" = "Please use another name.";
+"LIBRARY_PLAYLIST_ALERT_INVALID_CHARACTERS_LIBRARY_NAME_message" = "主题 \"%@\" 包含无效字符。";
+"LIBRARY_PLAYLIST_ALERT_INVALID_CHARACTERS_LIBRARY_NAME_info" = "请使用其他名称。";
 
 /* Alert shown when trying to rename a library to the same name as an existing library */
-"LIBRARY_PLAYLIST_ALERT_DUPLICATE_LIBRARY_NAME_message" = "Another library with this name already exists.";
-"LIBRARY_PLAYLIST_ALERT_DUPLICATE_LIBRARY_NAME_info" = "Please use another name.";
+"LIBRARY_PLAYLIST_ALERT_DUPLICATE_LIBRARY_NAME_message" = "已经存在具有该名称的另一个库。";
+"LIBRARY_PLAYLIST_ALERT_DUPLICATE_LIBRARY_NAME_info" = "请使用其他名称。";
 
 /* Alert shown when removing libraries */
-"LIBRARY_PLAYLIST_ALERT_REMOVE_LIBRARIES_message" = "Are you sure you want to remove all selected libraries?";
-"LIBRARY_PLAYLIST_ALERT_REMOVE_LIBRARIES_info" = "This action cannot be undone.";
+"LIBRARY_PLAYLIST_ALERT_REMOVE_LIBRARIES_message" = "您确定要删除所有选定的库吗？";
+"LIBRARY_PLAYLIST_ALERT_REMOVE_LIBRARIES_info" = "此操作无法撤消.";
 
 /* Alert shown when removing presentations */
-"LIBRARY_PLAYLIST_ALERT_REMOVE_PRESENTATION_message" = "Are you sure you want to remove all selected library presentations?";
-"LIBRARY_PLAYLIST_ALERT_REMOVE_PRESENTATION_info" = "You cannot undo this action.";
+"LIBRARY_PLAYLIST_ALERT_REMOVE_PRESENTATION_message" = "您确定要删除所有选定的库演示文稿吗？";
+"LIBRARY_PLAYLIST_ALERT_REMOVE_PRESENTATION_info" = "您无法撤消此操作。";
 
 /* Alert shown when attempting to modify a Planning Center playlist. Mac disables editing PCO playlists and doesn't show the alert. */
-"LIBRARY_PLAYLIST_ALERT_PCO_EDIT_label" = "PCO Playlists do not allow editing. To make changes, convert to PCO playlist to a regular playlist.";
+"LIBRARY_PLAYLIST_ALERT_PCO_EDIT_label" = "PCO 播放列表不允许编辑。如果需要进行更改，请将PCO播放列表转换为常规播放列表.";
 
 /* Alert shown when removing a Planning Center playlist. Mac does not show this alert. */
-"LIBRARY_PLAYLIST_ALERT_PCO_CONVERSION_label" = "Are you sure you want to convert this PCO playlist to Non-PCO playlist? This cannot be undone.";
+"LIBRARY_PLAYLIST_ALERT_PCO_CONVERSION_label" = "您确定要将这个PCO播放列表转换为非-PCO播放列表吗？这不能被撤消。";
 
 /* Alert shown when importing a presentation with no playlist selected. Mac does not show this alert. */
-"LIBRARY_PLAYLIST_ALERT_NO_PLAYLIST_SELECTED_label" = "Presentation added to the library, but no playlist was selected.";
+"LIBRARY_PLAYLIST_ALERT_NO_PLAYLIST_SELECTED_label" = "演示文稿已添加到媒体库，但未选择播放列表。";
 
 /* Alert shown when there is no internet available */
-"LIBRARY_PLAYLIST_ALERT_NO_INTERNET_message" = "Internet connection is not available. Please check your connection status.";
+"LIBRARY_PLAYLIST_ALERT_NO_INTERNET_message" = "Internet连接不可用。请检查您的连接状态。";
 
 /* Alert shown when converting a Planning Center playlist with unlinked items */
-"LIBRARY_PLAYLIST_ALERT_CONVERT_PCO_TO_STANDARD_message" = "Unlinked items in PCO playlist";
-"LIBRARY_PLAYLIST_ALERT_CONVERT_PCO_TO_STANDARD_info" = "There are unlinked planning center items in your playlist. Converting to a standard playlist will remove those items.";
+"LIBRARY_PLAYLIST_ALERT_CONVERT_PCO_TO_STANDARD_message" = "PCO播放列表中未关联的项目";
+"LIBRARY_PLAYLIST_ALERT_CONVERT_PCO_TO_STANDARD_info" = "播放列表中有未链接的项目。转换为标准播放列表将删除这些项目。";
 
 /* Alert shown when the user tries to create a presentation with an invalid name */
-"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_INVALID_CHARACTERS_message" = "The name \"%@\" contains invalid characters.";
-"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_INVALID_CHARACTERS_info" = "Please use another name.";
+"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_INVALID_CHARACTERS_message" = "主题 \"%@\" 包含无效字符。";
+"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_INVALID_CHARACTERS_info" = "请使用其他名称。";
 
 /* Alert shown when the user tries to create a presentation with the same name as an existing presentation */
-"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_DUPLICATE_NAME_message" = "Another presentation with this name already exists.";
-"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_DUPLICATE_NAME_info" = "Please use another name.";
+"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_DUPLICATE_NAME_message" = "已经存在使用此名称的另一个演示文稿。";
+"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_DUPLICATE_NAME_info" = "请使用其他名称。";
 
 /* Alert shown when the user enters an invalid size for their presentation */
-"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_INVALID_SIZE_message" = "Invalid Size";
+"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_INVALID_SIZE_message" = "无效的大小";
 /* %0.f x %0.f represents the width and height of the presentation in pixels */
-"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_INVALID_SIZE_info" = "The provided size (%0.f x %0.f) is invalid. Height and width must be greater than zero and less than 30,000.";
+"LIBRARY_PLAYLIST_NEW_PRESENTATION_ALERT_INVALID_SIZE_info" = "提供的尺寸 (%0.f x %0.f) 是无效的. 高度和宽度必须大于零且小于30,000。";
 
 /*
 ------------------------------------------------------------------------------
@@ -3587,99 +3587,99 @@ MEDIA_BIN
 */
 
 /* Label for the top of the outline */
-"MEDIA_BIN_OUTLINE_label" = "MEDIA";
+"MEDIA_BIN_OUTLINE_label" = "媒体";
 
 /* Title for the menu item to add a new playlist */
-"MEDIA_BIN_OUTLINE_NEW_MENU_PLAYLIST_title" = "Add Playlist";
+"MEDIA_BIN_OUTLINE_NEW_MENU_PLAYLIST_title" = "添加播放列表";
 /* Title for the menu item to add a new smart playlist */
-"MEDIA_BIN_OUTLINE_NEW_MENU_SMART_PLAYLIST_title" = "Add Smart Playlist";
+"MEDIA_BIN_OUTLINE_NEW_MENU_SMART_PLAYLIST_title" = "添加智能播放列表";
 /* Title for the menu item to add a new playlist folder */
-"MEDIA_BIN_OUTLINE_NEW_MENU_PLAYLIST_FOLDER_title" = "Add Playlist Folder";
+"MEDIA_BIN_OUTLINE_NEW_MENU_PLAYLIST_FOLDER_title" = "添加播放列表文件夹";
 
 /* Title for the menu item to select the background/foreground behavior of the smart playlist */
-"MEDIA_BIN_OUTLINE_CONTEXT_MENU_SMART_PLAYLIST_BEHAVIOR_title" = "Smart Playlist Behavior";
+"MEDIA_BIN_OUTLINE_CONTEXT_MENU_SMART_PLAYLIST_BEHAVIOR_title" = "智能播放列表行为";
 
 /* In the downloads playlist, menu item to remove all downloads */
-"MEDIA_BIN_OUTLINE_CONTEXT_MENU_REMOVE_ALL_DOWNLOADS_title" = "Remove All Downloads";
+"MEDIA_BIN_OUTLINE_CONTEXT_MENU_REMOVE_ALL_DOWNLOADS_title" = "删除所有下载";
 
 /* Tooltip for the button to import new media into the media bin */
-"MEDIA_BIN_TOOLBAR_NEW_BUTTON_tooltip" = "Add Media";
+"MEDIA_BIN_TOOLBAR_NEW_BUTTON_tooltip" = "添加媒体";
 /* Mac title for the menu item to import a media file */
-"MEDIA_BIN_TOOLBAR_NEW_MENU_FROM_FINDER_mac_title" = "From Finder";
+"MEDIA_BIN_TOOLBAR_NEW_MENU_FROM_FINDER_mac_title" = "从Finder";
 /* Windows title for the menu item to import a media file */
-"MEDIA_BIN_TOOLBAR_NEW_MENU_FROM_FINDER_windows_title" = "From Explorer";
+"MEDIA_BIN_TOOLBAR_NEW_MENU_FROM_FINDER_windows_title" = "从资源管理器";
 /* Title for the menu item to add a video input to the playlist */
-"MEDIA_BIN_TOOLBAR_NEW_MENU_FROM_VIDEO_INPUT_title" = "From Video Input";
+"MEDIA_BIN_TOOLBAR_NEW_MENU_FROM_VIDEO_INPUT_title" = "从视频输入";
 /* Title for the menu item to open the input preferences */
-"MEDIA_BIN_TOOLBAR_NEW_MENU_VIDEO_INPUT_CONFIG_title" = "Video Input Configuration…";
+"MEDIA_BIN_TOOLBAR_NEW_MENU_VIDEO_INPUT_CONFIG_title" = "视频输入配置…";
 /* Tooltip for the toolbar button to show the items arranged in a grid */
-"MEDIA_BIN_TOOLBAR_GRID_VIEW_tooltip" = "Grid View";
+"MEDIA_BIN_TOOLBAR_GRID_VIEW_tooltip" = "网格视图";
 /* Tooltip for the toolbar button to show the items arranged as a table */
-"MEDIA_BIN_TOOLBAR_TABLE_VIEW_tooltip" = "Table View";
+"MEDIA_BIN_TOOLBAR_TABLE_VIEW_tooltip" = "表格视图";
 /* Title for the menu item to select this playlist to be triggered by the communications device */
-"MEDIA_BIN_OUTLINE_CONTEXT_MENU_SELECT_FOR_COMMUNICATIONS_title" = "Select for Communications";
+"MEDIA_BIN_OUTLINE_CONTEXT_MENU_SELECT_FOR_COMMUNICATIONS_title" = "选择并链接";
 
 /* Title for the menu item to change the media layer behavior */
-"MEDIA_BIN_CONTEXT_MENU_BEHAVIOR_title" = "Behavior";
+"MEDIA_BIN_CONTEXT_MENU_BEHAVIOR_title" = "行为";
 /* Title for the menu item to change the media scaling behavior */
-"MEDIA_BIN_CONTEXT_MENU_SCALING_title" = "Scaling";
+"MEDIA_BIN_CONTEXT_MENU_SCALING_title" = "缩放";
 /* Title for the menu item to change the media playback behavior */
-"MEDIA_BIN_CONTEXT_MENU_PLAYBACK_title" = "Playback";
+"MEDIA_BIN_CONTEXT_MENU_PLAYBACK_title" = "回放";
 /* Title for the menu item to change the soft loop duration */
-"MEDIA_BIN_CONTEXT_MENU_PLAYBACK_SOFT_LOOP_title" = "Soft Loop";
+"MEDIA_BIN_CONTEXT_MENU_PLAYBACK_SOFT_LOOP_title" = "软循环";
 /* Title for the menu item to change what plays next after the playback has finished */
-"MEDIA_BIN_CONTEXT_MENU_NEXT_CUE_title" = "Next Cue";
+"MEDIA_BIN_CONTEXT_MENU_NEXT_CUE_title" = "下一个提示";
 /* Contextual menu item to open the inspector for this cue */
-"MEDIA_BIN_CONTEXT_MENU_INSPECTOR_title" = "Inspector…";
+"MEDIA_BIN_CONTEXT_MENU_INSPECTOR_title" = "检查...";
 /* Title for the menu item to change the transition */
-"MEDIA_BIN_CONTEXT_MENU_TRANSITIONS_title" = "Transitions…";
+"MEDIA_BIN_CONTEXT_MENU_TRANSITIONS_title" = "过渡…";
 /* Title for the menu item to sort the playlist by a certain property */
-"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_title" = "Clean Up By";
+"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_title" = "清理依据";
 /* Title for the menu item to sort by type */
-"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_TYPE_title" = "Type";
+"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_TYPE_title" = "类型";
 /* Title for the menu item to sort by name */
-"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_NAME_title" = "Name";
+"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_NAME_title" = "名称";
 /* Title for the menu item to sort by path */
-"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_PATH_title" = "Path";
+"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_PATH_title" = "路径";
 /* Title for the menu item to sort by kind */
-"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_KIND_title" = "Kind";
+"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_KIND_title" = "种类";
 /* Title for the menu item to sort by duration */
-"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_DURATION_title" = "Duration";
+"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_DURATION_title" = "时长";
 /* Title for the menu item to sort by format */
-"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_FORMAT_title" = "Format";
+"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_FORMAT_title" = "格式";
 /* Title for the menu item to sort by the unmodified length */
-"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_ORIGINAL_LENGTH_title" = "Original Length";
+"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_ORIGINAL_LENGTH_title" = "原始长度";
 /* Title for the menu item to sort by the producer */
-"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_PRODUCER_title" = "Producer";
+"MEDIA_BIN_CONTEXT_MENU_CLEAN_UP_BY_PRODUCER_title" = "制片人";
 
 /* Title for the index column header */
 "MEDIA_BIN_TABLE_VIEW_COLUMN_INDEX_title" = "#";
 /* Title for the thumbnail column header */
-"MEDIA_BIN_TABLE_VIEW_COLUMN_THUMBNAIL_title" = "Thumbnail";
+"MEDIA_BIN_TABLE_VIEW_COLUMN_THUMBNAIL_title" = "缩图";
 /* Title for the name column header */
-"MEDIA_BIN_TABLE_VIEW_COLUMN_NAME_title" = "Name";
+"MEDIA_BIN_TABLE_VIEW_COLUMN_NAME_title" = "名称";
 /* Title for the path column header */
-"MEDIA_BIN_TABLE_VIEW_COLUMN_PATH_title" = "Path";
+"MEDIA_BIN_TABLE_VIEW_COLUMN_PATH_title" = "路径";
 /* Title for the layer column header */
-"MEDIA_BIN_TABLE_VIEW_COLUMN_LAYER_title" = "Layer";
+"MEDIA_BIN_TABLE_VIEW_COLUMN_LAYER_title" = "层";
 /* Title for the transition column header */
-"MEDIA_BIN_TABLE_VIEW_COLUMN_TRANSITION_title" = "Transition";
+"MEDIA_BIN_TABLE_VIEW_COLUMN_TRANSITION_title" = "过渡";
 /* Title for the duration column header */
-"MEDIA_BIN_TABLE_VIEW_COLUMN_DURATION_title" = "Duration";
+"MEDIA_BIN_TABLE_VIEW_COLUMN_DURATION_title" = "时长";
 /* Title for the format column header */
-"MEDIA_BIN_TABLE_VIEW_COLUMN_FORMAT_title" = "Format";
+"MEDIA_BIN_TABLE_VIEW_COLUMN_FORMAT_title" = "格式";
 /* Title for the producer column header */
-"MEDIA_BIN_TABLE_VIEW_COLUMN_PRODUCER_title" = "Producer";
+"MEDIA_BIN_TABLE_VIEW_COLUMN_PRODUCER_title" = "制片人";
 
 /* Message for the alert shown when deleting media items */
-"MEDIA_BIN_DELETE_MEDIA_ALERT_message" = "Are you sure you want to delete the selected Media Cues?";
+"MEDIA_BIN_DELETE_MEDIA_ALERT_message" = "您确定要删除所选的媒体提示吗？";
 /* Info for the alert shown when deleting media items */
-"MEDIA_BIN_DELETE_MEDIA_ALERT_info" = "\"Delete Cues\" will remove from ProPresenter only. \"Move to trash\" will delete cues from all ProPresenter playlists and delete the file from the hard drive.";
+"MEDIA_BIN_DELETE_MEDIA_ALERT_info" = "\"删除提示\" 仅从ProPresenter中删除. \"移到回收站\" 将从所有ProPresenter播放列表中删除提示，并从硬盘驱动器中删除文件。";
 /* Info for the alert shown when deleting media items that have no file association, e.g. video inputs */
-"MEDIA_BIN_DELETE_MEDIA_ALERT_NO_FILE_info" = "\"Delete Cues\" will remove from ProPresenter only.";
+"MEDIA_BIN_DELETE_MEDIA_ALERT_NO_FILE_info" = "\"删除提示\" 将仅从ProPresenter中删除。";
 
 /* Title of alert shown when a user chooses "Show in Finder" on a cue who's file cannot be found on disk */
-"MEDIA_BIN_SHOW_IN_FINDER_CANNOT_LOCATE_MEDIA_ON_DISK_ALERT.title" = "Cannot locate media on disk";
+"MEDIA_BIN_SHOW_IN_FINDER_CANNOT_LOCATE_MEDIA_ON_DISK_ALERT.title" = "找不到磁盘上的媒体";
 
 
 /*
@@ -3706,164 +3706,164 @@ PRESENTATION
 */
 
 /* Label shown when no presentation is selected */
-"PRESENTATION_NO_SELECTION_label" = "No presentation selected";
+"PRESENTATION_NO_SELECTION_label" = "未选择演示文稿";
 
 /* Tooltip for the warning shown when the presentation does not match any available screen sizes */
-"PRESENTATION_HEADER_SIZE_MISMATCH_tooltip" = "Presentation size does not match the resolution of any configured screens";
+"PRESENTATION_HEADER_SIZE_MISMATCH_tooltip" = "演示文稿大小与任何已配置屏幕的分辨率都不匹配";
 
 /* Tooltip for the button to control the slide show settings */
-"PRESENTATION_HEADER_SLIDE_SHOW_tooltip" = "Slide Show";
+"PRESENTATION_HEADER_SLIDE_SHOW_tooltip" = "幻灯片放映";
 
 /* Button for the slide show duration when a slide show is enabled, where %@ is the number of seconds. i.e. "1.0s" or "10.5s"...*/
 "PRESENTATION_HEADER_SLIDE_SHOW_ACTIVE_BUTTON_title" = "%@s";
-"PRESENTATION_HEADER_SLIDE_SHOW_ACTIVE_BUTTON_tooltip" = "Slide Show: %@s";
+"PRESENTATION_HEADER_SLIDE_SHOW_ACTIVE_BUTTON_tooltip" = "幻灯片放映: %@s";
 
 /* Title for the menu item to specify a custom slide show time */
-"PRESENTATION_HEADER_SLIDE_SHOW_MENU_CUSTOM_title" = "Custom…";
+"PRESENTATION_HEADER_SLIDE_SHOW_MENU_CUSTOM_title" = "自定义…";
 
 /* Label for the text field to specify a custom slide show time */
-"PRESENTATION_HEADER_SLIDE_SHOW_CUSTOM_label" = "Enter a custom duration for each slide:";
+"PRESENTATION_HEADER_SLIDE_SHOW_CUSTOM_label" = "输入每张幻灯片的自定义持续时间:";
 
 /* Tooltip for the button to open the notes section */
-"PRESENTATION_HEADER_NOTES_tooltip" = "Notes";
+"PRESENTATION_HEADER_NOTES_tooltip" = "备注";
 
 /* PLaceholder text for the notes field */
-"PRESENTATION_HEADER_NOTES_placeholder" = "Operator Notes";
+"PRESENTATION_HEADER_NOTES_placeholder" = "操作员备注";
 
 /* Tooltip for the button to open the arrangements section */
-"PRESENTATION_HEADER_ARRANGEMENTS_tooltip" = "Arrangements";
+"PRESENTATION_HEADER_ARRANGEMENTS_tooltip" = "安排";
 
 /* Tooltip for the button to open the timeline section */
-"PRESENTATION_HEADER_TIMELINE_tooltip" = "Timeline";
+"PRESENTATION_HEADER_TIMELINE_tooltip" = "时间线";
 
 /* Numbered label for a cue added to a timeline */
-"PRESENTATION_HEADER_TIMELINE_CUE_label" = "Cue %i";
+"PRESENTATION_HEADER_TIMELINE_CUE_label" = "提示 %i";
 
 /* Label for the timeline audio track */
-"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_label" = "Audio Track";
+"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_label" = "音轨";
 
 /* Title for the menu item to add an audio track */
-"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_MENU_ADD_title" = "Add Audio Track";
+"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_MENU_ADD_title" = "添加音轨";
 
 /* Title for the menu item to open the media inspector with the timeline audio track */
-"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_MENU_INSPECTOR_title" = "Inspector…";
+"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_MENU_INSPECTOR_title" = "检查...";
 
 /* Title for the menu item to remove an audio track */
-"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_MENU_REMOVE_title" = "Remove Audio Track";
+"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_MENU_REMOVE_title" = "删除音轨";
 
 /* Title for the menu item to replace the audio track */
-"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_MENU_REPLACE_title" = "Replace Audio Track";
+"PRESENTATION_HEADER_TIMELINE_AUDIO_TRACK_MENU_REPLACE_title" = "替换音轨";
 
 /* Tooltip for the button to go to the beginning of the timeline */
-"PRESENTATION_HEADER_TIMELINE_GO_TO_BEGINNING_tooltip" = "Go to beginning";
+"PRESENTATION_HEADER_TIMELINE_GO_TO_BEGINNING_tooltip" = "转到开始";
 
 /* Tooltip for the button to stop the timeline */
-"PRESENTATION_HEADER_TIMELINE_STOP_tooltip" = "Stop";
+"PRESENTATION_HEADER_TIMELINE_STOP_tooltip" = "停止";
 
 /* Tooltip for the button to play the timeline */
-"PRESENTATION_HEADER_TIMELINE_PLAY_tooltip" = "Play";
+"PRESENTATION_HEADER_TIMELINE_PLAY_tooltip" = "播放";
 
 /* Tooltip for the button to pause the timeline */
-"PRESENTATION_HEADER_TIMELINE_PAUSE_tooltip" = "Pause";
+"PRESENTATION_HEADER_TIMELINE_PAUSE_tooltip" = "暂停";
 
 /* Tooltip for the button to start recording */
-"PRESENTATION_HEADER_TIMELINE_RECORD_tooltip" = "Record";
+"PRESENTATION_HEADER_TIMELINE_RECORD_tooltip" = "录音";
 
 /* Tooltip for the button to stop recording */
-"PRESENTATION_HEADER_TIMELINE_STOP_RECORD_tooltip" = "Stop Recording";
+"PRESENTATION_HEADER_TIMELINE_STOP_RECORD_tooltip" = "停止录音";
 
 /* Tooltip for the button to toggle looping */
-"PRESENTATION_HEADER_TIMELINE_LOOP_tooltip" = "Loop";
+"PRESENTATION_HEADER_TIMELINE_LOOP_tooltip" = "循环";
 
 /* Tooltip for the slider to adjust the zoom level of the timeline */
-"PRESENTATION_HEADER_TIMELINE_ZOOM_tooltip" = "Zoom Timeline";
+"PRESENTATION_HEADER_TIMELINE_ZOOM_tooltip" = "缩放时间轴";
 
 /* Tooltip for the button to control the destination settings */
-"PRESENTATION_HEADER_DESTINATION_tooltip" = "Presentation destination target";
+"PRESENTATION_HEADER_DESTINATION_tooltip" = "演示目标";
 
 /* Title for the presentation (default) destination target */
-"PRESENTATION_HEADER_DESTINATION_PRESENTATION_title" = "Presentation";
+"PRESENTATION_HEADER_DESTINATION_PRESENTATION_title" = "演示";
 
 /* Title for the announcements destination target */
-"PRESENTATION_HEADER_DESTINATION_ANNOUNCEMENTS_title" = "Announcements";
+"PRESENTATION_HEADER_DESTINATION_ANNOUNCEMENTS_title" = "公告内容";
 
 /* Title for the menu item that opens the audience looks window */
-"PRESENTATION_HEADER_EDIT_LOOKS_title" = "Edit Looks…";
+"PRESENTATION_HEADER_EDIT_LOOKS_title" = "编辑外观...";
 
 /* Tooltip for the button to control the destination settings */
-"PRESENTATION_HEADER_TRANSITION_tooltip" = "Presentation default transition";
+"PRESENTATION_HEADER_TRANSITION_tooltip" = "演示文稿默认过渡";
 
 /* Label for the panel that shows the groups in the presentation */
-"PRESENTATION_HEADER_ARRANGEMENTS_GROUPS_label" = "Groups";
+"PRESENTATION_HEADER_ARRANGEMENTS_GROUPS_label" = "编组";
 
 /* Default name for an arrangement group */
-"PRESENTATION_HEADER_ARRANGEMENTS_DEFAULT_GROUP_name" = "Group";
+"PRESENTATION_HEADER_ARRANGEMENTS_DEFAULT_GROUP_name" = "编组";
 
 /* Display name for an arrangement that doesn't have a name set */
-"PRESENTATION_HEADER_ARRANGEMENTS_DEFAULT_ARRANGEMENT_name" = "Unnamed Arrangement";
+"PRESENTATION_HEADER_ARRANGEMENTS_DEFAULT_ARRANGEMENT_name" = "未命名的安排";
 
 /* Label shown in the panel when there is no arrangement selected */
-"PRESENTATION_HEADER_ARRANGEMENTS_SELECT_ARRANGEMENT_label" = "Master - Select an arrangement to customize presentation flow.";
+"PRESENTATION_HEADER_ARRANGEMENTS_SELECT_ARRANGEMENT_label" = "主体 - 选择一种安排以自定义演示流程。";
 
 /* Label shown in the panel when the selected arrangement has no groups in it */
-"PRESENTATION_HEADER_ARRANGEMENTS_EMPTY_label" = "Empty Arrangement - Drag and drop group token here to begin.";
+"PRESENTATION_HEADER_ARRANGEMENTS_EMPTY_label" = "空安排 - 拖放组到此处以开始。";
 
 /* Title for the menu item to return to the presentation's master/default arrangement */
-"PRESENTATION_HEADER_ARRANGEMENTS_MENU_MASTER_title" = "Master";
+"PRESENTATION_HEADER_ARRANGEMENTS_MENU_MASTER_title" = "主体";
 
 /* Title for the menu item that opens the new arrangement dialog */
-"PRESENTATION_HEADER_ARRANGEMENTS_MENU_NEW_ARRANGEMENT_title" = "New Arrangement…";
+"PRESENTATION_HEADER_ARRANGEMENTS_MENU_NEW_ARRANGEMENT_title" = "新安排…";
 
 /* Title for the menu item that opens the arrangement manager. Unused on Mac - need to evaluate what's going on here... */
-"PRESENTATION_HEADER_ARRANGEMENTS_MENU_MANAGE_ARRANGEMENTS_title" = "Manage Arrangements…";
+"PRESENTATION_HEADER_ARRANGEMENTS_MENU_MANAGE_ARRANGEMENTS_title" = "管理安排…";
 
 /* Title for the new arrangement dialog */
-"PRESENTATION_HEADER_ARRANGEMENTS_NEW_ARRANGEMENT_title" = "New Arrangement";
+"PRESENTATION_HEADER_ARRANGEMENTS_NEW_ARRANGEMENT_title" = "新安排";
 
 /* Title for the arrangement manager */
-"PRESENTATION_HEADER_ARRANGEMENTS_MANAGER_title" = "Arrangement Manager";
+"PRESENTATION_HEADER_ARRANGEMENTS_MANAGER_title" = "管理安排";
 
 /* Alert shown when the user tries to create another arrangement with a name that already exists */
-"PRESENTATION_HEADER_ARRANGEMENTS_MANAGER_DUPLICATE_NAME_message" = "There is already an arrangement with this name. Please choose a different name.";
+"PRESENTATION_HEADER_ARRANGEMENTS_MANAGER_DUPLICATE_NAME_message" = "已经有一个使用此名称的安排。请选择其他名称。";
 
 /* Tooltip for the button to add a slide */
-"PRESENTATION_TOOLBAR_ADD_BUTTON_tooltip" = "Add Slide";
+"PRESENTATION_TOOLBAR_ADD_BUTTON_tooltip" = "添加幻灯片";
 
 /* Title for the menu item to add a blank slide */
-"PRESENTATION_TOOLBAR_NEW_MENU_ADD_NEW_SLIDE_title" = "Add New Slide";
+"PRESENTATION_TOOLBAR_NEW_MENU_ADD_NEW_SLIDE_title" = "添加新幻灯片";
 
 /* Tooltip for the button to select grid view */
-"PRESENTATION_TOOLBAR_GRID_VIEW_tooltip" = "Grid View";
+"PRESENTATION_TOOLBAR_GRID_VIEW_tooltip" = "网格视图";
 
 /* Title for the slides by group option */
-"PRESENTATION_TOOLBAR_GRID_VIEW_SLIDES_BY_GROUP_title" = "Slides by Group";
+"PRESENTATION_TOOLBAR_GRID_VIEW_SLIDES_BY_GROUP_title" = "幻灯片分组";
 
 /* Title for the background color option */
-"PRESENTATION_TOOLBAR_GRID_VIEW_BACKGROUND_COLOR_title" = "Background Color";
+"PRESENTATION_TOOLBAR_GRID_VIEW_BACKGROUND_COLOR_title" = "背景颜色";
 
 /* Explanation of the background color option */
-"PRESENTATION_TOOLBAR_GRID_VIEW_BACKGROUND_COLOR_explanation" = "Drawn as the slide background color in the preview thumbnail";
+"PRESENTATION_TOOLBAR_GRID_VIEW_BACKGROUND_COLOR_explanation" = "在预览缩略图中作为幻灯片背景颜色绘制";
 
 /* Tooltip for the button to select easy view */
-"PRESENTATION_TOOLBAR_EASY_VIEW_tooltip" = "Easy View";
+"PRESENTATION_TOOLBAR_EASY_VIEW_tooltip" = "简易视图";
 
 /* Title for the slides by group option */
-"PRESENTATION_TOOLBAR_EASY_VIEW_BY_GROUP_title" = "Slides by Group";
+"PRESENTATION_TOOLBAR_EASY_VIEW_BY_GROUP_title" = "幻灯片分组";
 
 /* Title for the background color option */
-"PRESENTATION_TOOLBAR_EASY_VIEW_BACKGROUND_COLOR_title" = "Cue Background Color";
+"PRESENTATION_TOOLBAR_EASY_VIEW_BACKGROUND_COLOR_title" = "提示背景色";
 
 /* Label for the font options */
-"PRESENTATION_TOOLBAR_EASY_VIEW_FONT_label" = "Font";
+"PRESENTATION_TOOLBAR_EASY_VIEW_FONT_label" = "字体";
 
 /* Label for the text alignment options */
-"PRESENTATION_TOOLBAR_EASY_VIEW_ALIGNMENT_label" = "Alignment";
+"PRESENTATION_TOOLBAR_EASY_VIEW_ALIGNMENT_label" = "对齐";
 
 /* Label for the text truncation option */
-"PRESENTATION_TOOLBAR_EASY_VIEW_TRUNCATE_label" = "Truncate";
+"PRESENTATION_TOOLBAR_EASY_VIEW_TRUNCATE_label" = "截短";
 
 /* Tooltip for the button to select table view */
-"PRESENTATION_TOOLBAR_TABLE_VIEW_tooltip" = "Table View";
+"PRESENTATION_TOOLBAR_TABLE_VIEW_tooltip" = "表格视图";
 
 /* Title for the slides by group option */
 "PRESENTATION_TOOLBAR_TABLE_VIEW_BY_GROUP_title" = "Slides by Group";
