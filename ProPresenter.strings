@@ -352,7 +352,7 @@ Note: This section enumerates the types of actions that are referenced throughou
 "ACTION_TYPE_CLEAR_ANNOUNCEMENT_title" = "清除公告";
 
 /* The title for the clear to logo action type */
-"ACTION_TYPE_CLEAR_TO_LOGO_title" = "清除徽标";
+"ACTION_TYPE_CLEAR_TO_LOGO_title" = "只保留徽标";
 
 /* The title for the media action type */
 "ACTION_TYPE_MEDIA_title" = "媒体";
@@ -713,7 +713,7 @@ MAIN_MENU
 /* Title for menu item that clears the currently triggered announcement */
 "MAIN_MENU_PRESENTATION_CLEAR_ANNOUNCEMENTS_title" = "清除公告";
 /* Title for menu item that clears everything from the output and shows the user's logo */
-"MAIN_MENU_PRESENTATION_CLEAR_TO_LOGO_title" = "清除徽标";
+"MAIN_MENU_PRESENTATION_CLEAR_TO_LOGO_title" = "只保留徽标";
 /* Title for menu item that shows the currently triggered presentation in the UI. Useful for when the user opens a different presentation and wants to jump back to the currently triggered presentation. */
 "MAIN_MENU_PRESENTATION_SHOW_TRIGGERED_PRESENTATION_title" = "显示触发的演示";
 /* Title for menu item that shows the currently triggered presentation on the announcements layer in the UI. Useful for when the user opens a different presentation and wants to jump back to the currently triggered presentation on the announcements layer. */
@@ -3866,227 +3866,227 @@ PRESENTATION
 "PRESENTATION_TOOLBAR_TABLE_VIEW_tooltip" = "表格视图";
 
 /* Title for the slides by group option */
-"PRESENTATION_TOOLBAR_TABLE_VIEW_BY_GROUP_title" = "Slides by Group";
+"PRESENTATION_TOOLBAR_TABLE_VIEW_BY_GROUP_title" = "幻灯片分组";
 
 /* Title for the background color option */
-"PRESENTATION_TOOLBAR_TABLE_VIEW_BACKGROUND_COLOR_title" = "Cue Background Color";
+"PRESENTATION_TOOLBAR_TABLE_VIEW_BACKGROUND_COLOR_title" = "提示背景色";
 
 /* Explanation of the background color option */
-"PRESENTATION_TOOLBAR_TABLE_VIEW_BACKGROUND_COLOR_explanation" = "Drawn as the slide background color in the preview thumbnail";
+"PRESENTATION_TOOLBAR_TABLE_VIEW_BACKGROUND_COLOR_explanation" = "在预览缩略图中作为幻灯片背景颜色绘制";
 
 /* Title for the table color option */
-"PRESENTATION_TOOLBAR_TABLE_VIEW_TABLE_BACKGROUND_COLOR_title" = "Table Background Color";
+"PRESENTATION_TOOLBAR_TABLE_VIEW_TABLE_BACKGROUND_COLOR_title" = "表格背景颜色";
 
 /* Label for the font options */
-"PRESENTATION_TOOLBAR_TABLE_VIEW_FONT_label" = "Font";
+"PRESENTATION_TOOLBAR_TABLE_VIEW_FONT_label" = "字体";
 
 /* Label for the text alignment options */
-"PRESENTATION_TOOLBAR_TABLE_VIEW_ALIGNMENT_label" = "Alignment";
+"PRESENTATION_TOOLBAR_TABLE_VIEW_ALIGNMENT_label" = "对齐";
 
 /* Label for the text truncation option */
-"PRESENTATION_TOOLBAR_TABLE_VIEW_TRUNCATE_label" = "Truncate";
+"PRESENTATION_TOOLBAR_TABLE_VIEW_TRUNCATE_label" = "截短";
 
 /* Title for the truncation option to truncate the beginning of the text */
-"PRESENTATION_TOOLBAR_TRUNCATE_BEGINNING_title" = "Beginning";
+"PRESENTATION_TOOLBAR_TRUNCATE_BEGINNING_title" = "开始";
 
 /* Title for the truncation option to truncate the middle of the text */
-"PRESENTATION_TOOLBAR_TRUNCATE_MIDDLE_title" = "Middle";
+"PRESENTATION_TOOLBAR_TRUNCATE_MIDDLE_title" = "中间";
 
 /* Title for the truncation option to truncate the end of the text */
-"PRESENTATION_TOOLBAR_TRUNCATE_END_title" = "End";
+"PRESENTATION_TOOLBAR_TRUNCATE_END_title" = "结尾";
 
 /* Title for the menu item to quick edit a slide */
-"PRESENTATION_CONTEXT_MENU_QUICK_EDIT_title" = "Quick Edit";
+"PRESENTATION_CONTEXT_MENU_QUICK_EDIT_title" = "快速编辑";
 
 /* Title for the menu item to edit a slide */
-"PRESENTATION_CONTEXT_MENU_EDIT_SLIDE_title" = "Edit Slide";
+"PRESENTATION_CONTEXT_MENU_EDIT_SLIDE_title" = "编辑幻灯片";
 
 /* Title for the menu item to enable a slide */
-"PRESENTATION_CONTEXT_MENU_ENABLE_title" = "Enable";
+"PRESENTATION_CONTEXT_MENU_ENABLE_title" = "启用";
 
 /* Title for the menu item to disable a slide */
-"PRESENTATION_CONTEXT_MENU_DISABLE_title" = "Disable";
+"PRESENTATION_CONTEXT_MENU_DISABLE_title" = "禁用";
 
 /* Title for the menu item to set the transition on a slide */
-"PRESENTATION_CONTEXT_MENU_TRANSITIONS_title" = "Transitions…";
+"PRESENTATION_CONTEXT_MENU_TRANSITIONS_title" = "过渡…";
 
 /* Title for the menu item to set the theme of a slide */
-"PRESENTATION_CONTEXT_MENU_THEMES_title" = "Themes";
+"PRESENTATION_CONTEXT_MENU_THEMES_title" = "主题";
 
 /* Title for the menu item to set the hotkey of a slide */
-"PRESENTATION_CONTEXT_MENU_HOTKEY_title" = "Hot Key…";
+"PRESENTATION_CONTEXT_MENU_HOTKEY_title" = "热键…";
 
 /* Title for the menu item to set the go to next timer on a slide */
-"PRESENTATION_CONTEXT_MENU_GO_TO_NEXT_TIMER_title" = "Go to Next Timer…";
+"PRESENTATION_CONTEXT_MENU_GO_TO_NEXT_TIMER_title" = "转到下一个计时器...";
 
 /* Title for the menu item to remove the go to next timer on a slide */
-"PRESENTATION_CONTEXT_MENU_REMOVE_GO_TO_NEXT_TIMER_title" = "Remove Go to Next Timer";
+"PRESENTATION_CONTEXT_MENU_REMOVE_GO_TO_NEXT_TIMER_title" = "删除转到下一个计时器";
 
 /* Title for the menu item to add an action to a slide */
-"PRESENTATION_CONTEXT_MENU_ADD_ACTION_title" = "Add Action";
+"PRESENTATION_CONTEXT_MENU_ADD_ACTION_title" = "添加动作";
 
 /* Title for the submenu item to add a clear action to a slide */
-"PRESENTATION_CONTEXT_MENU_ADD_ACTION_CLEAR_title" = "Clear";
+"PRESENTATION_CONTEXT_MENU_ADD_ACTION_CLEAR_title" = "清除";
 
 /* Title for the submenu item to add an audience look action to a slide */
-"PRESENTATION_CONTEXT_MENU_ADD_ACTION_LOOK_title" = "Audience Look";
+"PRESENTATION_CONTEXT_MENU_ADD_ACTION_LOOK_title" = "观众视角";
 
 /* Title for the submenu item to add a stage action to a slide */
-"PRESENTATION_CONTEXT_MENU_ADD_ACTION_STAGE_title" = "Stage";
+"PRESENTATION_CONTEXT_MENU_ADD_ACTION_STAGE_title" = "舞台";
 
 /* Title for the submenu item to add a timer action to a slide */
 "PRESENTATION_CONTEXT_MENU_ADD_ACTION_TIMER_title" = "定时器";
 
 /* Title for the submenu item to add a communication action to a slide */
-"PRESENTATION_CONTEXT_MENU_ADD_ACTION_COMMUNICATION_title" = "Communication";
+"PRESENTATION_CONTEXT_MENU_ADD_ACTION_COMMUNICATION_title" = "连接";
 
 /* Title for the menu item to pick a file for the media action of a slide */
-"PRESENTATION_CONTEXT_MENU_ADD_MEDIA_ACTION_title" = "Add Media Action…";
+"PRESENTATION_CONTEXT_MENU_ADD_MEDIA_ACTION_title" = "添加媒体动作…";
 
 /* Title for the menu item to change the trigger layer behavior of a media action */
-"PRESENTATION_CONTEXT_MENU_MEDIA_ACTION_BEHAVIOR_title" = "Media Action Behavior";
+"PRESENTATION_CONTEXT_MENU_MEDIA_ACTION_BEHAVIOR_title" = "媒体动作行为";
 
 /* Title for the menu item to change the trigger layer behavior of a video input action */
-"PRESENTATION_CONTEXT_MENU_VIDEO_INPUT_ACTION_BEHAVIOR_title" = "Video Input Action Behavior";
+"PRESENTATION_CONTEXT_MENU_VIDEO_INPUT_ACTION_BEHAVIOR_title" = "视频输入动作行为";
 
 /* Title for the menu item to convert the media action to a slide element */
-"PRESENTATION_CONTEXT_MENU_CONVERT_MEDIA_title" = "Convert Media Action to Slide Element";
+"PRESENTATION_CONTEXT_MENU_CONVERT_MEDIA_title" = "将媒体操作转换为幻灯片元素";
 
 /* Title for the menu item to edit a single action on a slide */
-"PRESENTATION_CONTEXT_MENU_EDIT_ACTION_title" = "Edit Action: %@";
+"PRESENTATION_CONTEXT_MENU_EDIT_ACTION_title" = "编辑动作: %@";
 
 /* Title for the menu item to edit an action on a slide, opens a submenu for all the actions */
-"PRESENTATION_CONTEXT_MENU_EDIT_ACTION_PLURAL_title" = "Edit Actions";
+"PRESENTATION_CONTEXT_MENU_EDIT_ACTION_PLURAL_title" = "编辑动作";
 
 /* Title for the menu item to remove the action of a slide */
-"PRESENTATION_CONTEXT_MENU_REMOVE_ACTION_title" = "Remove Action: %@";
+"PRESENTATION_CONTEXT_MENU_REMOVE_ACTION_title" = "删除动作: %@";
 
 /* Title for the menu item to remove actions on a slide, opens a submenu for all the actions */
-"PRESENTATION_CONTEXT_MENU_REMOVE_ACTION_PLURAL_title" = "Remove Actions";
+"PRESENTATION_CONTEXT_MENU_REMOVE_ACTION_PLURAL_title" = "删除动作";
 
 /* Title for the menu item to remove all actions from a slide */
-"PRESENTATION_CONTEXT_MENU_REMOVE_ALL_title" = "Remove All";
+"PRESENTATION_CONTEXT_MENU_REMOVE_ALL_title" = "移除所有";
 
 /* Title for the menu item to change the slide group */
-"PRESENTATION_CONTEXT_MENU_GROUP_title" = "Group";
+"PRESENTATION_CONTEXT_MENU_GROUP_title" = "编组";
 
 /* Title for the menu item to ungroup slides */
-"PRESENTATION_CONTEXT_MENU_UNGROUP_title" = "Ungroup";
+"PRESENTATION_CONTEXT_MENU_UNGROUP_title" = "取消编组";
 
 /* Title for the menu item to change the slide label */
-"PRESENTATION_CONTEXT_MENU_LABEL_title" = "Label";
+"PRESENTATION_CONTEXT_MENU_LABEL_title" = "标签";
 
 /* Title for the menu item to add a custom group or label */
-"PRESENTATION_CONTEXT_MENU_OTHER_title" = "Other…";
+"PRESENTATION_CONTEXT_MENU_OTHER_title" = "其他…";
 
 /* Title for the menu item describing the prop action - this is "Prop: {Name of Prop}" */
-"PRESENTATION_CONTEXT_MENU_ACTION_LIST_PROP_title" = "Prop: %@";
+"PRESENTATION_CONTEXT_MENU_ACTION_LIST_PROP_title" = "道具: %@";
 
 /* Title for the menu item describing the timer action - this is "Timer: {Name of Timer}" */
-"PRESENTATION_CONTEXT_MENU_ACTION_LIST_TIMER_title" = "Timer: %@";
+"PRESENTATION_CONTEXT_MENU_ACTION_LIST_TIMER_title" = "计时器: %@";
 
 /* Title for the menu item describing the message action - this is "Message: {Name of Message}" */
-"PRESENTATION_CONTEXT_MENU_ACTION_LIST_MESSAGE_title" = "Message: %@";
+"PRESENTATION_CONTEXT_MENU_ACTION_LIST_MESSAGE_title" = "信息: %@";
 
 /* Title for the custom label dialog */
-"PRESENTATION_LABEL_DIALOG_title" = "Label";
+"PRESENTATION_LABEL_DIALOG_title" = "标签";
 
 /* Label for the field of the new label's text */
-"PRESENTATION_LABEL_DIALOG_LABEL_label" = "Label:";
+"PRESENTATION_LABEL_DIALOG_LABEL_label" = "标签:";
 
 /* Label for the label color */
-"PRESENTATION_LABEL_DIALOG_COLOR_label" = "Color:";
+"PRESENTATION_LABEL_DIALOG_COLOR_label" = "颜色:";
 
 /* Label for the option to save the new label in preferences */
-"PRESENTATION_LABEL_DIALOG_SAVE_LABEL_label" = "Save Label";
+"PRESENTATION_LABEL_DIALOG_SAVE_LABEL_label" = "保存标签";
 
 /* Label for the hotkey text field */
-"PRESENTATION_HOTKEY_DIALOG_HOTKEY_label" = "Enter Hot Key to trigger slide:";
+"PRESENTATION_HOTKEY_DIALOG_HOTKEY_label" = "使用热键触发幻灯片:";
 
 /* Label for the valid hotkey characters */
-"PRESENTATION_HOTKEY_DIALOG_VALID_CHARACTERS_label" = "(Valid characters: A-Z)";
+"PRESENTATION_HOTKEY_DIALOG_VALID_CHARACTERS_label" = "(有效字符: A-Z)";
 
 /* Title for the button to clear the hotkey from a slide */
-"PRESENTATION_HOTKEY_DIALOG_CLEAR_BUTTON_title" = "Clear";
+"PRESENTATION_HOTKEY_DIALOG_CLEAR_BUTTON_title" = "清除";
 
 /* Message for the alert shown when attempting to assign a hotkey that is already assigned */
-"PRESENTATION_HOTKEY_DIALOG_CONFLICT_ALERT_message" = "Conflicting Hotkey";
+"PRESENTATION_HOTKEY_DIALOG_CONFLICT_ALERT_message" = "热键冲突";
 
 /* Additional info for the alert shown when attempting to assign a hotkey that is already assigned */
-"PRESENTATION_HOTKEY_DIALOG_CONFLICT_ALERT_info" = "This hotkey conflicts with another cue's hotkey. Would you like to replace the hotkey assignment?";
+"PRESENTATION_HOTKEY_DIALOG_CONFLICT_ALERT_info" = "此热键与另一个提示的热键冲突。您要替换热键分配吗？";
 
 /* Alert shown when attempting to assign a hotkey that conflicts with both another cue's and group's hotkey */
-"PRESENTATION_HOTKEY_DIALOG_CUE_AND_GROUP_CONFLICT_ALERT_message" = "Conflicting Hotkey";
-"PRESENTATION_HOTKEY_DIALOG_CUE_AND_GROUP_CONFLICT_ALERT_info" = "This hotkey conflicts with another cue's hotkey and a cue group's hotkey. You can replace the other cue's hotkey, but the cue group will still take precedence over an individual cue. You can change the cue group's hotkey in Preferences -> Labels.\n\nWould you like to replace the other cue's hotkey assignment?";
+"PRESENTATION_HOTKEY_DIALOG_CUE_AND_GROUP_CONFLICT_ALERT_message" = "热键冲突";
+"PRESENTATION_HOTKEY_DIALOG_CUE_AND_GROUP_CONFLICT_ALERT_info" = "此热键与另一个提示的热键和提示组的热键冲突。您可以替换另一个提示的热键，但是提示组仍将优先于单个提示。您可以在“首选项”->“标签”中更改提示组的热键。\n \n是否要替换其他提示的热键分配？";
 
 /* Alert shown when attempting to assign a hotkey that conflicts with a group's hotkey */
-"PRESENTATION_HOTKEY_DIALOG_GROUP_CONFLICT_ALERT_message" = "Conflicting Hotkey";
-"PRESENTATION_HOTKEY_DIALOG_GROUP_CONFLICT_ALERT_info" = "This hotkey conflicts with a cue group's hotkey. You can still set this hotkey, but the cue group takes precedence over this individual cue. You can change the cue group's hotkey in Preferences -> Labels";
+"PRESENTATION_HOTKEY_DIALOG_GROUP_CONFLICT_ALERT_message" = "热键冲突";
+"PRESENTATION_HOTKEY_DIALOG_GROUP_CONFLICT_ALERT_info" = "此热键与提示组的热键冲突。您仍然可以设置此热键，但是提示组优先于此单个提示。您可以在“首选项”->“标签”中更改提示组的热键。";
 
 /* Title for the button to reassign the conflicting hotkey */
-"PRESENTATION_HOTKEY_DIALOG_CONFLICT_ALERT_REPLACE_BUTTON_title" = "Replace Hotkey";
+"PRESENTATION_HOTKEY_DIALOG_CONFLICT_ALERT_REPLACE_BUTTON_title" = "替换热键";
 
-"PRESENTATION_SLIDE_ACTION_VALIDATION_TEXT_ELEMENT_OVERFILLED_ERROR_tooltip" = "One or more of the text boxes on this slide is too small, causing the content inside to be clipped. Resize the text box to see all of the content.";
+"PRESENTATION_SLIDE_ACTION_VALIDATION_TEXT_ELEMENT_OVERFILLED_ERROR_tooltip" = "此幻灯片上的一个或多个文本框太小，导致内部内容被剪切。调整文本框的大小以查看所有内容。";
 
 /* A tooltip shown when a media action specifies a file that can't be found. %@ is the filename. */
-"PRESENTATION_MEDIA_ACTION_VALIDATION_ERROR_tooltip" = "Media - %@ Not Found";
+"PRESENTATION_MEDIA_ACTION_VALIDATION_ERROR_tooltip" = "媒体 - %@ 未找到";
 
 /* A tooltip shown when a stage layout action specifies a stage layout that can't be found */
-"PRESENTATION_STAGE_ACTION_VALIDATION_ERROR_tooltip" = "Invalid Stage Layout Action";
+"PRESENTATION_STAGE_ACTION_VALIDATION_ERROR_tooltip" = "无效的舞台布局操作";
 
 /* A tooltip shown when a timer action specifies a timer that can't be found */
-"PRESENTATION_TIMER_ACTION_VALIDATION_ERROR_tooltip" = "Timer Not Found";
+"PRESENTATION_TIMER_ACTION_VALIDATION_ERROR_tooltip" = "计时器未找到";
 
 /* A tooltip shown when an audience look action specifies a look that can't be found */
-"PRESENTATION_LOOK_ACTION_VALIDATION_ERROR_tooltip" = "Look Not Found";
+"PRESENTATION_LOOK_ACTION_VALIDATION_ERROR_tooltip" = "视图未找到";
 
 /* Title for menu item that opens the audience looks window */
-"PRESENTATION_LOOK_ACTION_OPEN_AUDIENCE_LOOKS_WINDOW_title" = "Open Audience Looks…";
+"PRESENTATION_LOOK_ACTION_OPEN_AUDIENCE_LOOKS_WINDOW_title" = "开放观众视图…";
 
 /* Title for placeholder menu item when the user hasn't selected an audience look to use */
-"PRESENTATION_LOOK_ACTION_NO_LOOK_SELECTED_title" = "No Audience Look Selected";
+"PRESENTATION_LOOK_ACTION_NO_LOOK_SELECTED_title" = "未选择观众视图";
 
 /* Title for placeholder menu item when there are no audience looks to choose from */
-"PRESENTATION_LOOK_ACTION_NO_LOOKS_AVAILABLE_title" = "None Available";
+"PRESENTATION_LOOK_ACTION_NO_LOOKS_AVAILABLE_title" = "不可用";
 
 /* A tooltip shown when a communication action specifies a device that can't be found */
-"PRESENTATION_COMMUNICATION_ACTION_VALIDATION_ERROR_tooltip" = "Communication Device Not Found";
+"PRESENTATION_COMMUNICATION_ACTION_VALIDATION_ERROR_tooltip" = "找不到通讯设备";
 
 /* A tooltip shown when a prop action specifies a prop that can't be found */
-"PRESENTATION_PROP_ACTION_VALIDATION_ERROR_tooltip" = "Prop Not Found";
+"PRESENTATION_PROP_ACTION_VALIDATION_ERROR_tooltip" = "道具未找到";
 
 /* A tooltip shown when a message action specifies a message that can't be found */
-"PRESENTATION_MESSAGE_ACTION_VALIDATION_ERROR_tooltip" = "Message Not Found";
+"PRESENTATION_MESSAGE_ACTION_VALIDATION_ERROR_tooltip" = "信息未找到";
 
 /* Placeholder text for the library search tab */
-"PRESENTATION_QUICK_SEARCH_LIBRARY_placeholder" = "Library";
+"PRESENTATION_QUICK_SEARCH_LIBRARY_placeholder" = "库";
 
 /* Placeholder text for the SongSelect search tab */
 "PRESENTATION_QUICK_SEARCH_SONGSELECT_placeholder" = "SongSelect";
 
 /* Title for the SongSelect login window */
-"PRESENTATION_QUICK_SEARCH_SONGSELECT_LOGIN_title" = "SongSelect Login";
+"PRESENTATION_QUICK_SEARCH_SONGSELECT_LOGIN_title" = "SongSelect 登录";
 
 /* Title for the button to import the selected song */
-"PRESENTATION_QUICK_SEARCH_SONGSELECT_IMPORT_title" = "Import";
+"PRESENTATION_QUICK_SEARCH_SONGSELECT_IMPORT_title" = "导入";
 
 /* Title for the alert shown when a SongSelect search result has no lyrics available */
-"PRESENTATION_QUICK_SEARCH_SONGSELECT_NO_LYRICS_ALERT_title" = "Can't import this song because there are no lyrics. Please contact SongSelect.";
+"PRESENTATION_QUICK_SEARCH_SONGSELECT_NO_LYRICS_ALERT_title" = "无法导入这首歌，因为没有歌词。请联系SongSelect.";
 
 /* Title for the alert shown when there is not an internet connection */
-"PRESENTATION_QUICK_SEARCH_NO_INTERNET_ALERT_title" = "Internet connection is not available. Please check your connection status.";
+"PRESENTATION_QUICK_SEARCH_NO_INTERNET_ALERT_title" = "Internet连接不可用。请检查您的连接状态。";
 
 /* Title for a menu item that lets the user resize their presentation */
-"PRESENTATION_RESIZE_ITEM_title" = "Resize";
+"PRESENTATION_RESIZE_ITEM_title" = "调整大小";
 
 /* Label showing the progress for resizing the selected documents. Format is the current document index and the total number of documents to resize. */
-"PRESENTATION_RESIZE_PROGRESS_label" = "Resizing %li of %li…";
+"PRESENTATION_RESIZE_PROGRESS_label" = "调整大小 %li / %li…";
 
 /* Title for menu item that lets the user enter a custom resolution for their presentation */
-"PRESENTATION_RESIZE_CUSTOM_SIZE_title" = "Custom Size…";
+"PRESENTATION_RESIZE_CUSTOM_SIZE_title" = "自定义大小…";
 
 /* Label shown in the presentation view when the user hasn't yet selected a presentation */
-"PRESENTATION_NONE_SELECTED_label" = "No Presentation Selected";
+"PRESENTATION_NONE_SELECTED_label" = "未选择演示";
 
 
 /*
@@ -4105,46 +4105,46 @@ SIDEBAR_PREVIEW
 */
 
 /* Clears everything from the output */
-"SIDEBAR_CLEAR_ALL_BUTTON_title" = "Clear All";
+"SIDEBAR_CLEAR_ALL_BUTTON_title" = "全部清除";
 
 /* Tooltip for the button that clears everything from the output */
-"SIDEBAR_CLEAR_ALL_BUTTON_tooltip" = "Clear All";
+"SIDEBAR_CLEAR_ALL_BUTTON_tooltip" = "全部清除";
 
 /* Tooltip for the button that clears audio from the output */
-"SIDEBAR_CLEAR_AUDIO_BUTTON_tooltip" = "Clear Audio";
+"SIDEBAR_CLEAR_AUDIO_BUTTON_tooltip" = "清除音频";
 
 /* Tooltip for the button that clears messages from the output */
-"SIDEBAR_CLEAR_MESSAGES_BUTTON_tooltip" = "Clear Messages";
+"SIDEBAR_CLEAR_MESSAGES_BUTTON_tooltip" = "清除消息";
 
 /* Tooltip for the button that clears props from the output */
-"SIDEBAR_CLEAR_PROPS_BUTTON_tooltip" = "Clear Props";
+"SIDEBAR_CLEAR_PROPS_BUTTON_tooltip" = "清除道具";
 
 /* Tooltip for the button that clears announcements from the output */
-"SIDEBAR_CLEAR_ANNOUNCEMENTS_BUTTON_tooltip" = "Clear Announcements";
+"SIDEBAR_CLEAR_ANNOUNCEMENTS_BUTTON_tooltip" = "清除公告";
 
 /* Tooltip for the button that clears the fill from the output */
-"SIDEBAR_CLEAR_FILL_BUTTON_tooltip" = "Clear Fill";
+"SIDEBAR_CLEAR_FILL_BUTTON_tooltip" = "清除填充";
 
 /* Tooltip for the button that clears slides from the output */
-"SIDEBAR_CLEAR_PRESENTATION_FOREGROUND_BUTTON_tooltip" = "Clear Slide";
+"SIDEBAR_CLEAR_PRESENTATION_FOREGROUND_BUTTON_tooltip" = "清除幻灯片";
 
 /* Tooltip for the button that clears background media from the output */
-"SIDEBAR_CLEAR_PRESENTATION_BACKGROUND_BUTTON_tooltip" = "Clear Media";
+"SIDEBAR_CLEAR_PRESENTATION_BACKGROUND_BUTTON_tooltip" = "清除媒体";
 
 /* Tooltip for the button that clears video inputs from the output */
-"SIDEBAR_CLEAR_VIDEO_INPUT_BUTTON_tooltip" = "Clear Video Input";
+"SIDEBAR_CLEAR_VIDEO_INPUT_BUTTON_tooltip" = "清除视频输入";
 
 /* Title for the button that clear the output and shows the logo image */
-"SIDEBAR_CLEAR_TO_LOGO_title" = "Clear To Logo";
+"SIDEBAR_CLEAR_TO_LOGO_title" = "只保留徽标";
 
 /* Text for when the preview has no screen selected */
-"SIDEBAR_OUTPUT_SELECTOR_BUTTON_NO_SELECTION_title" = "No Screen Selected";
+"SIDEBAR_OUTPUT_SELECTOR_BUTTON_NO_SELECTION_title" = "未选择屏幕";
 
 /* Title for the button that shows the time until ProPresenter advances to the next slide */
-"SIDEBAR_AUTOMATIC_ADVANCE_BUTTON_title" = "Advance";
+"SIDEBAR_AUTOMATIC_ADVANCE_BUTTON_title" = "前进";
 
 /* Title for the button that indicates slides will only be shown on stage displays */
-"SIDEBAR_SLIDE_ON_STAGE_ONLY_BUTTON_title" = "Stage Only";
+"SIDEBAR_SLIDE_ON_STAGE_ONLY_BUTTON_title" = "仅舞台";
 
 /*
 ------------------------------------------------------------------------------
@@ -4156,52 +4156,52 @@ are duplicated.
 ------------------------------------------------------------------------------
 */
 /* Tooltip for the button that jumps to the beginning of the currently playing media */
-"TRANSPORT_GO_TO_START_0_tooltip" = "Go To Beginning";
+"TRANSPORT_GO_TO_START_0_tooltip" = "转到开始";
 
 /* Tooltip for the button that jumps to the 10 second point in the currently playing media */
-"TRANSPORT_GO_TO_START_10_tooltip" = "Go To 10 seconds";
+"TRANSPORT_GO_TO_START_10_tooltip" = "转到 10 s";
 
 /* Tooltip for the button that jumps to the 30 second point in the currently playing media */
-"TRANSPORT_GO_TO_START_30_tooltip" = "Go To 30 seconds";
+"TRANSPORT_GO_TO_START_30_tooltip" = "转到 30 s";
 
 /* Tooltip for the button that jumps to the 60 second point in the currently playing media */
-"TRANSPORT_GO_TO_START_60_tooltip" = "Go To 60 seconds";
+"TRANSPORT_GO_TO_START_60_tooltip" = "转到 60 s";
 
 /* Tooltip for the button that jumps to the 90 second point in the currently playing media */
-"TRANSPORT_GO_TO_START_90_tooltip" = "Go To 90 seconds";
+"TRANSPORT_GO_TO_START_90_tooltip" = "转到 90 s";
 
 /* Tooltip for the button that jumps to the end of the currently playing media */
-"TRANSPORT_GO_TO_END_0_tooltip" = "Go To End";
+"TRANSPORT_GO_TO_END_0_tooltip" = "转到结束";
 
 /* Tooltip for the button that jumps to 10 seconds from the end of the currently playing media */
-"TRANSPORT_GO_TO_END_10_tooltip" = "Go To 10 Seconds From The End";
+"TRANSPORT_GO_TO_END_10_tooltip" = "转到结尾前10秒";
 
 /* Tooltip for the button that jumps to 30 seconds from the end of the currently playing media */
-"TRANSPORT_GO_TO_END_30_tooltip" = "Go To 30 Seconds From The End";
+"TRANSPORT_GO_TO_END_30_tooltip" = "转到结尾前30秒";
 
 /* Tooltip for the button that jumps to 60 seconds from the end of the currently playing media */
-"TRANSPORT_GO_TO_END_60_tooltip" = "Go To 60 Seconds From The End";
+"TRANSPORT_GO_TO_END_60_tooltip" = "转到结尾前60秒";
 
 /* Tooltip for the button that jumps to 90 seconds from the end of the currently playing media */
-"TRANSPORT_GO_TO_END_90_tooltip" = "Go To 90 Seconds From The End";
+"TRANSPORT_GO_TO_END_90_tooltip" = "转到结尾前90秒";
 
 /* Tooltip for the button that jumps backward by 15 seconds in the currently playing media */
-"TRANSPORT_SKIP_BACKWARD_15_tooltip" = "Skip Backward 15 Seconds";
+"TRANSPORT_SKIP_BACKWARD_15_tooltip" = "后退15秒";
 
 /* Tooltip for the button that jumps forward by 15 seconds in the currently playing media */
-"TRANSPORT_SKIP_FORWARD_15_tooltip" = "Skip Forward 15 Seconds";
+"TRANSPORT_SKIP_FORWARD_15_tooltip" = "前进15秒";
 
 /* Tooltip for the button that steps backward by 1 frame in the currently playing media */
-"TRANSPORT_STEP_BACKWARD_tooltip" = "Step Backward";
+"TRANSPORT_STEP_BACKWARD_tooltip" = "后退";
 
 /* Tooltip for the button that steps forward by 1 frame in the currently playing media */
-"TRANSPORT_STEP_FORWARD_tooltip" = "Step Forward";
+"TRANSPORT_STEP_FORWARD_tooltip" = "前进";
 
 /* Tooltip for the button that plays the current media */
-"TRANSPORT_PLAY_tooltip" = "Play";
+"TRANSPORT_PLAY_tooltip" = "播放";
 
 /* Tooltip for the button that pauses the current media */
-"TRANSPORT_PAUSE_tooltip" = "Pause";
+"TRANSPORT_PAUSE_tooltip" = "暂停";
 
 
 /*
