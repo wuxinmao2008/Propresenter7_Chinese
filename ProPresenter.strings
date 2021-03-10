@@ -559,7 +559,7 @@ MAIN_MENU
 /* Title for top level menu item that contains application related options */
 "MAIN_MENU_APPLICATION_title" = "ProPresenter";
 /* Title for menu item that opens a window with information about ProPresenter */
-"MAIN_MENU_APPLICATION_ABOUT_PROPRESENTER_title" = "关于oPresenter";
+"MAIN_MENU_APPLICATION_ABOUT_PROPRESENTER_title" = "关于ProPresenter";
 /* Title for menu item that opens the registration window */
 "MAIN_MENU_APPLICATION_REGISTRATION_title" = "激活…";
 /* Title for menu item that opens the preferences window */
@@ -4218,26 +4218,26 @@ AUDIO_BIN
 */
 
 /* the title in the audio section source list */
-"AUDIO_BIN_HEADER_title" = "AUDIO";
+"AUDIO_BIN_HEADER_title" = "音频";
 
 /* the tool tip for the add button in the audio bin */
-"AUDIO_BIN_PLAYLIST_ITEM_HEADER_ADD_BUTTON_tooltip" = "Add Audio Track";
+"AUDIO_BIN_PLAYLIST_ITEM_HEADER_ADD_BUTTON_tooltip" = "添加音轨";
 
 /* the tool tip for the shuffle button in the audio bin */
-"AUDIO_BIN_FOOTER_SHUFFLE_BUTTON_tooltip" = "Shuffle Audio Tracks";
+"AUDIO_BIN_FOOTER_SHUFFLE_BUTTON_tooltip" = "随机播放音轨";
 
 /* the tool tip for the transition duration slider in the footer of the audio bin */
-"AUDIO_BIN_FOOTER_TRANSITION_DURATION_SLIDER_tooltip" = "Transition Duration";
+"AUDIO_BIN_FOOTER_TRANSITION_DURATION_SLIDER_tooltip" = "过渡时间";
 
 /* the title for the context menu option on a playlist item to "set as sound effect type" */
-"AUDIO_BIN_PLAYLIST_ITEM_CONTEXT_MENU_SET_AS_SOUND_EFFECT_title" = "Set as Sound Effect type";
+"AUDIO_BIN_PLAYLIST_ITEM_CONTEXT_MENU_SET_AS_SOUND_EFFECT_title" = "设为声音效果";
 
 /* the title for the context menu option on a playlist item to "Set as Audio Track type" */
-"AUDIO_BIN_PLAYLIST_ITEM_CONTEXT_MENU_SET_AS_AUDIO_TRACK_title" = "Set as Audio Track type";
+"AUDIO_BIN_PLAYLIST_ITEM_CONTEXT_MENU_SET_AS_AUDIO_TRACK_title" = "设为音轨类型";
 
 /* Alert shown when the user tries to delete cues from the audio bin */
-"AUDIO_BIN_DELETE_CUES_ALERT_message" = "Are you sure you want to delete the selected Audio Cues?";
-"AUDIO_BIN_DELETE_CUES_ALERT_info" = "\"Delete Cues\" will remove from ProPresenter only. \"Move to trash\" will remove cues from ProPresenter and move the files to the Trash.";
+"AUDIO_BIN_DELETE_CUES_ALERT_message" = "您确定要删除所选的音频提示吗？";
+"AUDIO_BIN_DELETE_CUES_ALERT_info" = "\"删除提示\" 仅从ProPresenter中删除. \"移到回收站\" 将从ProPresenter中删除提示，并将文件移至回收站。";
 
 
 /*
@@ -4247,10 +4247,10 @@ ACKNOWLEDGMENT_VIEW
 */
 
 /* the title for the website button in the acknowledgment row under about ProPresenter */
-"ACKNOWLEDGMENT_VIEW_WEBSITE_BUTTON_title" = "Website";
+"ACKNOWLEDGMENT_VIEW_WEBSITE_BUTTON_title" = "网站";
 
 /* the title for the license button in the acknowledgment row under about ProPresenter */
-"ACKNOWLEDGMENT_VIEW_LICENSE_BUTTON_title" = "License";
+"ACKNOWLEDGMENT_VIEW_LICENSE_BUTTON_title" = "证书";
 
 /*
 ------------------------------------------------------------------------------
@@ -4266,100 +4266,100 @@ RECORDING
 */
 
 /* button in the preview are for recording */
-"RECORDING_BUTTON_LIVE_label" = "Live";
+"RECORDING_BUTTON_LIVE_label" = "现场";
 
 /* the title for the recording button context menu for the status header */
-"RECORDING_BUTTON_CONTEXT_MENU_STATUS_title" = "Status";
+"RECORDING_BUTTON_CONTEXT_MENU_STATUS_title" = "状态";
 
 /* the title for the recording button context menu for the "Active" status */
-"RECORDING_BUTTON_CONTEXT_MENU_ACTIVE_title" = "Active";
+"RECORDING_BUTTON_CONTEXT_MENU_ACTIVE_title" = "有效";
 
 /* the title for the recording button context menu when warning status */
-"RECORDING_BUTTON_CONTEXT_MENU_WARNING_title" = ">10\% frame drop in the past 60 seconds";
+"RECORDING_BUTTON_CONTEXT_MENU_WARNING_title" = "在过去60秒内丢失 >10\% 帧";
 
 /* the title for the recording button context menu when connection is lost */
-"RECORDING_BUTTON_CONTEXT_MENU_CONNECTION_LOST_title" = "Stream Connection Lost";
+"RECORDING_BUTTON_CONTEXT_MENU_CONNECTION_LOST_title" = "流连接丢失";
 
 /* the title for the recording button context menu when connection failed */
-"RECORDING_BUTTON_CONTEXT_MENU_CONNECTION_FAILED_title" = "Stream Connection Failed";
+"RECORDING_BUTTON_CONTEXT_MENU_CONNECTION_FAILED_title" = "流连接失败";
 
 /* the title for the recording button context menu when reconnecting */
-"RECORDING_BUTTON_CONTEXT_MENU_RECONNECTING_title" = "Reconnecting";
+"RECORDING_BUTTON_CONTEXT_MENU_RECONNECTING_title" = "重连中";
 
 /* the title for the recording button context menu to start recording */
-"RECORDING_BUTTON_CONTEXT_MENU_START_CAPTURE_title" = "Start Capture";
+"RECORDING_BUTTON_CONTEXT_MENU_START_CAPTURE_title" = "开始捕获";
 
 /* the title for the recording button context menu to start streaming if resi */
-"RECORDING_BUTTON_CONTEXT_MENU_START_STREAM_title" = "Start Streaming";
+"RECORDING_BUTTON_CONTEXT_MENU_START_STREAM_title" = "开始流式传输";
 
 /* the title for the recording button context menu to stop recording */
-"RECORDING_BUTTON_CONTEXT_MENU_STOP_CAPTURE_title" = "Stop Capture";
+"RECORDING_BUTTON_CONTEXT_MENU_STOP_CAPTURE_title" = "停止捕捉";
 
 /* the title for the recording button context menu to stop streaming if resi */
-"RECORDING_BUTTON_CONTEXT_MENU_STOP_STREAM_title" = "Stop Streaming";
+"RECORDING_BUTTON_CONTEXT_MENU_STOP_STREAM_title" = "停止流式传输";
 
 /* the title for the recording button context menu to start recording */
-"RECORDING_UNFINISHED_CAPTURE_MESSAGE_title" = "Resume Screen Capture?";
+"RECORDING_UNFINISHED_CAPTURE_MESSAGE_title" = "继续屏幕录制？";
 
 /* the title for the recording button context menu to start recording */
-"RECORDING_UNFINISHED_CAPTURE_INFORMATION_title" = "ProPresenter could not finish your last Screen Capture properly. Would you like to resume?";
+"RECORDING_UNFINISHED_CAPTURE_INFORMATION_title" = "ProPresenter无法正确完成上一个屏幕捕获。您想恢复吗？";
 
 /* the title for the recording button context menu to open record settings */
-"RECORDING_BUTTON_CONTEXT_MENU_CAPTURE_SETTINGS_title" = "Capture Settings…";
+"RECORDING_BUTTON_CONTEXT_MENU_CAPTURE_SETTINGS_title" = "捕获设置…";
 
 /* the title for the recording button context menu for the drop frames */
-"RECORDING_BUTTON_DROP_label" = "Drop Frames:";
+"RECORDING_BUTTON_DROP_label" = "丢帧：";
 
 /* the title for the recording button context menu for the bit rate */
-"RECORDING_BUTTON_BITRATE_label" = "Bitrate:";
+"RECORDING_BUTTON_BITRATE_label" = "比特率：";
 
 /* the title of the record settings windows */
-"RECORDING_WINDOW_title" = "Capture Settings";
+"RECORDING_WINDOW_title" = "捕获设置";
 
 /* the label for the source screen for recording */
-"RECORDING_WINDOW_SOURCE_label" = "Source:";
+"RECORDING_WINDOW_SOURCE_label" = "来源：";
 
 /* the label for the destination (disk/rtmp) */
-"RECORDING_WINDOW_DESTINATION_label" = "Destination:";
+"RECORDING_WINDOW_DESTINATION_label" = "目的地：";
 
 /* the label for the rtmp address */
-"RECORDING_WINDOW_RTMP_ADDRESS_label" = "Address:";
+"RECORDING_WINDOW_RTMP_ADDRESS_label" = "地址：";
 
 /* the label for the rtmp address */
 "RECORDING_WINDOW_RTMP_KEY_label" = "Key:";
 
 /* the label for the rtmp encoding */
-"RECORDING_WINDOW_RTMP_ENCODING_label" = "Encoding:";
+"RECORDING_WINDOW_RTMP_ENCODING_label" = "编码：";
 
 /* the label if rtmp will be saved to disk or not */
-"RECORDING_WINDOW_RTMP_SAVE_LOCAL_COPY_label" = "Save Local Copy:";
+"RECORDING_WINDOW_RTMP_SAVE_LOCAL_COPY_label" = "保存本地副本：";
 
 /* the label for the location to save the file (disk/rtmp) */
-"RECORDING_WINDOW_SAVE_TO_label" = "Save To:";
+"RECORDING_WINDOW_SAVE_TO_label" = "存到：";
 
 /* the title of the button when there is no location selected */
-"RECORDING_WINDOW_BUTTON_SELECT_A_LOCATION_title" = "Select A Location…";
+"RECORDING_WINDOW_BUTTON_SELECT_A_LOCATION_title" = "选择一个位置…";
 
 /* the label for the codec setting for disk recording */
-"RECORDING_WINDOW_DISK_CODEC_label" = "Codec:";
+"RECORDING_WINDOW_DISK_CODEC_label" = "编解码器：";
 
 /* the label for the resolution setting for disk recording */
-"RECORDING_WINDOW_DISK_RESOLUTION_label" = "Resolution:";
+"RECORDING_WINDOW_DISK_RESOLUTION_label" = "解析度：";
 
 /* the label for the interlaced setting for disk recording */
-"RECORDING_WINDOW_DISK_INTERLACED_label" = "Interlaced:";
+"RECORDING_WINDOW_DISK_INTERLACED_label" = "隔行扫描：";
 
 /* the label for the framerate setting for disk recording */
-"RECORDING_WINDOW_DISK_FRAMERATE_label" = "Frame Rate:";
+"RECORDING_WINDOW_DISK_FRAMERATE_label" = "帧率：";
 
 /* the label for the audio mapping for capture settings */
-"RECORDING_WINDOW_AUDIO_label" = "Audio:";
+"RECORDING_WINDOW_AUDIO_label" = "音频：";
 
 /* the title for the disk destination type */
-"RECORDING_WINDOW_DESTINATION_FORMAT_label" = "Destination: %@";
+"RECORDING_WINDOW_DESTINATION_FORMAT_label" = "目的地： %@";
 
 /* the title for the disk destination type */
-"RECORDING_WINDOW_DESTINATION_DISK_title" = "Disk";
+"RECORDING_WINDOW_DESTINATION_DISK_title" = "磁盘";
 
 /* the title for the rtmp destination type */
 "RECORDING_WINDOW_DESTINATION_RTMP_title" = "RTMP";
@@ -4371,16 +4371,16 @@ RECORDING
 "RECORDING_WINDOW_CODEC_H264_title" = "H.264";
 
 /* the title for H.264 software codec option */
-"RECORDING_WINDOW_CODEC_H264_SOFTWARE_title" = "H.264 Software";
+"RECORDING_WINDOW_CODEC_H264_SOFTWARE_title" = "H.264 软件";
 
 /* the title for H.265 codec option */
 "RECORDING_WINDOW_CODEC_H265_title" = "H.265";
 
 /* the title for H.265 software codec option */
-"RECORDING_WINDOW_CODEC_H265_SOFTWARE_title" = "H.265 Software";
+"RECORDING_WINDOW_CODEC_H265_SOFTWARE_title" = "H.265 软件";
 
 /* the title for ProRes 422 Proxy codec option */
-"RECORDING_WINDOW_CODEC_PRORES_422_PROXY_title" = "ProRes 422 Proxy";
+"RECORDING_WINDOW_CODEC_PRORES_422_PROXY_title" = "ProRes 422 代理";
 
 /* the title for ProRes 422 LT codec option */
 "RECORDING_WINDOW_CODEC_PRORES_422_LT_title" = "ProRes 422 LT";
@@ -4418,7 +4418,7 @@ RECORDING
 "RECORDING_WINDOW_RESOLUTION_1080_title" = "1920 x 1080";
 
 /* the title for Custom resolution option */
-"RECORDING_WINDOW_RESOLUTION_CUSTOM_title" = "Custom…";
+"RECORDING_WINDOW_RESOLUTION_CUSTOM_title" = "自定义…";
 
 /* the title for 360p30 (1 Mbps) encoding option */
 "RECORDING_WINDOW_ENCODING_360P301_title" = "360p30 (1 Mbps)";
@@ -4466,140 +4466,140 @@ RECORDING
 "RECORDING_WINDOW_FRAMERATE_60FPS_title" = "60 fps";
 
 /* the title for the Save To header for save location menu item */
-"RECORDING_WINDOW_SAVE_TO_HEADER_title" = "Save To";
+"RECORDING_WINDOW_SAVE_TO_HEADER_title" = "保存到";
 
 /* the title for the save location menu item to select a different folder */
-"RECORDING_WINDOW_SAVE_TO_OTHER_LOCATION_title" = "Other Location…";
+"RECORDING_WINDOW_SAVE_TO_OTHER_LOCATION_title" = "其他位置…";
 
 /* the title for the save location menu item representing the user's Documents folder */
-"RECORDING_WINDOW_SAVE_TO_DOCUMENTS_title" = "Documents";
+"RECORDING_WINDOW_SAVE_TO_DOCUMENTS_title" = "文档";
 
 /* the title for the save location menu item representing the user's Desktop folder */
-"RECORDING_WINDOW_SAVE_TO_DESKTOP_title" = "Desktop";
+"RECORDING_WINDOW_SAVE_TO_DESKTOP_title" = "桌面";
 
 /* the title for the save location menu item representing the user's Movies folder */
-"RECORDING_WINDOW_SAVE_TO_MOVIES_title" = "Movies";
+"RECORDING_WINDOW_SAVE_TO_MOVIES_title" = "视频";
 
 /* the message label for custom resolution dialog to input width and height */
-"RECORDING_WINDOW_RESOLUTION_CUSTOM_DIALOG_MESSAGE_label" = "Enter a resolution to record at";
+"RECORDING_WINDOW_RESOLUTION_CUSTOM_DIALOG_MESSAGE_label" = "输入要记录的分辨率";
 
 /* the label for alerting the user that the rtmp address is invalid */
-"RECORDING_WINDOW_RTMP_ADDRESS_INVALID_label" = "Please enter a valid RTMP address";
+"RECORDING_WINDOW_RTMP_ADDRESS_INVALID_label" = "请输入有效的RTMP地址";
 
 /* the label of the button to start capture */
-"RECORDING_WINDOW_START_CAPTURE_BUTTON_label" = "Start Capture";
+"RECORDING_WINDOW_START_CAPTURE_BUTTON_label" = "开始捕获";
 
 /* the label of the button to start streaming */
-"RECORDING_WINDOW_START_STREAMING_BUTTON_label" = "Start Streaming";
+"RECORDING_WINDOW_START_STREAMING_BUTTON_label" = "开始流式传输";
 
 /* the label of the button when stream is starting */
-"RECORDING_WINDOW_STARTING_STREAM_BUTTON_label" = "Starting Stream";
+"RECORDING_WINDOW_STARTING_STREAM_BUTTON_label" = "开始流";
 
 /* the label of the button when capture is starting */
-"RECORDING_WINDOW_STARTING_CAPTURE_BUTTON_label" = "Starting Capture";
+"RECORDING_WINDOW_STARTING_CAPTURE_BUTTON_label" = "开始捕获";
 
 /* the label of the button to stop capture */
-"RECORDING_WINDOW_STOP_CAPTURE_BUTTON_label" = "Stop Capture";
+"RECORDING_WINDOW_STOP_CAPTURE_BUTTON_label" = "停止捕捉";
 
 /* the label of the button when capture is stopping */
-"RECORDING_WINDOW_STOPPING_CAPTURE_BUTTON_label" = "Stopping Capture";
+"RECORDING_WINDOW_STOPPING_CAPTURE_BUTTON_label" = "正在停止捕获";
 
 /* the label of the button when stream is stopping */
-"RECORDING_WINDOW_STOPPING_STREAM_BUTTON_label" = "Stopping Stream";
+"RECORDING_WINDOW_STOPPING_STREAM_BUTTON_label" = "正在停止流";
 
 /* the label of the button to stop streaming */
-"RECORDING_WINDOW_STOP_STREAMING_BUTTON_label" = "Stop Streaming";
+"RECORDING_WINDOW_STOP_STREAMING_BUTTON_label" = "停止流";
 
 /* the placeholder text for the streaming address text field */
 "RECORDING_WINDOW_RTMP_ADDRESS_placeholder" = "rtmps://example.com/live";
 
 /* the message when error happened when trying to start capture */
-"RECORDING_WINDOW_START_CAPTURE_ERROR_label" = "An error occurred while trying to start the video encoder. Error code: %i";
-"RECORDING_WINDOW_START_CAPTURE_ERROR_win32_label" = "An error occurred while trying to start the video encoder. Generally this occurs when your graphics drivers are out of date; please try updating your drivers and if the issue persists then contact support. Error code: %@";
+"RECORDING_WINDOW_START_CAPTURE_ERROR_label" = "尝试启动视频编码器时发生错误。错误代码： %i";
+"RECORDING_WINDOW_START_CAPTURE_ERROR_win32_label" = "尝试启动视频编码器时发生错误。通常，这会在您的图形驱动程序过时时发生。请尝试更新驱动程序，如果问题仍然存在，请联系支持。错误代码： %@";
 
 /* the message when resi error happened when trying to start resi capture */
-"RECORDING_WINDOW_START_RESI_CAPTURE_ERROR_message" = "Error starting stream. Check your network settings.";
+"RECORDING_WINDOW_START_RESI_CAPTURE_ERROR_message" = "启动流时出错。检查您的网络设置。";
 
 /* the message when resi error happened when trying to stop resi capture */
-"RECORDING_WINDOW_STOP_RESI_CAPTURE_ERROR_message" = "Error stopping stream. Check your network settings.";
+"RECORDING_WINDOW_STOP_RESI_CAPTURE_ERROR_message" = "停止流时出错。检查您的网络设置。";
 
 /* the message when resi error happened when trying to fetch resi status*/
-"RECORDING_WINDOW_GET_RESI_STATUS_ERROR_message" = "Error getting status. Check your network settings.";
+"RECORDING_WINDOW_GET_RESI_STATUS_ERROR_message" = "获取状态时出错。检查您的网络设置。";
 
 /* the message when resi error happened when trying to fetch destination groups */
-"RECORDING_WINDOW_GET_RESI_DESTINATION_GROUPS_ERROR_message" = "Error getting destination groups. Check your network settings.";
+"RECORDING_WINDOW_GET_RESI_DESTINATION_GROUPS_ERROR_message" = "获取目标组时出错。检查您的网络设置。";
 
 /* the message when resi error happened when trying to fetch encoder profiles */
-"RECORDING_WINDOW_GET_RESI_ENCODER_PROFILES_ERROR_message" = "Error getting encoder profiles. Check your network settings.";
+"RECORDING_WINDOW_GET_RESI_ENCODER_PROFILES_ERROR_message" = "获取编码器配置文件时出错。检查您的网络设置。";
 
 /* the message when resi error happened when trying to fetch about ino profiles */
-"RECORDING_WINDOW_GET_RESI_ABOUT_INFO_ERROR_message" = "Error getting account information. Check your network settings.";
+"RECORDING_WINDOW_GET_RESI_ABOUT_INFO_ERROR_message" = "获取帐户信息时出错。检查您的网络设置。";
 
 /* a unit for measuring how fast data is transferred, appended to a numeric value */
 "RECORDING_WINDOW_BITRATE_MBPS_label" = "Mbps";
 
 /* the label for the Audio output mapping */
-"RECORDING_WINDOW_AUDIO_label" = "Audio:";
+"RECORDING_WINDOW_AUDIO_label" = "音频：";
 
 /* the label for the Audio output mapping button */
-"RECORDING_WINDOW_AUDIO_BUTTON_title" = "Routing…";
+"RECORDING_WINDOW_AUDIO_BUTTON_title" = "路由…";
 
 /* displayed when the disk of the capture file becomes low */
-"RECORDING_DISK_SPACE_LOW_ALERT_message" = "Low Disk Space";
+"RECORDING_DISK_SPACE_LOW_ALERT_message" = "磁盘空间不足";
 
 /* displayed when the disk of the capture file becomes low */
-"RECORDING_DISK_SPACE_LOW_ALERT_info" = "You are running low on disk space. Would you like to continue capturing?";
+"RECORDING_DISK_SPACE_LOW_ALERT_info" = "您的磁盘空间不足。您要继续捕获吗？";
 
 /* continue capturing */
-"RECORDING_DISK_SPACE_LOW_ALERT_CONTINUE_BUTTON_title" = "Continue";
+"RECORDING_DISK_SPACE_LOW_ALERT_CONTINUE_BUTTON_title" = "继续";
 
 /* stop all captures */
-"RECORDING_DISK_SPACE_LOW_ALERT_STOP_BUTTON_title" = "Stop";
+"RECORDING_DISK_SPACE_LOW_ALERT_STOP_BUTTON_title" = "停止";
 
 /* stop local captures, but continue streaming, if applicable */
-"RECORDING_DISK_SPACE_LOW_ALERT_STOP_BACKUP_BUTTON_title" = "Stop Saving Local Copy";
+"RECORDING_DISK_SPACE_LOW_ALERT_STOP_BACKUP_BUTTON_title" = "停止保存本地副本";
 
 /* displayed when the disk of the capture file becomes critical */
-"RECORDING_DISK_SPACE_CRITICAL_ALERT_message" = "Critical Disk Space";
+"RECORDING_DISK_SPACE_CRITICAL_ALERT_message" = "临界磁盘空间";
 
 /* displayed when the disk of the capture file becomes critical */
-"RECORDING_DISK_SPACE_CRITICAL_ALERT_info" = "Local capture has stopped due to insufficient disk space.";
+"RECORDING_DISK_SPACE_CRITICAL_ALERT_info" = "由于磁盘空间不足，本地捕获已停止。";
 
 /* Displayed in the recording button's contextual menu as a status label when the disk is low on space */
-"RECORDING_DISK_SPACE_STATUS_LOW_title" = "Disk space low";
+"RECORDING_DISK_SPACE_STATUS_LOW_title" = "磁盘空间不足";
 
 /* Displayed in the recording button's contextual menu as a status label when the disk is critically low on space and must stop recording */
-"RECORDING_DISK_SPACE_STATUS_CRITICAL_title" = "Disk space critically low";
+"RECORDING_DISK_SPACE_STATUS_CRITICAL_title" = "磁盘空间严重不足";
 
 /* displayed when the user tries to start recording to disk without enough disk space */
-"RECORDING_DISK_SPACE_INSUFFICIENT_ERROR_label" = "Cannot capture to disk due to insufficient disk space.";
+"RECORDING_DISK_SPACE_INSUFFICIENT_ERROR_label" = "由于磁盘空间不足，无法捕获到磁盘。";
 
 /* The label for the X axis of the audio routing window within capture settings */
-"RECORDING_WINDOW_AUDIO_ROUTING_OUTPUT_CHANNEL_label" = "Output Channel";
+"RECORDING_WINDOW_AUDIO_ROUTING_OUTPUT_CHANNEL_label" = "输出通道";
 
 /* label for the resi destination group */
-"RECORDING_WINDOW_RESI_DEST_GROUP_label" = "Destination Group:";
+"RECORDING_WINDOW_RESI_DEST_GROUP_label" = "目标组：";
 
 /* popup button title when no destination group is selected */
-"RECORDING_WINDOW_RESI_SELECT_GROUP_label" = "Select Group…";
+"RECORDING_WINDOW_RESI_SELECT_GROUP_label" = "选择组…";
 
 /* label for the signed in Resi account.  field is for the account username */
-"RECORDING_WINDOW_RESI_ACCOUNT_label" = "Account: %@";
+"RECORDING_WINDOW_RESI_ACCOUNT_label" = "帐户： %@";
 
 /* label for the registered encoder id. field is for the encoder id */
-"RECORDING_WINDOW_RESI_ENCODER_label" = "Encoder ID: %@";
+"RECORDING_WINDOW_RESI_ENCODER_label" = "编码器ID: %@";
 
 /* label for the resi Resi Preferences button */
-"RECORDING_WINDOW_RESI_PREFERENCES_label" = "Resi Preferences";
+"RECORDING_WINDOW_RESI_PREFERENCES_label" = "Resi设置";
 
 /* label for the resi capture resolution */
-"RECORDING_WINDOW_RESI_RESOLUTION_label" = "Resolution:";
+"RECORDING_WINDOW_RESI_RESOLUTION_label" = "解析度：";
 
 /* popup button title for when no capture resolution is selected */
-"RECORDING_WINDOW_RESI_NO_RESOLUTION_label" = "Select Resolution…";
+"RECORDING_WINDOW_RESI_NO_RESOLUTION_label" = "选择分辨率...";
 
 /* Resi Login window title*/
-"RESI_LOGIN_WINDOW_title" = "Resi Login";
+"RESI_LOGIN_WINDOW_title" = "Resi登录";
 
 
 /*
@@ -4616,73 +4616,73 @@ RECORDING
  */
 
 /* Title for the screen configuration window */
-"SCREEN_CONFIGURATION_title" = "Screen Configuration";
+"SCREEN_CONFIGURATION_title" = "屏幕设置";
 
 /* Default name for a new screen added by the user */
-"SCREEN_CONFIGURATION_SCREEN_name" = "Screen";
+"SCREEN_CONFIGURATION_SCREEN_name" = "屏幕";
 
 /* Default name for a new stage screen added by the user */
-"SCREEN_CONFIGURATION_STAGE_SCREEN_name" = "Stage Screen";
+"SCREEN_CONFIGURATION_STAGE_SCREEN_name" = "舞台屏幕";
 
 /* Default name for a placeholder device */
-"SCREEN_CONFIGURATION_PLACEHOLDER_name" = "Placeholder";
+"SCREEN_CONFIGURATION_PLACEHOLDER_name" = "占位符";
 
 /* Label shown when there is no screen selected */
-"SCREEN_CONFIGURATION_NO_SCREEN_SELECTED_label" = "No Screen Selected";
+"SCREEN_CONFIGURATION_NO_SCREEN_SELECTED_label" = "未选择屏幕";
 
 /* Explanation of how to add a screen */
-"SCREEN_CONFIGURATION_ADD_SCREEN_explanation" = "Click the plus (+) button to add a new Audience or Stage screen.";
+"SCREEN_CONFIGURATION_ADD_SCREEN_explanation" = "单击加号（+）按钮添加新的“观众”或“舞台”屏幕。";
 
 /* Label for the identify buttons */
-"SCREEN_CONFIGURATION_IDENTIFY_label" = "Identify:";
+"SCREEN_CONFIGURATION_IDENTIFY_label" = "标识：";
 
 /* Title for the button to identify screens */
-"SCREEN_CONFIGURATION_IDENTIFY_SCREENS_title" = "Screens";
+"SCREEN_CONFIGURATION_IDENTIFY_SCREENS_title" = "屏幕";
 
 /* Title for the button to identify outputs */
-"SCREEN_CONFIGURATION_IDENTIFY_OUTPUTS_title" = "Outputs";
+"SCREEN_CONFIGURATION_IDENTIFY_OUTPUTS_title" = "输出";
 
 /* Label for the screen color option */
-"SCREEN_CONFIGURATION_SCREEN_COLOR_label" = "Screen Color";
+"SCREEN_CONFIGURATION_SCREEN_COLOR_label" = "屏幕颜色";
 
 /* Title for the single screen option */
-"SCREEN_CONFIGURATION_SCREEN_ARRANGEMENT_SINGLE_title" = "Single";
+"SCREEN_CONFIGURATION_SCREEN_ARRANGEMENT_SINGLE_title" = "一个";
 
 /* Title for the mirror screen option */
-"SCREEN_CONFIGURATION_SCREEN_ARRANGEMENT_MIRROR_title" = "Mirror";
+"SCREEN_CONFIGURATION_SCREEN_ARRANGEMENT_MIRROR_title" = "镜像";
 
 /* Title for the grouped screen option */
-"SCREEN_CONFIGURATION_SCREEN_ARRANGEMENT_GROUPED_title" = "Grouped";
+"SCREEN_CONFIGURATION_SCREEN_ARRANGEMENT_GROUPED_title" = "分组";
 
 /* Title for the edge blend screen option */
-"SCREEN_CONFIGURATION_SCREEN_ARRANGEMENT_EDGE_BLEND_title" = "Edge Blend";
+"SCREEN_CONFIGURATION_SCREEN_ARRANGEMENT_EDGE_BLEND_title" = "边缘融合";
 
 /* Label for the output count when configuring a mirrored screen */
-"SCREEN_CONFIGURATION_OUTPUT_COUNT_label" = "Outputs";
+"SCREEN_CONFIGURATION_OUTPUT_COUNT_label" = "输出";
 
 /* Label for the row count when configuring a grouped screen */
-"SCREEN_CONFIGURATION_ROW_COUNT_label" = "Rows";
+"SCREEN_CONFIGURATION_ROW_COUNT_label" = "列数";
 
 /* Label for the column count when configuring a grouped screen */
-"SCREEN_CONFIGURATION_COLUMN_COUNT_label" = "Columns";
+"SCREEN_CONFIGURATION_COLUMN_COUNT_label" = "行数";
 
 /* Label for the device count when configuring an edge blend screen */
-"SCREEN_CONFIGURATION_DEVICE_COUNT_label" = "Number of Devices";
+"SCREEN_CONFIGURATION_DEVICE_COUNT_label" = "设备数量";
 
 /* Title for the hardware tab */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_title" = "Hardware";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_title" = "硬件";
 
 /* Title for the output selection */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_title" = "Output";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_title" = "输出";
 
 /* Title for the output target selection */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_TARGET_title" = "Output Target";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_TARGET_title" = "输出目标";
 
 /* Title for the option to use the full output */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_TARGET_FULL_title" = "Full";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_TARGET_FULL_title" = "全部";
 
 /* Title for the option to define a custom subrect */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_TARGET_CUSTOM_title" = "Custom";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_TARGET_CUSTOM_title" = "自定义";
 
 /* Title for the option to use the left or right side of the output */
 "SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_TARGET_TWO_BY_ONE_title" = "2 x 1";
@@ -4694,115 +4694,115 @@ RECORDING
 "SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_TARGET_THREE_BY_ONE_title" = "3 x 1";
 
 /* Label for the option to select which partition of the output to use */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_ALIGNMENT_label" = "Alignment";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_OUTPUT_ALIGNMENT_label" = "对齐";
 
 /* Label for the output name */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_NAME_label" = "Name:";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_NAME_label" = "名称：";
 
 /* Label for the output mode */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_MODE_label" = "Mode:";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_MODE_label" = "模式：";
 
 /* Label for the output size */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_SIZE_label" = "Size:";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_SIZE_label" = "尺寸：";
 
 /* Label for the aspect ratio of the output */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_ASPECT_RATIO_label" = "Aspect Ratio:";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_ASPECT_RATIO_label" = "长宽比：";
 
 /* Name of a device that was previously connected but could not be found */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_DISCONNECTED_name" = "Disconnected: %@";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_DISCONNECTED_name" = "断开连接： %@";
 
 /* Title for an unconfigured device */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_UNCONFIGURED_title" = "Unconfigured";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_UNCONFIGURED_title" = "未设定";
 
 /* Title for the option on a menu item to identify the device */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_IDENTIFY_title" = "Identify";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_IDENTIFY_title" = "标识";
 
 /* Placeholder for selecting a device */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_SELECT_DEVICE_title" = "Select an output device…";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_SELECT_DEVICE_title" = "选择输出设备…";
 
 /* Title for the system outputs */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_SYSTEM_title" = "System";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_SYSTEM_title" = "系统";
 
 /* Title for SDI outputs. BlackMagic is a brand name. */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_SDI_title" = "BlackMagic";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_SDI_title" = "黑科技";
 
 /* Title for NDI outputs */
 "SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_NDI_title" = "NDI";
 
 /* Title for Syphon outputs. Mac only. */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_SYPHON_title" = "Syphon";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_SYPHON_title" = "虹吸管";
 
 /* Title for the placeholder screens */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_PLACEHOLDER_title" = "Placeholder";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_PLACEHOLDER_title" = "占位符";
 
 /* Title for the submenu to create a new NDI output */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_NEW_NDI_title" = "New NDI";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_NEW_NDI_title" = "新建NDI";
 
 /* Title for the menu item that says we can't create an NDI device because the user is using a new Mac with an ARM processor */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_NDI_UNAVAILABLE_title" = "NDI is not available on Apple Silicon";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_NDI_UNAVAILABLE_title" = "NDI在Apple Silicon上不可用";
 
 /* Title for the submenu to create a new Syphon output. Mac only. */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_NEW_SYPHON_title" = "New Syphon";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_NEW_SYPHON_title" = "新建Syphon";
 
 /* Title for the submenu the create a new placeholder */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_NEW_PLACEHOLDER_title" = "New Placeholder";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_NEW_PLACEHOLDER_title" = "新建占位符";
 
 /* Title for the menu item to create a custom placeholder */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_PLACEHOLDER_CUSTOM_SIZE_title" = "Custom Size…";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_PLACEHOLDER_CUSTOM_SIZE_title" = "自定义大小…";
 
 /* Title for the menu item to create a new grouped screen */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_GROUPED_title" = "Grouped…";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_GROUPED_title" = "分组...";
 
 /* Title for the menu item to create a new edge blend screen */
-"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_EDGE_BLEND_title" = "Edge Blend…";
+"SCREEN_CONFIGURATION_HARDWARE_TAB_DEVICE_MENU_EDGE_BLEND_title" = "边缘融合…";
 
 /* Title for the window for creating custom placeholder screens */
-"SCREEN_CONFIGURATION_NEW_PLACEHOLDER_title" = "New Placeholder Output";
+"SCREEN_CONFIGURATION_NEW_PLACEHOLDER_title" = "新的输出占位符";
 
 /* Label for the name of the placeholder */
-"SCREEN_CONFIGURATION_NEW_PLACEHOLDER_NAME_label" = "Name:";
+"SCREEN_CONFIGURATION_NEW_PLACEHOLDER_NAME_label" = "名称:";
 
 /* Label for the width of the placeholder */
-"SCREEN_CONFIGURATION_NEW_PLACEHOLDER_WIDTH_label" = "Width:";
+"SCREEN_CONFIGURATION_NEW_PLACEHOLDER_WIDTH_label" = "宽度：";
 
 /* Label for the height of the placeholder */
-"SCREEN_CONFIGURATION_NEW_PLACEHOLDER_HEIGHT_label" = "Height:";
+"SCREEN_CONFIGURATION_NEW_PLACEHOLDER_HEIGHT_label" = "高度：";
 
 /* Title for the window for creating new Syphon screens. Mac only. */
-"SCREEN_CONFIGURATION_NEW_SYPHON_title" = "New Syphon Output";
+"SCREEN_CONFIGURATION_NEW_SYPHON_title" = "新建虹吸输出";
 
 /* Text shown in a popup when creating a Syphon output with a custom width and height. Mac only. */
-"SCREEN_CONFIGURATION_NEW_SYPHON_SIZE_PROMPT_label" = "Enter a custom width and height";
+"SCREEN_CONFIGURATION_NEW_SYPHON_SIZE_PROMPT_label" = "输入自定义的宽度和高度";
 
 /* Placeholder for a text field that allows the user to edit the selected screen's name */
-"SCREEN_CONFIGURATION_SCREEN_NAME_placeholder" = "Screen Name";
+"SCREEN_CONFIGURATION_SCREEN_NAME_placeholder" = "屏幕名称";
 
 /* Title for the color tab */
-"SCREEN_CONFIGURATION_COLOR_TAB_title" = "Color";
+"SCREEN_CONFIGURATION_COLOR_TAB_title" = "颜色";
 
 /* Label for the red level */
-"SCREEN_CONFIGURATION_COLOR_TAB_RED_label" = "Red";
+"SCREEN_CONFIGURATION_COLOR_TAB_RED_label" = "红色";
 
 /* Label for the red level */
-"SCREEN_CONFIGURATION_COLOR_TAB_GREEN_label" = "Green";
+"SCREEN_CONFIGURATION_COLOR_TAB_GREEN_label" = "绿色";
 
 /* Label for the blue level */
-"SCREEN_CONFIGURATION_COLOR_TAB_BLUE_label" = "Blue";
+"SCREEN_CONFIGURATION_COLOR_TAB_BLUE_label" = "蓝色";
 
 /* Label for the gamma level */
-"SCREEN_CONFIGURATION_COLOR_TAB_GAMMA_label" = "Gamma";
+"SCREEN_CONFIGURATION_COLOR_TAB_GAMMA_label" = "伽玛";
 
 /* Label for the black level */
-"SCREEN_CONFIGURATION_COLOR_TAB_BLACK_label" = "Black";
+"SCREEN_CONFIGURATION_COLOR_TAB_BLACK_label" = "黑色";
 
 /* Title for the button to reset all levels to the default */
-"SCREEN_CONFIGURATION_COLOR_TAB_RESET_ALL_title" = "Reset All";
+"SCREEN_CONFIGURATION_COLOR_TAB_RESET_ALL_title" = "重置全部";
 
 /* Title for the corner pin tab */
-"SCREEN_CONFIGURATION_CORNER_PIN_TAB_title" = "Corner Pin";
+"SCREEN_CONFIGURATION_CORNER_PIN_TAB_title" = "边角定位";
 
 /* Explanation of the corner pinning values */
-"SCREEN_CONFIGURATION_CORNER_PIN_TAB_explanation" = "Positive values move away from the center of the screen.";
+"SCREEN_CONFIGURATION_CORNER_PIN_TAB_explanation" = "正值远离屏幕中心。";
 
 /* Label for the change in X */
 "SCREEN_CONFIGURATION_CORNER_PIN_TAB_DELTA_X_label" = "ΔX";
@@ -4811,115 +4811,115 @@ RECORDING
 "SCREEN_CONFIGURATION_CORNER_PIN_TAB_DELTA_Y_label" = "ΔY";
 
 /* Title for the button reset to the defaults */
-"SCREEN_CONFIGURATION_CORNER_PIN_RESET_ALL_title" = "Reset All";
+"SCREEN_CONFIGURATION_CORNER_PIN_RESET_ALL_title" = "重置全部";
 
 /* Title for the alpha key tab */
-"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_title" = "Alpha Key";
+"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_title" = "Alpha键";
 
 /* Label for the type of key */
-"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_TYPE_label" = "Type";
+"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_TYPE_label" = "类型";
 
 /* Label for an external key */
-"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_TYPE_EXTERNAL_KEY_label" = "External Key";
+"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_TYPE_EXTERNAL_KEY_label" = "外键";
 
 /* Label for an internal key */
-"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_TYPE_INTERNAL_KEY_label" = "Internal Key";
+"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_TYPE_INTERNAL_KEY_label" = "内键";
 
 /* Label for the blend level */
-"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_BLEND_label" = "Blend";
+"SCREEN_CONFIGURATION_ALPHA_KEY_TAB_BLEND_label" = "混合";
 
 /* Title for the edge blend tab */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_title" = "Edge Blend";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_title" = "边缘融合";
 
 /* Label for the width of the selected edge blend */
-"SCREEN_CONFIGURATION_EDGE_BLEND_WIDTH_label" = "Width";
+"SCREEN_CONFIGURATION_EDGE_BLEND_WIDTH_label" = "宽度";
 
 /* Label for the left screen settings */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_LEFT_SCREEN_label" = "Left Screen";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_LEFT_SCREEN_label" = "左屏幕";
 
 /* Label for the right screen settings */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_RIGHT_SCREEN_label" = "Right Screen";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_RIGHT_SCREEN_label" = "右屏幕";
 
 /* Label for the curve type */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_CURVE_label" = "Curve";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_CURVE_label" = "曲线";
 
 /* Label for a linear curve. Also used as a tooltip for the button which chooses the linear blend mode. */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_CURVE_LINEAR_label" = "Linear";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_CURVE_LINEAR_label" = "线性";
 
 /* Label for a quadratic curve. Also used as a tooltip for the button which chooses the quadratic blend mode. */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_CURVE_QUADRATIC_label" = "Quadratic";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_CURVE_QUADRATIC_label" = "二次方";
 
 /* Label for a cubic curve. Also used as a tooltip for the button which chooses the cubic blend mode. */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_CURVE_CUBIC_label" = "Cubic";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_CURVE_CUBIC_label" = "立方体";
 
 /* Label for the radius */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_RADIUS_label" = "Radius";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_RADIUS_label" = "半径";
 
 /* Label for the gamma level */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_GAMMA_label" = "Gamma";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_GAMMA_label" = "伽玛";
 
 /* Label for the intensity */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_INTENSITY_label" = "Intensity";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_INTENSITY_label" = "强度";
 
 /* Label for the black level */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_BLACK_label" = "Black Level";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_BLACK_label" = "黑色等级";
 
 /* Label for the left edge of a screen */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_LEFT_EDGE_label" = "Left Edge";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_LEFT_EDGE_label" = "左边缘";
 /* Label for the right edge of a screen */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_RIGHT_EDGE_label" = "Right Edge";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_RIGHT_EDGE_label" = "右边缘";
 /* Label for the top edge of a screen */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_TOP_EDGE_label" = "Top Edge";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_TOP_EDGE_label" = "上边缘";
 /* Label for the bottom edge of a screen */
-"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_BOTTOM_EDGE_label" = "Bottom Edge";
+"SCREEN_CONFIGURATION_EDGE_BLEND_TAB_BOTTOM_EDGE_label" = "下边缘";
 
 /* displayed in a message box to alert the user that they're trying to delete a screen that's being recorded. */
-"SCREEN_CONFIGURATION_DELETE_RECORDING_SCREEN_ALERT_message" = "Capture In Progress";
+"SCREEN_CONFIGURATION_DELETE_RECORDING_SCREEN_ALERT_message" = "捕获进行中";
 
 /* extra information in a message box to alert the user that they're trying to delete a screen that's being recorded. %@ is the user-defined screen name. */
-"SCREEN_CONFIGURATION_DELETE_RECORDING_SCREEN_ALERT_info" = "The current capture session includes %@ and will be stopped by deleting this screen. Are you sure you want to delete this screen?";
+"SCREEN_CONFIGURATION_DELETE_RECORDING_SCREEN_ALERT_info" = "当前的捕获会话包括 %@ ，删除此屏幕会停止捕获。您确定要删除此屏幕吗？";
 
 /* Title for the alert shown when attempting to assign a device to more than one screen */
-"SCREEN_CONFIGURATION_CONFLICT_ALERT_title" = "Output already assigned";
+"SCREEN_CONFIGURATION_CONFLICT_ALERT_title" = "输出已分配";
 
 /* Subtext for the conflict alert */
-"SCREEN_CONFIGURATION_CONFLICT_ALERT_subtext" = "This output is already assigned. Would you like to keep existing assignments to this output or reassign the output to the new screen only?";
+"SCREEN_CONFIGURATION_CONFLICT_ALERT_subtext" = "此输出已分配。您要保留现有分配给此输出，还是仅将输出重新分配给新屏幕？";
 
 /* Title for the button to assign the device to all the screen in question */
-"SCREEN_CONFIGURATION_CONFLICT_ALERT_ASSIGN_TO_ALL_title" = "Assign to All";
+"SCREEN_CONFIGURATION_CONFLICT_ALERT_ASSIGN_TO_ALL_title" = "分配给所有";
 
 /* Title for the button to assign the device to the new screen and unassign it from existing ones */
-"SCREEN_CONFIGURATION_CONFLICT_ALERT_REASSIGN_TO_NEW_title" = "Reassign to New";
+"SCREEN_CONFIGURATION_CONFLICT_ALERT_REASSIGN_TO_NEW_title" = "重新分配给新屏幕";
 
 /* A tooltip shown when the ProScreen in question overlaps another ProScreen on the output */
-"SCREEN_CONFIGURATION_CONFLICTING_OUTPUT_tooltip" = "This screen has conflicting output with %@";
+"SCREEN_CONFIGURATION_CONFLICTING_OUTPUT_tooltip" = "该屏幕与输出 %@ 冲突";
 
 /* A tooltip shown when one output conflicts with another (or multiple others). The first %@ represents the output in question. The second %@ represents the conflicting outputs. */
-"SCREEN_CONFIGURATION_CONFLICTING_OUTPUT_DESCRIPTION_tooltip" = "%@ output conflicts with %@";
+"SCREEN_CONFIGURATION_CONFLICTING_OUTPUT_DESCRIPTION_tooltip" = "%@ 输出与 %@ 冲突";
 
 /* A partial string shown in the conflicting output tooltip  when the given screen has defined outputs that overlap on itself. */
-"SCREEN_CONFIGURATION_CONFLICT_WITH_SELF_label" = "itself";
+"SCREEN_CONFIGURATION_CONFLICT_WITH_SELF_label" = "自身";
 
 /* An alert shown when the user enters an empty screen name when creating a Syphon output */
-"SCREEN_CONFIGURATION_INVALID_SCREEN_NAME_ALERT_message" = "Invalid screen name!";
-"SCREEN_CONFIGURATION_INVALID_SCREEN_NAME_ALERT_info" = "Screen name cannot be empty";
+"SCREEN_CONFIGURATION_INVALID_SCREEN_NAME_ALERT_message" = "无效的屏幕名称！";
+"SCREEN_CONFIGURATION_INVALID_SCREEN_NAME_ALERT_info" = "屏幕名称不能为空";
 
 /* An alert shown when the user enters a screen name that's identical to an existing output name */
-"SCREEN_CONFIGURATION_SYPHON_ERROR_EMPTY_NAME_ALERT_title" = "Provide a unique name for this output.";
-"SCREEN_CONFIGURATION_SYPHON_ERROR_INVALID_NAME_ALERT_title" = "There is already an output named %@. Enter a unique name.";
+"SCREEN_CONFIGURATION_SYPHON_ERROR_EMPTY_NAME_ALERT_title" = "请为此输出提供唯一的名称。";
+"SCREEN_CONFIGURATION_SYPHON_ERROR_INVALID_NAME_ALERT_title" = "已经有一个名为%@的输出。输入一个唯一的名称。";
 
 /* An alert shown when the user enters a screen size that is either invalid or too big */
-"SCREEN_CONFIGURATION_SYPHON_ERROR_INVALID_SIZE_ALERT_message" = "Invalid size";
-"SCREEN_CONFIGURATION_SYPHON_ERROR_INVALID_SIZE_ALERT_info" = "The provided size (%i x %i) is invalid. Height and width must be greater than zero and less than 30,000.";
+"SCREEN_CONFIGURATION_SYPHON_ERROR_INVALID_SIZE_ALERT_message" = "无效的尺寸";
+"SCREEN_CONFIGURATION_SYPHON_ERROR_INVALID_SIZE_ALERT_info" = "提供的大小(%i x %i)无效。高度和宽度必须大于零且小于30,000。";
 
 /* An alert message shown on newer M1 macs that indicates NDI outputs won't work */
-"SCREEN_CONFIGURATION_APPLE_SILICON_ALERT_message" = "NDI is not supported on Apple Silicon";
+"SCREEN_CONFIGURATION_APPLE_SILICON_ALERT_message" = "Apple Silicon不支持NDI";
 /* More information about alerts on Apple Silicon computers, including instructions on how to work around this issue. */
-"SCREEN_CONFIGURATION_APPLE_SILICON_ALERT_info" = "NDI outputs will not render when running on Apple Silicon. To use NDI, run ProPresenter with Rosetta 2.";
+"SCREEN_CONFIGURATION_APPLE_SILICON_ALERT_info" = "在Apple Silicon上运行时，NDI输出不会呈现。要使用NDI，请在Rosetta 2中运行ProPresenter。";
 /* Title for the button which opens a support web page to get more information about Apple Silicon support */
-"SCREEN_CONFIGURATION_APPLE_SILICON_ALERT_MORE_INFO_BUTTON_title" = "More Info...";
+"SCREEN_CONFIGURATION_APPLE_SILICON_ALERT_MORE_INFO_BUTTON_title" = "更多信息...";
 /* Title for the button which opens the screen configuration window, allowing the user to change their NDI outputs to something else */
-"SCREEN_CONFIGURATION_APPLE_SILICON_ALERT_SCREEN_CONFIGURATION_BUTTON_title" = "Screen Configuration...";
+"SCREEN_CONFIGURATION_APPLE_SILICON_ALERT_SCREEN_CONFIGURATION_BUTTON_title" = "屏幕设置...";
 
 
 /*
@@ -4929,61 +4929,61 @@ RECORDING
  */
 
 /* The title fot the preferences window */
-"PREFERENCES_WINDOW_title" = "Preferences";
+"PREFERENCES_WINDOW_title" = "设置";
 
 /* The title for the preferences tab that has general app settings */
-"PREFERENCES_TAB_GENERAL_title" = "General";
+"PREFERENCES_TAB_GENERAL_title" = "常规";
 
 /* The title for the preferences tab that manages screen/display settings*/
-"PREFERENCES_TAB_SCREENS_title" = "Screens";
+"PREFERENCES_TAB_SCREENS_title" = "屏幕";
 
 /* The title for the preferences tab that manages default media settings on import */
-"PREFERENCES_TAB_IMPORT_title" = "Import";
+"PREFERENCES_TAB_IMPORT_title" = "导出";
 
 /* The title for the preferences tab that contains user-defined labels for their cues */
-"PREFERENCES_TAB_LABEL_title" = "Groups";
+"PREFERENCES_TAB_LABEL_title" = "组";
 
 /* The title for the preferences tab that manages external audio/video inputs */
-"PREFERENCES_TAB_INPUT_title" = "Input";
+"PREFERENCES_TAB_INPUT_title" = "输入";
 
 /* The title for the preferences tab that manages network connections, including connections to/from Renewed Vision's remote apps */
-"PREFERENCES_TAB_NETWORK_title" = "Network";
+"PREFERENCES_TAB_NETWORK_title" = "网络";
 
 /* The title for the preferences tab that allows ProPresenter to sync to/from an external library */
-"PREFERENCES_TAB_SYNC_title" = "Sync";
+"PREFERENCES_TAB_SYNC_title" = "同步";
 
 /* The title for the preferences tab that controls integrations with external products and services */
-"PREFERENCES_TAB_SERVICES_title" = "Services";
+"PREFERENCES_TAB_SERVICES_title" = "服务";
 
 /* The title for the preferences tab that manages audio outputs */
-"PREFERENCES_TAB_AUDIO_title" = "Audio";
+"PREFERENCES_TAB_AUDIO_title" = "音频";
 
 /* The title for the preferences tab that manages the Resi integration */
 "PREFERENCES_TAB_RESI_title" = "Resi";
 
 /* The title for the preferences tab that manages app behaviors and file locations */
-"PREFERENCES_TAB_ADVANCED_title" = "Advanced";
+"PREFERENCES_TAB_ADVANCED_title" = "高级";
 
 /* The title for the preferences tab that manages external hardware used to control ProPresenter */
-"PREFERENCES_TAB_DEVICES_title" = "Devices";
+"PREFERENCES_TAB_DEVICES_title" = "设备";
 
 /* The title for the preferences tab that allows the user to download and install updates to ProPresenter */
-"PREFERENCES_TAB_UPDATES_title" = "Updates";
+"PREFERENCES_TAB_UPDATES_title" = "更新";
 
 /* The title for the preferences tab that allows the user to login to and configure Resi */
 "PREFERENCES_TAB_RESI_title" = "Resi";
 
 /* The alert shown when the user wants to reset their preferences to the default values */
-"PREFERENCES_ALERT_RESET_message" = "Are you sure you want to reset all preferences?";
-"PREFERENCES_ALERT_RESET_info" = "Reset preferences to factory default.";
+"PREFERENCES_ALERT_RESET_message" = "您确定要重设所有首选项吗？";
+"PREFERENCES_ALERT_RESET_info" = "将首选项重置为出厂默认值。";
 
 /* The alert shown when the user wants to restore their preferences from a backup file */
-"PREFERENCES_ALERT_REVERT_FROM_BACKUP_message" = "Are you sure you want to revert from backup?";
-"PREFERENCES_ALERT_REVERT_FROM_BACKUP_info" = "This will set your preferences to the last backup.";
+"PREFERENCES_ALERT_REVERT_FROM_BACKUP_message" = "您确定要从备份中还原吗？";
+"PREFERENCES_ALERT_REVERT_FROM_BACKUP_info" = "这会将您的首选项设置为上一次备份。";
 
 /* The alert shown when the network preferences tries to enable network connections even though the computer isn't connected to the network */
-"PREFERENCES_ALERT_NETWORK_ERROR_message" = "Network Error";
-"PREFERENCES_ALERT_NETWORK_ERROR_info" = "The current network has been turned off. Please go to network settings in preferences to enable your network.";
+"PREFERENCES_ALERT_NETWORK_ERROR_message" = "网络错误";
+"PREFERENCES_ALERT_NETWORK_ERROR_info" = "当前网络已关闭。请进入设置中的网络设置以启用您的网络。";
 
 
 /*
