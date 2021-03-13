@@ -4997,19 +4997,19 @@ RECORDING
  */
 
 /* The title for the button that enables church-specific features in ProPresenter */
-"GENERAL_PREFERENCES_HOUSE_OF_WORSHIP_INTEGRATIONS_BUTTON_title" = "Show House of Worship Integrations";
+"GENERAL_PREFERENCES_HOUSE_OF_WORSHIP_INTEGRATIONS_BUTTON_title" = "展示教堂特性";
 
 /* A description for enabling or disabling the church-specific integrations in ProPresenter */
-"GENERAL_PREFERENCES_HOUSE_OF_WORSHIP_INTEGRATIONS_DESCRIPTION_LABEL_title" = "We know that not everyone uses ProPresenter in the church.\nIf you'd rather not see integrations specific to the church, you don't want this option.";
+"GENERAL_PREFERENCES_HOUSE_OF_WORSHIP_INTEGRATIONS_DESCRIPTION_LABEL_title" = "我们知道并非所有人都在教堂中使用ProPresenter。\n 如果您不想看到特定于教堂的特性，则不要使用此选项。";
 
 /* The title for the button that enables crash reports to be sent to Renewed Vision */
-"GENERAL_PREFERENCES_SHARE_CRASH_REPORTS_BUTTON_title" = "Share Crash Reports";
+"GENERAL_PREFERENCES_SHARE_CRASH_REPORTS_BUTTON_title" = "发送崩溃报告";
 
 /* A description about automatically sending crash reports to Renewed Vision */
-"GENERAL_PREFERENCES_SHARE_CRASH_REPORTS_DESCRIPTION_LABEL_title" = "Automatically upload crash reports to our developers.";
+"GENERAL_PREFERENCES_SHARE_CRASH_REPORTS_DESCRIPTION_LABEL_title" = "自动将崩溃报告上传给我们的开发人员。";
 
 /* The title for the button that enables user analytics to be sent to Renewed Vision */
-"GENERAL_PREFERENCES_SHARE_ANALYTICS_BUTTON_title" = "Share ProPresenter Analytics";
+"GENERAL_PREFERENCES_SHARE_ANALYTICS_BUTTON_title" = "分享ProPresenter分析";
 
 /* A description about why Renewed Vision is requesting analytics data */
 "GENERAL_PREFERENCES_SHARE_ANALYTICS_DESCRIPTION_LABEL_title" = "The anonymous data we collect allows us to serve you better.";
