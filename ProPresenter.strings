@@ -5012,109 +5012,109 @@ RECORDING
 "GENERAL_PREFERENCES_SHARE_ANALYTICS_BUTTON_title" = "分享ProPresenter分析";
 
 /* A description about why Renewed Vision is requesting analytics data */
-"GENERAL_PREFERENCES_SHARE_ANALYTICS_DESCRIPTION_LABEL_title" = "The anonymous data we collect allows us to serve you better.";
+"GENERAL_PREFERENCES_SHARE_ANALYTICS_DESCRIPTION_LABEL_title" = "我们收集的匿名数据使我们能够为您提供更好的服务。";
 
 /* The title for the button that enables beta Metal rendering mode */
-"GENERAL_PREFERENCES_METAL_BETA_BUTTON_title" = "BETA - Use Metal Rendering";
+"GENERAL_PREFERENCES_METAL_BETA_BUTTON_title" = "测试版-金属质感";
 
 /* The title for a section in preferences that allows user to change their render mode */
-"GENERAL_PREFERENCES_RENDER_MODE_HEADER_title" = "Render Mode";
+"GENERAL_PREFERENCES_RENDER_MODE_HEADER_title" = "渲染模式";
 
 /* A descrption for the checkbox that enables beta Metal render mode */
-"GENERAL_PREFERENCES_METAL_BETA_DESCRIPTION_LABEL_title" = "Enable beta graphics rendering using Metal.";
+"GENERAL_PREFERENCES_METAL_BETA_DESCRIPTION_LABEL_title" = "启用 beta版金属渲染模式。";
 
 /* Label shown when the render mode has been changed and will update on next launch */
-"GENERAL_PREFERENCES_METAL_BETA_PENDING_CHANGE_title" = "Rendering mode will be changed on next launch of ProPresenter.";
+"GENERAL_PREFERENCES_METAL_BETA_PENDING_CHANGE_title" = "渲染模式修改将会在下次启动ProPresenter时生效。";
 
 /* Alert message shown when enabling or disabling beta Metal render mode */
-"GENERAL_PREFERENCES_METAL_BETA_ALERT_message" = "Change Render Mode";
+"GENERAL_PREFERENCES_METAL_BETA_ALERT_message" = "更改渲染模式";
 
 /* Info for alert message shown when enabling beta Metal render mode */
-"GENERAL_PREFERENCES_METAL_BETA_ENABLE_DESCRIPTION_info" = "Beta rendering using Metal will be enabled after application relaunch. You should only use this in live production after testing in your environment with your content.";
+"GENERAL_PREFERENCES_METAL_BETA_ENABLE_DESCRIPTION_info" = "重新启动应用程序后，将启用使用Beta版金属渲染模式。在现有环境中对内容进行测试后，才应在现场制作中使用此功能。";
 
 /* Info for alert message shown when disabling beta Metal render mode */
-"GENERAL_PREFERENCES_METAL_BETA_DISABLE_DESCRIPTION_info" = "Beta rendering using Metal will be disabled after application relaunch.";
+"GENERAL_PREFERENCES_METAL_BETA_DISABLE_DESCRIPTION_info" = "重新启动应用程序后，将禁用Beta版金属渲染。";
 
 /* Alert message shown when a crash has occured while using beta Metal render mode */
-"GENERAL_PREFERENCES_METAL_BETA_CRASH_message" = "Crash while using beta Metal rendering";
+"GENERAL_PREFERENCES_METAL_BETA_CRASH_message" = "使用Beta版金属渲染时崩溃";
 
 /* Info for alert message shown when crash has occurred using beta Metal render mode. Allows user to disable metal rendering. */
-"GENERAL_PREFERENCES_METAL_BETA_CRASH_DISABLE_info" = "Would you like to disable Metal rendering?";
+"GENERAL_PREFERENCES_METAL_BETA_CRASH_DISABLE_info" = "您要禁用“金属渲染”吗？";
 
 /* The title for a section in preferences that allows the user to set a logo for their organization */
 "GENERAL_PREFERENCES_LOGO_HEADER_title" = "Logo";
 
 /* The title for a contextual menu item that removes the user's currently selected logo */
-"GENERAL_PREFERENCES_REMOVE_LOGO_MENU_ITEM_title" = "Remove Logo";
+"GENERAL_PREFERENCES_REMOVE_LOGO_MENU_ITEM_title" = "移除Logo";
 
 /* The title for a section in preferences that manages copyright data and allows the user to choose when that data is displayed on the outputs */
-"GENERAL_PREFERENCES_COPYRIGHT_HEADER_title" = "Copyright";
+"GENERAL_PREFERENCES_COPYRIGHT_HEADER_title" = "版权";
 
 /* The title for a button that allows copyright data to be displayed on the output */
-"GENERAL_PREFERENCES_ENABLE_COPYRIGHT_DISPLAY_BUTTON_title" = "Enable Copyright Display";
+"GENERAL_PREFERENCES_ENABLE_COPYRIGHT_DISPLAY_BUTTON_title" = "启用版权显示";
 
 /* The title for a radio button that shows copyright data on the first slide of a presentation */
-"GENERAL_PREFERENCES_COPYRIGHT_FIRST_SLIDE_BUTTON_title" = "First Slide";
+"GENERAL_PREFERENCES_COPYRIGHT_FIRST_SLIDE_BUTTON_title" = "第一张幻灯片";
 
 /* The title for a radio button that shows copyright data on the first and last slides of a presentation */
-"GENERAL_PREFERENCES_COPYRIGHT_FIRST_AND_LAST_SLIDE_BUTTON_title" = "First and Last";
+"GENERAL_PREFERENCES_COPYRIGHT_FIRST_AND_LAST_SLIDE_BUTTON_title" = "第一张和最后最后一张";
 
 /* The title for a radio button that shows copyright data on the last slide of a presentation */
-"GENERAL_PREFERENCES_COPYRIGHT_LAST_SLIDE_BUTTON_title" = "Last Slide";
+"GENERAL_PREFERENCES_COPYRIGHT_LAST_SLIDE_BUTTON_title" = "最后一张幻灯片";
 
 /* The title for a radio button that shows copyright data on every slide in a presentation */
-"GENERAL_PREFERENCES_COPYRIGHT_ALL_SLIDES_BUTTON_title" = "All Slides";
+"GENERAL_PREFERENCES_COPYRIGHT_ALL_SLIDES_BUTTON_title" = "所有幻灯片";
 
 /* A label for a text box that contains the user's CCLI license number */
-"GENERAL_PREFERENCES_CCLI_LICENSE_NUMBER_LABEL_title" = "License #:";
+"GENERAL_PREFERENCES_CCLI_LICENSE_NUMBER_LABEL_title" = "版权 #:";
 
 /* The title for a button that opens the CCLI layout, allowing the user to customize how their copyright data is displayed */
-"GENERAL_PREFERENCES_CCLI_LAYOUT_BUTTON_title" = "CCLI Layout…";
+"GENERAL_PREFERENCES_CCLI_LAYOUT_BUTTON_title" = "CCLI 布局…";
 
 /* The title for a button that opens a window showing the number of times presentations have been used, in conjunction with CCLI data */
-"GENERAL_PREFERENCES_CCLI_REPORTING_BUTTON_title" = "Reporting…";
+"GENERAL_PREFERENCES_CCLI_REPORTING_BUTTON_title" = "正在报告...";
 
 /* The title for a text field with customizable tokens, allowing the user to change how their data is ordered and displayed */
-"GENERAL_PREFERENCES_CCLI_LAYOUT_COPYRIGHT_FORMAT_LABEL_title" = "Copyright Format";
+"GENERAL_PREFERENCES_CCLI_LAYOUT_COPYRIGHT_FORMAT_LABEL_title" = "版权格式";
 
 /* The title for a text field with unused tokens the user could choose to use when displaying data */
-"GENERAL_PREFERENCES_CCLI_LAYOUT_AVAILABLE_TOKENS_LABEL_title" = "Available Tokens";
+"GENERAL_PREFERENCES_CCLI_LAYOUT_AVAILABLE_TOKENS_LABEL_title" = "可用令牌";
 
 /* The title for a button that opens the Slide Editor, so the user can change the audience-facing appearance */
-"GENERAL_PREFERENCES_CCLI_LAYOUT_EDIT_TEMPLATE_BUTTON_title" = "Edit Template";
+"GENERAL_PREFERENCES_CCLI_LAYOUT_EDIT_TEMPLATE_BUTTON_title" = "编辑模板";
 
 /* The title for the token which represents a presentation's CCLI title */
-"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_TITLE_title" = "Title";
+"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_TITLE_title" = "标题";
 
 /* The title for the token which represents a presentation's CCLI artist (typically the song's artist) */
-"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_ARTIST_title" = "Artist";
+"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_ARTIST_title" = "艺术家";
 
 /* The title for the token which represents a presentation's CCLI publisher */
-"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_PUBLISHER_title" = "Publisher";
+"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_PUBLISHER_title" = "发行人";
 
 /* The title for the token which represents a presentation's CCLI copyright year */
-"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_COPYRIGHT_YEAR_title" = "Copyright Year";
+"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_COPYRIGHT_YEAR_title" = "版权年";
 
 /* The title for the token which represents the user's CCLI license number */
-"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_CCLI_LICENSE_NUMBER_title" = "License Number";
+"GENERAL_PREFERENCES_CCLI_LAYOUT_TOKEN_CCLI_LICENSE_NUMBER_title" = "许可证号码";
 
 /* The title for the CCLI reporting window */
-"GENERAL_PREFERENCES_CCLI_REPORTING_WINDOW_title" = "CCLI Reporting";
+"GENERAL_PREFERENCES_CCLI_REPORTING_WINDOW_title" = "CCLI 正在汇报";
 
 /* Within a table view describing CCLI reporting data, this is the title for a column displaying the time the entry was created */
-"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_CREATED_title" = "Created";
+"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_CREATED_title" = "已创建";
 
 /* Within a table view describing CCLI reporting data, this is the title for a column displaying the presentation's title */
-"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_TITLE_title" = "Title";
+"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_TITLE_title" = "标题";
 
 /* Within a table view describing CCLI reporting data, this is the title for a column displaying the presentation's author */
-"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_AUTHOR_title" = "Author";
+"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_AUTHOR_title" = "作者";
 
 /* Within a table view describing CCLI reporting data, this is the title for a column displaying the presentation's publisher */
-"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_PUBLISHER_title" = "Publisher";
+"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_PUBLISHER_title" = "发行人";
 
 /* Within a table view describing CCLI reporting data, this is the title for a column displaying the presentation's copyright year */
-"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_COPYRIGHT_title" = "Copyright";
+"GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_COPYRIGHT_title" = "版权";
 
 /* Within a table view describing CCLI reporting data, this is the title for a column displaying the presentation's CCLI number */
 "GENERAL_PREFERENCES_CCLI_REPORTING_COLUMN_CCLI_NUMBER_title" = "CCLI #";
@@ -5312,61 +5312,61 @@ IMPORT_PREFERENCES
 */
 
 /* Title for the scaling settings header */
-"IMPORT_PREFERENCES_SCALING_HEADER_title" = "Scaling";
+"IMPORT_PREFERENCES_SCALING_HEADER_title" = "缩放";
 
 /* Title for the foreground scaling behavior option */
-"IMPORT_PREFERENCES_SCALING_FOREGROUND_title" = "Foreground";
+"IMPORT_PREFERENCES_SCALING_FOREGROUND_title" = "前景";
 
 /* Title for the background scaling behavior option */
-"IMPORT_PREFERENCES_SCALING_BACKGROUND_title" = "Background";
+"IMPORT_PREFERENCES_SCALING_BACKGROUND_title" = "背景";
 
 /* Title for the image settings header */
-"IMPORT_PREFERENCES_IMAGE_HEADER_title" = "Image";
+"IMPORT_PREFERENCES_IMAGE_HEADER_title" = "图像";
 
 /* Title for the image media behavior option */
-"IMPORT_PREFERENCES_IMAGE_BEHAVIOR_title" = "Behavior";
+"IMPORT_PREFERENCES_IMAGE_BEHAVIOR_title" = "行为";
 
 /* Title for the image media duration option */
-"IMPORT_PREFERENCES_IMAGE_DURATION_title" = "Duration";
+"IMPORT_PREFERENCES_IMAGE_DURATION_title" = "期间";
 
 /* Title for the play after completion behavior option */
-"IMPORT_PREFERENCES_IMAGE_NEXT_BEHAVIOR_title" = "Next Behavior";
+"IMPORT_PREFERENCES_IMAGE_NEXT_BEHAVIOR_title" = "下一个行为";
 
 /* Title for the video settings header */
-"IMPORT_PREFERENCES_VIDEO_HEADER_title" = "Video";
+"IMPORT_PREFERENCES_VIDEO_HEADER_title" = "视频";
 
 /* Title for the video media behavior option */
-"IMPORT_PREFERENCES_VIDEO_BEHAVIOR_title" = "Behavior";
+"IMPORT_PREFERENCES_VIDEO_BEHAVIOR_title" = "行为";
 
 /* Title for the video media playback option */
-"IMPORT_PREFERENCES_VIDEO_PLAYBACK_BEHAVIOR_title" = "Playback Behavior";
+"IMPORT_PREFERENCES_VIDEO_PLAYBACK_BEHAVIOR_title" = "重放行为";
 
 /* Title for the video end behavior option */
-"IMPORT_PREFERENCES_VIDEO_END_BEHAVIOR_title" = "End Behavior";
+"IMPORT_PREFERENCES_VIDEO_END_BEHAVIOR_title" = "结束行为";
 
 /* Title for the play after completion behavior option */
-"IMPORT_PREFERENCES_VIDEO_NEXT_BEHAVIOR_title" = "Next Behavior";
+"IMPORT_PREFERENCES_VIDEO_NEXT_BEHAVIOR_title" = "下一个行为";
 
 /* Title for the audio settings header */
-"IMPORT_PREFERENCES_AUDIO_HEADER_title" = "Audio";
+"IMPORT_PREFERENCES_AUDIO_HEADER_title" = "声音";
 
 /* Title for the audio playback behavior option */
-"IMPORT_PREFERENCES_AUDIO_PLAYBACK_BEHAVIOR_title" = "Playback Behavior";
+"IMPORT_PREFERENCES_AUDIO_PLAYBACK_BEHAVIOR_title" = "重放行为";
 
 /* Title for the None duration type */
-"IMPORT_PREFERENCES_DURATION_TYPE_NONE_title" = "None";
+"IMPORT_PREFERENCES_DURATION_TYPE_NONE_title" = "无";
 
 /* Title for the Time duration type */
-"IMPORT_PREFERENCES_DURATION_TYPE_TIME_title" = "Time";
+"IMPORT_PREFERENCES_DURATION_TYPE_TIME_title" = "时间";
 
 /* Title for the Random duration type */
-"IMPORT_PREFERENCES_DURATION_TYPE_RANDOM_title" = "Random";
+"IMPORT_PREFERENCES_DURATION_TYPE_RANDOM_title" = "随机";
 
 /* Title for the background import layer option */
-"IMPORT_PREFERENCES_MEDIA_IMPORT_LAYER_BACKGROUND_title" = "Background";
+"IMPORT_PREFERENCES_MEDIA_IMPORT_LAYER_BACKGROUND_title" = "背景";
 
 /* Title for the foreground import layer option */
-"IMPORT_PREFERENCES_MEDIA_IMPORT_LAYER_FOREGROUND_title" = "Foreground";
+"IMPORT_PREFERENCES_MEDIA_IMPORT_LAYER_FOREGROUND_title" = "前景";
 
 
 /*
@@ -5376,124 +5376,124 @@ LABEL_PREFERENCES
 */
 
 /* Title for the groups header */
-"LABEL_PREFERENCES_GROUPS_HEADER_title" = "Groups";
+"LABEL_PREFERENCES_GROUPS_HEADER_title" = "分组";
 
 /* Title for the labels header */
-"LABEL_PREFERENCES_LABELS_HEADER_title" = "Labels";
+"LABEL_PREFERENCES_LABELS_HEADER_title" = "标签";
 
 /* Default name of a group, shown when a group has no name */
-"LABEL_PREFERENCES_GROUP_DEFAULT_name" = "Group";
+"LABEL_PREFERENCES_GROUP_DEFAULT_name" = "分组";
 
 /* Title for the group names column header */
-"LABEL_PREFERENCES_GROUP_NAMES_COLUMN_HEADER_title" = "Group Names";
+"LABEL_PREFERENCES_GROUP_NAMES_COLUMN_HEADER_title" = "组名";
 
 /* Title for the group color column header */
-"LABEL_PREFERENCES_GROUP_COLOR_COLUMN_HEADER_title" = "Color";
+"LABEL_PREFERENCES_GROUP_COLOR_COLUMN_HEADER_title" = "颜色";
 
 /* Title for the group hotkey column header */
-"LABEL_PREFERENCES_GROUP_HOTKEY_COLUMN_HEADER_title" = "Hot Key";
+"LABEL_PREFERENCES_GROUP_HOTKEY_COLUMN_HEADER_title" = "热键";
 
 /* Title for the slide labels column header. */
-"LABEL_PREFERENCES_SLIDE_LABEL_COLUMN_HEADER_title" = "Slide Labels";
+"LABEL_PREFERENCES_SLIDE_LABEL_COLUMN_HEADER_title" = "幻灯片标签";
 
 /* Title for the label color column header */
-"LABEL_PREFERENCES_LABEL_COLOR_COLUMN_HEADER_title" = "Color";
+"LABEL_PREFERENCES_LABEL_COLOR_COLUMN_HEADER_title" = "颜色";
 
 /* Default name for a new group */
-"LABEL_PREFERENCES_DEFAULT_NEW_GROUP_NAME_title" = "New Group";
+"LABEL_PREFERENCES_DEFAULT_NEW_GROUP_NAME_title" = "新建组";
 
 /* Default name for a new label */
-"LABEL_PREFERENCES_DEFAULT_NEW_LABEL_NAME_title" = "New Label";
+"LABEL_PREFERENCES_DEFAULT_NEW_LABEL_NAME_title" = "新建标签";
 
 /* Default name for the Blank Slide preset label */
-"LABEL_PREFERENCES_DEFAULT_LABEL_BLANK_SLIDE_title" = "Blank Slide";
+"LABEL_PREFERENCES_DEFAULT_LABEL_BLANK_SLIDE_title" = "空白幻灯片";
 
 /* Default name for the Instrumental preset label */
-"LABEL_PREFERENCES_DEFAULT_LABEL_INSTRUMENTAL_title" = "Instrumental";
+"LABEL_PREFERENCES_DEFAULT_LABEL_INSTRUMENTAL_title" = "器乐";
 
 /* Default name for the Repeat preset label */
-"LABEL_PREFERENCES_DEFAULT_LABEL_REPEAT_title" = "Repeat";
+"LABEL_PREFERENCES_DEFAULT_LABEL_REPEAT_title" = "重复";
 
 /* Default name for the Spoken Word preset label */
-"LABEL_PREFERENCES_DEFAULT_LABEL_SPOKEN_WORD_title" = "Spoken Word";
+"LABEL_PREFERENCES_DEFAULT_LABEL_SPOKEN_WORD_title" = "口头语";
 
 /* Default name for the Verse preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_title" = "Verse";
+"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_title" = "诗";
 
 /* Default name for the Verse 1 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_1_title" = "Verse 1";
+"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_1_title" = "诗 1";
 
 /* Default name for the Verse 2 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_2_title" = "Verse 2";
+"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_2_title" = "诗 2";
 
 /* Default name for the Verse 3 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_3_title" = "Verse 3";
+"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_3_title" = "诗 3";
 
 /* Default name for the Verse 4 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_4_title" = "Verse 4";
+"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_4_title" = "诗 4";
 
 /* Default name for the Verse 5 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_5_title" = "Verse 5";
+"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_5_title" = "诗 5";
 
 /* Default name for the Verse 6 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_6_title" = "Verse 6";
+"LABEL_PREFERENCES_DEFAULT_GROUP_VERSE_6_title" = "诗 6";
 
 /* Default name for the Chorus preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_title" = "Chorus";
+"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_title" = "合唱";
 
 /* Default name for the Chorus 1 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_1_title" = "Chorus 1";
+"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_1_title" = "合唱 1";
 
 /* Default name for the Chorus 2 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_2_title" = "Chorus 2";
+"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_2_title" = "合唱 2";
 
 /* Default name for the Chorus 3 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_3_title" = "Chorus 3";
+"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_3_title" = "合唱 3";
 
 /* Default name for the Chorus 4 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_4_title" = "Chorus 4";
+"LABEL_PREFERENCES_DEFAULT_GROUP_CHORUS_4_title" = "合唱 4";
 
 /* Default name for the Bridge preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_BRIDGE_title" = "Bridge";
+"LABEL_PREFERENCES_DEFAULT_GROUP_BRIDGE_title" = "桥";
 
 /* Default name for the Bridge 1 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_BRIDGE_1_title" = "Bridge 1";
+"LABEL_PREFERENCES_DEFAULT_GROUP_BRIDGE_1_title" = "桥 1";
 
 /* Default name for the Bridge 2 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_BRIDGE_2_title" = "Bridge 2";
+"LABEL_PREFERENCES_DEFAULT_GROUP_BRIDGE_2_title" = "桥 2";
 
 /* Default name for the Bridge 3 preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_BRIDGE_3_title" = "Bridge 3";
+"LABEL_PREFERENCES_DEFAULT_GROUP_BRIDGE_3_title" = "桥 3";
 
 /* Default name for the PreChorus preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_PRECHORUS_title" = "PreChorus";
+"LABEL_PREFERENCES_DEFAULT_GROUP_PRECHORUS_title" = "前导";
 
 /* Default name for the Tag preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_TAG_title" = "Tag";
+"LABEL_PREFERENCES_DEFAULT_GROUP_TAG_title" = "标签";
 
 /* Default name for the Intro preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_INTRO_title" = "Intro";
+"LABEL_PREFERENCES_DEFAULT_GROUP_INTRO_title" = "介绍";
 
 /* Default name for the Ending preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_ENDING_title" = "Ending";
+"LABEL_PREFERENCES_DEFAULT_GROUP_ENDING_title" = "结尾";
 
 /* Default name for the Outro preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_OUTRO_title" = "Outro";
+"LABEL_PREFERENCES_DEFAULT_GROUP_OUTRO_title" = "其他";
 
 /* Default name for the Interlude preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_INTERLUDE_title" = "Interlude";
+"LABEL_PREFERENCES_DEFAULT_GROUP_INTERLUDE_title" = "插曲";
 
 /* Default name for the Vamp preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_VAMP_title" = "Vamp";
+"LABEL_PREFERENCES_DEFAULT_GROUP_VAMP_title" = "伴奏";
 
 /* Default name for the Turnaround preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_TURNAROUND_title" = "Turnaround";
+"LABEL_PREFERENCES_DEFAULT_GROUP_TURNAROUND_title" = "回转";
 
 /* Default name for the blank preset group */
-"LABEL_PREFERENCES_DEFAULT_GROUP_BLANK_title" = "Blank";
+"LABEL_PREFERENCES_DEFAULT_GROUP_BLANK_title" = "空白";
 
 /* Menu item title to select a custom color for the given group or label */
-"LABEL_PREFERENCES_COLOR_MENU_CUSTOM_title" = "Custom";
+"LABEL_PREFERENCES_COLOR_MENU_CUSTOM_title" = "自定义";
 
 
 /*
@@ -5503,34 +5503,34 @@ SCREEN_PREFERENCES
 */
 
 /* Title for the option to turn on screens when the app starts */
-"SCREEN_PREFERENCES_ENABLE_SCREENS_AT_LAUNCH_title" = "Automatically enable screens at launch";
+"SCREEN_PREFERENCES_ENABLE_SCREENS_AT_LAUNCH_title" = "启动时自动启用屏幕";
 
 /* Label further describing the option to turn on screens when the app starts */
-"SCREEN_PREFERENCES_ENABLE_SCREENS_AT_LAUNCH_label" = "When the application is launched, will automatically enable stage and audience screens. This setting only affects system graphic outputs.";
+"SCREEN_PREFERENCES_ENABLE_SCREENS_AT_LAUNCH_label" = "启动应用程序时，将自动启用舞台和观众屏幕。此设置仅影响系统图形输出。";
 
 /* Title for the option to show screen statistics */
-"SCREEN_PREFERENCES_SHOW_SCREEN_STATS_title" = "Show performance statistics on screen";
+"SCREEN_PREFERENCES_SHOW_SCREEN_STATS_title" = "在屏幕上显示效果统计信息";
 
 /* Label further describing the option to show screen statistics */
-"SCREEN_PREFERENCES_SHOW_SCREEN_STATS_label" = "Will show the rendered frames per second and video memory utilization on the screens. Enabling will show additional data on all screens and should not be done during a show.";
+"SCREEN_PREFERENCES_SHOW_SCREEN_STATS_label" = "将在屏幕上显示每秒渲染的帧和视频内存利用率。启用将在所有屏幕上显示其他数据，并且不应在正式演出中使用。";
 
 /* Title for the option to ignore background colors */
-"SCREEN_PREFERENCES_IGNORE_BACKGROUND_COLORS_title" = "Ignore Background Colors";
+"SCREEN_PREFERENCES_IGNORE_BACKGROUND_COLORS_title" = "忽略背景色";
 
 /* Label further describing the option to show screen statistics */
-"SCREEN_PREFERENCES_IGNORE_BACKGROUND_COLORS_label" = "Ignores the presentation and slide background colors for all rendered content.";
+"SCREEN_PREFERENCES_IGNORE_BACKGROUND_COLORS_label" = "忽略演示文稿、幻灯片中所有渲染的内容的背景色。";
 
 /* Title for the option to show Keynote/PowerPoint presentations on top of ProPresenter's output */
-"SCREEN_PREFERENCES_SHOW_KEYNOTE_AND_POWERPOINT_SCREENS_title" = "Show Keynote & PowerPoint screens";
+"SCREEN_PREFERENCES_SHOW_KEYNOTE_AND_POWERPOINT_SCREENS_title" = "显示 Keynote & PowerPoint 屏幕";
 
 /* Label further describing the option to show Keynote/PowerPoint presentations from ProPresenter */
-"SCREEN_PREFERENCES_SHOW_KEYNOTE_AND_POWERPOINT_SCREENS_label" = "Displays Keynote and PowerPoint presentation screens, even when ProPresenter display is active.";
+"SCREEN_PREFERENCES_SHOW_KEYNOTE_AND_POWERPOINT_SCREENS_label" = "即使启用了ProPresenter显示屏，也会显示Keynote和PowerPoint的演示屏幕。";
 
 /* Title for the button to open the screen configuration window */
-"SCREEN_PREFERENCES_OPEN_SCREEN_CONFIGURATION_title" = "Open Screen Configuration…";
+"SCREEN_PREFERENCES_OPEN_SCREEN_CONFIGURATION_title" = "打开屏幕设置…";
 
 /* Label further describing screen configuration */
-"SCREEN_PREFERENCES_OPEN_SCREEN_CONFIGURATION_label" = "Audience and Stage screens can be configured in Screen Configuration:";
+"SCREEN_PREFERENCES_OPEN_SCREEN_CONFIGURATION_label" = "可以在“屏幕配置”中配置“观众”和“舞台”屏幕：";
 
 
 /*
@@ -5547,148 +5547,148 @@ INPUT_PREFERENCES
 */
 
 /* title for the video input table header input preferences pane */
-"INPUT_PREFERENCES_VIDEO_TABLE_HEADER_title" = "VIDEO";
+"INPUT_PREFERENCES_VIDEO_TABLE_HEADER_title" = "视频";
 
 /* title for the audio input table header input preferences pane */
-"INPUT_PREFERENCES_AUDIO_TABLE_HEADER_title" = "AUDIO";
+"INPUT_PREFERENCES_AUDIO_TABLE_HEADER_title" = "音频";
 
 /* title for the audio source video device header in the audio input detail view */
-"INPUT_PREFERENCES_AUDIO_DEVICE_MENU_VIDEO_HEADER_title" = "Video";
+"INPUT_PREFERENCES_AUDIO_DEVICE_MENU_VIDEO_HEADER_title" = "视频";
 
 /* title for the audio source audio device header in the audio input detail view */
-"INPUT_PREFERENCES_AUDIO_DEVICE_MENU_AUDIO_HEADER_title" = "Audio";
+"INPUT_PREFERENCES_AUDIO_DEVICE_MENU_AUDIO_HEADER_title" = "音频";
 
 /* title for the video input video tab header */
-"INPUT_PREFERENCES_VIDEO_INPUT_VIDEO_TAB_HEADER_title" = "Video";
+"INPUT_PREFERENCES_VIDEO_INPUT_VIDEO_TAB_HEADER_title" = "视频";
 
 /* title for the video input audio tab header */
-"INPUT_PREFERENCES_VIDEO_INPUT_AUDIO_TAB_HEADER_title" = "Audio";
+"INPUT_PREFERENCES_VIDEO_INPUT_AUDIO_TAB_HEADER_title" = "音频";
 
 /* title for a new input in preferences pane */
-"INPUT_PREFERENCES_NEW_INPUT_title" = "Input";
+"INPUT_PREFERENCES_NEW_INPUT_title" = "输入";
 
 /* label for the audio input description */
-"INPUT_PREFERENCES_AUDIO_DESCRIPTION_label" = "Name:";
+"INPUT_PREFERENCES_AUDIO_DESCRIPTION_label" = "名称:";
 
 /* label for the audio input mode */
-"INPUT_PREFERENCES_AUDIO_MODE_label" = "Mode:";
+"INPUT_PREFERENCES_AUDIO_MODE_label" = "模式:";
 
 /* label for the audio input mode options button */
-"INPUT_PREFERENCES_AUDIO_MODE_OPTIONS_BUTTON_label" = "Options";
+"INPUT_PREFERENCES_AUDIO_MODE_OPTIONS_BUTTON_label" = "选项";
 
 /* label for the audio input mode options popup label */
-"INPUT_PREFERENCES_AUDIO_MODE_OPTIONS_POPUP_label" = "Video Inputs";
+"INPUT_PREFERENCES_AUDIO_MODE_OPTIONS_POPUP_label" = "视频输入";
 
 /* label for the selected audio input device */
-"INPUT_PREFERENCES_AUDIO_SOURCE_label" = "Source:";
+"INPUT_PREFERENCES_AUDIO_SOURCE_label" = "来源：";
 
 /* label for the audio input delay */
-"INPUT_PREFERENCES_AUDIO_DELAY_label" = "Delay:";
+"INPUT_PREFERENCES_AUDIO_DELAY_label" = "延迟：";
 
 /* label for the audio input master level */
-"INPUT_PREFERENCES_AUDIO_MASTER_LEVEL_label" = "Volume:";
+"INPUT_PREFERENCES_AUDIO_MASTER_LEVEL_label" = "音量：";
 
 /* label for the audio input channels section */
-"INPUT_PREFERENCES_AUDIO_CHANNELS_SECTION_label" = "Channels:";
+"INPUT_PREFERENCES_AUDIO_CHANNELS_SECTION_label" = "频道：";
 
 /* title for the individual audio channels in the audio input preferences pane */
-"INPUT_PREFERENCES_AUDIO_CHANNEL_title" = "Channel %i";
+"INPUT_PREFERENCES_AUDIO_CHANNEL_title" = "频道 %i";
 
 /* title for the master audio channel in the audio input preferences pane */
-"INPUT_PREFERENCES_AUDIO_MASTER_CHANNEL_title" = "Master";
+"INPUT_PREFERENCES_AUDIO_MASTER_CHANNEL_title" = "主要";
 
 /* undo action title for removing a input non plural */
-"INPUT_PREFERENCES_UNDO_REMOVE_INPUT_action_title" = "Remove Input";
+"INPUT_PREFERENCES_UNDO_REMOVE_INPUT_action_title" = "移除输入";
 
 /* undo action title for removing inputs plural */
-"INPUT_PREFERENCES_UNDO_REMOVE_INPUTS_action_title" = "Remove Inputs";
+"INPUT_PREFERENCES_UNDO_REMOVE_INPUTS_action_title" = "移除输入";
 
 /* undo action title for adding a input non plural */
-"INPUT_PREFERENCES_UNDO_ADD_INPUT_action_title" = "Add Input";
+"INPUT_PREFERENCES_UNDO_ADD_INPUT_action_title" = "添加输入";
 
 /* undo action title for adding inputs plural */
-"INPUT_PREFERENCES_UNDO_ADD_INPUTS_action_title" = "Add Inputs";
+"INPUT_PREFERENCES_UNDO_ADD_INPUTS_action_title" = "添加输入";
 
 /* undo action title for moving inputs plural */
-"INPUT_PREFERENCES_UNDO_MOVE_INPUTS_action_title" = "Move Inputs";
+"INPUT_PREFERENCES_UNDO_MOVE_INPUTS_action_title" = "移动输入";
 
 /* the menu item in the audio device popup button */
-"INPUT_PREFERENCES_AUDIO_NO_DEVICE_MENU_title" = "- No Audio Source -";
+"INPUT_PREFERENCES_AUDIO_NO_DEVICE_MENU_title" = "- 无音源 -";
 
 /* the name of the popup button for mapping a audio channel */
-"INPUT_PREFERENCES_AUDIO_CHANNEL_MAP_BUTTON_title" = "Map…";
+"INPUT_PREFERENCES_AUDIO_CHANNEL_MAP_BUTTON_title" = "映射…";
 
 /* the name of the routing button */
-"INPUT_PREFERENCES_AUDIO_ROUTING_BUTTON_title" = "Routing…";
+"INPUT_PREFERENCES_AUDIO_ROUTING_BUTTON_title" = "路由…";
 
 /* the menu item in the video or audio input device popup button when a device is disconnected */
-"INPUT_PREFERENCES_VIDEO_AUDIO_DISCONNECTED_DEVICE_MENU_title" = "Disconnected - %@";
+"INPUT_PREFERENCES_VIDEO_AUDIO_DISCONNECTED_DEVICE_MENU_title" = "断开 - %@";
 
 /* the menu item in the video device popup button */
-"INPUT_PREFERENCES_VIDEO_AUDIO_DEFAULT_DEVICE_MENU_title" = "Video (Embedded)";
+"INPUT_PREFERENCES_VIDEO_AUDIO_DEFAULT_DEVICE_MENU_title" = "视频 (嵌入的)";
 
 /* the status indicator for if we have a selected device thats no longer connected */
-"INPUT_PREFERENCES_VIDEO_PREVIEW_STATUS_DEVICE_NOT_CONNECTED_title" = "Not Connected";
+"INPUT_PREFERENCES_VIDEO_PREVIEW_STATUS_DEVICE_NOT_CONNECTED_title" = "未连接";
 
 /* the status indicator for if we have a selected device that has no signal */
-"INPUT_PREFERENCES_VIDEO_PREVIEW_STATUS_DEVICE_NO_SIGNAL_title" = "No Signal";
+"INPUT_PREFERENCES_VIDEO_PREVIEW_STATUS_DEVICE_NO_SIGNAL_title" = "无信号";
 
 /* the label of the mode in the on state */
-"INPUT_PREFERENCES_AUDIO_MODE_ON_label" = "On";
+"INPUT_PREFERENCES_AUDIO_MODE_ON_label" = "开";
 
 /* the label of the mode in the off state */
-"INPUT_PREFERENCES_AUDIO_MODE_OFF_label" = "Off";
+"INPUT_PREFERENCES_AUDIO_MODE_OFF_label" = "关";
 
 /* the label of the mode in the auto on state */
-"INPUT_PREFERENCES_AUDIO_MODE_AUTO_ON_label" = "Auto On";
+"INPUT_PREFERENCES_AUDIO_MODE_AUTO_ON_label" = "自动打开";
 
 /* the label of the mode in the auto off state */
-"INPUT_PREFERENCES_AUDIO_MODE_AUTO_OFF_label" = "Auto Off";
+"INPUT_PREFERENCES_AUDIO_MODE_AUTO_OFF_label" = "自动关闭";
 
 /* the definition of the mode in the on state */
-"INPUT_PREFERENCES_AUDIO_MODE_ON_definition" = "On until manually disabled";
+"INPUT_PREFERENCES_AUDIO_MODE_ON_definition" = "打开，直到手动关闭";
 
 /* the definition of the mode in the off state */
-"INPUT_PREFERENCES_AUDIO_MODE_OFF_definition" = "Off until manually enabled";
+"INPUT_PREFERENCES_AUDIO_MODE_OFF_definition" = "关闭，直到手动打开";
 
 /* the definition of the mode in the auto on state */
-"INPUT_PREFERENCES_AUDIO_MODE_AUTO_ON_definition" = "Automatically enables audio input when a linked video input is showing on an audience screen.";
+"INPUT_PREFERENCES_AUDIO_MODE_AUTO_ON_definition" = "当在观众屏幕上显示链接的视频输入时，自动启用音频输入。";
 
 /* the definition of the mode in the auto off state */
-"INPUT_PREFERENCES_AUDIO_MODE_AUTO_OFF_definition" = "Automatically disables audio input when a foreground video with audio is being played.";
+"INPUT_PREFERENCES_AUDIO_MODE_AUTO_OFF_definition" = "当播放带有音频的前景视频时，自动禁用音频输入。";
 
 /* label for the video input description */
-"INPUT_PREFERENCES_VIDEO_DESCRIPTION_label" = "Name:";
+"INPUT_PREFERENCES_VIDEO_DESCRIPTION_label" = "名称：";
 
 /* label for the video input video source */
-"INPUT_PREFERENCES_VIDEO_SOURCE_label" = "Device:";
+"INPUT_PREFERENCES_VIDEO_SOURCE_label" = "设备：";
 
 /* the label for in the video input audio tab audio source */
-"INPUT_PREFERENCES_VIDEO_AUDIO_SOURCE_label" = "Source:";
+"INPUT_PREFERENCES_VIDEO_AUDIO_SOURCE_label" = "来源：";
 
 /* label for the video input audio tab delay */
-"INPUT_PREFERENCES_VIDEO_AUDIO_DELAY_label" = "Delay:";
+"INPUT_PREFERENCES_VIDEO_AUDIO_DELAY_label" = "延迟：";
 
 /* label for the video input audio tab master level */
-"INPUT_PREFERENCES_VIDEO_AUDIO_MASTER_LEVEL_label" = "Volume:";
+"INPUT_PREFERENCES_VIDEO_AUDIO_MASTER_LEVEL_label" = "音量：";
 
 /* label for the video input audio tab channels section */
-"INPUT_PREFERENCES_VIDEO_AUDIO_CHANNELS_SECTION_label" = "Channels:";
+"INPUT_PREFERENCES_VIDEO_AUDIO_CHANNELS_SECTION_label" = "频道：";
 
-"INPUT_PREFERENCES_VIDEO_AUDIO_NO_INPUTS_CONFIGURED_label" = "No Inputs Configured.\nClick Add (+) to configure an input.";
+"INPUT_PREFERENCES_VIDEO_AUDIO_NO_INPUTS_CONFIGURED_label" = "未配置任何输入。\n单击添加（+）配置输入。";
 
-"INPUT_PREFERENCES_AUDIO_TRANSITION_title" = "Audio Transition Duration";
+"INPUT_PREFERENCES_AUDIO_TRANSITION_title" = "音频过渡持续时间";
 
 /* Tooltip for the button which toggles a live preview of video input */
-"INPUT_PREFERENCES_VIDEO_LIVE_PREVIEW_tooltip" = "Live Preview";
+"INPUT_PREFERENCES_VIDEO_LIVE_PREVIEW_tooltip" = "实时预览";
 /* Tooltip for the button which allows us to listen to audio from the video input */
-"INPUT_PREFERENCES_VIDEO_MONITOR_AUDIO_tooltip" = "Monitor Audio";
+"INPUT_PREFERENCES_VIDEO_MONITOR_AUDIO_tooltip" = "监听音频";
 /* Tooltip for the button which captures the current frame and sets it as the thumbnail for the video input */
-"INPUT_PREFERENCES_VIDEO_CAPTURE_THUMBNAIL_tooltip" = "Capture Thumbnail";
+"INPUT_PREFERENCES_VIDEO_CAPTURE_THUMBNAIL_tooltip" = "捕获缩略图";
 /* Tooltip for the button which opens a file dialog to choose a thumbnail image from disk */
-"INPUT_PREFERENCES_VIDEO_CHOOSE_THUMBNAIL_tooltip" = "Choose thumbnail from disk";
+"INPUT_PREFERENCES_VIDEO_CHOOSE_THUMBNAIL_tooltip" = "从磁盘中选择缩略图";
 /* Tooltip for the button that removes the custom thumbnail */
-"INPUT_PREFERENCES_VIDEO_CLEAR_THUMBNAIL_tooltip" = "Clear Thumbnail";
+"INPUT_PREFERENCES_VIDEO_CLEAR_THUMBNAIL_tooltip" = "清除缩略图";
 
 /*
 ------------------------------------------------------------------------------
@@ -5699,6 +5699,7 @@ RESI_PREFERENCES
        UNREGISTER_ALERT
 ------------------------------------------------------------------------------
 */
+
 
 /* A label describing the use case for Resi's streaming services */
 "RESI_PREFERENCES_LOGIN_DESCRIPTION_label" = "Resi is a better way to live stream with unprecedented quality and resiliency. Increase your audience and average viewer duration by eliminating \"special effects\" like buffering wheels, dropouts, and glitches, and keep your stream perfect even through complete internet interruptions or poor connections like hotspots.";
