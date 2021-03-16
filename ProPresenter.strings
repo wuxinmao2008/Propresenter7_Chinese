@@ -5702,239 +5702,239 @@ RESI_PREFERENCES
 
 
 /* A label describing the use case for Resi's streaming services */
-"RESI_PREFERENCES_LOGIN_DESCRIPTION_label" = "Resi is a better way to live stream with unprecedented quality and resiliency. Increase your audience and average viewer duration by eliminating \"special effects\" like buffering wheels, dropouts, and glitches, and keep your stream perfect even through complete internet interruptions or poor connections like hotspots.";
+"RESI_PREFERENCES_LOGIN_DESCRIPTION_label" = "Resi是一种更好的直播方式，它具有前所未有的质量和弹性。通过消除“特殊效果”（例如缓冲轮，掉线和毛刺）来增加观众和平均观看者的时长，即使在互联网完全中断或热点（例如热点）连接不良的情况下，也可以使您的视频流保持完美状态。";
 
 /* A label describing the streaming abilities Resi provides */
-"RESI_PREFERENCES_LOGIN_ADDITIONAL_INFO_label" = "Send to multiple destinations including Facebook, YouTube, apps, website, and embed codes all from a single stream. Re-broadcast the events later with scheduled simulated live. Know your audience with live and aggregated analytics.";
+"RESI_PREFERENCES_LOGIN_ADDITIONAL_INFO_label" = "从单个流发送到多个目的地，包括Facebook，YouTube，应用程序，网站和嵌入代码。稍后使用预定的模拟直播重新广播事件。通过实时和汇总分析了解您的受众。";
 
 /* Title for the button that opens Resi's website for more details */
-"RESI_PREFERENCES_LOGIN_MORE_INFO_BUTTON_title" = "More Info…";
+"RESI_PREFERENCES_LOGIN_MORE_INFO_BUTTON_title" = "更多信息…";
 
 /* Title for the button which opens the login prompt */
-"RESI_PREFERENCES_LOGIN_BUTTON_title" = "Login";
+"RESI_PREFERENCES_LOGIN_BUTTON_title" = "登录";
 
 /* Header label for account details */
-"RESI_PREFERENCES_SETTINGS_ACCOUNT_title" = "Account";
+"RESI_PREFERENCES_SETTINGS_ACCOUNT_title" = "帐户";
 
 /* Label for the organization who owns the Resi subscription */
-"RESI_PREFERENCES_SETTINGS_ORGANIZATION_title" = "Organization:";
+"RESI_PREFERENCES_SETTINGS_ORGANIZATION_title" = "组织：";
 
 /* Label for the subscription status */
-"RESI_PREFERENCES_SETTINGS_ACCOUNT_STATUS_title" = "Status:";
+"RESI_PREFERENCES_SETTINGS_ACCOUNT_STATUS_title" = "状态：";
 
 /* Title for the button to open Resi's control web page */
-"RESI_PREFERENCES_SETTINGS_MANAGE_BUTTON_title" = "Manage";
+"RESI_PREFERENCES_SETTINGS_MANAGE_BUTTON_title" = "管理";
 
 /* Header label for Resi encoder details */
-"RESI_PREFERENCES_SETTINGS_ENCODER_title" = "Encoder";
+"RESI_PREFERENCES_SETTINGS_ENCODER_title" = "编码器";
 
 /* Label for this Resi encoder's name */
-"RESI_PREFERENCES_SETTINGS_ENCODER_IDENTIFIER_title" = "Name:";
+"RESI_PREFERENCES_SETTINGS_ENCODER_IDENTIFIER_title" = "名称：";
 
 /* Label for the Resi encoder version */
-"RESI_PREFERENCES_SETTINGS_ENCODER_VERSION_title" = "Version:";
+"RESI_PREFERENCES_SETTINGS_ENCODER_VERSION_title" = "版本：";
 
 /* Title for the button which installs the Resi encoder plugin */
-"RESI_PREFERENCES_SETTINGS_INSTALL_PLUGIN_BUTTON_title" = "Install Resi Encoder";
+"RESI_PREFERENCES_SETTINGS_INSTALL_PLUGIN_BUTTON_title" = "安装Resi编码器";
 
 /* Title for the button which installs available updates to the Resi encoder plugin */
-"RESI_PREFERENCES_SETTINGS_INSTALL_UPDATE_BUTTON_title" = "Install Update";
+"RESI_PREFERENCES_SETTINGS_INSTALL_UPDATE_BUTTON_title" = "安装更新";
 
 /* Placeholder version text for when the Resi encoder is not installed */
-"RESI_PREFERENCES_SETTINGS_PLUGIN_NOT_FOUND" = "Resi Encoder not found";
+"RESI_PREFERENCES_SETTINGS_PLUGIN_NOT_FOUND" = "找不到Resi编码器";
 
 /* Label for when we're checking for Resi updates */
-"RESI_PREFERENCES_SETTINGS_CHECKING_label" = "Checking…";
+"RESI_PREFERENCES_SETTINGS_CHECKING_label" = "检查…";
 
 /* Label for when we're downloading a Resi update */
-"RESI_PREFERENCES_SETTINGS_DOWNLOADING_label" = "Downloading…";
+"RESI_PREFERENCES_SETTINGS_DOWNLOADING_label" = "下载中…";
 
 /* Label for when we're installing a Resi update */
-"RESI_PREFERENCES_SETTINGS_INSTALLING_label" = "Installing…";
+"RESI_PREFERENCES_SETTINGS_INSTALLING_label" = "正在安装…";
 
 /* Label for when we're starting the Resi plugin */
-"RESI_PREFERENCES_SETTINGS_STARTING_label" = "Starting…";
+"RESI_PREFERENCES_SETTINGS_STARTING_label" = "开始…";
 
 /* Label for when we're installing the Resi plugin */
-"RESI_PREFERENCES_SETTINGS_INSTALLING_label" = "Installing…";
+"RESI_PREFERENCES_SETTINGS_INSTALLING_label" = "正在安装…";
 
 /* Label for the Resi stream scheduling section. Currently not visible in the UI. */
-"RESI_PREFERENCES_SETTINGS_SCHEDULE_title" = "Schedule";
+"RESI_PREFERENCES_SETTINGS_SCHEDULE_title" = "日程";
 
 /* Label for the next scheduled stream. %@ is the name of the stream. Currently not visible in the UI. */
-"RESI_PREFERENCES_SETTINGS_SCHEDULE_label" = "Next Up: %@";
+"RESI_PREFERENCES_SETTINGS_SCHEDULE_label" = "下一个: %@";
 
 /* Title for the button which opens the capture settings window */
-"RESI_PREFERENCES_SETTINGS_OPEN_CAPTURE_SETTINGS_BUTTON_title" = "Open Capture Settings";
+"RESI_PREFERENCES_SETTINGS_OPEN_CAPTURE_SETTINGS_BUTTON_title" = "打开捕获设置";
 
 /* Alert text to prompt the user if they really want to unregister their Resi encoder */
-"RESI_PREFERENCES_UNREGISTER_ALERT_label" = "Are you sure you want to logout and unregister this Resi encoder?";
+"RESI_PREFERENCES_UNREGISTER_ALERT_label" = "您确定要注销并注销此Resi编码器吗？";
 
 /* Label for when account information, encoder information, etc... is not available */
-"RESI_PREFERENCES_SETTINGS_INFO_NOT_AVAILABLE" = "Not Available";
+"RESI_PREFERENCES_SETTINGS_INFO_NOT_AVAILABLE" = "不可用";
 
 /* the title for Active account status */
-"RESI_PREFERENCES_ACCOUNT_STATUS_ACTIVE_title" = "Active";
+"RESI_PREFERENCES_ACCOUNT_STATUS_ACTIVE_title" = "活跃";
 
 /* the title for InActive account status */
-"RESI_PREFERENCES_ACCOUNT_STATUS_INACTIVE_title" = "Inactive";
+"RESI_PREFERENCES_ACCOUNT_STATUS_INACTIVE_title" = "不活跃";
 
 /* the title for Invalid account status */
-"RESI_PREFERENCES_ACCOUNT_STATUS_INVALID_title" = "Invalid";
+"RESI_PREFERENCES_ACCOUNT_STATUS_INVALID_title" = "不活跃";
 
 /* the title for Unknown account status */
-"RESI_PREFERENCES_ACCOUNT_STATUS_UNKNOWN_title" = "Unknown";
+"RESI_PREFERENCES_ACCOUNT_STATUS_UNKNOWN_title" = "未知";
 
 /* The title of the window when resi update is available*/
-"RESI_PREFERENCES_UPDATE_AVAILABLE_title" = "Resi Update";
+"RESI_PREFERENCES_UPDATE_AVAILABLE_title" = "Resi更新";
 
 /* The button label to install right away the resi update */
-"RESI_PREFERENCES_INSTALL_NOW_BUTTON_title" = "Install Now";
+"RESI_PREFERENCES_INSTALL_NOW_BUTTON_title" = "现在安装";
 
 /* The button label to install later the resi update*/
-"RESI_PREFERENCES_INSTALL_LATER_BUTTON_title" = "Later";
+"RESI_PREFERENCES_INSTALL_LATER_BUTTON_title" = "稍后";
 
 /* The button label to manually check for resi update */
-"RESI_PREFERENCES_CHECK_FOR_UPDATE_BUTTON_title" = "Check for Update";
+"RESI_PREFERENCES_CHECK_FOR_UPDATE_BUTTON_title" = "检查更新";
 
 /* The login button for Resi within the capture settings window */
-"RESI_CAPTURE_SETTINGS_LOGIN_BUTTON_title" = "Login";
+"RESI_CAPTURE_SETTINGS_LOGIN_BUTTON_title" = "登录";
 
 /* The More Info button for Resi within the capture settings window - opens the user's browser with Resi's website */
-"RESI_CAPTURE_SETTINGS_MORE_INFO_BUTTON_title" = "More Info…";
+"RESI_CAPTURE_SETTINGS_MORE_INFO_BUTTON_title" = "更多信息…";
 
 /* The marketing text shown for Resi within the capture settings view when the user isn't logged in */
-"RESI_CAPTURE_SETTINGS_MARKETING_label" = "Resi is a better way to live stream with unprecedented quality and resiliency. Increase your audience and average viewer duration by eliminating \"special effects\" like buffering wheels, dropouts, and glitches, and keep your stream perfect even through complete internet interruptions or poor connections like hotspots.";
+"RESI_CAPTURE_SETTINGS_MARKETING_label" = "Resi是一种更好的直播方式，具有前所未有的质量和弹性。通过消除“特殊效果”（例如缓冲轮，掉线和毛刺），增加观众和平均观众时长，即使在完全中断互联网或热点等不良连接。";
 
 /* The text to show when the user is logged in to Resi but doesn't have the plugin installed */
-"RESI_CAPTURE_SETTINGS_PLUGIN_NOT_FOUND_label" = "Resi Encoder not found!\nInstall the Resi Encoder to begin streaming";
+"RESI_CAPTURE_SETTINGS_PLUGIN_NOT_FOUND_label" = "找不到Resi编码器！\n 安装Resi编码器以开始流式传输";
 
 /* The text on the button to install the plugin */
-"RESI_CAPTURE_SETTINGS_INSTALL_PLUGIN_BUTTON_title" = "Install Resi Encoder";
+"RESI_CAPTURE_SETTINGS_INSTALL_PLUGIN_BUTTON_title" = "安装Resi编码器";
 
 /* Info text shown when the Resi control website requests ProPresenter start a Resi capture while a capture is already in progress. %i is the number of seconds until the alert is automatically dismissed (plural) */
-"RESI_CONTROL_INTERRUPTS_CURRENT_STREAM_ALERT_PLURAL_info" = "A new Resi stream has been initiated from Control. ProPresenter has a capture session currently in progress. Do you want to abort the remote stream or close the current session and begin the Resi stream?\n\nUnless aborted, the new stream will automatically begin in %i seconds.\n\nYou may still interact with ProPresenter while this message is displayed.";
+"RESI_CONTROL_INTERRUPTS_CURRENT_STREAM_ALERT_PLURAL_info" = "已从Control发起新的Resi流。 ProPresenter当前正在进行捕获会话。您是否要中止远程流或关闭当前会话并开始Resi流？\n \n除非中止，新流将在％i秒后自动开始。\n \n在显示此消息时，您仍然可以与ProPresenter进行交互。";
 
 /* Info text shown when the Resi control website requests ProPresenter start a Resi capture. %i is the number of seconds until the alert is automatically dismissed (singular) */
-"RESI_CONTROL_INTERRUPTS_CURRENT_STREAM_ALERT_SINGULAR_info" = "A new Resi stream has been initiated from Control. ProPresenter has a capture session currently in progress. Do you want to abort the remote stream or close the current session and begin the Resi stream?\n\nUnless aborted, the new stream will automatically begin in %i second.\n\nYou may still interact with ProPresenter while this message is displayed.";
+"RESI_CONTROL_INTERRUPTS_CURRENT_STREAM_ALERT_SINGULAR_info" = "已从Control发起新的Resi流。 ProPresenter当前正在进行捕获会话。您是否要中止远程流或关闭当前会话并开始Resi流？\n \n除非中止，否则新流将在％i秒内自动开始。\n \n在显示此消息时，您仍然可以与ProPresenter进行交互。";
 
 /* The button to cancel the remote capture request */
-"RESI_CONTROL_INTERRUPTS_CURRENT_STREAM_ABORT_BUTTON_title" = "Abort Remote Request";
+"RESI_CONTROL_INTERRUPTS_CURRENT_STREAM_ABORT_BUTTON_title" = "中止远程请求";
 
 /* The button to begin the new Resi stream */
-"RESI_CONTROL_INTERRUPTS_CURRENT_STREAM_CONTINUE_BUTTON_title" = "Continue";
+"RESI_CONTROL_INTERRUPTS_CURRENT_STREAM_CONTINUE_BUTTON_title" = "继续";
 
 /* Title for the remote stream request window */
-"RESI_CONTROL_ACTIVATE_STREAM_title" = "Remote Stream Activated";
+"RESI_CONTROL_ACTIVATE_STREAM_title" = "远程流已激活";
 
 /* Info text shown when the Resi control website requests ProPresenter start a Resi capture. %i is the number of seconds until the alert is automatically dismissed (plural) */
-"RESI_CONTROL_ACTIVATE_STREAM_PLURAL_info" = "A new Resi stream has been initiated from Control. This will begin automatically in %i seconds.\n\nYou may still interact with ProPresenter while this message is displayed.";
+"RESI_CONTROL_ACTIVATE_STREAM_PLURAL_info" = "已从Control发起新的Resi流。这将在％i秒内自动开始。\n \n在显示此消息时，您仍然可以与ProPresenter进行交互。";
 
 /* Info text shown when the Resi control website requests ProPresenter start a Resi capture. %i is the number of seconds until the alert is automatically dismissed (singular) */
-"RESI_CONTROL_ACTIVATE_STREAM_SINGULAR_info" = "A new Resi stream has been initiated from Control. This will begin automatically in %i second.\n\nYou may still interact with ProPresenter while this message is displayed.";
+"RESI_CONTROL_ACTIVATE_STREAM_SINGULAR_info" = "已从Control发起新的Resi流。这将在％i秒后自动开始。\n \n在显示此消息时，您仍然可以与ProPresenter进行交互。";
 
 /* The button to cancel the remote capture request */
-"RESI_CONTROL_ACTIVATE_STREAM_ABORT_BUTTON_title" = "Abort Remote Request";
+"RESI_CONTROL_ACTIVATE_STREAM_ABORT_BUTTON_title" = "中止远程请求";
 
 /* The button to begin the new Resi stream */
-"RESI_CONTROL_ACTIVATE_STREAM_BEGIN_BUTTON_title" = "Begin Immediately";
+"RESI_CONTROL_ACTIVATE_STREAM_BEGIN_BUTTON_title" = "立即开始";
 
 /* The label for the event name */
-"RESI_EVENT_NAME_title" = "Event Name:";
+"RESI_EVENT_NAME_title" = "活动名称：";
 
 /* The placeholder label for the event name watermark */
-"RESI_EVENT_OPTIONAL_NAME_title" = "Optional Name";
+"RESI_EVENT_OPTIONAL_NAME_title" = "可选名称";
 
 /* Text for internal Error codes in ResiUpdateManagerError */
-"RESI_UPDATE_MANAGER_NO_UPDATE_URL_AVAILABLE" = "No update was available.";
-"RESI_UPDATE_MANAGER_PRO_CORE_NOT_AVAILABLE" = "ProCore is not available.";
-"RESI_UPDATE_MANAGER_UPDATE_SERVER_NOT_AVAILABLE" = "The Resi server was not available.";
-"RESI_UPDATE_MANAGER_COULD_NOT_UNZIP_PLUGIN_DOWNLOAD" = "The Resi Encoder download could not be unzipped.";
-"RESI_UPDATE_MANAGER_COULD_NOT_FIND_UNZIPPED_PLUGIN" = "The Resi Encoder could not be found in the download.";
-"RESI_UPDATE_MANAGER_INSTALL_ERROR" = "The Resi Encoder could not be installed.";
+"RESI_UPDATE_MANAGER_NO_UPDATE_URL_AVAILABLE" = "没有可用的更新。";
+"RESI_UPDATE_MANAGER_PRO_CORE_NOT_AVAILABLE" = "ProCore不可用。";
+"RESI_UPDATE_MANAGER_UPDATE_SERVER_NOT_AVAILABLE" = "Resi服务器不可用。";
+"RESI_UPDATE_MANAGER_COULD_NOT_UNZIP_PLUGIN_DOWNLOAD" = "已下载的Resi Encoder无法解压缩。";
+"RESI_UPDATE_MANAGER_COULD_NOT_FIND_UNZIPPED_PLUGIN" = "在下载队列中找不到Resi编码器。";
+"RESI_UPDATE_MANAGER_INSTALL_ERROR" = "无法安装Resi编码器。";
 
 /* Message and Informative texts for alerts shown */
-"RESI_UPDATE_MANAGER_PLUGIN_IS_UP_TO_DATE_message" = "The Resi Encoder is up to date.";
+"RESI_UPDATE_MANAGER_PLUGIN_IS_UP_TO_DATE_message" = "Resi编码器是最新的。";
 
 /* Title for the alert that shows available Resi updates */
-"RESI_UPDATE_MANAGER_SHOULD_UPDATE_NOW_message" = "Should the updated Resi Encoder be installed now?";
+"RESI_UPDATE_MANAGER_SHOULD_UPDATE_NOW_message" = "是否立即更新Resi编码器？";
 /* Information text about the new Resi update. %@ and %@ are the currently installed version and the new version, respectively. */
-"RESI_UPDATE_MANAGER_SHOULD_UPDATE_NOW_informative" = "Version %@ is currently installed and a newer %@ version is available.";
+"RESI_UPDATE_MANAGER_SHOULD_UPDATE_NOW_informative" = "已安装版本%@，更新的版本为%@。";
 
 /* Error message shown when the plugin could not be downloaded */
-"RESI_UPDATE_MANAGER_COULD_NOT_UPDATE_PLUGIN_message" = "The Resi Encoder could not be downloaded.";
+"RESI_UPDATE_MANAGER_COULD_NOT_UPDATE_PLUGIN_message" = "无法下载Resi编码器。";
 
 /* Alert text for when we're downloading the Resi plugin */
-"RESI_UPDATE_MANAGER_DOWNLOADING_PLUGIN_message" = "Downloading the Resi Encoder.";
+"RESI_UPDATE_MANAGER_DOWNLOADING_PLUGIN_message" = "正在下载Resi编码器。";
 /* Alert info for progress in downloading the plugin */
-"RESI_UPDATE_MANAGER_DOWNLOADING_PLUGIN_informative" = "%li of %li";
+"RESI_UPDATE_MANAGER_DOWNLOADING_PLUGIN_informative" = "%li / %li";
 
 /* Alert text for when we're installing the Resi plugin */
-"RESI_UPDATE_MANAGER_INSTALL_UPDATE_message" = "Installing the Resi Encoder.";
+"RESI_UPDATE_MANAGER_INSTALL_UPDATE_message" = "正在安装Resi编码器。";
 
 /* Alert text for when we're checking for plugin updates */
-"RESI_UPDATE_MANAGER_CHECK_UPDATE_message" = "Checking for a new Resi Encoder.";
+"RESI_UPDATE_MANAGER_CHECK_UPDATE_message" = "正在检查新版本的Resi编码器。";
 
 /* "The title when resi stream upload health is Health" */
-"RESI_STREAM_UPLOAD_HEALTH_HEALTHY_title" = "Healthy";
+"RESI_STREAM_UPLOAD_HEALTH_HEALTHY_title" = "健康";
 
 /* "The title when resi stream upload health is Warning" */
-"RESI_STREAM_UPLOAD_HEALTH_WARNING_title" = "Warning";
+"RESI_STREAM_UPLOAD_HEALTH_WARNING_title" = "警告";
 
 /* "The title when resi stream upload health is Error" */
-"RESI_STREAM_UPLOAD_HEALTH_ERROR_title" = "Error";
+"RESI_STREAM_UPLOAD_HEALTH_ERROR_title" = "错误";
 
 /* The title when resi stream upload health is Unknown */
-"RESI_STREAM_UPLOAD_HEALTH_UNKNOWN_title" = "Unknown";
+"RESI_STREAM_UPLOAD_HEALTH_UNKNOWN_title" = "未知";
 
 /* The label for Upload Health under live button when resi streaming */
-"RESI_UPLOAD_HEALTH_FORMAT_label" = "Upload Health: %@";
+"RESI_UPLOAD_HEALTH_FORMAT_label" = "上传状态: %@";
 
 /* The label for Upload Health under live button when resi streaming */
-"RESI_STREAM_STATUS_FORMAT_label" = "Stream Status: %@";
+"RESI_STREAM_STATUS_FORMAT_label" = "流状态: %@";
 
 /* "The title for resi stream status = Starting" */
-"RESI_STREAM_STATUS_STARTING_title" = "Starting";
+"RESI_STREAM_STATUS_STARTING_title" = "启动中";
 
 /* "The title for resi stream status = Start Check" */
-"RESI_STREAM_STATUS_START_CHECK_title" = "Start Check";
+"RESI_STREAM_STATUS_START_CHECK_title" = "启动检查";
 
 /* "The title for resi stream status = Started" */
-"RESI_STREAM_STATUS_STARTED_title" = "Started";
+"RESI_STREAM_STATUS_STARTED_title" = "已启动";
 
 /* "The title for resi stream status = Start Error" */
-"RESI_STREAM_STATUS_START_ERROR_title" = "Start Error";
+"RESI_STREAM_STATUS_START_ERROR_title" = "启动错误";
 
 /* "The title for resi stream status = Stopping" */
-"RESI_STREAM_STATUS_STOPPING_title" = "Stopping";
+"RESI_STREAM_STATUS_STOPPING_title" = "停止中";
 
 /* "The title for resi stream status = Stop Check" */
-"RESI_STREAM_STATUS_STOP_CHECK_title" = "Stop Check";
+"RESI_STREAM_STATUS_STOP_CHECK_title" = "停止检查";
 
 /* "The title for resi stream status = Stopped" */
-"RESI_STREAM_STATUS_STOPPED_title" = "Stopped";
+"RESI_STREAM_STATUS_STOPPED_title" = "已停止";
 
 /* "The title for resi stream status = Stop Error" */
-"RESI_STREAM_STATUS_STOP_ERROR_title" = "Stop Error";
+"RESI_STREAM_STATUS_STOP_ERROR_title" = "停止错误";
 
 /* The title for resi stream status = Unknown status */
-"RESI_STREAM_STATUS_UNKNOWN_ERROR_title" = "Unknown";
+"RESI_STREAM_STATUS_UNKNOWN_ERROR_title" = "未知";
 
 /* Resi error code descriptions */
-"RESI_STREAM_ERROR_FORMAT_label" = "Resi Error: %@";
-"RESI_STREAM_ERROR_CODE_NONE_title" = "No error";
-"RESI_STREAM_ERROR_CODE_CENTRAL_START_title" = "Central Start Error";
-"RESI_STREAM_ERROR_CODE_FOLDER_START_title" = "Folder Start Error";
-"RESI_STREAM_ERROR_CODE_UNKNOWN_START_title" = "Unknown Start Error";
-"RESI_STREAM_ERROR_CODE_CENTRAL_STOP_title" = "Central Stop Error";
-"RESI_STREAM_ERROR_CODE_FOLDER_STOP_title" = "Folder Stop Error";
-"RESI_STREAM_ERROR_CODE_UNKNOWN_STOP_title" = "Unknown Stop Error";
-"RESI_STREAM_ERROR_CODE_DESTINATION_GROUP_IN_USE_title" = "Destination Group in use";
-"RESI_STREAM_ERROR_CODE_DESTINATION_GROUP_IN_USE_message" = "The Destination Group selected is already in use in another stream. Select or create a new destination group to start a stream.";
-"RESI_STREAM_ERROR_CODE_NETWORK_OFFLINE_title" = "No network connection";
-"RESI_STREAM_ERROR_CODE_UNKNOWN_title" = "Unknown Error";
-"RESI_STREAM_ERROR_CODE_DESTINATION_GROUP_DELETED_title" = "Destination Group Removed";
-"RESI_STREAM_ERROR_CODE_DESTINATION_GROUP_DELETED_message" = "The selected destination group has been removed in Control. Select an available destination group to begin streaming.";
+"RESI_STREAM_ERROR_FORMAT_label" = "Resi错误：%@";
+"RESI_STREAM_ERROR_CODE_NONE_title" = "没有错误";
+"RESI_STREAM_ERROR_CODE_CENTRAL_START_title" = "内核启动错误";
+"RESI_STREAM_ERROR_CODE_FOLDER_START_title" = "文件夹启动错误";
+"RESI_STREAM_ERROR_CODE_UNKNOWN_START_title" = "未知的启动错误";
+"RESI_STREAM_ERROR_CODE_CENTRAL_STOP_title" = "内核停止错误";
+"RESI_STREAM_ERROR_CODE_FOLDER_STOP_title" = "文件夹停止错误";
+"RESI_STREAM_ERROR_CODE_UNKNOWN_STOP_title" = "未知的停止错误";
+"RESI_STREAM_ERROR_CODE_DESTINATION_GROUP_IN_USE_title" = "目标组使用中";
+"RESI_STREAM_ERROR_CODE_DESTINATION_GROUP_IN_USE_message" = "所选的目标组已在另一个流中使用。选择或创建新的目标组以启动流。";
+"RESI_STREAM_ERROR_CODE_NETWORK_OFFLINE_title" = "无网络连接";
+"RESI_STREAM_ERROR_CODE_UNKNOWN_title" = "未知错误";
+"RESI_STREAM_ERROR_CODE_DESTINATION_GROUP_DELETED_title" = "目标组已删除";
+"RESI_STREAM_ERROR_CODE_DESTINATION_GROUP_DELETED_message" = "所选目标组已删除。选择一个可用的目标组以开始流式传输。";
 /*
 ------------------------------------------------------------------------------
 NETWORK_PREFERENCES
@@ -5945,53 +5945,53 @@ NETWORK_PREFERENCES
 */
 
 /* Title for the network header */
-"NETWORK_PREFERENCES_HEADER_NETWORK_title" = "Network";
+"NETWORK_PREFERENCES_HEADER_NETWORK_title" = "网络";
 
 /* Title for the checkbox to enable/disable network functionality */
-"NETWORK_PREFERENCES_ENABLE_NETWORK_title" = "Enable Network";
+"NETWORK_PREFERENCES_ENABLE_NETWORK_title" = "启用网络";
 
 /* Title for the network name text field */
-"NETWORK_PREFERENCES_NETWORK_NAME_title" = "Network Name:";
+"NETWORK_PREFERENCES_NETWORK_NAME_title" = "网络名称：";
 
 /* Fall back Network name to use in Network settings Network Name field. */
 "NETWORK_PREFERENCES_NETWORK_FALLBACK_name" = "ProPresenter";
 
 /* Title for the port number text field */
-"NETWORK_PREFERENCES_PORT_title" = "Port:";
+"NETWORK_PREFERENCES_PORT_title" = "端口:";
 
 /* Placeholder string for the specified port number, shown when the user has not explicitly specified a port number */
-"NETWORK_PREFERENCES_PORT_placeholder" = "Auto";
+"NETWORK_PREFERENCES_PORT_placeholder" = "自动";
 
 /* A placeholder host name if the computer's name can't be determined by the OS. Used by Mac. */
-"NETWORK_PREFERENCES_DEFAULT_HOST_name" = "Host";
+"NETWORK_PREFERENCES_DEFAULT_HOST_name" = "主机";
 
 /* Title for the remote apps header */
-"NETWORK_PREFERENCES_HEADER_REMOTE_APPS_title" = "Remote Apps";
+"NETWORK_PREFERENCES_HEADER_REMOTE_APPS_title" = "远程应用";
 
 /* Title for the checkbox to enable/disable ProPresenter Remote */
-"NETWORK_PREFERENCES_ENABLE_PRO_REMOTE_title" = "Enable ProPresenter Remote";
+"NETWORK_PREFERENCES_ENABLE_PRO_REMOTE_title" = "启用ProPresenter远端";
 
 /* Title for the checkbox to enable/disable Controller mode for ProPresenter Remote */
-"NETWORK_PREFERENCES_CONTROLLER_title" = "Controller";
+"NETWORK_PREFERENCES_CONTROLLER_title" = "控制器";
 
 /* Title for the Controller password field for ProPresenter Remote */
-"NETWORK_PREFERENCES_CONTROLLER_PASSWORD_title" = "Password:";
+"NETWORK_PREFERENCES_CONTROLLER_PASSWORD_title" = "密码：";
 
 /* Title for the checkbox to enable/disable Observer mode for ProPresenter Remote */
-"NETWORK_PREFERENCES_OBSERVER_title" = "Observer";
+"NETWORK_PREFERENCES_OBSERVER_title" = "观察者";
 
 /* Title for the Controller password field for ProPresenter Remote */
-"NETWORK_PREFERENCES_OBSERVER_PASSWORD_title" = "Password:";
+"NETWORK_PREFERENCES_OBSERVER_PASSWORD_title" = "密码：";
 
 /* Title for the checkbox to enable/disable Stage App */
-"NETWORK_PREFERENCES_ENABLE_STAGE_APP_title" = "Enable Stage App";
+"NETWORK_PREFERENCES_ENABLE_STAGE_APP_title" = "启用舞台应用";
 
 /* Title for the Controller password field for Stage App */
-"NETWORK_PREFERENCES_STAGE_APP_PASSWORD_title" = "Password:";
+"NETWORK_PREFERENCES_STAGE_APP_PASSWORD_title" = "密码：";
 
 /* Alert shown when the user tries to enter duplicate passwords for the Controller and Observer modes for the mobile ProRemote app */
-"NETWORK_PREFERENCES_PROREMOTE_PASSWORD_CONFLICT_ALERT_message" = "Invalid ProRemote password";
-"NETWORK_PREFERENCES_PROREMOTE_PASSWORD_CONFLICT_ALERT_info" = "ProRemote controller and observer passwords cannot be identical";
+"NETWORK_PREFERENCES_PROREMOTE_PASSWORD_CONFLICT_ALERT_message" = "无效的ProRemote密码";
+"NETWORK_PREFERENCES_PROREMOTE_PASSWORD_CONFLICT_ALERT_info" = "ProRemote控制器密码和观察者密码不能相同";
 
 /*
  ------------------------------------------------------------------------------
@@ -6008,127 +6008,127 @@ NETWORK_PREFERENCES
  */
 
 /* The title for the button to connect a device */
-"DEVICES_PREFERENCES_CONNECT_title" = "Connect";
+"DEVICES_PREFERENCES_CONNECT_title" = "连接";
 
 /* The title for the button to disconnect a device */
-"DEVICES_PREFERENCES_DISCONNECT_title" = "Disconnect";
+"DEVICES_PREFERENCES_DISCONNECT_title" = "断开";
 
 /* The title for the button to open the settings for a device */
-"DEVICES_PREFERENCES_SETTINGS_title" = "Settings";
+"DEVICES_PREFERENCES_SETTINGS_title" = "设置";
 
 /* The label for a device's number of active inputs and outputs */
-"DEVICES_PREFERENCES_DEVICE_STATUS_label" = "In: %i/%i, Out: %i/%i";
+"DEVICES_PREFERENCES_DEVICE_STATUS_label" = "输入: %i/%i, 输出： %i/%i";
 
 /* The title for the button that opens the MIDI map window */
-"DEVICES_PREFERENCES_MIDI_MAP_BUTTON_title" = "MIDI Map";
+"DEVICES_PREFERENCES_MIDI_MAP_BUTTON_title" = "MIDI映射";
 
 /* The title for the button that opens the DMX max window */
-"DEVICES_PREFERENCES_DMX_MAP_BUTTON_title" = "DMX Map";
+"DEVICES_PREFERENCES_DMX_MAP_BUTTON_title" = "DMX映射";
 
 /* Tooltip for the button that adds a new communications device */
-"DEVICES_PREFERENCES_ADD_DEVICE_BUTTON_tooltip" = "Add Device";
+"DEVICES_PREFERENCES_ADD_DEVICE_BUTTON_tooltip" = "添加设备";
 
 /* The label for the popup button that holds the hardware type this device will use */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_HARDWARE_label" = "Hardware";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_HARDWARE_label" = "硬件";
 
 /* The label for the popup button that holds the device behavior */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_BEHAVIOR_label" = "Behavior";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_BEHAVIOR_label" = "行为";
 
 /* The label for the checkbox that causes ProPresenter to automatically reconnect to the device */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_AUTO_RECONNECT_label" = "Auto Reconnect";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_AUTO_RECONNECT_label" = "自动重连";
 
 /* The title for the popup button's menu item that serves as a placeholder when no hardware device is selected */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SELECT_HARDWARE_title" = "Select Device…";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SELECT_HARDWARE_title" = "选择设备…";
 
 /* The title for the popup button's menu item that indicates the hardware device is controlled by ProPresenter */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_BEHAVIOR_DEVICE_title" = "Device";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_BEHAVIOR_DEVICE_title" = "设备";
 
 /* The title for the popup button's menu item that indicates ProPresenter is controlled by the hardware device */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_BEHAVIOR_CONTROLLER_title" = "Controller";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_BEHAVIOR_CONTROLLER_title" = "控制器";
 
 /* The title for the hardware popup button's menu item that indicates a TCP network connection */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_HARDWARE_NETWORK_TCP_title" = "Network (TCP)";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_HARDWARE_NETWORK_TCP_title" = "网络(TCP)";
 
 /* The title for the hardware popup button's menu item that indicates a UDP network connection */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_HARDWARE_NETWORK_UDP_title" = "Network (UDP)";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_HARDWARE_NETWORK_UDP_title" = "网络(UDP)";
 
 /* The title for the hardware popup's button menu item that indicates a connection via Art-Net. Also used as a header for Art-Net preferences. */
 "DEVICES_PREFERENCES_DEVICE_SETTINGS_HARDWARE_ARTNET_title" = "Art-Net";
 
 /* The title for the hardware popup button's menu item that indicates a connection via Serial port */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_HARDWARE_NETWORK_SERIAL_title" = "Serial";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_HARDWARE_NETWORK_SERIAL_title" = "串口";
 
 /* Label for the type of action this device should perform */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_ACTION_label" = "Action";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_ACTION_label" = "动作";
 /* Menu item for the "Connect To" behavior, where ProPresenter is the "Controller" in the network connection */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_ACTION_CONNECT_TO_title" = "Connect To";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_ACTION_CONNECT_TO_title" = "连接到";
 /* Menu item for the "Accept On" behavior, where ProPresenter will listen for commands in the network connection */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_ACTION_ACCEPT_ON_title" = "Accept On";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_ACTION_ACCEPT_ON_title" = "接受请求";
 
 /* The label for the popup button that contains available network interfaces the device can connect on */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_CONNECT_VIA_label" = "Via";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_CONNECT_VIA_label" = "通过";
 
 /* The label for the "Connect Via" popup button that connects using any available network interface */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_CONNECT_VIA_ANY_title" = "Any";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_CONNECT_VIA_ANY_title" = "任何";
 
 /* The label for the text field that holds the device's network address */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_ADDRESS_label" = "Address";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_ADDRESS_label" = "地址";
 
 /* The label for the text field that holds the device's network port */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_PORT_label" = "Port";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_PORT_label" = "端口";
 
 /* The label for the Art-Net universe, which is essentially an integer address for an Art-Net device */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_ARTNET_UNIVERSE_label" = "Universe";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_ARTNET_UNIVERSE_label" = "数据包";
 
 /* The label for the Art-Net sub-net, which is an integer address within an Art-Net universe */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_ARTNET_SUBNET_label" = "Sub-Net";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_ARTNET_SUBNET_label" = "子网";
 
 /* The label for the Art-Net Net, which is an integer address within an Art-Net subnet */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_ARTNET_NET_label" = "Net";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_ARTNET_NET_label" = "网络";
 
 /* The label describing the use case of Art-Net Net, which is only available on Art-Net 3 */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_ARTNET_NET_VERSION_label" = "Art-Net 3 Only";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_ARTNET_NET_VERSION_label" = "仅Art-Net 3";
 
 /* The label for a list of MIDI devices sending commands to ProPresenter */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_MIDI_SOURCES_label" = "Sources";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_MIDI_SOURCES_label" = "来源";
 
 /* The label for a list of MIDI devices receiving commands from ProPresenter */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_MIDI_DESTINATIONS_label" = "Destinations";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_MIDI_DESTINATIONS_label" = "目标";
 
 /* The title for the hardware popup button's menu item that indicates a connection to a CoreMIDI Device */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_MIDI_HARDWARE_COREMIDI_DEVICE_title" = "CoreMIDI Device";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_MIDI_HARDWARE_COREMIDI_DEVICE_title" = "CoreMIDI设备";
 
 /* The default name for MIDI devices that don't provide a name */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_MIDI_UNKNOWN_DEVICE_title" = "Unknown Device";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_MIDI_UNKNOWN_DEVICE_title" = "未知设备";
 
 /* Label for the serial connection to be used by this communications device */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_INTERFACE_label" = "Interface";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_INTERFACE_label" = "接口";
 /* Label for the data speed for this communications device */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_SPEED_label" = "Speed";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_SPEED_label" = "速度";
 /* Label for the number of bits expected */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_DATA_BITS_label" = "Data Bits";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_DATA_BITS_label" = "数据位";
 /* Label for the popup button to choose how data parity is handled */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_PARITY_label" = "Parity";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_PARITY_label" = "校验位";
 /* Menu item for no data parity */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_PARITY_NONE_title" = "None";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_PARITY_NONE_title" = "无";
 /* Menu item for an even parity method */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_PARITY_EVEN_title" = "Even";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_PARITY_EVEN_title" = "偶校验";
 /* Menu item for an odd parity method */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_PARITY_ODD_title" = "Odd";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_PARITY_ODD_title" = "奇校验";
 /* Label for the control to configure the bits transmitted at the end of a data frame */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_STOP_BITS_label" = "Stop Bits";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_STOP_BITS_label" = "停止位";
 /* Label for the input/output modes below */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_HARDWARE_FLOW_CONTROL_label" = "Hardware Flow Control";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_HARDWARE_FLOW_CONTROL_label" = "硬件流控制";
 /* Label for the popup button which selects how input is handled */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_INPUT_label" = "Input";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_INPUT_label" = "输入";
 /* Menu item for the option to not handle input */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_INPUT_NONE_title" = "None";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_INPUT_NONE_title" = "无";
 /* Menu item to handle input with RTS protocol */
 "DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_INPUT_RTS_title" = "RTS";
 /* Menu item to handle input with DTR protocol */
 "DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_INPUT_DTR_title" = "DTR";
 /* Label for the popup button which selects how output is handled */
-"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_OUTPUT_label" = "Output";
+"DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_OUTPUT_label" = "输出";
 /* Menu item for the option to not handle output */
 "DEVICES_PREFERENCES_DEVICE_SETTINGS_SERIAL_OUTPUT_NONE_title" = "None";
 /* Menu item to handle output with CTS protocol */
@@ -6143,108 +6143,108 @@ NETWORK_PREFERENCES
  */
 
 /* The title for the window containing all the MIDI map controls */
-"DEVICES_PREFERENCES_MIDI_MAP_WINDOW_title" = "MIDI Map";
+"DEVICES_PREFERENCES_MIDI_MAP_WINDOW_title" = "MIDI映射";
 
 /* The title for the button that automatically sets MIDI values for each action ProPresenter can handle */
-"DEVICES_PREFERENCES_MIDI_MAP_AUTO_FILL_title" = "Auto Fill";
+"DEVICES_PREFERENCES_MIDI_MAP_AUTO_FILL_title" = "自动填充";
 
 /* The description for the button that automatically sets MIDI values for each action. The user provides a starting value (number) and clicks the button to automatically set values for all actions. */
-"DEVICES_PREFERENCES_MIDI_MAP_AUTO_FILL_label" = "Enter starting note number for auto-populating fields.";
+"DEVICES_PREFERENCES_MIDI_MAP_AUTO_FILL_label" = "自动填充编号字段。";
 
 /* The title for the button that automatically sets MIDI values for each action based on the first value provided for each section. */
-"DEVICES_PREFERENCES_MIDI_MAP_AUTO_FILL_FIRST_VALUE_title" = "Auto Fill using the first value in each form";
+"DEVICES_PREFERENCES_MIDI_MAP_AUTO_FILL_FIRST_VALUE_title" = "使用每个表格中的第一个值自动填充";
 
 /* The header label for a section of commands which clear various things from the output */
-"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_COMMANDS_HEADER_label" = "Clear Commands";
+"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_COMMANDS_HEADER_label" = "清除命令";
 /* The label for the text field which holds the MIDI note to Clear All */
-"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_ALL_label" = "All:";
+"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_ALL_label" = "全部：";
 /* The label for the text field which holds the MIDI note to Clear Slide */
-"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_SLIDE_label" = "Slide:";
+"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_SLIDE_label" = "幻灯片：";
 /* The label for the text field which holds the MIDI note to Clear Background */
-"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_BACKGROUND_label" = "Background:";
+"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_BACKGROUND_label" = "背景:";
 /* The label for the text field which holds the MIDI note to Clear Props */
-"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_PROPS_label" = "Props:";
+"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_PROPS_label" = "道具：";
 /* The label for the text field which holds the MIDI note to Clear Messages */
-"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_MESSAGES_label" = "Messages:";
+"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_MESSAGES_label" = "消息：";
 /* The label for the text field which holds the MIDI note to Clear Audio */
-"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_AUDIO_label" = "Audio:";
+"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_AUDIO_label" = "音频：";
 /* The label for the text field which holds the MIDI note to Clear to Logo */
-"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_TO_LOGO_label" = "Bail to Logo:";
+"DEVICES_PREFERENCES_MIDI_MAP_CLEAR_TO_LOGO_label" = "清除到徽标：";
 
 /* The header label for a section of commands which control video playback */
-"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_HEADER_label" = "Video Controls";
+"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_HEADER_label" = "视频控制";
 /* The label for the text field which holds the MIDI note to go to the beginning of the currently playing video */
-"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_GO_TO_BEGINNING_label" = "Go to Beginning:";
+"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_GO_TO_BEGINNING_label" = "转到开头：";
 /* The label for the text field which holds the MIDI note to toggle play/pause for the currently playing video */
-"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_PLAY_PAUSE_label" = "Play/Pause:";
+"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_PLAY_PAUSE_label" = "播放/暂停：";
 /* The label for the text field which holds the MIDI note to play the current video */
-"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_PLAY_label" = "Play:";
+"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_PLAY_label" = "播放：";
 /* The label for the text field which holds the MIDI note to pause the current video */
-"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_PAUSE_label" = "Pause:";
+"DEVICES_PREFERENCES_MIDI_MAP_VIDEO_CONTROLS_PAUSE_label" = "暂停：";
 
 /* The header label for a section of commands which control the current presentation */
-"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_HEADER_label" = "Presentation Actions";
+"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_HEADER_label" = "演示动作";
 /* The label for the text field which holds the MIDI note to go to the next playlist item */
-"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_NEXT_PLAYLIST_ITEM_label" = "Next Playlist Item:";
+"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_NEXT_PLAYLIST_ITEM_label" = "下一个播放列表项：";
 /* The label for the text field which holds the MIDI note to go to the previous playlist item */
-"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_PREVIOUS_PLAYLIST_ITEM_label" = "Prev Playlist Item:";
+"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_PREVIOUS_PLAYLIST_ITEM_label" = "上一个播放列表项：";
 /* The label for the text field which holds the MIDI note to go to the next slide */
-"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_NEXT_SLIDE_label" = "Next Slide:";
+"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_NEXT_SLIDE_label" = "下一张幻灯片：";
 /* The label for the text field which holds the MIDI note to go to the previous slide */
-"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_PREVIOUS_SLIDE_label" = "Previous Slide:";
+"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_PREVIOUS_SLIDE_label" = "上一张幻灯片：";
 /* The label for the text field which holds the MIDI note to start the presentation's timeline */
-"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_START_TIMELINE_label" = "Start Timeline:";
+"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_START_TIMELINE_label" = "开始时间线：";
 /* The label for the text field which holds the MIDI note to stop the presentation's timeline */
-"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_STOP_TIMELINE_label" = "Stop Timeline:";
+"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_STOP_TIMELINE_label" = "停止时间线：";
 /* The label for the text field which holds the MIDI note to rewind the presentation's timeline */
-"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_REWIND_TIMELINE_label" = "Rewind Timeline:";
+"DEVICES_PREFERENCES_MIDI_MAP_PRESENTATION_ACTIONS_REWIND_TIMELINE_label" = "重放时间表：";
 
 /* The header label for a section of commands which control the currently selected item in the UI */
-"DEVICES_PREFERENCES_MIDI_MAP_SELECT_BY_INDEX_HEADER_label" = "Select by Index";
+"DEVICES_PREFERENCES_MIDI_MAP_SELECT_BY_INDEX_HEADER_label" = "按索引选择";
 /* The label for the text field which holds the MIDI note to select a library playlist */
-"DEVICES_PREFERENCES_MIDI_MAP_SELECT_PLAYLIST_label" = "Select Playlist:";
+"DEVICES_PREFERENCES_MIDI_MAP_SELECT_PLAYLIST_label" = "选择播放列表：";
 /* The label for the text field which holds the MIDI note to select an item within the library playlist */
-"DEVICES_PREFERENCES_MIDI_MAP_SELECT_PLAYLIST_ITEM_label" = "Select Playlist Item:";
+"DEVICES_PREFERENCES_MIDI_MAP_SELECT_PLAYLIST_ITEM_label" = "选择播放列表项：";
 /* The label for the text field which holds the MIDI note to trigger a slide within the currently selected presentation */
-"DEVICES_PREFERENCES_MIDI_MAP_TRIGGER_SLIDE_label" = "Trigger Slide:";
+"DEVICES_PREFERENCES_MIDI_MAP_TRIGGER_SLIDE_label" = "触发幻灯片：";
 /* The label for the text field which holds the MIDI note to select a media bin playlist */
-"DEVICES_PREFERENCES_MIDI_MAP_SELECT_MEDIA_PLAYLIST_label" = "Select Media Playlist:";
+"DEVICES_PREFERENCES_MIDI_MAP_SELECT_MEDIA_PLAYLIST_label" = "选择媒体播放列表：";
 /* The label for the text field which holds the MIDI note to trigger a media item within the currently selected media bin playlist */
-"DEVICES_PREFERENCES_MIDI_MAP_TRIGGER_MEDIA_label" = "Trigger Media:";
+"DEVICES_PREFERENCES_MIDI_MAP_TRIGGER_MEDIA_label" = "触发媒体：";
 /* The label for the text field which holds the MIDI note to select an audio bin playlist */
-"DEVICES_PREFERENCES_MIDI_MAP_SELECT_AUDIO_PLAYLIST_label" = "Select Audio Playlist:";
+"DEVICES_PREFERENCES_MIDI_MAP_SELECT_AUDIO_PLAYLIST_label" = "选择音频播放列表：";
 /* The label for the text field which holds the MIDI note to trigger an audio file within the currently selected audio bin playlist */
-"DEVICES_PREFERENCES_MIDI_MAP_TRIGGER_AUDIO_label" = "Trigger Audio:";
+"DEVICES_PREFERENCES_MIDI_MAP_TRIGGER_AUDIO_label" = "触发音频：";
 /* The label for the text field which holds the MIDI note to trigger or clear a prop */
-"DEVICES_PREFERENCES_MIDI_MAP_TOGGLE_PROP_label" = "Toggle Prop On/Off:";
+"DEVICES_PREFERENCES_MIDI_MAP_TOGGLE_PROP_label" = "切换道具开/关：";
 /* The label for the text field which holds the MIDI note to start a timer */
-"DEVICES_PREFERENCES_MIDI_MAP_START_TIMER_label" = "Start Timer:";
+"DEVICES_PREFERENCES_MIDI_MAP_START_TIMER_label" = "启动计时器：";
 /* The label for the text field which holds the MIDI note to stop a timer */
-"DEVICES_PREFERENCES_MIDI_MAP_STOP_TIMER_label" = "Stop Timer:";
+"DEVICES_PREFERENCES_MIDI_MAP_STOP_TIMER_label" = "停止计时器：";
 /* The label for the text field which holds the MIDI note to reset a timer */
-"DEVICES_PREFERENCES_MIDI_MAP_RESET_TIMER_label" = "Reset Timer:";
+"DEVICES_PREFERENCES_MIDI_MAP_RESET_TIMER_label" = "重置计时器：";
 /* A description about how MIDI notes are processed by ProPresenter - in actions under thee "SELECT_BY_INDEX" header, the note's intensity determines the index of the item to select. */
-"DEVICES_PREFERENCES_MIDI_MAP_NOTE_INTENSITY_DESCRIPTION_label" = "The MIDI note's intensity will determine the index of the item you wish to invoke. This value is a range of 1-127.";
+"DEVICES_PREFERENCES_MIDI_MAP_NOTE_INTENSITY_DESCRIPTION_label" = "MIDI音符的强度将影响项目的调用顺序。该值的范围是1-127。";
 
 /* A label describing the last received MIDI note */
-"DEVICES_PREFERENCES_MIDI_MAP_LAST_NOTE_label" = "Last Note: %i, Intensity: %i";
+"DEVICES_PREFERENCES_MIDI_MAP_LAST_NOTE_label" = "音值：%i，强度：%i";
 
 /* Alert message text for when a user enters an invalid MIDI autofill note number */
-"DEVICES_PREFERENCES_MIDI_MAP_INVALID_AUTOFILL_VALUE_ALERT_message" = "The value you entered is not valid";
+"DEVICES_PREFERENCES_MIDI_MAP_INVALID_AUTOFILL_VALUE_ALERT_message" = "您输入的值无效";
 /* Alert details for when a user enters an invalid MIDI autofill note number */
-"DEVICES_PREFERENCES_MIDI_MAP_INVALID_AUTOFILL_VALUE_ALERT_info" = "This autofill value is too high. The starting note value for autofill can range from 0 to 99.";
+"DEVICES_PREFERENCES_MIDI_MAP_INVALID_AUTOFILL_VALUE_ALERT_info" = "此自动填充值太高。自动填充的起始音符值范围为0到99。";
 
 /* Alert message text for when a user enters an invalid MIDI note number */
-"DEVICES_PREFERENCES_MIDI_MAP_INVALID_NOTE_VALUE_message" = "The value you entered is not valid";
+"DEVICES_PREFERENCES_MIDI_MAP_INVALID_NOTE_VALUE_message" = "您输入的音值无效";
 /* Alert details for when a user enters an invalid MIDI note number */
-"DEVICES_PREFERENCES_MIDI_MAP_INVALID_NOTE_VALUE_info" = "Valid MIDI note values range from 0 to 127";
+"DEVICES_PREFERENCES_MIDI_MAP_INVALID_NOTE_VALUE_info" = "有效的MIDI音值范围从0到127";
 
 /*
  DMX_MAP subsection
  */
 
 /* A label for a text field with the starting address for DMX commands, customizable by the user */
-"DEVICES_PREFERENCES_DMX_MAP_BASE_ADDRESS_label" = "Base Address:";
+"DEVICES_PREFERENCES_DMX_MAP_BASE_ADDRESS_label" = "基址：";
 
 /* DMX action name and description to select a playlist in the library */
 "DEVICES_PREFERENCES_DMX_MAP_SELECT_LIBRARY_PLAYLIST_title" = "Select Library Playlist";
