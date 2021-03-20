@@ -1465,7 +1465,7 @@ UNDO
 /* Undo title for when the user replaces multiple elements within an arrangement */
 "UNDO_UUID_ARRANGEMENT_ELEMENT_REPLACE_plural" = "Replace Elements";
 
-/* Undo title for when the user sets the color of a cue group */
+/* Undo title for when the user sets the color of a  group */
 "UNDO_GROUP_SET_COLOR" = "Set Group Color";
 /* Undo title for when the user sets the hotkey for a cue group. This hotkey triggers the first cue within the group. */
 "UNDO_GROUP_SET_HOTKEY" = "Set Group Hot Key";
@@ -6247,136 +6247,136 @@ NETWORK_PREFERENCES
 "DEVICES_PREFERENCES_DMX_MAP_BASE_ADDRESS_label" = "基址：";
 
 /* DMX action name and description to select a playlist in the library */
-"DEVICES_PREFERENCES_DMX_MAP_SELECT_LIBRARY_PLAYLIST_title" = "Select Library Playlist";
-"DEVICES_PREFERENCES_DMX_MAP_SELECT_LIBRARY_PLAYLIST_description" = "Select a library playlist at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_SELECT_LIBRARY_PLAYLIST_title" = "选择库中的播放列表";
+"DEVICES_PREFERENCES_DMX_MAP_SELECT_LIBRARY_PLAYLIST_description" = "选择一个索引在1-255范围内的播放列表";
 
 /* DMX action name and description to select an item within the current playlist */
-"DEVICES_PREFERENCES_DMX_MAP_SELECT_LIBRARY_PLAYLIST_ITEM_title" = "Select Library Playlist Item";
-"DEVICES_PREFERENCES_DMX_MAP_SELECT_LIBRARY_PLAYLIST_ITEM_description" = "Select library playlist item at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_SELECT_LIBRARY_PLAYLIST_ITEM_title" = "选择播放列表项";
+"DEVICES_PREFERENCES_DMX_MAP_SELECT_LIBRARY_PLAYLIST_ITEM_description" = "选择一个索引在1-255范围内的播放列表项";
 
 /* DMX action name and description to select a playlist in the media bin */
-"DEVICES_PREFERENCES_DMX_MAP_SELECT_VIDEO_PLAYLIST_title" = "Select Media Playlist";
-"DEVICES_PREFERENCES_DMX_MAP_SELECT_VIDEO_PLAYLIST_description" = "Select media playlist at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_SELECT_VIDEO_PLAYLIST_title" = "选择媒体播放列表";
+"DEVICES_PREFERENCES_DMX_MAP_SELECT_VIDEO_PLAYLIST_description" = "选择索引在1-255范围内的媒体播放列表";
 
 /* DMX action name and description to select a playlist in the audio bin */
-"DEVICES_PREFERENCES_DMX_MAP_SELECT_AUDIO_PLAYLIST_title" = "Select Audio Playlist";
-"DEVICES_PREFERENCES_DMX_MAP_SELECT_AUDIO_PLAYLIST_description" = "Select audio playlist at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_SELECT_AUDIO_PLAYLIST_title" = "选择音频播放列表";
+"DEVICES_PREFERENCES_DMX_MAP_SELECT_AUDIO_PLAYLIST_description" = "选择索引在1-255范围内的音频播放列表";
 
 /* DMX action name and description to trigger a cue in the selected library playlist item */
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_CUE_title" = "Trigger Cue";
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_CUE_description" = "Trigger cue at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_CUE_title" = "触发提示";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_CUE_description" = "索引在1-255范围内的触发提示";
 
 /* DMX action name and description to trigger a media cue in the selected media bin playlist */
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_MEDIA_CUE_title" = "Trigger Media Cue";
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_MEDIA_CUE_description" = "Trigger media cue at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_MEDIA_CUE_title" = "触发媒体提示";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_MEDIA_CUE_description" = "索引在1-255范围内的触发媒体提示";
 
 /* DMX action name and description to trigger an audio cue in the selected audio bin playlist */
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_AUDIO_CUE_title" = "Trigger Audio Cue";
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_AUDIO_CUE_description" = "Trigger audio cue at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_AUDIO_CUE_title" = "触发音频提示";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_AUDIO_CUE_description" = "索引在1-255范围内的触发音频提示";
 
 /* DMX action name and description to select the currently selected transition */
-"DEVICES_PREFERENCES_DMX_MAP_SET_TRANSITION_title" = "Set Transition";
-"DEVICES_PREFERENCES_DMX_MAP_SET_TRANSITION_description" = "Set transition at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_SET_TRANSITION_title" = "设置过渡";
+"DEVICES_PREFERENCES_DMX_MAP_SET_TRANSITION_description" = "设置索引在1-255范围内的过渡";
 
 /* DMX action name and description to set the duration on the currently selected transition */
-"DEVICES_PREFERENCES_DMX_MAP_SET_TRANSITION_DURATION_title" = "Set Transition Duration";
-"DEVICES_PREFERENCES_DMX_MAP_SET_TRANSITION_DURATION_description" = "Set transition duration values 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_SET_TRANSITION_DURATION_title" = "设置过渡持续时间";
+"DEVICES_PREFERENCES_DMX_MAP_SET_TRANSITION_DURATION_description" = "设置持续时间在1-255范围内的过渡";
 
 /* DMX action name and description to start a timer at the given index */
-"DEVICES_PREFERENCES_DMX_MAP_START_TIMER_title" = "Start A Timer";
-"DEVICES_PREFERENCES_DMX_MAP_START_TIMER_description" = "Start a timer at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_START_TIMER_title" = "开始计时器";
+"DEVICES_PREFERENCES_DMX_MAP_START_TIMER_description" = "在索引在1-255范围内的开始计时器";
 
 /* DMX action name and description to stop a timer at the given index */
-"DEVICES_PREFERENCES_DMX_MAP_STOP_TIMER_title" = "Stop A Timer";
-"DEVICES_PREFERENCES_DMX_MAP_STOP_TIMER_description" = "Stop a timer at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_STOP_TIMER_title" = "停止计时器";
+"DEVICES_PREFERENCES_DMX_MAP_STOP_TIMER_description" = "停止索引在1-255范围内的计时器";
 
 /* DMX action name and description to reset a timer at the given index */
-"DEVICES_PREFERENCES_DMX_MAP_RESET_TIMER_title" = "Reset A Timer";
-"DEVICES_PREFERENCES_DMX_MAP_RESET_TIMER_description" = "Reset a timer at index 1-255";
+"DEVICES_PREFERENCES_DMX_MAP_RESET_TIMER_title" = "重置计时器";
+"DEVICES_PREFERENCES_DMX_MAP_RESET_TIMER_description" = "重置索引在1-255范围内的的计时器";
 
 /* DMX action name and description for actions that can be performed based on the value sent to this channel */
-"DEVICES_PREFERENCES_DMX_MAP_CONTROL_CHANNEL_title" = "Control Channel";
-"DEVICES_PREFERENCES_DMX_MAP_CONTROL_CHANNEL_description" = "Multiple functions based on the value range";
+"DEVICES_PREFERENCES_DMX_MAP_CONTROL_CHANNEL_title" = "控制信道";
+"DEVICES_PREFERENCES_DMX_MAP_CONTROL_CHANNEL_description" = "基于值范围的多个功能";
 
 /* DMX action name and description to clear content from all layers */
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_ALL_title" = "Clear All";
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_ALL_description" = "Clears all layers";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_ALL_title" = "清除所有";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_ALL_description" = "清除所有层";
 
 /* DMX action name and description to clear the currently triggered slide */
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_SLIDE_title" = "Clear Slide";
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_SLIDE_description" = "Clears the slide layer";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_SLIDE_title" = "清除幻灯片";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_SLIDE_description" = "清除幻灯片层";
 
 /* DMX action name and description to clear the currently triggered media */
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_BACKGROUND_title" = "Clear Media";
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_BACKGROUND_description" = "Clear the background layer";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_BACKGROUND_title" = "清除媒体";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_BACKGROUND_description" = "清除背景层";
 
 /* DMX action name and description to clear currently triggered messages */
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_MESSAGES_title" = "Clear Messages";
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_MESSAGES_description" = "Clear the messages layer";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_MESSAGES_title" = "清除消息";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_MESSAGES_description" = "清除消息层";
 
 /* DMX action name and description to clear currently triggered props */
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_PROPS_title" = "Clear Props";
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_PROPS_description" = "Clear the props layer";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_PROPS_title" = "清除道具";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_PROPS_description" = "清除道具层";
 
 /* DMX action name and description to clear the currently triggered audio track */
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_AUDIO_title" = "Clear Audio";
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_AUDIO_description" = "Clears the audio layer";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_AUDIO_title" = "清除音频";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_AUDIO_description" = "清除音频层";
 
 /* DMX action name and description to clear all content and display the logo */
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_LOGO_title" = "Clear Logo";
-"DEVICES_PREFERENCES_DMX_MAP_CLEAR_LOGO_description" = "Clears the background layer";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_LOGO_title" = "清除，只显示徽标";
+"DEVICES_PREFERENCES_DMX_MAP_CLEAR_LOGO_description" = "清除背景层";
 
 /* DMX action name and description to move the currently triggered media to the beginning */
-"DEVICES_PREFERENCES_DMX_MAP_GO_TO_BEGINNING_title" = "Transport Go To Beginning";
-"DEVICES_PREFERENCES_DMX_MAP_GO_TO_BEGINNING_description" = "Jumps video controls to the start";
+"DEVICES_PREFERENCES_DMX_MAP_GO_TO_BEGINNING_title" = "跳转到开始";
+"DEVICES_PREFERENCES_DMX_MAP_GO_TO_BEGINNING_description" = "跳转到视频开始";
 
 /* DMX action name and description to play the currently triggered media */
-"DEVICES_PREFERENCES_DMX_MAP_PLAY_title" = "Transport Play";
-"DEVICES_PREFERENCES_DMX_MAP_PLAY_description" = "Starts playing paused video";
+"DEVICES_PREFERENCES_DMX_MAP_PLAY_title" = "播放";
+"DEVICES_PREFERENCES_DMX_MAP_PLAY_description" = "播放已暂停的视频";
 
 /* DMX action name and description to pause the currently triggered media */
-"DEVICES_PREFERENCES_DMX_MAP_PAUSE_title" = "Transport Pause";
-"DEVICES_PREFERENCES_DMX_MAP_PAUSE_description" = "Pauses playing video";
+"DEVICES_PREFERENCES_DMX_MAP_PAUSE_title" = "暂停";
+"DEVICES_PREFERENCES_DMX_MAP_PAUSE_description" = "暂停播放视频";
 
 /* DMX action name and description to toggle the play/pause state on the currently triggered media */
-"DEVICES_PREFERENCES_DMX_MAP_TOGGLE_PLAY_PAUSE_title" = "Transport Toggle Play/Pause";
-"DEVICES_PREFERENCES_DMX_MAP_TOGGLE_PLAY_PAUSE_description" = "Toggles play state of video";
+"DEVICES_PREFERENCES_DMX_MAP_TOGGLE_PLAY_PAUSE_title" = "切换播放/暂停";
+"DEVICES_PREFERENCES_DMX_MAP_TOGGLE_PLAY_PAUSE_description" = "切换视频播放状态";
 
 /* DMX action name and description to trigger the previous cue in the presentation */
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_PREVIOUS_CUE_title" = "Trigger Previous Cue";
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_PREVIOUS_CUE_description" = "Trigger previous cue on active presentation";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_PREVIOUS_CUE_title" = "触发前一个提示";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_PREVIOUS_CUE_description" = "在演示时触发上一个提示";
 
 /* DMX action name and description to trigger the next cue in the presentation */
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_NEXT_CUE_title" = "Trigger Next Cue";
-"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_NEXT_CUE_description" = "Trigger next cue on active presentation";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_NEXT_CUE_title" = "触发下一个暗示";
+"DEVICES_PREFERENCES_DMX_MAP_TRIGGER_NEXT_CUE_description" = "在演示时触发下一个提示";
 
 /* DMX action name and description to start the timeline in the current presentation */
-"DEVICES_PREFERENCES_DMX_MAP_START_TIMELINE_title" = "Start Presentation Timeline";
-"DEVICES_PREFERENCES_DMX_MAP_START_TIMELINE_description" = "Start presentation timeline on active presentation";
+"DEVICES_PREFERENCES_DMX_MAP_START_TIMELINE_title" = "开始演示时间表";
+"DEVICES_PREFERENCES_DMX_MAP_START_TIMELINE_description" = "在演示时开始演示时间表";
 
 /* DMX action name and description to stop the timeline in the current presentation */
-"DEVICES_PREFERENCES_DMX_MAP_STOP_TIMELINE_title" = "Stop Presentation Timeline";
-"DEVICES_PREFERENCES_DMX_MAP_STOP_TIMELINE_description" = "Stop presentation timeline on active presentation";
+"DEVICES_PREFERENCES_DMX_MAP_STOP_TIMELINE_title" = "停止演示时间表";
+"DEVICES_PREFERENCES_DMX_MAP_STOP_TIMELINE_description" = "在演示时停止演示时间表";
 
 /* DMX action name and description to go to the beginning of the timeline in the current presentation */
-"DEVICES_PREFERENCES_DMX_MAP_GO_TO_BEGINNING_TIMELINE_title" = "Presentation Timeline Go To Beginning";
-"DEVICES_PREFERENCES_DMX_MAP_GO_TO_BEGINNING_TIMELINE_description" = "Presentation timeline go to beginning on active presentation";
+"DEVICES_PREFERENCES_DMX_MAP_GO_TO_BEGINNING_TIMELINE_title" = "转到演示时间表开始位置";
+"DEVICES_PREFERENCES_DMX_MAP_GO_TO_BEGINNING_TIMELINE_description" = "演示时，转到演示时间表开始位置";
 
 /*
  GLOBAL_CACHE subsection
  */
-"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT" = "Output";
-"DEVICES_PREFERENCES_GLOBAL_CACHE_INTERVAL" = "Interval";
-"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_ON" = "Turn Output On";
-"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_ON_DESCRIPTION" = "Turns the specified Output On.";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT" = "输出";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_INTERVAL" = "间隔";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_ON" = "打开输出";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_ON_DESCRIPTION" = "打开指定的输出。";
 
-"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_OFF" = "Turn Output Off";
-"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_OFF_DESCRIPTION" = "Turns the specified Output Off.";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_OFF" = "关闭输出";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_OFF_DESCRIPTION" = "关闭指定的输出。";
 
-"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_ON_WITH_TIME" = "On and then Off with Interval";
-"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_ON_WITH_TIME_DESCRIPTION" = "Turns the specified Output on for a period of time.";
-"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_OFF_WITH_TIME" = "Off and then On with Interval";
-"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_OFF_WITH_TIME_DESCRIPTION" = "Turns the specified Output off for a period of time.";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_ON_WITH_TIME" = "打开，在间隔后关闭";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_ON_WITH_TIME_DESCRIPTION" = "打开指定的输出一段时间。";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_OFF_WITH_TIME" = "关闭，在间隔后打开";
+"DEVICES_PREFERENCES_GLOBAL_CACHE_OUTPUT_OFF_WITH_TIME_DESCRIPTION" = "在一段时间内关闭指定的输出。";
 
 
 /*
@@ -6387,29 +6387,29 @@ NETWORK_PREFERENCES
 
 /* Information about DMX devices and their use case with ProPresenter */
 "COMMUNICATION_DEVICE_DMX_title" = "DMX";
-"COMMUNICATION_DEVICE_DMX_description" = "DMX allows ProPresenter to be controlled from a lighting console via network based Art-Net.";
+"COMMUNICATION_DEVICE_DMX_description" = "DMX允许通过基于Art-Net从照明控制台控制ProPresEnter。";
 
 /* Information about MIDI devices and their use case with ProPresenter */
 "COMMUNICATION_DEVICE_MIDI_title" = "MIDI";
-"COMMUNICATION_DEVICE_MIDI_description" = "Allows receiving of MIDI commands via a CoreMIDI interface.";
+"COMMUNICATION_DEVICE_MIDI_description" = "允许通过Coremidi接口接收MIDI命令。";
 
 /* The MIDI command description to send a note "On" command to a MIDI device */
-"COMMUNICATION_DEVICE_MIDI_ACTION_NOTE_ON_description" = "Sends a MIDI Note On for the given note at the given intensity";
+"COMMUNICATION_DEVICE_MIDI_ACTION_NOTE_ON_description" = "用指定强度向MIDI发送打开命令";
 
 /* The MIDI command description to send a note "Off" command to a MIDI device */
-"COMMUNICATION_DEVICE_MIDI_ACTION_NOTE_OFF_description" = "Sends a MIDI Note Off for the given note";
+"COMMUNICATION_DEVICE_MIDI_ACTION_NOTE_OFF_description" = "向MIDI发送关闭命令";
 
 /* Information about AMP devices and their use case with ProPresenter */
 "COMMUNICATION_DEVICE_AMP_title" = "AMP";
-"COMMUNICATION_DEVICE_AMP_description" = "AMP allows media playback to be controlled using the AMP protocol, typically from a video switcher.";
+"COMMUNICATION_DEVICE_AMP_description" = "AMP允许使用AMP协议来控制媒体播放，通常来自视频切换器。";
 
 /* Information about CITP devices and their use case with ProPresenter */
 "COMMUNICATION_DEVICE_CITP_title" = "CITP";
-"COMMUNICATION_DEVICE_CITP_description" = "CITP support for transferring thumbnails to a lighting console.";
+"COMMUNICATION_DEVICE_CITP_description" = "CITP支持将缩略图转移到照明控制台。";
 
 /* Information about GlobalCache devices and their use case with ProPresenter */
 "COMMUNICATION_DEVICE_GLOBAL_CACHE_title" = "GlobalCache";
-"COMMUNICATION_DEVICE_GLOBAL_CACHE_description" = "Control GlobalCache iTach devices over the network.";
+"COMMUNICATION_DEVICE_GLOBAL_CACHE_description" = "通过网络控制GlobalCache ITACH设备。";
 
 /* Title for GVG100 device protocol */
 "COMMUNICATION_DEVICE_GVG100_title" = "GVG100";
@@ -6419,15 +6419,15 @@ NETWORK_PREFERENCES
 
 /* Information about Sony BVS devices and their use case with ProPresenter */
 "COMMUNICATION_DEVICE_SONY_BVS_title" = "Sony BVS";
-"COMMUNICATION_DEVICE_SONY_BVS_description" = "Control a video switcher using the Sony BVS protocol.";
+"COMMUNICATION_DEVICE_SONY_BVS_description" = "使用SONY BVS协议控制视频切换器。";
 
 /* Information about Sony BVW devices and their use case with ProPresenter */
 "COMMUNICATION_DEVICE_SONY_BVW_title" = "Sony BVW";
-"COMMUNICATION_DEVICE_SONY_BVW_description" = "BVW allows media playback to be controlled using the BVW protocol, typically from a video switcher.";
+"COMMUNICATION_DEVICE_SONY_BVW_description" = "BVW允许使用BVW协议来控制媒体播放，通常来自视频切换器。";
 
 /* Information about VDCP devices and their use case with ProPresenter */
 "COMMUNICATION_DEVICE_VDCP_title" = "VDCP";
-"COMMUNICATION_DEVICE_VDCP_description" = "VDCP allows media playback to be controlled using the VDCP protocol, typically from a video switcher.";
+"COMMUNICATION_DEVICE_VDCP_description" = "VDCP允许使用VDCP协议来控制媒体播放，通常来自视频切换器。";
 
 
 /*
@@ -6441,81 +6441,81 @@ SERVICE_PREFERENCES
 */
 
 /* Title for the Planning Center Online header */
-"SERVICE_PREFERENCES_HEADER_PLANNING_CENTER_ONLINE_title" = "Planning Center Online";
+"SERVICE_PREFERENCES_HEADER_PLANNING_CENTER_ONLINE_title" = "在线规划中心";
 
 /* Title for the username for Planning Center Online */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_USER_title" = "User:";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_USER_title" = "用户：";
 
 /* Title for the organization for Planning Center Online */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ORGANIZATION_title" = "Organization:";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ORGANIZATION_title" = "组织：";
 
 /* Title for the automatically check for plan updates option */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_CHECK_PLAN_UPDATES_title" = "Automatically Check for Plan Updates";
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_CHECK_PLAN_UPDATES_tooltip" = "Periodically check PCO for changes to a plan and notify me if I need to update.";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_CHECK_PLAN_UPDATES_title" = "自动检查计划更新";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_CHECK_PLAN_UPDATES_tooltip" = "定期检查PCO是否更改计划，并如果我需要更新，请通知我。";
 
 /* Title for the match songs in library option */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_MATCH_SONGS_IN_LIBRARY_title" = "Match Songs in Library";
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_MATCH_SONGS_IN_LIBRARY_tooltip" = "Search for documents in my library that match PCO items and link them if possible.";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_MATCH_SONGS_IN_LIBRARY_title" = "匹配库中的歌曲";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_MATCH_SONGS_IN_LIBRARY_tooltip" = "在我的库中搜索匹配PCO项目并可在可能时，链接文档。";
 
 /* Title for the show historical service plans option */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_SHOW_HISTORICAL_PLANS_title" = "Show Historical Service Plans";
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_SHOW_HISTORICAL_PLANS_tooltip" = "Show old plans when I am selecting PCO playlists.";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_SHOW_HISTORICAL_PLANS_title" = "显示历史服务计划";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_SHOW_HISTORICAL_PLANS_tooltip" = "当我选择PCO播放列表时显示旧计划。";
 
 /* Title for the option to make presentation arrangements from PCO Sequences */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ARRANGEMENTS_FROM_SEQUENCES_title" = "Make Arrangements From Sequences";
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ARRANGEMENTS_FROM_SEQUENCES_tooltip" = "Makes arrangements in Pro according to song sequence in downloaded plan.";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ARRANGEMENTS_FROM_SEQUENCES_title" = "从序列安排";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ARRANGEMENTS_FROM_SEQUENCES_tooltip" = "根据下载计划中的歌曲顺序在Pro中进行安排。";
 
 /* Title for the automatically upload option */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_UPLOAD_title" = "Automatically Upload Presentations and Media";
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_UPLOAD_tooltip" = "Upload documents and media that I link to a PCO playlist item.";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_UPLOAD_title" = "自动上传演示文稿和媒体";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_UPLOAD_tooltip" = "上传我链接到PCO播放列表项的文档和媒体。";
 
 /* Title for the automatically download option */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_DOWNLOAD_title" = "Automatically Download Presentations and Media";
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_DOWNLOAD_tooltip" = "Download any documents and media that are attached to items in PCO.";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_DOWNLOAD_title" = "自动下载演示和媒体";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_AUTOMATICALLY_DOWNLOAD_tooltip" = "下载附加到PCO项目的任何文档和媒​​体。";
 
 /* Title for the download library selection field */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_DOWNLOAD_LIBRARY_title" = "Download Library:";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_DOWNLOAD_LIBRARY_title" = "下载库：";
 
 /* Title for the PCO login window */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_LOGIN_title" = "Planning Center Login";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_LOGIN_title" = "规划中心登录";
 
 /* Planning center error message for a configuration error. %@ is the detailed error message. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_CONFIGURATION_message" = "Configuration Error! Message: %@";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_CONFIGURATION_message" = "配置错误！信息：%@";
 /* Planning center error message for when the user's authorization token has expired. %@ is a detailed error message. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_TOKEN_EXPIRED_message" = "User token has expired. %@";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_TOKEN_EXPIRED_message" = "用户令牌已过期。%@";
 /* Planning center error message for when the web request was missing a parameter */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_MISSING_STATE_message" = "Missing state parameter";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_MISSING_STATE_message" = "丢失状态参数";
 /* Planning center error message for when the web response state was not what we expected. %@ and %@ and the states. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_STATE_NOT_EQUAL_message" = "States are not equal [%@<>%@]";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_STATE_NOT_EQUAL_message" = "状态不一致 [%@<>%@]";
 /* Planning center error message for when we encounter a server error. %@ is the detailed message. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_SERVER_ERROR_message" = "Server Error: %@";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_SERVER_ERROR_message" = "服务器错误： %@";
 /* Planning center error message for when we are unable to form a URL for a web request. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_ENCODING_ERROR_message" = "Failed to encode URL %@";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_ENCODING_ERROR_message" = "无法编码URL %@";
 /* Planning center error message for when the user isn't yet authorized. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_AUTH_PENDING_message" = "Authorization is pending";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_AUTH_PENDING_message" = "待授权";
 /* Planning center error message for when we cannot create a web request. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_REQUEST_CREATION_message" = "Failed request creation %@";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_REQUEST_CREATION_message" = "请求创建 %@ 失败";
 /* Planning center error message for when the user doesn't have an authorization token. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_MISSING_TOKEN_message" = "Missing a valid token";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_MISSING_TOKEN_message" = "缺少有效的令牌";
 /* Planning center error message for an internal error when retaining data for the OAuth system */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_RETAIN_message" = "Retain";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_RETAIN_message" = "留存";
 /* Planning center error message for a generic request error */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_REQUEST_message" = "Request Error: %@";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_REQUEST_message" = "请求错误： %@";
 /* Planning center error message for when the request is cancelled */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_CANCELLED_message" = "Cancelled";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_CANCELLED_message" = "已取消";
 /* Planning center error message for when we're requesting too much information too quickly. %@ is the detailed message. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_SLOW_DOWN_message" = "Slow down error: %@";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_SLOW_DOWN_message" = "放缓错误： %@";
 /* Planning center error message for when the server denies the request. %@ is the detailed message. */
-"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_ACCESS_DENIED_message" = "Access Denied: %@";
+"SERVICE_PREFERENCES_PLANNING_CENTER_ONLINE_ERROR_ACCESS_DENIED_message" = "拒绝访问： %@";
 
 /* Title for the alert shown when there is not an internet connection */
-"SERVICE_PREFERENCES_NO_INTERNET_ALERT_title" = "Internet connection is not available. Please check your connection status.";
+"SERVICE_PREFERENCES_NO_INTERNET_ALERT_title" = "互联网连接不可用。请检查您的连接状态。";
 
 /* Title for the SongSelect header */
 "SERVICE_PREFERENCES_HEADER_SONGSELECT_title" = "SongSelect";
 
 /* Title for the username for SongSelect */
-"SERVICE_PREFERENCES_SONGSELECT_USER_title" = "User:";
+"SERVICE_PREFERENCES_SONGSELECT_USER_title" = "用户：";
 
 /*
 ------------------------------------------------------------------------------
@@ -6524,56 +6524,56 @@ SYNC_PREFERENCES
 */
 
 /* Title for the repository path text field */
-"SYNC_PREFERENCES_REPOSITORY_title" = "Repository:";
+"SYNC_PREFERENCES_REPOSITORY_title" = "存储库：";
 
 /* Definition for the repository path */
-"SYNC_PREFERENCES_REPOSITORY_definition" = "Path to currently mounted drive on Desktop";
+"SYNC_PREFERENCES_REPOSITORY_definition" = "当前已安装的驱动器路径";
 
 /* Header title for which files to include in the sync service */
-"SYNC_PREFERENCES_HEADER_INCLUDE_IN_SYNC_SERVICE_title" = "Include in Sync Service:";
+"SYNC_PREFERENCES_HEADER_INCLUDE_IN_SYNC_SERVICE_title" = "包含同步服务：";
 
 /* Title for the libraries option */
-"SYNC_PREFERENCES_SYNC_OPTION_LIBRARIES_title" = "Libraries";
+"SYNC_PREFERENCES_SYNC_OPTION_LIBRARIES_title" = "库";
 
 /* Title for the media option */
-"SYNC_PREFERENCES_SYNC_OPTION_MEDIA_title" = "Media";
+"SYNC_PREFERENCES_SYNC_OPTION_MEDIA_title" = "媒体";
 
 /* Title for the playlists option */
-"SYNC_PREFERENCES_SYNC_OPTION_PLAYLISTS_title" = "Playlists";
+"SYNC_PREFERENCES_SYNC_OPTION_PLAYLISTS_title" = "播放列表";
 
 /* Title for the Themes option */
-"SYNC_PREFERENCES_SYNC_OPTION_THEMES_title" = "Themes";
+"SYNC_PREFERENCES_SYNC_OPTION_THEMES_title" = "主题";
 
 /* Title for the support files option */
-"SYNC_PREFERENCES_SYNC_OPTION_SUPPORT_FILES_title" = "Support Files";
+"SYNC_PREFERENCES_SYNC_OPTION_SUPPORT_FILES_title" = "帮助文件";
 
 /* Title for the option to sync down from the repository */
-"SYNC_PREFERENCES_SYNC_DOWN_FROM_REPOSITORY_title" = "Sync files down from repository";
+"SYNC_PREFERENCES_SYNC_DOWN_FROM_REPOSITORY_title" = "从存储库下载文件";
 
 /* Title for the option to sync up to the repository */
-"SYNC_PREFERENCES_SYNC_UP_TO_REPOSITORY_title" = "Sync files up to repository";
+"SYNC_PREFERENCES_SYNC_UP_TO_REPOSITORY_title" = "上传文件到存储库";
 
 /* Title for the option to replace the user's files when syncing down from the repository */
-"SYNC_PREFERENCES_SYNC_DOWN_REPLACE_FILES_title" = "Replace My Files";
+"SYNC_PREFERENCES_SYNC_DOWN_REPLACE_FILES_title" = "替换我的文件";
 
 /* Title for the option to replace the files on the repository when syncing up */
-"SYNC_PREFERENCES_SYNC_UP_REPLACE_FILES_title" = "Replace Files in Repository";
+"SYNC_PREFERENCES_SYNC_UP_REPLACE_FILES_title" = "替换存储库中的文件";
 
 /* Title for the button to start syncing */
-"SYNC_PREFERENCES_SYNC_title" = "Sync";
+"SYNC_PREFERENCES_SYNC_title" = "同步";
 
 /* Alert shown when the user tries to sync without specifying a source path to sync from */
-"SYNC_PREFERENCES_ERROR_SOURCE_PATH_REQUIRED_message" = "A source path is required";
+"SYNC_PREFERENCES_ERROR_SOURCE_PATH_REQUIRED_message" = "需要源路径";
 
 /* Alert shown to prompt the user to enable "Manage Media Automatically" - a required setting when using this Sync feature */
-"SYNC_PREFERENCES_ALERT_ENABLE_MANAGE_MEDIA_AUTOMATICALLY_message" = "Syncing Media will automatically enable the \"Manage Media Automatically\" option in General Preferences.";
-"SYNC_PREFERENCES_ALERT_ENABLE_MANAGE_MEDIA_AUTOMATICALLY_info" = "Do you wish to continue?";
+"SYNC_PREFERENCES_ALERT_ENABLE_MANAGE_MEDIA_AUTOMATICALLY_message" = "同步媒体将自动启用常规偏好中的 \"自动管理媒体\"选项。";
+"SYNC_PREFERENCES_ALERT_ENABLE_MANAGE_MEDIA_AUTOMATICALLY_info" = "你想继续吗？";
 
 /* Alert shown when the selected repository folder has non-ProPresenter files */
-"SYNC_PREFERENCES_ALERT_REPOSITORY_INCOMPATIBLE_message" = "This feature synchronizes ProPresenter files to a common repository that can be accessed from multiple machines.\n\nThere are unknown files or directories in the selected server location. You must choose an empty folder or an existing ProPresenter remote repository.";
+"SYNC_PREFERENCES_ALERT_REPOSITORY_INCOMPATIBLE_message" = "此功能将propresenter文件同步到可从多个计算机访问的公共存储库。\n\n 所选服务器路径中包含了未知文件或目录。您必须选择空文件夹或现有的PropResenter远程存储库。";
 
 /* Alert shown when Sync was unable to copy a file. %@ is the error message. */
-"SYNC_PREFERENCES_ALERT_UNABLE_TO_COPY_FILE_message" = "Unable to copy file. Error: %@";
+"SYNC_PREFERENCES_ALERT_UNABLE_TO_COPY_FILE_message" = "无法复制文件。错误： %@";
 
 
 /*
@@ -6583,86 +6583,86 @@ ADVANCED_PREFERENCES
 */
 
 /* Title for the video playback header */
-"ADVANCED_PREFERENCES_HEADER_VIDEO_PLAYBACK_title" = "Video Playback";
+"ADVANCED_PREFERENCES_HEADER_VIDEO_PLAYBACK_title" = "视频回放";
 
 /* Windows title for suppress automatic playback of videos option */
-"ADVANCED_PREFERENCES_SUPPRESS_AUTO_START_VIDEO_windows_title" = "Use Alt-Click to Suppress Auto Start Video";
+"ADVANCED_PREFERENCES_SUPPRESS_AUTO_START_VIDEO_windows_title" = "使用Alt点击，抑制视频自动启动";
 
 /* Mac title for suppress automatic playback of videos option */
-"ADVANCED_PREFERENCES_SUPPRESS_AUTO_START_VIDEO_mac_title" = "Use Option-Click to Suppress Auto Start Video";
+"ADVANCED_PREFERENCES_SUPPRESS_AUTO_START_VIDEO_mac_title" = "使用Option点击，抑制视频自动启动";
 
 /* Definition for suppress automatic playback of videos option */
-"ADVANCED_PREFERENCES_SUPPRESS_AUTO_START_VIDEO_definition" = "This changes the function of the Spacebar to play/pause video and will no longer hide Media Cues in Presenter View.";
+"ADVANCED_PREFERENCES_SUPPRESS_AUTO_START_VIDEO_definition" = "这会更改空格键播放/暂停视频的命令，并将在Presenter视图中不再隐藏媒体提示。";
 
 /* Title for the support files header */
-"ADVANCED_PREFERENCES_HEADER_SUPPORT_FILES_title" = "Support Files";
+"ADVANCED_PREFERENCES_HEADER_SUPPORT_FILES_title" = "帮助文件";
 
 /* Title for the media repository header */
-"ADVANCED_PREFERENCES_HEADER_MEDIA_REPOSITORY_title" = "Media Repository";
+"ADVANCED_PREFERENCES_HEADER_MEDIA_REPOSITORY_title" = "媒体存储库";
 
 /* Title for the manage media automatically option */
-"ADVANCED_PREFERENCES_MANAGE_MEDIA_AUTOMATICALLY_title" = "Manage Media Automatically";
+"ADVANCED_PREFERENCES_MANAGE_MEDIA_AUTOMATICALLY_title" = "自动管理媒体";
 
 /* Title for the search paths header */
-"ADVANCED_PREFERENCES_HEADER_SEARCH_PATHS_title" = "Search Paths";
+"ADVANCED_PREFERENCES_HEADER_SEARCH_PATHS_title" = "搜索路径";
 
 /* Title for the option to use search paths */
-"ADVANCED_PREFERENCES_ENABLE_SEARCH_PATHS_title" = "Automatically Relink Missing Media Using Alternate Paths";
+"ADVANCED_PREFERENCES_ENABLE_SEARCH_PATHS_title" = "使用备用路径自动重新链接丢失介质";
 
 /* Title for the button in the file picker dialog that lets the user choose the highlighted file */
-"ADVANCED_PREFERENCES_ADD_SEARCH_PATHS_PANEL_BUTTON_mac_title" = "Add Path";
+"ADVANCED_PREFERENCES_ADD_SEARCH_PATHS_PANEL_BUTTON_mac_title" = "添加路径";
 
 /* Title for the boot volume option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_BOOT_VOLUME_title" = "Boot Volume";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_BOOT_VOLUME_title" = "启动卷";
 
 /* Title for the other volumes option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_OTHER_VOLUMES_title" = "Other Volumes";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_OTHER_VOLUMES_title" = "其他卷";
 
 /* Title for the home option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_HOME_title" = "Home";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_HOME_title" = "主页";
 
 /* Title for the documents option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_DOCUMENTS_title" = "Documents";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_DOCUMENTS_title" = "文档";
 
 /* Title for the downloads option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_DOWNLOADS_title" = "Downloads";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_DOWNLOADS_title" = "下载";
 
 /* Title for the music folder option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_MUSIC_title" = "Music";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_MUSIC_title" = "音乐";
 
 /* Title for the picture folder option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_PICTURES_title" = "Pictures";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_PICTURES_title" = "图片";
 
 /* Title for the videos folder option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_VIDEOS_title" = "Videos";
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_VIDEOS_mac_title" = "Movies";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_VIDEOS_title" = "视频";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_VIDEOS_mac_title" = "电影";
 
 /* Title for the desktop option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_DESKTOP_title" = "Desktop";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_DESKTOP_title" = "桌面";
 
 /* Title for the app data folder option */
 "ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_APP_DATA_title" = "App Data";
 
 /* Title for the application support folder option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_APP_SUPPORT_title" = "Application Support";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_APP_SUPPORT_title" = "应用支持";
 
 /* Title for the program data folder option */
 "ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_PROGRAM_DATA_title" = "Program Data";
 
 /* Title for the show folder option */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_SHOW_title" = "Show Directory";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_SHOW_title" = "显示目录";
 
 /* Title for the shared files directory */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_SHARED_title" = "Shared";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_SHARED_title" = "共享";
 
 /* The current resource - not displayed in the UI currently */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_CURRENT_RESOURCE_title" = "Current Resource";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_CURRENT_RESOURCE_title" = "当前资源";
 
 /* Title for any external drives. Typically this would be a USB drive. */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_EXTERNAL_VOLUME_title" = "External Volumes";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_EXTERNAL_VOLUME_title" = "外部卷";
 
 /* Title for an unknown search path */
-"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_UNKNOWN_title" = "Unknown";
+"ADVANCED_PREFERENCES_SEARCH_PATH_OPTION_UNKNOWN_title" = "未知";
 
 
 /*
@@ -6679,127 +6679,127 @@ ACTION_PALETTE
 */
 
 /* The label explaining dragging actions onto slides */
-"ACTION_PALETTE_DRAG_EXPLANATION_label" = "Drag Action To Cue In Presentation";
+"ACTION_PALETTE_DRAG_EXPLANATION_label" = "在演示文稿中拖动动作";
 
 /* The header title for Clear Actions */
-"ACTION_PALETTE_CLEAR_HEADER_title" = "Clear Actions";
+"ACTION_PALETTE_CLEAR_HEADER_title" = "清除动作";
 
 /* The header title for Media Actions */
-"ACTION_PALETTE_MEDIA_HEADER_title" = "Media Actions";
+"ACTION_PALETTE_MEDIA_HEADER_title" = "媒体动作";
 
 /* The header title for Interactive Actions */
-"ACTION_PALETTE_INTERACTIVE_HEADER_title" = "Interactive Actions";
+"ACTION_PALETTE_INTERACTIVE_HEADER_title" = "互动动作";
 
 /* The header title for Advanced Actions */
-"ACTION_PALETTE_ADVANCED_HEADER_title" = "Advanced Actions";
+"ACTION_PALETTE_ADVANCED_HEADER_title" = "高级动作";
 
 /* The title for the selection field in the message action dialog */
-"ACTION_PALETTE_MESSAGE_SELECTION_FIELD_title" = "Message:";
+"ACTION_PALETTE_MESSAGE_SELECTION_FIELD_title" = "信息：";
 
 /* The label shown in the messages action dialog when the message has no fields to customize */
-"ACTION_PALETTE_NO_EDITABLE_VALUES_label" = "No Editable Values";
+"ACTION_PALETTE_NO_EDITABLE_VALUES_label" = "无可编辑值";
 
 /* The title for the selection field in the prop action dialog */
-"ACTION_PALETTE_PROP_SELECTION_FIELD_title" = "Select a Prop:";
+"ACTION_PALETTE_PROP_SELECTION_FIELD_title" = "选择一个道具：";
 
 /* The header title for stage layout selection in the stage action dialog */
-"ACTION_PALETTE_STAGE_LAYOUTS_HEADER_title" = "Stage Layouts";
+"ACTION_PALETTE_STAGE_LAYOUTS_HEADER_title" = "舞台布局";
 
 /* The title for changing the slide destination stage action dialog */
-"ACTION_PALETTE_STAGE_CHANGE_SLIDE_DESTINATION_title" = "Change Slide Destination";
+"ACTION_PALETTE_STAGE_CHANGE_SLIDE_DESTINATION_title" = "更改幻灯片目标";
 
 /* The title for the stage only destination in the stage action dialog */
-"ACTION_PALETTE_STAGE_DESTINATION_STAGE_title" = "Stage";
+"ACTION_PALETTE_STAGE_DESTINATION_STAGE_title" = "舞台";
 
 /* The title for the stage and audience destination in the stage action dialog */
-"ACTION_PALETTE_STAGE_DESTINATION_STAGE_AND_AUDIENCE_title" = "Stage + Audience";
+"ACTION_PALETTE_STAGE_DESTINATION_STAGE_AND_AUDIENCE_title" = "舞台+观众";
 
 /* Placeholder label when there are no stage screens available for us to change in the stage action */
-"ACTION_PALETTE_STAGE_NO_STAGE_SCREENS_CONFIGURED_title" = "No stage screens configured";
+"ACTION_PALETTE_STAGE_NO_STAGE_SCREENS_CONFIGURED_title" = "没有配置舞台屏幕";
 
 /* Placeholder item when there are no stage layouts available to choose from */
-"ACTION_PALETTE_STAGE_NO_STAGE_LAYOUTS_CONFIGURED_title" = "No Stage Layouts";
+"ACTION_PALETTE_STAGE_NO_STAGE_LAYOUTS_CONFIGURED_title" = "没有舞台布局";
 
 /* Placeholder item for the popup button where the user can select a stage layout */
-"ACTION_PALETTE_STAGE_SELECT_LAYOUT_title" = "Select Stage Layout";
+"ACTION_PALETTE_STAGE_SELECT_LAYOUT_title" = "选择舞台布局";
 
 /* The title for a placeholder popup button menu item to prompt the user to choose a timer */
-"ACTION_PALETTE_TIMER_SELECT_title" = "Select Timer";
+"ACTION_PALETTE_TIMER_SELECT_title" = "选择计时器";
 
 /* The title for the start behavior in the timer action dialog */
-"ACTION_PALETTE_TIMER_START_title" = "Start";
+"ACTION_PALETTE_TIMER_START_title" = "开始";
 
 /* The title for the stop behavior in the timer action dialog */
-"ACTION_PALETTE_TIMER_STOP_title" = "Stop";
+"ACTION_PALETTE_TIMER_STOP_title" = "停止";
 
 /* The title for the reset behavior in the timer action dialog */
-"ACTION_PALETTE_TIMER_RESET_title" = "Reset";
+"ACTION_PALETTE_TIMER_RESET_title" = "重置";
 
 /* The title for the reset and start behavior in the timer action dialog */
-"ACTION_PALETTE_TIMER_RESET_AND_START_title" = "Reset and Start";
+"ACTION_PALETTE_TIMER_RESET_AND_START_title" = "重置并开始";
 
 /* The title for the set configuration button in the timer action dialog */
-"ACTION_PALETTE_TIMER_SET_CONFIGURATION_title" = "Set Configuration";
+"ACTION_PALETTE_TIMER_SET_CONFIGURATION_title" = "设置配置";
 
 /* The title for configuring the duration for countdown timers in the timer action dialog */
-"ACTION_PALETTE_TIMER_CONFIGURATION_DURATION_title" = "Duration";
+"ACTION_PALETTE_TIMER_CONFIGURATION_DURATION_title" = "持续时间";
 
 /* The title for configuring the duration for countdown to time timers in the timer action dialog */
-"ACTION_PALETTE_TIMER_CONFIGURATION_TIME_title" = "Time";
+"ACTION_PALETTE_TIMER_CONFIGURATION_TIME_title" = "时间";
 
 /* The title for configuring the format for countdown to time timers in the timer action dialog */
-"ACTION_PALETTE_TIMER_CONFIGURATION_FORMAT_title" = "Format";
+"ACTION_PALETTE_TIMER_CONFIGURATION_FORMAT_title" = "格式";
 
 /* The title for configuring the duration for elapse timers in the timer action dialog */
-"ACTION_PALETTE_TIMER_CONFIGURATION_START_title" = "Start";
+"ACTION_PALETTE_TIMER_CONFIGURATION_START_title" = "开始";
 
 /* The title for configuring the end time for elapse timers in the timer action dialog */
-"ACTION_PALETTE_TIMER_CONFIGURATION_END_title" = "End";
+"ACTION_PALETTE_TIMER_CONFIGURATION_END_title" = "结尾";
 
 /* The title for allowing overrun in the timer action dialog */
-"ACTION_PALETTE_TIMER_CONFIGURATION_OVERRUN_title" = "Allows Overrun";
+"ACTION_PALETTE_TIMER_CONFIGURATION_OVERRUN_title" = "允许超出";
 
 /* The title for the button that opens the timers view in the timer action dialog */
-"ACTION_PALETTE_TIMER_OPEN_TIMERS_title" = "Open Timers…";
+"ACTION_PALETTE_TIMER_OPEN_TIMERS_title" = "打开定时器...";
 
 /* The title for the device in the MIDI action dialog */
-"ACTION_PALETTE_MIDI_DEVICE_SELECTION_FIELD_title" = "Device";
+"ACTION_PALETTE_MIDI_DEVICE_SELECTION_FIELD_title" = "设备";
 
 /* The title for the command in the MIDI action dialog */
-"ACTION_PALETTE_MIDI_COMMAND_SELECTION_FIELD_title" = "Command";
+"ACTION_PALETTE_MIDI_COMMAND_SELECTION_FIELD_title" = "命令";
 
 /* The title for the channel in the MIDI action dialog */
-"ACTION_PALETTE_MIDI_CHANNEL_SELECTION_FIELD_title" = "Channel";
+"ACTION_PALETTE_MIDI_CHANNEL_SELECTION_FIELD_title" = "频道";
 
 /* The title for the musical note in the MIDI action dialog */
-"ACTION_PALETTE_MIDI_NOTE_SELECTION_FIELD_title" = "Note";
+"ACTION_PALETTE_MIDI_NOTE_SELECTION_FIELD_title" = "备注";
 
 /* The title for the note on command in the MIDI action dialog */
-"ACTION_PALETTE_MIDI_COMMAND_NOTE_ON_title" = "MIDI Note On";
+"ACTION_PALETTE_MIDI_COMMAND_NOTE_ON_title" = "打开 MIDI 备注";
 
 /* The title for the note off command in the MIDI action dialog */
-"ACTION_PALETTE_MIDI_COMMAND_NOTE_OFF_title" = "MIDI Note Off";
+"ACTION_PALETTE_MIDI_COMMAND_NOTE_OFF_title" = "关闭 Note 备注";
 
 /* The title for the command in the MIDI action dialog */
-"ACTION_PALETTE_MIDI_COMMAND_SELECTION_FIELD_title" = "Command";
+"ACTION_PALETTE_MIDI_COMMAND_SELECTION_FIELD_title" = "命令";
 
 /* The title for the intensity in the MIDI action dialog */
-"ACTION_PALETTE_MIDI_INTENSITY_SELECTION_FIELD_title" = "Intensity";
+"ACTION_PALETTE_MIDI_INTENSITY_SELECTION_FIELD_title" = "强度";
 
 /* The title the go to next timer window */
-"ACTION_PALETTE_GO_TO_NEXT_TIMER_WINDOW_title" = "Slide Timer";
+"ACTION_PALETTE_GO_TO_NEXT_TIMER_WINDOW_title" = "幻灯片计时器";
 
 /* The title for the loop to the beginning checkbox */
-"ACTION_PALETTE_GO_TO_NEXT_TIMER_LOOP_TO_BEGINNING_CHECKBOX_title" = "Loop to Beginning";
+"ACTION_PALETTE_GO_TO_NEXT_TIMER_LOOP_TO_BEGINNING_CHECKBOX_title" = "循环到开头";
 
 /* The title for the duration text field */
-"ACTION_PALETTE_GO_TO_NEXT_TIMER_DURATION_title" = "Duration";
+"ACTION_PALETTE_GO_TO_NEXT_TIMER_DURATION_title" = "持续时间";
 
 /* Label defining the time value in the go to next window */
-"ACTION_PALETTE_GO_TO_NEXT_TIMER_SET_TIME_DEFINITION_label" = "Set the amount of time, in seconds, that this slide will be displayed on the screen.";
+"ACTION_PALETTE_GO_TO_NEXT_TIMER_SET_TIME_DEFINITION_label" = "设置在屏幕上显示此幻灯片的时长，以秒为单位。";
 
 /* Label explaining the behavior of foreground media */
-"ACTION_PALETTE_GO_TO_NEXT_TIMER_FOREGROUND_MEDIA_EXPLANATION_label" = "If the slide has a foreground video, the last frame will be displayed for this amount of time.";
+"ACTION_PALETTE_GO_TO_NEXT_TIMER_FOREGROUND_MEDIA_EXPLANATION_label" = "如果幻灯片具有前景视频，则最后一个帧将显示指定的时长。";
 
 /*
 ------------------------------------------------------------------------------
@@ -6808,16 +6808,16 @@ COMMUNICATION_ACTION
 */
 
 /* Label for the device selection popup button */
-"COMMUNICATION_ACTION_POPOVER_DEVICE_label" = "Device";
+"COMMUNICATION_ACTION_POPOVER_DEVICE_label" = "设备";
 
 /* Label for the command selection popup button */
-"COMMUNICATION_ACTION_POPOVER_COMMAND_label" = "Command";
+"COMMUNICATION_ACTION_POPOVER_COMMAND_label" = "命令";
 
 /* Title for menu item when no communications devices are configured */
-"COMMUNICATION_ACTION_NO_DEVICES_CONFIGURED_title" = "No Devices Configured";
+"COMMUNICATION_ACTION_NO_DEVICES_CONFIGURED_title" = "没有配置设备";
 
 /* Title for menu item when there are no applicable commands to send to this device */
-"COMMUNICATION_ACTION_NO_COMMANDS_AVAILABLE_title" = "No Commands Available";
+"COMMUNICATION_ACTION_NO_COMMANDS_AVAILABLE_title" = "没有可用的命令";
 
 
 /*
@@ -6827,7 +6827,7 @@ VIDEO_INPUT_ACTION
 */
 
 /* Title for the menu item to remove this video input action */
-"VIDEO_INPUT_ACTION_REMOVE_title" = "Remove Video Input Action";
+"VIDEO_INPUT_ACTION_REMOVE_title" = "删除视频输入动作";
 
 
 /*
@@ -6837,43 +6837,43 @@ AUDIO_INPUT_ACTION
 */
 
 /* The name of this action in the action palette */
-"AUDIO_INPUT_ACTION_DISPLAY_NAME_title" = "Audio Input";
+"AUDIO_INPUT_ACTION_DISPLAY_NAME_title" = "音频输入";
 
 /* Tool tip when the action is invalid */
-"AUDIO_INPUT_ACTION_ERROR_tooltip" = "Audio input action configuration is invalid";
+"AUDIO_INPUT_ACTION_ERROR_tooltip" = "音频输入动作配置无效";
 
 /* The title of an option in the audio input action popover */
-"AUDIO_INPUT_ACTION_POPOVER_OPEN_INPUTS_MENU_ITEM_title" = "Open Audio Inputs…";
+"AUDIO_INPUT_ACTION_POPOVER_OPEN_INPUTS_MENU_ITEM_title" = "打开音频输入...";
 
 /* The title of an option in the audio input action popover to select an input */
-"AUDIO_INPUT_ACTION_POPOVER_SELECT_INPUT_MENU_ITEM_title" = "Select Input";
+"AUDIO_INPUT_ACTION_POPOVER_SELECT_INPUT_MENU_ITEM_title" = "选择输入";
 
 /* The label for this action in the action popover */
-"AUDIO_INPUT_ACTION_POPOVER_AUDIO_INPUT_label" = "Audio Input:";
+"AUDIO_INPUT_ACTION_POPOVER_AUDIO_INPUT_label" = "音频输入：";
 
 /* The title for the checkbox to allow the user to set the audio input mode */
-"AUDIO_INPUT_ACTION_POPOVER_SET_MODE_BUTTON_title" = "Set Mode";
+"AUDIO_INPUT_ACTION_POPOVER_SET_MODE_BUTTON_title" = "设置模式";
 
 /* The title for the button to open the options for this action */
-"AUDIO_INPUT_ACTION_POPOVER_OPTIONS_BUTTON_title" = "Options";
+"AUDIO_INPUT_ACTION_POPOVER_OPTIONS_BUTTON_title" = "选项";
 
 /* The title for the checkbox to allow the user to set the audio input levels */
-"AUDIO_INPUT_ACTION_POPOVER_SET_LEVEL_BUTTON_title" = "Set Level";
+"AUDIO_INPUT_ACTION_POPOVER_SET_LEVEL_BUTTON_title" = "设置级别";
 
 /* The title of the undo event when setting the level */
-"AUDIO_INPUT_ACTION_UNDO_SET_LEVEL_title" = "Set Level";
+"AUDIO_INPUT_ACTION_UNDO_SET_LEVEL_title" = "设置级别";
 
 /* The title of the undo event when selecting to configure the level */
-"AUDIO_INPUT_ACTION_UNDO_CONFIGURE_LEVEL_title" = "Configure Level";
+"AUDIO_INPUT_ACTION_UNDO_CONFIGURE_LEVEL_title" = "配置级别";
 
 /* The title of the undo event when selecting to configure the mode */
-"AUDIO_INPUT_ACTION_UNDO_CONFIGURE_MODE_title" = "Configure Mode";
+"AUDIO_INPUT_ACTION_UNDO_CONFIGURE_MODE_title" = "配置模式";
 
 /* The title of the undo event when setting the level */
-"AUDIO_INPUT_ACTION_UNDO_SET_MODE_title" = "Set Mode";
+"AUDIO_INPUT_ACTION_UNDO_SET_MODE_title" = "设置模式";
 
 /* The title of the undo event when setting the input */
-"AUDIO_INPUT_ACTION_UNDO_SET_INPUT_title" = "Set Input";
+"AUDIO_INPUT_ACTION_UNDO_SET_INPUT_title" = "设置输入";
 
 
 /*
@@ -6883,22 +6883,22 @@ PLAYLIST_ACTION
 */
 
 /* The title of the menu item when no selection is made when configuring the selected playlist for the action */
-"PLAYLIST_ACTION_NO_SELECTION_MENU_ITEM_title" = "No Selection";
+"PLAYLIST_ACTION_NO_SELECTION_MENU_ITEM_title" = "没有选择";
 
 /* The display name of the media bin playlist action */
-"PLAYLIST_ACTION_MEDIA_PLAYLIST_title" = "Media Bin Playlist";
+"PLAYLIST_ACTION_MEDIA_PLAYLIST_title" = "媒体播放列表";
 
 /* The display name of the audio bin playlist action */
-"PLAYLIST_ACTION_AUDIO_PLAYLIST_title" = "Audio Bin Playlist";
+"PLAYLIST_ACTION_AUDIO_PLAYLIST_title" = "音频播放列表";
 
 /* The title of the undo event when selecting a playlist */
-"PLAYLIST_ACTION_UNDO_SET_SELECTION_title" = "Select Playlist";
+"PLAYLIST_ACTION_UNDO_SET_SELECTION_title" = "选择播放列表";
 
 /* Tool tip when the action is invalid */
-"PLAYLIST_ACTION_ERROR_tooltip" = "No Playlist Found";
+"PLAYLIST_ACTION_ERROR_tooltip" = "没有找到播放列表";
 
 /* Always re-trigger check box option */
-"PLAYLIST_ACTION_ALWAYS_RETRIGGER_title" = "Always Retrigger";
+"PLAYLIST_ACTION_ALWAYS_RETRIGGER_title" = "始终触发";
 
 /*
 ------------------------------------------------------------------------------
@@ -6907,28 +6907,28 @@ TEST_PATTERN_WINDOW
 */
 
 /* The title for the test pattern window */
-"TEST_PATTERN_WINDOW_title" = "Calibration Patterns";
+"TEST_PATTERN_WINDOW_title" = "校准模式";
 
 /* The title for the blend grid test pattern */
-"TEST_PATTERN_WINDOW_BLEND_GRID_title" = "Blend Grid";
+"TEST_PATTERN_WINDOW_BLEND_GRID_title" = "融合网格";
 
 /* The title for the focus test pattern */
-"TEST_PATTERN_WINDOW_FOCUS_title" = "Focus";
+"TEST_PATTERN_WINDOW_FOCUS_title" = "焦点";
 
 /* The title for the color bars test pattern */
-"TEST_PATTERN_WINDOW_COLOR_BAR_title" = "Color Bars";
+"TEST_PATTERN_WINDOW_COLOR_BAR_title" = "彩条";
 
 /* The title for the gray scale test pattern */
-"TEST_PATTERN_WINDOW_GRAY_SCALE_title" = "Gray Scale";
+"TEST_PATTERN_WINDOW_GRAY_SCALE_title" = "灰度";
 
 /* The title for the solid black color test pattern */
-"TEST_PATTERN_WINDOW_BLACK_COLOR_title" = "Black Color";
+"TEST_PATTERN_WINDOW_BLACK_COLOR_title" = "黑色";
 
 /* The title for the solid white color test pattern */
-"TEST_PATTERN_WINDOW_WHITE_COLOR_title" = "White Color";
+"TEST_PATTERN_WINDOW_WHITE_COLOR_title" = "白色";
 
 /* The title for the custom color test pattern */
-"TEST_PATTERN_WINDOW_CUSTOM_COLOR_title" = "Custom Color";
+"TEST_PATTERN_WINDOW_CUSTOM_COLOR_title" = "自定义颜色";
 
 /* The abbreviation for the color Red in "RGB", followed by a `:`. Used in a control that looks like this: "R:255 G:255 B:255" */
 "TEST_PATTERN_WINDOW_CUSTOM_COLOR_RED_ABBREVIATION_title" = "R:";
@@ -6940,28 +6940,28 @@ TEST_PATTERN_WINDOW
 "TEST_PATTERN_WINDOW_CUSTOM_COLOR_BLUE_ABBREVIATION_title" = "B:";
 
 /* The title for showing the center circle option in the blend grid test pattern */
-"TEST_PATTERN_WINDOW_CENTER_CIRCLE_title" = "Center Circle";
+"TEST_PATTERN_WINDOW_CENTER_CIRCLE_title" = "中心圆";
 
 /* The title for showing the center lines option in the blend grid test pattern */
-"TEST_PATTERN_WINDOW_CENTER_LINES_title" = "Center Lines";
+"TEST_PATTERN_WINDOW_CENTER_LINES_title" = "中心线";
 
 /* The title for showing the grid lines option in the blend grid test pattern */
-"TEST_PATTERN_WINDOW_GRID_title" = "Grid";
+"TEST_PATTERN_WINDOW_GRID_title" = "网格";
 
 /* The title for inverting the colors option in the blend grid test pattern */
-"TEST_PATTERN_WINDOW_INVERT_COLORS_title" = "Invert Colors";
+"TEST_PATTERN_WINDOW_INVERT_COLORS_title" = "反转颜色";
 
 /* The title for the button to show the current test pattern on the output */
-"TEST_PATTERN_WINDOW_SHOW_title" = "Show";
+"TEST_PATTERN_WINDOW_SHOW_title" = "显示";
 
 /* The title for the button to remove the current test pattern from the output */
-"TEST_PATTERN_WINDOW_CLEAR_title" = "Clear";
+"TEST_PATTERN_WINDOW_CLEAR_title" = "清除";
 
 /* The title for the black level field */
-"TEST_PATTERN_WINDOW_BLACK_LEVEL_title" = "Black Level";
+"TEST_PATTERN_WINDOW_BLACK_LEVEL_title" = "黑度";
 
 /* The title for the white level field */
-"TEST_PATTERN_WINDOW_WHITE_LEVEL_title" = "White Level";
+"TEST_PATTERN_WINDOW_WHITE_LEVEL_title" = "白度";
 
 
 /*
@@ -6971,20 +6971,20 @@ PROPS_WINDOW
 */
 
 /* The title for the Props window */
-"PROPS_WINDOW_title" = "Props";
+"PROPS_WINDOW_title" = "道具";
 
 /* Default name for a prop added by the user */
-"PROPS_WINDOW_NEW_PROP_name" = "Prop";
+"PROPS_WINDOW_NEW_PROP_name" = "道具";
 
 /* Label shown when the user doesn't have any props */
-"PROPS_WINDOW_NO_PROPS_label" = "No Props";
+"PROPS_WINDOW_NO_PROPS_label" = "无道具";
 
 /* The button that clears all props from the output */
-"PROPS_WINDOW_CLEAR_ALL_BUTTON_title" = "Clear All";
-"PROPS_WINDOW_CLEAR_ALL_BUTTON_tooltip" = "Clear All Props";
+"PROPS_WINDOW_CLEAR_ALL_BUTTON_title" = "清除所有";
+"PROPS_WINDOW_CLEAR_ALL_BUTTON_tooltip" = "清除所有道具";
 
 /* The header for a list of props that are triggered on the output */
-"PROPS_WINDOW_LIVE_PROPS_HEADER_label" = "Live";
+"PROPS_WINDOW_LIVE_PROPS_HEADER_label" = "现场";
 
 
 /*
@@ -6994,28 +6994,28 @@ TIMERS_WINDOW
 */
 
 /* Title of the timers window */
-"TIMERS_WINDOW_title" = "Timers";
+"TIMERS_WINDOW_title" = "定时器";
 
 /* Placeholder for the editable text field with the clock's name */
-"TIMERS_WINDOW_CLOCK_NAME_title" = "Clock Name";
+"TIMERS_WINDOW_CLOCK_NAME_title" = "时钟名称";
 
 /* Title for the countdown timer type */
-"TIMERS_WINDOW_TIMER_TYPE_COUNTDOWN_title" = "Countdown Timer";
+"TIMERS_WINDOW_TIMER_TYPE_COUNTDOWN_title" = "倒计时器";
 
 /* Title for the elapsed time timer type */
-"TIMERS_WINDOW_TIMER_TYPE_ELAPSED_TIME_title" = "Elapsed Time";
+"TIMERS_WINDOW_TIMER_TYPE_ELAPSED_TIME_title" = "已用时间";
 
 /* Title for the countdown to time timer type */
-"TIMERS_WINDOW_TIMER_TYPE_COUNTDOWN_TO_TIME_title" = "Countdown to Time";
+"TIMERS_WINDOW_TIMER_TYPE_COUNTDOWN_TO_TIME_title" = "倒计时到";
 
 /* Title for the duration field for countdown timers */
-"TIMERS_WINDOW_COUNTDOWN_DURATION_title" = "Duration";
+"TIMERS_WINDOW_COUNTDOWN_DURATION_title" = "持续时间";
 
 /* Title for the time field for countdown to time timers */
-"TIMERS_WINDOW_COUNTDOWN_TO_TIME_TIME_title" = "Time";
+"TIMERS_WINDOW_COUNTDOWN_TO_TIME_TIME_title" = "时间";
 
 /* Title for the format field for countdown to time timers */
-"TIMERS_WINDOW_COUNTDOWN_TO_TIME_FORMAT_title" = "Format";
+"TIMERS_WINDOW_COUNTDOWN_TO_TIME_FORMAT_title" = "格式";
 
 /* Title for the AM format for countdown to time timers */
 "TIMERS_WINDOW_COUNTDOWN_TO_TIME_FORMAT_AM_title" = "AM";
@@ -7024,58 +7024,58 @@ TIMERS_WINDOW
 "TIMERS_WINDOW_COUNTDOWN_TO_TIME_FORMAT_PM_title" = "PM";
 
 /* Title for the 24 hour format for countdown to time timers */
-"TIMERS_WINDOW_COUNTDOWN_TO_TIME_FORMAT_24_HOUR_title" = "24 Hrs";
+"TIMERS_WINDOW_COUNTDOWN_TO_TIME_FORMAT_24_HOUR_title" = "24小时制";
 
 /* Title for the starting time field for elapsed timers */
-"TIMERS_WINDOW_ELAPSED_START_title" = "Start";
+"TIMERS_WINDOW_ELAPSED_START_title" = "开始";
 
 /* Title for the ending time field for elapsed timers */
-"TIMERS_WINDOW_ELAPSED_END_title" = "End";
+"TIMERS_WINDOW_ELAPSED_END_title" = "结束";
 
 /* Placeholder for elapsed timers indicating no ending time */
-"TIMERS_WINDOW_ELAPSED_NO_LIMIT_placeholder" = "No Limit";
+"TIMERS_WINDOW_ELAPSED_NO_LIMIT_placeholder" = "没有限制";
 
 /* Title for the overrun option */
-"TIMERS_WINDOW_OVERRUN_title" = "Overrun";
+"TIMERS_WINDOW_OVERRUN_title" = "超出";
 
 /* Title for the start button */
-"TIMERS_WINDOW_START_BUTTON_title" = "Start";
+"TIMERS_WINDOW_START_BUTTON_title" = "开始";
 
 /* Title for the stop button */
-"TIMERS_WINDOW_STOP_BUTTON_title" = "Stop";
+"TIMERS_WINDOW_STOP_BUTTON_title" = "停止";
 
 /* Label shown when there are no timers available */
-"TIMERS_WINDOW_NO_TIMERS_label" = "No Timers";
+"TIMERS_WINDOW_NO_TIMERS_label" = "没有定时器";
 
 /* Title for the start all button */
-"TIMERS_WINDOW_START_ALL_BUTTON_title" = "Start All";
+"TIMERS_WINDOW_START_ALL_BUTTON_title" = "全部开始";
 
 /* Tooltip for the start all button */
-"TIMERS_WINDOW_START_ALL_BUTTON_tooltip" = "Start All Timers";
+"TIMERS_WINDOW_START_ALL_BUTTON_tooltip" = "开始全部定时器";
 
 /* Title for the stop all button */
-"TIMERS_WINDOW_STOP_ALL_BUTTON_title" = "Stop All";
+"TIMERS_WINDOW_STOP_ALL_BUTTON_title" = "全部停止";
 
 /* Tooltip for the stop all button */
-"TIMERS_WINDOW_STOP_ALL_BUTTON_tooltip" = "Stop All Timers";
+"TIMERS_WINDOW_STOP_ALL_BUTTON_tooltip" = "停止全部定时器";
 
 /* Title for the reset all button */
-"TIMERS_WINDOW_RESET_ALL_BUTTON_title" = "Reset All";
+"TIMERS_WINDOW_RESET_ALL_BUTTON_title" = "全部重置";
 
 /* Tooltip for the reset all button */
-"TIMERS_WINDOW_RESET_ALL_BUTTON_tooltip" = "Reset All Timers";
+"TIMERS_WINDOW_RESET_ALL_BUTTON_tooltip" = "停止全部定时器s";
 
 /* Name for a new timer added by the user */
 "TIMERS_WINDOW_NEW_TIMER_name" = "定时器";
 
 /* Name for the preset countdown timer */
-"TIMERS_WINDOW_DEFAULT_COUNTDOWN_TIMER_name" = "Segment Countdown";
+"TIMERS_WINDOW_DEFAULT_COUNTDOWN_TIMER_name" = "剩余时间";
 
 /* Name for the preset elapsed timer */
-"TIMERS_WINDOW_DEFAULT_ELAPSED_TIMER_name" = "Game Timer";
+"TIMERS_WINDOW_DEFAULT_ELAPSED_TIMER_name" = "已用时间";
 
 /* Name for the preset countdown to time timer */
-"TIMERS_WINDOW_DEFAULT_COUNTDOWN_TO_TIME_TIMER_name" = "PreShow Countdown";
+"TIMERS_WINDOW_DEFAULT_COUNTDOWN_TO_TIME_TIMER_name" = "预览剩余时间";
 
 
 /*
@@ -7085,19 +7085,19 @@ STAGE_WINDOW
 */
 
 /* The title of the Stage Display window */
-"STAGE_WINDOW_title" = "Stage";
+"STAGE_WINDOW_title" = "舞台";
 
 /* The label for the text field where the user types in a message to send to the stage display */
-"STAGE_WINDOW_STAGE_MESSAGE_label" = "Stage Message";
+"STAGE_WINDOW_STAGE_MESSAGE_label" = "舞台消息";
 
 /* Button that deletes the text the user typed into the stage message text field */
-"STAGE_WINDOW_CLEAR_STAGE_MESSAGE_BUTTON_title" = "Clear";
+"STAGE_WINDOW_CLEAR_STAGE_MESSAGE_BUTTON_title" = "清除";
 
 /* Button that clears the stage message from the output */
-"STAGE_WINDOW_HIDE_STAGE_MESSAGE_BUTTON_title" = "Hide";
+"STAGE_WINDOW_HIDE_STAGE_MESSAGE_BUTTON_title" = "隐藏";
 
 /* Button that shows the stage message on the output */
-"STAGE_WINDOW_SHOW_STAGE_MESSAGE_BUTTON_title" = "Show";
+"STAGE_WINDOW_SHOW_STAGE_MESSAGE_BUTTON_title" = "展示";
 
 
 /*
@@ -7109,138 +7109,138 @@ MESSAGES
 */
 
 /* Title for the messages window */
-"MESSAGES_WINDOW_title" = "Messages";
+"MESSAGES_WINDOW_title" = "消息";
 
 /* Name for a new message added by the user */
-"MESSAGES_WINDOW_NEW_MESSAGE_name" = "New Message";
+"MESSAGES_WINDOW_NEW_MESSAGE_name" = "新消息";
 
 /* Sample text for the default message. The format is name and room number. */
-"MESSAGES_WINDOW_SAMPLE_MESSAGE_text" = "%@, please come to room %@";
+"MESSAGES_WINDOW_SAMPLE_MESSAGE_text" = "%@, 请来 %@ 房间";
 
 /* Title for the clear all button */
-"MESSAGES_WINDOW_CLEAR_ALL_BUTTON_title" = "Clear All";
-"MESSAGES_WINDOW_CLEAR_ALL_BUTTON_tooltip" = "Clear All Messages";
+"MESSAGES_WINDOW_CLEAR_ALL_BUTTON_title" = "清除所有";
+"MESSAGES_WINDOW_CLEAR_ALL_BUTTON_tooltip" = "清除所有消息";
 
 /* Tooltip for button that clears a single message */
-"MESSAGES_WINDOW_CLEAR_MESSAGE_tooltip" = "Clear message";
+"MESSAGES_WINDOW_CLEAR_MESSAGE_tooltip" = "清除信息";
 
 /* Tooltip for button that shows web access to ProPresenter messages */
-"MESSAGES_WINDOW_SHOW_WEB_MESSAGES_tooltip" = "Show web access";
+"MESSAGES_WINDOW_SHOW_WEB_MESSAGES_tooltip" = "显示Web访问。";
 
 /* Tooltip for button that creates a new message */
-"MESSAGES_WINDOW_ADD_NEW_MESSAGE_BUTTON_tooltip" = "Create new message";
+"MESSAGES_WINDOW_ADD_NEW_MESSAGE_BUTTON_tooltip" = "创建新消息";
 
 /* Title for checkbox to enable or disable the web page allowing other computers to send message requests to ProPresenter */
-"MESSAGES_WINDOW_ALLOW_WEB_NOTIFICATIONS_BUTTON_title" = "Allow Web Notifications";
-"MESSAGES_WINDOW_ALLOW_WEB_NOTIFICATIONS_BUTTON_tooltip" = "Expose this message to the network";
+"MESSAGES_WINDOW_ALLOW_WEB_NOTIFICATIONS_BUTTON_title" = "允许Web通知";
+"MESSAGES_WINDOW_ALLOW_WEB_NOTIFICATIONS_BUTTON_tooltip" = "将此消息发送到网络";
 
 /* Tooltip for button to open the Messages editor for the currently selected message */
-"MESSAGES_WINDOW_EDIT_MESSAGE_BUTTON_tooltip" = "Edit Message";
+"MESSAGES_WINDOW_EDIT_MESSAGE_BUTTON_tooltip" = "编辑消息";
 
 /* Title for the request notification shown when a web message is received */
-"MESSAGES_WINDOW_REQUEST_title" = "Message Request";
+"MESSAGES_WINDOW_REQUEST_title" = "消息请求";
 
 /* Title for the network error alert */
-"MESSAGES_WINDOW_NETWORK_ALERT_title" = "Network Error";
+"MESSAGES_WINDOW_NETWORK_ALERT_title" = "网络错误";
 
 /* Label for the network error alert */
-"MESSAGES_WINDOW_NETWORK_ALERT_label" = "The current network has been turned off. Please go to the network settings in preferences to enable your network.";
+"MESSAGES_WINDOW_NETWORK_ALERT_label" = "目前的网络已关闭。请以首选项转到网络设置以启用您的网络。";
 
 /* Title for the name message token */
-"MESSAGES_WINDOW_TOKEN_NAME_title" = "Name";
+"MESSAGES_WINDOW_TOKEN_NAME_title" = "名称";
 
 /* Title for the first name message token */
-"MESSAGES_WINDOW_TOKEN_FIRST_NAME_title" = "First Name";
+"MESSAGES_WINDOW_TOKEN_FIRST_NAME_title" = "名";
 
 /* Title for the last name message token */
-"MESSAGES_WINDOW_TOKEN_LAST_NAME_title" = "Last Name";
+"MESSAGES_WINDOW_TOKEN_LAST_NAME_title" = "姓";
 
 /* Title for the plain text message token */
-"MESSAGES_WINDOW_TOKEN_MESSAGE_title" = "Message";
+"MESSAGES_WINDOW_TOKEN_MESSAGE_title" = "信息";
 
 /* Title for the room message token */
-"MESSAGES_WINDOW_TOKEN_ROOM_title" = "Room";
+"MESSAGES_WINDOW_TOKEN_ROOM_title" = "房间";
 
 /* Title for the system clock token */
-"MESSAGES_WINDOW_TOKEN_CLOCK_title" = "Clock";
+"MESSAGES_WINDOW_TOKEN_CLOCK_title" = "时钟";
 
 /* Title for the dismiss option */
-"MESSAGES_WINDOW_DISMISS_title" = "Dismiss:";
+"MESSAGES_WINDOW_DISMISS_title" = "忽略：";
 
 /* Title for the dismiss message manually option */
-"MESSAGES_WINDOW_DISMISS_OPTION_MANUAL_title" = "Manually";
+"MESSAGES_WINDOW_DISMISS_OPTION_MANUAL_title" = "手动";
 
 /* Title for the dismiss message after timer expires option, when the message only has one timer */
-"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIMER_EXPIRES_title" = "After Timer Expires";
+"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIMER_EXPIRES_title" = "计时器到期后";
 
 /* Title for the dismiss message after all timers expire option, when the message has multiple timers. Also shown for 0 timers. */
-"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIMERS_EXPIRE_title" = "After All Timers Expire";
+"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIMERS_EXPIRE_title" = "所有计时器到期后";
 
 /* Title for the dismiss message after time option */
-"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIME_title" = "After Time";
+"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIME_title" = "之后";
 
 /* Label for the dismiss message after n seconds option */
-"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIME_label" = "After %i seconds";
+"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIME_label" = "%i秒后";
 
 /* Title for the time options for the after time dismissal */
-"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIME_SECONDS_title" = "%i seconds";
+"MESSAGES_WINDOW_DISMISS_OPTION_AFTER_TIME_SECONDS_title" = "%i秒";
 
 /* Title for the message template */
-"MESSAGES_WINDOW_TEMPLATE_title" = "Theme:";
+"MESSAGES_WINDOW_TEMPLATE_title" = "主题：";
 
 /* Title for the show button */
-"MESSAGES_WINDOW_SHOW_BUTTON_title" = "Show";
+"MESSAGES_WINDOW_SHOW_BUTTON_title" = "显示";
 
 /* Label shown when no message is selected */
-"MESSAGES_WINDOW_NO_SELECTION_label" = "No Selection";
+"MESSAGES_WINDOW_NO_SELECTION_label" = "未选择";
 
 /* Label shown when no messages are available */
-"MESSAGES_WINDOW_NO_MESSAGES_label" = "No Messages";
+"MESSAGES_WINDOW_NO_MESSAGES_label" = "无消息";
 
 /* Tooltip for button that adds a user-customized token to the list of available tokens */
-"MESSAGES_WINDOW_ADD_CUSTOM_TOKEN_BUTTON_tooltip" = "Add Custom Token";
+"MESSAGES_WINDOW_ADD_CUSTOM_TOKEN_BUTTON_tooltip" = "添加自定义令牌";
 
 /* Title for checkbox that allows a timer to overrun when started from triggering a message */
-"MESSAGES_WINDOW_TIMER_OVERRUN_CHECKBOX_title" = "Overrun";
+"MESSAGES_WINDOW_TIMER_OVERRUN_CHECKBOX_title" = "超出";
 
 /* Title for the duration field for countdown timers */
-"MESSAGES_WINDOW_COUNTDOWN_DURATION_title" = "Duration";
+"MESSAGES_WINDOW_COUNTDOWN_DURATION_title" = "持续时间";
 
 /* Title for the time field for countdown to time timers */
-"MESSAGES_WINDOW_COUNTDOWN_TO_TIME_TIME_title" = "Time";
+"MESSAGES_WINDOW_COUNTDOWN_TO_TIME_TIME_title" = "时间";
 
 /* Title for the format field for countdown to time timers */
-"MESSAGES_WINDOW_COUNTDOWN_TO_TIME_FORMAT_title" = "Format";
+"MESSAGES_WINDOW_COUNTDOWN_TO_TIME_FORMAT_title" = "格式";
 
 /* Title for the starting time field for elapsed timers */
-"MESSAGES_WINDOW_ELAPSED_START_title" = "Start";
+"MESSAGES_WINDOW_ELAPSED_START_title" = "开始";
 
 /* Title for the ending time field for elapsed timers */
-"MESSAGES_WINDOW_ELAPSED_END_title" = "End";
+"MESSAGES_WINDOW_ELAPSED_END_title" = "结束";
 
 /* Title for the popup button that allows the user to change how the date is shown on the output */
-"MESSAGES_WINDOW_SYSTEM_CLOCK_DATE_FORMAT_title" = "Date Format";
+"MESSAGES_WINDOW_SYSTEM_CLOCK_DATE_FORMAT_title" = "日期格式";
 
 /* Title for the popup button that allows the user to change how the time is shown on the output */
-"MESSAGES_WINDOW_SYSTEM_CLOCK_TIME_FORMAT_title" = "Time Format";
+"MESSAGES_WINDOW_SYSTEM_CLOCK_TIME_FORMAT_title" = "时间格式";
 
 /* Title for checkbox that lets the user display the time in a 24-hour format (instead of 12-hour format) */
 "MESSAGES_WINDOW_SYSTEM_CLOCK_24_HOUR_FORMAT_title" = "24";
 
 /* Title for option to not show the date for the clock token */
-"MESSAGES_WINDOW_SYSTEM_CLOCK_NO_DATE_title" = "No Date";
+"MESSAGES_WINDOW_SYSTEM_CLOCK_NO_DATE_title" = "无日期";
 
 /* Title for option to not show the time for the clock token */
-"MESSAGES_WINDOW_SYSTEM_CLOCK_NO_TIME_title" = "No Time";
+"MESSAGES_WINDOW_SYSTEM_CLOCK_NO_TIME_title" = "无时间";
 
 /* Title for option to show 24 hour time for the clock token */
 "MESSAGES_WINDOW_SYSTEM_CLOCK_24_HOURS_CHECKBOX_title" = "24";
 
 /* Title for the messages notification. This pops up when someone uses a web request to send a request to display a message in ProPresenter. */
-"MESSAGES_NOTIFICATION_title" = "Message Request";
+"MESSAGES_NOTIFICATION_title" = "消息请求";
 
 /* Title for the button that shows the message. This appears in the notification popped up by the operating system to show we have a new message we can show on the output. */
-"MESSAGES_NOTIFICATION_SHOW_NOW_BUTTON_title" = "Show Now";
+"MESSAGES_NOTIFICATION_SHOW_NOW_BUTTON_title" = "立即显示";
 
 
 /*
@@ -7250,31 +7250,31 @@ DOWNLOAD_MANAGER
 */
 
 /* Title for the download manager window */
-"DOWNLOAD_MANAGER_title" = "Download Manager";
+"DOWNLOAD_MANAGER_title" = "下载管理器";
 
 /* Title for the filename column */
-"DOWNLOAD_MANAGER_COLUMN_FILENAME_title" = "File";
+"DOWNLOAD_MANAGER_COLUMN_FILENAME_title" = "文件";
 
 /* Title for the status column */
-"DOWNLOAD_MANAGER_COLUMN_STATUS_title" = "Status";
+"DOWNLOAD_MANAGER_COLUMN_STATUS_title" = "状态";
 
 /* Title for the size column */
-"DOWNLOAD_MANAGER_COLUMN_SIZE_title" = "Size";
+"DOWNLOAD_MANAGER_COLUMN_SIZE_title" = "大小";
 
 /* Title for the download speed column */
-"DOWNLOAD_MANAGER_COLUMN_DOWNLOAD_SPEED_title" = "Download Speed";
+"DOWNLOAD_MANAGER_COLUMN_DOWNLOAD_SPEED_title" = "下载速度";
 
 /* Title for the clear downloads button */
-"DOWNLOAD_MANAGER_CLEAR_DOWNLOADS_BUTTON_title" = "Clear Downloads";
+"DOWNLOAD_MANAGER_CLEAR_DOWNLOADS_BUTTON_title" = "清空下载";
 
 /* Title for the canceled status */
-"DOWNLOAD_MANAGER_STATUS_CANCELED_title" = "Canceled";
+"DOWNLOAD_MANAGER_STATUS_CANCELED_title" = "取消";
 
 /* Title for the completed status */
-"DOWNLOAD_MANAGER_STATUS_COMPLETED_title" = "Completed";
+"DOWNLOAD_MANAGER_STATUS_COMPLETED_title" = "完成";
 
 /* Title for the downloading status */
-"DOWNLOAD_MANAGER_STATUS_DOWNLOADING_title" = "Downloading…";
+"DOWNLOAD_MANAGER_STATUS_DOWNLOADING_title" = "下载中…";
 
 
 /*
