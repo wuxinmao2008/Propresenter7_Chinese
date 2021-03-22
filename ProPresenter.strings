@@ -7287,31 +7287,31 @@ TEXT_STYLE_POPOVER
 */
 
 /* The header label for the Font section of the text styles popover */
-"TEXT_STYLE_POPOVER_FONT_HEADER_label" = "Font";
+"TEXT_STYLE_POPOVER_FONT_HEADER_label" = "字体";
 /* The title for the control that sets capitalization styles */
-"TEXT_STYLE_POPOVER_FONT_CAPITALIZATION_CONTROL_title" = "Capitalization";
+"TEXT_STYLE_POPOVER_FONT_CAPITALIZATION_CONTROL_title" = "首字母大写";
 /* The title for the control that sets font size */
-"TEXT_STYLE_POPOVER_FONT_SIZE_CONTROL_title" = "Size";
+"TEXT_STYLE_POPOVER_FONT_SIZE_CONTROL_title" = "大小";
 /* The title for the popup button that lets the user select a font */
-"TEXT_STYLE_POPOVER_FONT_FAMILY_BUTTON_placeholder" = "Typeface";
+"TEXT_STYLE_POPOVER_FONT_FAMILY_BUTTON_placeholder" = "字体";
 /* The title for the popup button that lets the user select a font weight */
-"TEXT_STYLE_POPOVER_FONT_WEIGHT_BUTTON_placeholder" = "Weight";
+"TEXT_STYLE_POPOVER_FONT_WEIGHT_BUTTON_placeholder" = "粗细";
 
 /* The header label for the Stroke section of the text styles popover */
-"TEXT_STYLE_POPOVER_STROKE_HEADER_label" = "Stroke";
+"TEXT_STYLE_POPOVER_STROKE_HEADER_label" = "描边";
 /* The title for the control that changes the width of the text stroke */
-"TEXT_STYLE_POPOVER_STROKE_WIDTH_CONTROL_title" = "Width";
+"TEXT_STYLE_POPOVER_STROKE_WIDTH_CONTROL_title" = "宽度";
 
 /* The header label for the Shadow section of the text styles popover */
-"TEXT_STYLE_POPOVER_SHADOW_HEADER_label" = "Shadow";
+"TEXT_STYLE_POPOVER_SHADOW_HEADER_label" = "阴影";
 /* The title for the control that changes shadow blur */
-"TEXT_STYLE_POPOVER_SHADOW_BLUR_CONTROL_title" = "Blur";
+"TEXT_STYLE_POPOVER_SHADOW_BLUR_CONTROL_title" = "模糊";
 /* The title for the control that changes shadow opacity */
-"TEXT_STYLE_POPOVER_SHADOW_OPACITY_CONTROL_title" = "Opacity";
+"TEXT_STYLE_POPOVER_SHADOW_OPACITY_CONTROL_title" = "不透明度";
 /* The title for the control that changes shadow angle */
-"TEXT_STYLE_POPOVER_SHADOW_ANGLE_CONTROL_title" = "Angle";
+"TEXT_STYLE_POPOVER_SHADOW_ANGLE_CONTROL_title" = "角度";
 /* The title for the control that changes shadow offset */
-"TEXT_STYLE_POPOVER_SHADOW_OFFSET_CONTROL_title" = "Offset";
+"TEXT_STYLE_POPOVER_SHADOW_OFFSET_CONTROL_title" = "偏移";
 
 /*
 ------------------------------------------------------------------------------
@@ -7320,37 +7320,37 @@ APPLICATION_QUIT_ALERT_POPUP
 */
 
 /* Confirm user wants to quit ProPresenter */
-"APP_QUIT_CONFIRMATION_title" = "Are you sure you want to quit ProPresenter?";
+"APP_QUIT_CONFIRMATION_title" = "您确定要退出PropResenter吗？";
 
 /* Alert that screen capture upload is in progress */
-"APP_QUIT_STREAM_ACTIVE_ALERT_title" = "You have a current screen capture in progress. Quitting now will stop the capture.";
+"APP_QUIT_STREAM_ACTIVE_ALERT_title" = "您有一个当前的屏幕捕获正在进行中。退出将停止捕获。";
 
 /* The placeholder string for the new theme window's text field */
-"APP_QUIT_ANYWAYS_BUTTON_title" = "Quit Anyways";
+"APP_QUIT_ANYWAYS_BUTTON_title" = "强制退出";
 
 /* A button to quit immediately */
-"APP_QUIT_IMMEDIATELY_BUTTON_title" = "Quit Immediately";
+"APP_QUIT_IMMEDIATELY_BUTTON_title" = "立即退出";
 
 
 /* Resi Quit Alerts */
 
 /* Alert that resi file upload is in progress */
-"APP_QUIT_RESI_FILES_PENDING_ALERT_title" = "Resi files are being uploaded. Quitting now will stop the upload.";
+"APP_QUIT_RESI_FILES_PENDING_ALERT_title" = "Resi文件正在上传。退出将停止上传。";
 
 /* Alert button that if pressed we will quit after the upload of files is complete */
-"APP_QUIT_AFTER_RESI_FILES_UPLOAD_BUTTON_title" = "Quit After Upload Completes";
+"APP_QUIT_AFTER_RESI_FILES_UPLOAD_BUTTON_title" = "上传完成后退出";
 
 /* Alert that a resi stream is in progress */
-"APP_QUIT_RESI_STREAM_ACTIVE_ALERT_title" = "You have a current stream in progress and Resi files are being uploaded. Quitting now will stop the stream and upload.";
+"APP_QUIT_RESI_STREAM_ACTIVE_ALERT_title" = "您有一个正在进行的当前流，并正在上传Resi文件。退出将停止流并上传。";
 
 /* Alert button that if pressed we will quit the stream and wait for the upload to complete */
-"APP_QUIT_RESI_STREAM_ACTIVE_STOP_AND_UPLOAD_BUTTON_title" = "Stop Stream & Complete Upload";
+"APP_QUIT_RESI_STREAM_ACTIVE_STOP_AND_UPLOAD_BUTTON_title" = "停止流并结束上传";
 
 /* Alert message title when quitting and resi is still uploading files */
-"APP_QUIT_RESI_ABORT_UPLOAD_ALERT_title" = "Do you want to stop uploading your files?";
+"APP_QUIT_RESI_ABORT_UPLOAD_ALERT_title" = "你想停止上传你的文件吗？";
 
 /* Alert message info when quitting and resi is still uploading files */
-"APP_QUIT_RESI_ABORT_UPLOAD_ALERT_info" = "Aborting the upload will negatively impact the viewers' experience of your live event.";
+"APP_QUIT_RESI_ABORT_UPLOAD_ALERT_info" = "中断上传将对您的现场活动产生负面的体验。";
 
 /*
 ------------------------------------------------------------------------------
@@ -7359,10 +7359,10 @@ RESI_FILE_UPLOAD_ALERT
 */
 
 /* Alert title for when the Resi upload alert is shown */
-"RESI_FILE_UPLOAD_ALERT_UPLOADING_FILES_title" = "Uploading your Resi files";
+"RESI_FILE_UPLOAD_ALERT_UPLOADING_FILES_title" = "上传您的Resi文件";
 
 /* The one button in the Resi upload alert that will abort the upload */
-"RESI_FILE_UPLOAD_ALERT_UPLOADING_FILES_ABORT_BUTTON_title" = "Abort";
+"RESI_FILE_UPLOAD_ALERT_UPLOADING_FILES_ABORT_BUTTON_title" = "中断";
 
 /*
 ------------------------------------------------------------------------------
@@ -7371,172 +7371,172 @@ REGISTRATION
 */
 
 /* Watermark text when unregistered */
-"REGISTRATION_WATERMARK_TEXT_UNREGISTERED_label" = "Unregistered";
+"REGISTRATION_WATERMARK_TEXT_UNREGISTERED_label" = "未注册";
 
 /* Watermark text when registered but seat inactive */
-"REGISTRATION_WATERMARK_TEXT_SEAT_INACTIVE_label" = "Seat Inactive";
+"REGISTRATION_WATERMARK_TEXT_SEAT_INACTIVE_label" = "席位未激活";
 
 /* Label shown when ProPresenter is not registered */
-"REGISTRATION_WINDOW_NOT_REGISTERED_label" = "NOT REGISTERED";
+"REGISTRATION_WINDOW_NOT_REGISTERED_label" = "未注册!";
 
 /* Label to display the user to whom ProPresenter is registered */
-"REGISTRATION_WINDOW_REGISTERED_TO_label" = "Registered To";
+"REGISTRATION_WINDOW_REGISTERED_TO_label" = "注册到";
 
 /* Label to display the location of the current license (i.e. which disk this license is stored on) */
-"REGISTRATION_WINDOW_LICENSE_LOCATION_label" = "License Location";
+"REGISTRATION_WINDOW_LICENSE_LOCATION_label" = "许可证位置";
 
 /* Label to display the device name that is associated with the license */
-"REGISTRATION_WINDOW_DEVICE_NAME_label" = "Device Name";
+"REGISTRATION_WINDOW_DEVICE_NAME_label" = "设备名称";
 
 /* Label to display the date on which the ProPresenter+ license will expire */
-"REGISTRATION_WINDOW_MAINTENANCE_EXPIRATION_label" = "ProPresenter+ Expiration";
+"REGISTRATION_WINDOW_MAINTENANCE_EXPIRATION_label" = "ProPresenter+ 已到期";
 
 /* Label to display the expiration date of a non-ProPresenter+ license. This applies to trials and rentals */
-"REGISTRATION_WINDOW_EXPIRATION_DATE_label" = "Expiration Date";
+"REGISTRATION_WINDOW_EXPIRATION_DATE_label" = "截止日期";
 
 /* Label to display the number of seats available on the current license */
-"REGISTRATION_WINDOW_AVAILABLE_SEATS_label" = "Available Seats";
+"REGISTRATION_WINDOW_AVAILABLE_SEATS_label" = "可用席位";
 
 /* Label to show the number seats used / available */
-"REGISTRATION_WINDOW_SEATS_label" = "Seats";
+"REGISTRATION_WINDOW_SEATS_label" = "席位";
 
 /* Label for a license's basic seat type */
-"REGISTRATION_WINDOW_SEATS_TYPE_BASIC_label" = "Basic";
+"REGISTRATION_WINDOW_SEATS_TYPE_BASIC_label" = "基础版";
 
 /* Label for a license's advanced seat type */
-"REGISTRATION_WINDOW_SEATS_TYPE_ADVANCED_label" = "Advanced";
+"REGISTRATION_WINDOW_SEATS_TYPE_ADVANCED_label" = "高级版";
 
 /* Label for a license's inactive seat type */
-"REGISTRATION_WINDOW_SEATS_TYPE_INACTIVE_label" = "Inactive";
+"REGISTRATION_WINDOW_SEATS_TYPE_INACTIVE_label" = "未激活";
 
 /* Title for the purchase button */
-"REGISTRATION_WINDOW_PURCHASE_title" = "Purchase";
+"REGISTRATION_WINDOW_PURCHASE_title" = "购买";
 
 /* Title for the renew license button */
-"REGISTRATION_WINDOW_RENEW_title" = "Renew ProPresenter+";
+"REGISTRATION_WINDOW_RENEW_title" = "续费 ProPresenter+";
 
-"REGISTRATION_WINDOW_SEAT_label" = "Current Seat State:";
-"REGISTRATION_WINDOW_SEAT_ACTIVE_title" = "Active";
-"REGISTRATION_WINDOW_SEAT_INACTIVE_title" = "Inactive";
+"REGISTRATION_WINDOW_SEAT_label" = "当前席位状态：";
+"REGISTRATION_WINDOW_SEAT_ACTIVE_title" = "已激活";
+"REGISTRATION_WINDOW_SEAT_INACTIVE_title" = "未激活";
 
 /* Title for the register button */
-"REGISTRATION_WINDOW_REGISTER_title" = "Register";
+"REGISTRATION_WINDOW_REGISTER_title" = "注册";
 
 /* Title for the unregister button */
-"REGISTRATION_WINDOW_UNREGISTER_title" = "Unregister";
+"REGISTRATION_WINDOW_UNREGISTER_title" = "未注册";
 
 /* Label for the registration name text field */
-"REGISTRATION_WINDOW_REGISTRATION_NAME_label" = "Registration Name";
+"REGISTRATION_WINDOW_REGISTRATION_NAME_label" = "注册名称";
 
 /* Label for the unlock code text field */
-"REGISTRATION_WINDOW_UNLOCK_CODE_label" = "Unlock Code";
+"REGISTRATION_WINDOW_UNLOCK_CODE_label" = "解锁码";
 
 /* Subtext for the above alert */
-"REGISTRATION_SYSTEM_TIME_DISCREPANCY_ALERT_subtext" = "ProPresenter will now close.";
+"REGISTRATION_SYSTEM_TIME_DISCREPANCY_ALERT_subtext" = "ProPresenter 现在将关闭。";
 
 /* Title for the button to open the registration window */
-"REGISTRATION_OPEN_REGISTRATION_title" = "Open Registration";
+"REGISTRATION_OPEN_REGISTRATION_title" = "打开注册界面";
 
 /* Title for the button to show or install available updates */
-"REGISTRATION_UPDATE_AVAILABLE_BUTTON_title" = "1 Update Available";
-"REGISTRATION_UPDATES_AVAILABLE_BUTTON_title" = "%d Updates Available";
+"REGISTRATION_UPDATE_AVAILABLE_BUTTON_title" = "1个可用更新";
+"REGISTRATION_UPDATES_AVAILABLE_BUTTON_title" = "%d个可用更新";
 
 /* Title for the button to show or install available updates */
-"REGISTRATION_RENEWAL_DAY_REMAINING_BUTTON_title" = "1 Day Remaining";
-"REGISTRATION_RENEWAL_DAYS_REMAINING_BUTTON_title" = "%d Days Remaining";
-"REGISTRATION_RENEWAL_BUTTON_title" = "Renew ProPresenter+";
+"REGISTRATION_RENEWAL_DAY_REMAINING_BUTTON_title" = "剩余1天";
+"REGISTRATION_RENEWAL_DAYS_REMAINING_BUTTON_title" = "剩余%d天";
+"REGISTRATION_RENEWAL_BUTTON_title" = "续费 ProPresenter+";
 
 /* Title for the button to show seat currently inactive */
-"REGISTRATION_RENEWAL_SEAT_INACTIVE_title" = "Seat Inactive";
+"REGISTRATION_RENEWAL_SEAT_INACTIVE_title" = "席位为激活";
 
 /* Message shown when the user enters an invalid computer name during registration */
-"REGISTRATION_ERROR_INVALID_COMPUTER_NAME_ALERT_message" = "Invalid computer name";
+"REGISTRATION_ERROR_INVALID_COMPUTER_NAME_ALERT_message" = "计算机名称无效";
 
 /* Message shown when an error is encountered when trying to register ProPresenter. The informative text is one of the "info" strings after this line */
-"REGISTRATION_ERROR_ALERT_message" = "Registration Error";
+"REGISTRATION_ERROR_ALERT_message" = "注册错误";
 
 /* Alert info text for a registration error caused by an expired license key */
-"REGISTRATION_ERROR_EXPIRED_CODE_ALERT_info" = "The license associated with this code has expired.";
+"REGISTRATION_ERROR_EXPIRED_CODE_ALERT_info" = "与此代码关联的许可证已过期。";
 /* Alert info text for a registration error caused by a deactivated license key */
-"REGISTRATION_ERROR_DEACTIVATED_ALERT_info" = "This code has been deactivated.";
+"REGISTRATION_ERROR_DEACTIVATED_ALERT_info" = "此代码已被停用。";
 /* Alert info text for a registration error caused by a disabled license key */
-"REGISTRATION_ERROR_DISABLED_ALERT_info" = "This code has been disabled.";
+"REGISTRATION_ERROR_DISABLED_ALERT_info" = "此代码已被禁用。";
 /* Alert info text for a registration error caused when there are no seats left on this license (i.e. all seats are registered on other computers) */
-"REGISTRATION_ERROR_NO_REMAINING_SEATS_ALERT_info" = "No seats for this license are available.";
+"REGISTRATION_ERROR_NO_REMAINING_SEATS_ALERT_info" = "该许可证没有剩余的席位。";
 /* Alert info text for a registration error caused when there are no more copies of ProPresenter available on this license key */
-"REGISTRATION_ERROR_NO_REMAINING_COPIES_ALERT_info" = "No remaining copies for this license are available.";
+"REGISTRATION_ERROR_NO_REMAINING_COPIES_ALERT_info" = "此许可证没有剩余的副本可用。";
 /* Alert info text for a registration error caused by the given key not being found on the server */
-"REGISTRATION_ERROR_NOT_FOUND_ALERT_info" = "Could not find the license associated with this code.";
+"REGISTRATION_ERROR_NOT_FOUND_ALERT_info" = "找不到与此代码关联的许可证。";
 /* Alert info text for a registration error caused by an incorrect system time on the user's computer */
-"REGISTRATION_ERROR_TIME_DISCREPANCY_ALERT_info" = "The current system time is incompatible with the current license.";
+"REGISTRATION_ERROR_TIME_DISCREPANCY_ALERT_info" = "当前许可证与当前系统时间不兼容。";
 /* Alert info text for a registration error caused by not finding a Bible with a corresponding ID on the server */
-"REGISTRATION_ERROR_INVALID_BIBLE_ID_ALERT_info" = "This Bible could not be found.";
+"REGISTRATION_ERROR_INVALID_BIBLE_ID_ALERT_info" = "找不到这本圣经。";
 /* Alert info text for a registration error caused by the user trying to download a Bible they haven't purchased */
-"REGISTRATION_ERROR_BIBLE_NOT_PURCHASED_ALERT_info" = "This Bible could not be downloaded because it has not been purchased.";
+"REGISTRATION_ERROR_BIBLE_NOT_PURCHASED_ALERT_info" = "这个圣经无法下载，因为它尚未购买。";
 /* Alert info text for a registration error caused by the user trying to download a bible that is not activated on their license */
-"REGISTRATION_ERROR_BIBLE_ACTIVATION_NOT_FOUND_ALERT_info" = "This Bible could not be downloaded because it is not activated with the current license.";
+"REGISTRATION_ERROR_BIBLE_ACTIVATION_NOT_FOUND_ALERT_info" = "无法下载此圣经，因为它未与当前许可证一起激活。";
 /* Alert info text for a registration error caused by the user trying to download a bible that was deactivated on their license */
-"REGISTRATION_ERROR_BIBLE_DEACTIVATED_ALERT_info" = "This Bible could not be downloaded because it has been deactivated on the current license.";
+"REGISTRATION_ERROR_BIBLE_DEACTIVATED_ALERT_info" = "无法下载此圣经，因为它已在当前许可证上被停用。";
 /* Alert info text for an unknown registration error */
-"REGISTRATION_ERROR_UNKNOWN_ALERT_info" = "An unknown error occurred.";
+"REGISTRATION_ERROR_UNKNOWN_ALERT_info" = "出现未知错误。";
 /* Alert info text for a registration error caused by the user's primary volume (drive) on their computer not being detected */
-"REGISTRATION_ERROR_NO_BOOT_VOLUME_ALERT_info" = "Primary volume not detected";
+"REGISTRATION_ERROR_NO_BOOT_VOLUME_ALERT_info" = "未检测到的主分区";
 /* Alert info text for a registration error caused by the user being disconnected from the internet */
-"REGISTRATION_ERROR_NO_INTERNET_CONNECTION_ALERT_info" = "No internet connection";
+"REGISTRATION_ERROR_NO_INTERNET_CONNECTION_ALERT_info" = "没有网络连接";
 /* Alert info text for a registration error caused when ProPresenter cannot write the license information to the selected disk */
-"REGISTRATION_ERROR_UNABLE_TO_SAVE_LICENSE_ALERT_info" = "Unable to save license to disk";
+"REGISTRATION_ERROR_UNABLE_TO_SAVE_LICENSE_ALERT_info" = "无法将许可证保存到磁盘";
 /* Alert info text for a registration error caused when ProPresenter cannot delete the license information from the selected disk */
-"REGISTRATION_ERROR_UNABLE_TO_REMOVE_LICENSE_ALERT_info" = "Unable to remove license from disk";
+"REGISTRATION_ERROR_UNABLE_TO_REMOVE_LICENSE_ALERT_info" = "无法从磁盘中删除许可证";
 /* Alert info text for a registration error caused by an incorrect response from the registration server */
-"REGISTRATION_ERROR_BAD_RESPONSE_ALERT_info" = "Bad server response";
+"REGISTRATION_ERROR_BAD_RESPONSE_ALERT_info" = "错误的服务器响应";
 /* Alert info text for a registration error caused by an improperly formatted license key */
-"REGISTRATION_ERROR_INVALID_CODE_FORMAT_ALERT_info" = "This code has an invalid format";
+"REGISTRATION_ERROR_INVALID_CODE_FORMAT_ALERT_info" = "此代码格式无效";
 /* Alert info text for a registration error caused when ProPresenter is unable to find activation information */
-"REGISTRATION_ERROR_NO_ACTIVATION_FOUND_ALERT_info" = "No Activation Found";
+"REGISTRATION_ERROR_NO_ACTIVATION_FOUND_ALERT_info" = "找不到激活信息";
 /* Alert info text for when the user has changed their system clock */
-"REGISTRATION_ERROR_SYSTEM_CLOCK_ALTERED_ALERT_info" = "System clock has been modified. Reset to current date and time.";
+"REGISTRATION_ERROR_SYSTEM_CLOCK_ALTERED_ALERT_info" = "系统时钟已被修改。已重置当前日期和时间。";
 /* Alert info text for when the user has modified their system's hosts file */
-"REGISTRATION_ERROR_HOST_FILE_MODIFIED_ALERT_info" = "The host file has been modified and is no longer valid.";
+"REGISTRATION_ERROR_HOST_FILE_MODIFIED_ALERT_info" = "Host文件已被修改，不再有效。";
 
 /* Alert shown when the user tampers with the unregistered watermark */
-"REGISTRATION_WATERMARK_ALERT_message" = "The ProPresenter application has been damaged or modified";
-"REGISTRATION_WATERMARK_ALERT_info" = "Download a new copy from renewedvision.com";
+"REGISTRATION_WATERMARK_ALERT_message" = "Propresenter应用程序已被损坏或修改";
+"REGISTRATION_WATERMARK_ALERT_info" = "从renewedvision.com下载新副本";
 
 /* Alert shown at 30, 14 and 7 days prior to the license expiring */
-"REGISTRATION_WARNING_ALERT_message" = "ProPresenter+ is expiring soon!";
+"REGISTRATION_WARNING_ALERT_message" = "ProPresenter+ 很快就会到期！";
 
-"REGISTRATION_WARNING_EXPIRING_IN_N_DAYS_info" = "After %@ this license will no longer receive updates. Renew ProPresenter+ to continue receiving updates at renewedvision.com.";
-"REGISTRATION_WARNING_EXPIRED_N_DAYS_AGO_info" = "The license expired on %@ and is no longer receiving upates. Renew ProPresenter+ to continue receiving updates at renewedvision.com.";
+"REGISTRATION_WARNING_EXPIRING_IN_N_DAYS_info" = "%@后，此许可证将不再接收更新。 为了能接收RenewEdVision.com上更新，请续订Propresenter+。";
+"REGISTRATION_WARNING_EXPIRED_N_DAYS_AGO_info" = "许可证已在%@时过期，不再接收更新。 为了能接收RenewEdVision.com上更新，请续订Propresenter+。";
 
 /* Alert shown when no additional seats are available during registration */
-"REGISTRATION_WARNING_NO_SEATS_message" = "No additional seats are available with this license.";
-"REGISTRATION_WARNING_NO_SEATS_info" = "Register as inactive will add the registration to ProPresenter but mark the seat as inactive; therefore, the watermark will remain present.";
+"REGISTRATION_WARNING_NO_SEATS_message" = "本许可证没有额外的席位。";
+"REGISTRATION_WARNING_NO_SEATS_info" = "注册为非活动状态时，可以向Propresenter添加注册，但将席位标记为非活动。因此，演示时会存在水印。";
 
-"REGISTRATION_NO_SEATS_CANCEL_BUTTON_title" = "Cancel Registration";
-"REGISTRATION_NO_SEATS_PURCHASE_BUTTON_title" = "Purchase Seat";
-"REGISTRATION_NO_SEATS_INACTIVE_BUTTON_title" = "Register As Inactive";
+"REGISTRATION_NO_SEATS_CANCEL_BUTTON_title" = "取消注册";
+"REGISTRATION_NO_SEATS_PURCHASE_BUTTON_title" = "购买席位";
+"REGISTRATION_NO_SEATS_INACTIVE_BUTTON_title" = "注册为非活动";
 
 /* Alert shown when seat could not be activated */
-"REGISTRATION_WARNING_CHANGE_NO_SEATS_message" = "No additional seats are available with this license.";
-"REGISTRATION_WARNING_CHANGE_NO_SEATS_info" = "The seat will remain inactive; therefore, the watermark will remain present.";
+"REGISTRATION_WARNING_CHANGE_NO_SEATS_message" = "本许可证没有额外的席位。";
+"REGISTRATION_WARNING_CHANGE_NO_SEATS_info" = "席位处于为非活动状态。因此，演示时会存在水印。。";
 
-"REGISTRATION_NO_SEATS_CHANGE_CANCEL_BUTTON_title" = "Cancel";
-"REGISTRATION_NO_SEATS_CHANGE_PURCHASE_BUTTON_title" = "Purchase Seat";
+"REGISTRATION_NO_SEATS_CHANGE_CANCEL_BUTTON_title" = "取消";
+"REGISTRATION_NO_SEATS_CHANGE_PURCHASE_BUTTON_title" = "购买席位";
 
 /* Alert shown when changing a set to inactive to notify that watermarks will be seen */
-"REGISTRATION_WARNING_SEAT_INACTIVE_ALERT_message" = "Changing seat to inactive.";
-"REGISTRATION_WARNING_SEAT_INACTIVE_ALERT_info" = "While the seat is inactive a watermark will be visible on the outputs.";
+"REGISTRATION_WARNING_SEAT_INACTIVE_ALERT_message" = "改变席位为非活动。";
+"REGISTRATION_WARNING_SEAT_INACTIVE_ALERT_info" = "由于座位处于非活动状态，输出将看到水印。";
 
 /* Alert shown when the installed version of the application is newer than the license supports */
-"REGISTRATION_LICENSE_VERSION_message" = "The application version is newer than the current license supports.";
-"REGISTRATION_LICENSE_VERSION_info" = "Watermarks will be shown using the existing license or a new license may be purchased. Otherwise please re-install version %@.";
+"REGISTRATION_LICENSE_VERSION_message" = "应用程序版本比许可证支持的版本新。";
+"REGISTRATION_LICENSE_VERSION_info" = "使用现有许可证将显示水印。如不购买新许可证，请重新安装%@版本。";
 
-"REGISTRATION_LICENSE_VERSION_CONTINUE_BUTTON_title" = "Continue with Watermarks";
-"REGISTRATION_LICENSE_VERSION_PURCHASE_BUTTON_title" = "Purchase a New License";
-"REGISTRATION_LICENSE_VERSION_DOWNGRADE_BUTTON_title" = "Downgrade to %@";
+"REGISTRATION_LICENSE_VERSION_CONTINUE_BUTTON_title" = "继续使用（带水印)";
+"REGISTRATION_LICENSE_VERSION_PURCHASE_BUTTON_title" = "购买新许可证";
+"REGISTRATION_LICENSE_VERSION_DOWNGRADE_BUTTON_title" = "降低版本至 %@";
 
 /* The title for the in-app purchase window which lets the user buy a license for ProPresenter */
-"PURCHASE_WINDOW_title" = "Purchase";
+"PURCHASE_WINDOW_title" = "购买";
 
 
 /*
@@ -7548,111 +7548,111 @@ CALENDAR_VIEW
 */
 
 /* Title for the checkbox to enable the calendar */
-"CALENDAR_VIEW_ENABLED_title" = "Calendar Enabled";
+"CALENDAR_VIEW_ENABLED_title" = "启用日历";
 
 /* Label shown when there are no events */
-"CALENDAR_VIEW_NO_EVENT_label" = "No Events";
+"CALENDAR_VIEW_NO_EVENT_label" = "无事件";
 
 /* Default name for a new event */
-"CALENDAR_VIEW_NEW_EVENT_name" = "New Event";
+"CALENDAR_VIEW_NEW_EVENT_name" = "新建事件";
 
 /* Placeholder string for the event name's text field */
-"CALENDAR_VIEW_EVENT_NAME_placeholder" = "Event Name";
+"CALENDAR_VIEW_EVENT_NAME_placeholder" = "事件名称";
 
 /* Title for the past events section */
-"CALENDAR_VIEW_PAST_title" = "Past";
+"CALENDAR_VIEW_PAST_title" = "过去";
 
 /* Title for the current events section */
-"CALENDAR_VIEW_CURRENT_title" = "Current";
+"CALENDAR_VIEW_CURRENT_title" = "当前";
 
 /* Title for the upcoming events section */
-"CALENDAR_VIEW_UPCOMING_title" = "Upcoming";
+"CALENDAR_VIEW_UPCOMING_title" = "即将到来";
 
 /* Placeholder text for an event description */
-"CALENDAR_VIEW_EVENT_DESCRIPTION_placeholder" = "Description";
+"CALENDAR_VIEW_EVENT_DESCRIPTION_placeholder" = "描述";
 
 /* Title for the event schedule */
-"CALENDAR_VIEW_EVENT_SCHEDULE_title" = "Schedule";
+"CALENDAR_VIEW_EVENT_SCHEDULE_title" = "日程";
 
 /* Title for the button to jump to the currently triggered event */
-"CALENDAR_VIEW_GO_TO_CURRENT_BUTTON_title" = "Go To Current";
+"CALENDAR_VIEW_GO_TO_CURRENT_BUTTON_title" = "转到当前";
 
 /* Tooltips for the button which toggles between showing and hiding recurring events in the event list */
-"CALENDAR_VIEW_SHOW_REOCCURRING_EVENTS_BUTTON_tooltip" = "Show Reoccurring Events";
-"CALENDAR_VIEW_HIDE_REOCCURRING_EVENTS_BUTTON_tooltip" = "Hide Reoccurring Events";
+"CALENDAR_VIEW_SHOW_REOCCURRING_EVENTS_BUTTON_tooltip" = "显示重复事件";
+"CALENDAR_VIEW_HIDE_REOCCURRING_EVENTS_BUTTON_tooltip" = "隐藏重复事件";
 
 /* Label for the start date and time */
-"CALENDAR_VIEW_EVENT_STARTS_label" = "starts:";
+"CALENDAR_VIEW_EVENT_STARTS_label" = "开始：";
 
 /* Label for the days of week the event repeats */
-"CALENDAR_VIEW_EVENT_REPEATS_label" = "repeat:";
+"CALENDAR_VIEW_EVENT_REPEATS_label" = "重复：";
 
 /* Label for the Monday repeat option */
-"CALENDAR_VIEW_EVENT_REPEAT_MONDAY_label" = "Mon";
+"CALENDAR_VIEW_EVENT_REPEAT_MONDAY_label" = "星期一";
 
 /* Label for the Tuesday repeat option */
-"CALENDAR_VIEW_EVENT_REPEAT_TUESDAY_label" = "Tue";
+"CALENDAR_VIEW_EVENT_REPEAT_TUESDAY_label" = "星期二";
 
 /* Label for the Wednesday repeat option */
-"CALENDAR_VIEW_EVENT_REPEAT_WEDNESDAY_label" = "Wed";
+"CALENDAR_VIEW_EVENT_REPEAT_WEDNESDAY_label" = "星期三";
 
 /* Label for the Thursday repeat option */
-"CALENDAR_VIEW_EVENT_REPEAT_THURSDAY_label" = "Thu";
+"CALENDAR_VIEW_EVENT_REPEAT_THURSDAY_label" = "星期四";
 
 /* Label for the Friday repeat option */
-"CALENDAR_VIEW_EVENT_REPEAT_FRIDAY_label" = "Fri";
+"CALENDAR_VIEW_EVENT_REPEAT_FRIDAY_label" = "星期五";
 
 /* Label for the Saturday repeat option */
-"CALENDAR_VIEW_EVENT_REPEAT_SATURDAY_label" = "Sat";
+"CALENDAR_VIEW_EVENT_REPEAT_SATURDAY_label" = "星期六";
 
 /* Label for the Sunday repeat option */
-"CALENDAR_VIEW_EVENT_REPEAT_SUNDAY_label" = "Sun";
+"CALENDAR_VIEW_EVENT_REPEAT_SUNDAY_label" = "星期日";
 
 /* Label for the end date and time */
-"CALENDAR_VIEW_EVENT_ENDS_label" = "ends on:";
+"CALENDAR_VIEW_EVENT_ENDS_label" = "结束：";
 
 /* Title for the event action */
-"CALENDAR_VIEW_EVENT_ACTION_title" = "Action";
+"CALENDAR_VIEW_EVENT_ACTION_title" = "行动";
 
 /* Title for the no action option */
-"CALENDAR_VIEW_EVENT_ACTION_NONE_title" = "None";
+"CALENDAR_VIEW_EVENT_ACTION_NONE_title" = "无";
 
 /* Title for the button for testing the event */
-"CALENDAR_VIEW_EVENT_ACTION_TEST_BUTTON_title" = "Test";
+"CALENDAR_VIEW_EVENT_ACTION_TEST_BUTTON_title" = "测试";
 
 /* Title for the alert when changing a repeat event */
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_title" = "Changing repeating event";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_title" = "更改重复事件";
 
 /* Description for the alert when changing a repeat event */
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_description" = "This event is repeating. Do you want to change this event only, or this and all future events?";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_description" = "此事件重复。您是否只想更改此事件，或者此类和所有未来事件？";
 
 /* Title for the all future events button */
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_ALL_FUTURE_EVENTS_BUTTON_title" = "All Future Events";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_ALL_FUTURE_EVENTS_BUTTON_title" = "所有未来的事件";
 
 /* Title for the only this event button */
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_ONLY_THIS_EVENT_BUTTON_title" = "Only this Event";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_ONLY_THIS_EVENT_BUTTON_title" = "只有当前事件";
 
 /* Title for the alert when changing the type of a repeat event */
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_TYPE_title" = "Changing event's repeat type";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_TYPE_title" = "更改事件的重复类型";
 
 /* Description for the alert when changing the type of a repeat event */
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_TYPE_description" = "This will change all future occurrences of the event. Are you sure you want to continue?";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_TYPE_description" = "这将改变所有未来发生的事件。确定要继续吗？";
 
 /* Title for the alert when deleting a repeat event */
-"CALENDAR_VIEW_ALERT_DELETE_REPEAT_EVENT_title" = "Deleting Event";
+"CALENDAR_VIEW_ALERT_DELETE_REPEAT_EVENT_title" = "删除事件";
 
 /* Description for the alert when deleting a repeat event */
-"CALENDAR_VIEW_ALERT_DELETE_REPEAT_EVENT_description" = "This event is repeating. Do you want to delete only this occurrence, or all occurrences?";
+"CALENDAR_VIEW_ALERT_DELETE_REPEAT_EVENT_description" = "此事件为重复事件。您是否只想删除此次事件，或是所有事件？";
 
 /* Title for the All Occurrences button */
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_TYPE_ALL_OCCURRENCES_BUTTON_title" = "All Occurrences";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_TYPE_ALL_OCCURRENCES_BUTTON_title" = "所有事件";
 
 /* Title for the Only This Occurrence button */
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_TYPE_ONLY_THIS_OCCURRENCE_BUTTON_title" = "Only This Occurrence";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_EVENT_TYPE_ONLY_THIS_OCCURRENCE_BUTTON_title" = "只有此次事件";
 
 /* Alert message shown when the event's end date is changed before the selected event occurrence is scheduled */
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_DATE_END_CHANGE_message" = "Changing event's end date before this occurrence.";
-"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_DATE_END_CHANGE_info" = "This will delete your currently selected occurrence. Are you sure you want to continue?";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_DATE_END_CHANGE_message" = "在此发生之前更改事件的结束日期。";
+"CALENDAR_VIEW_ALERT_CHANGE_REPEAT_DATE_END_CHANGE_info" = "这将删除您当前所选的事件。你确定你要继续吗？";
 
 
 /*
@@ -7665,104 +7665,104 @@ BIBLE
 */
 
 /* Title for a bible book */
-"BIBLE_BOOK_title" = "Book";
+"BIBLE_BOOK_title" = "书";
 
 /* Title for a bible chapter */
-"BIBLE_CHAPTER_title" = "Chapter";
+"BIBLE_CHAPTER_title" = "章节";
 
 /* Title for a bible verse */
-"BIBLE_VERSE_title" = "Verse";
+"BIBLE_VERSE_title" = "诗";
 
 /* Title for a bible reference */
-"BIBLE_REFERENCE_title" = "Reference";
+"BIBLE_REFERENCE_title" = "参考";
 
 /* Label for the name of the bible shown in the info popover */
-"BIBLE_INFO_VIEW_NAME_label" = "Bible:";
+"BIBLE_INFO_VIEW_NAME_label" = "圣经：";
 
 /* Label for the abbreviation of the bible shown in the info popover */
-"BIBLE_INFO_VIEW_ABBREVIATION_label" = "Abbreviation:";
+"BIBLE_INFO_VIEW_ABBREVIATION_label" = "缩写：";
 
 /* Label for the version of the bible shown in the info popover */
-"BIBLE_INFO_VIEW_VERSION_label" = "Version:";
+"BIBLE_INFO_VIEW_VERSION_label" = "版本：";
 
 /* Label for the revision of the bible shown in the info popover */
-"BIBLE_INFO_VIEW_REVISION_label" = "Revision:";
+"BIBLE_INFO_VIEW_REVISION_label" = "修订：";
 
 /* Label for the copyright of the bible shown in the info popover */
-"BIBLE_INFO_VIEW_COPYRIGHT_label" = "Copyright:";
+"BIBLE_INFO_VIEW_COPYRIGHT_label" = "版权：";
 
 /* Alert shown when the user selects a Bible template that doesn't have any text elements on it */
-"BIBLE_TEMPLATE_INVALID_ALERT_message" = "Template Has No Elements";
-"BIBLE_TEMPLATE_INVALID_ALERT_info" = "Templates used for Bibles must have at least one element.";
+"BIBLE_TEMPLATE_INVALID_ALERT_message" = "模板没有元素";
+"BIBLE_TEMPLATE_INVALID_ALERT_info" = "用于圣经的模板必须具有至少一个元素。";
 
 /* Label shown when there are no search results */
-"BIBLE_HEADER_NO_SEARCH_RESULTS_label" = "No Search Results";
+"BIBLE_HEADER_NO_SEARCH_RESULTS_label" = "无搜索结果";
 
 /* Label shown when there are no bibles installed */
-"BIBLE_HEADER_NO_BIBLE_INSTALLED_label" = "No Bibles Installed";
+"BIBLE_HEADER_NO_BIBLE_INSTALLED_label" = "没有安装圣经";
 
 /* Placeholder for the scripture lookup field */
-"BIBLE_HEADER_SCRIPTURE_LOOKUP_placeholder" = "Scripture Lookup";
+"BIBLE_HEADER_SCRIPTURE_LOOKUP_placeholder" = "查找圣经";
 
 /* Placeholder for the search field */
-"BIBLE_HEADER_SEARCH_placeholder" = "Search";
+"BIBLE_HEADER_SEARCH_placeholder" = "搜索";
 
 /* Title for button that opens the bible options view */
-"BIBLE_HEADER_OPTIONS_BUTTON_title" = "Options";
+"BIBLE_HEADER_OPTIONS_BUTTON_title" = "选项";
 
 /* Title for the button that open the bible license info view */
-"BIBLE_HEADER_LICENSE_BUTTON_title" = "License";
+"BIBLE_HEADER_LICENSE_BUTTON_title" = "许可";
 
 /* Title for the option to include the reference with the verse text */
-"BIBLE_HEADER_WITH_VERSE_title" = "With Verse";
+"BIBLE_HEADER_WITH_VERSE_title" = "含诗歌";
 
 /* Placeholder title for a text box that doesn't have its own title */
-"BIBLE_HEADER_UNTITLED_TEXT_BOX_title" = "(Untitled text box)";
+"BIBLE_HEADER_UNTITLED_TEXT_BOX_title" = "(无标题文本框)";
 
 /* Title for the save button */
-"BIBLE_FOOTER_SAVE_AS_label" = "Save As…";
+"BIBLE_FOOTER_SAVE_AS_label" = "另存为…";
 
 /* Title for the save as presentation menu option */
-"BIBLE_FOOTER_SAVE_AS_MENU_PRESENTATION_title" = "Save As Presentation";
+"BIBLE_FOOTER_SAVE_AS_MENU_PRESENTATION_title" = "另存为演示文稿";
 
 /* Title for the copy to selected presentation menu option */
-"BIBLE_FOOTER_SAVE_AS_MENU_COPY_TO_PRESENTATION_title" = "Copy to Selected Presentation";
+"BIBLE_FOOTER_SAVE_AS_MENU_COPY_TO_PRESENTATION_title" = "复制到选定的演示文稿";
 
 /* Title for the save to playlist menu option */
-"BIBLE_FOOTER_SAVE_AS_MENU_PLAYLIST_title" = "Save to Playlist";
+"BIBLE_FOOTER_SAVE_AS_MENU_PLAYLIST_title" = "保存到播放列表";
 
 /* Title for the buttons that add either the next or previous verse. These are accompanied by an image arrow. */
-"BIBLE_FOOTER_ADD_VERSE_BUTTON_title" = "Verse";
+"BIBLE_FOOTER_ADD_VERSE_BUTTON_title" = "诗句";
 
 /* Tooltip for the footer button that adds the next verse to the range of selected scripture */
-"BIBLE_FOOTER_ADD_NEXT_VERSE_BUTTON_tooltip" = "Add next verse";
+"BIBLE_FOOTER_ADD_NEXT_VERSE_BUTTON_tooltip" = "添加下一个诗句";
 
 /* Tooltip for the footer button that adds the previous verse to the range of selected scripture */
-"BIBLE_FOOTER_ADD_PREVIOUS_VERSE_BUTTON_tooltip" = "Add previous verse";
+"BIBLE_FOOTER_ADD_PREVIOUS_VERSE_BUTTON_tooltip" = "添加上一个诗句";
 
 /* Title for the slide options tab */
-"BIBLE_SETTINGS_SLIDE_OPTIONS_TAB_title" = "Slide Options";
+"BIBLE_SETTINGS_SLIDE_OPTIONS_TAB_title" = "幻灯片选项";
 
 /* Title for the option to show verse numbers */
-"BIBLE_SETTINGS_SLIDE_OPTIONS_SHOW_VERSE_NUMBERS_title" = "Show Verse Numbers";
+"BIBLE_SETTINGS_SLIDE_OPTIONS_SHOW_VERSE_NUMBERS_title" = "显示章节";
 
 /* Tooltip for the option to show verse numbers */
-"BIBLE_SETTINGS_SLIDE_OPTIONS_SHOW_VERSE_NUMBERS_tooltip" = "Display superscript verse numbers at the start of each verse.";
+"BIBLE_SETTINGS_SLIDE_OPTIONS_SHOW_VERSE_NUMBERS_tooltip" = "在每节经文开始处，用上标显示章节号。";
 
 /* Title for the option to break on new verse */
-"BIBLE_SETTINGS_SLIDE_OPTIONS_BREAK_ON_NEW_VERSE_title" = "Break on New Verse";
+"BIBLE_SETTINGS_SLIDE_OPTIONS_BREAK_ON_NEW_VERSE_title" = "新章节处隔开";
 
 /* Tooltip for the option to break on new verse */
-"BIBLE_SETTINGS_SLIDE_OPTIONS_BREAK_ON_NEW_VERSE_tooltip" = "Start a new slide for each verse.";
+"BIBLE_SETTINGS_SLIDE_OPTIONS_BREAK_ON_NEW_VERSE_tooltip" = "为每节经文开始新的幻灯片。";
 
 /* Title for the option to display the bible's translation */
-"BIBLE_SETTINGS_SLIDE_OPTIONS_DISPLAY_TRANSLATION_title" = "Display Translation";
+"BIBLE_SETTINGS_SLIDE_OPTIONS_DISPLAY_TRANSLATION_title" = "显示翻译";
 
 /* Tooltip for the option to display the bible's translation */
-"BIBLE_SETTINGS_SLIDE_OPTIONS_DISPLAY_TRANSLATION_tooltip" = "Append Bible translation abbreviation to each reference";
+"BIBLE_SETTINGS_SLIDE_OPTIONS_DISPLAY_TRANSLATION_tooltip" = "将圣经翻译缩写附加到每个参考文献";
 
 /* Title for the option to preserve font color */
-"BIBLE_SETTINGS_SLIDE_OPTIONS_PRESERVE_FONT_COLOR_title" = "Preserve Font Color";
+"BIBLE_SETTINGS_SLIDE_OPTIONS_PRESERVE_FONT_COLOR_title" = "保留字体颜色";
 
 /* Tooltip for the option to preserve font color */
 "BIBLE_SETTINGS_SLIDE_OPTIONS_PRESERVE_FONT_COLOR_tooltip" = "Override the template font color with the bible's font color. This preserves red lettered text.";
