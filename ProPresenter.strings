@@ -8688,94 +8688,94 @@ EXPORT
 "EXPORT_BUTTON_title" = "导出";
 
 /* Alert shown when the user tries to export files without having any files selected */
-"EXPORT_ALERT_NO_DOCUMENTS_SELECTED_message" = "No documents selected";
+"EXPORT_ALERT_NO_DOCUMENTS_SELECTED_message" = "没有选择文件";
 
 /* Title of the export dialog where the user can choose where to save the exported files */
-"EXPORT_DIALOG_title" = "Choose Export Destination";
+"EXPORT_DIALOG_title" = "选择导出位置";
 
 /* Placeholder for the save panel's file name */
-"EXPORT_DIALOG_FILE_NAME_placeholder" = "ProPresenter Export";
+"EXPORT_DIALOG_FILE_NAME_placeholder" = "导出演示文稿";
 
 /* Title for the export bundle dialog */
-"EXPORT_BUNDLE_title" = "Export Bundle";
+"EXPORT_BUNDLE_title" = "导出编组";
 
 /* Label for the progress indication of bundling presentations. This is shown when we're preparing the data to be written out to disk. */
-"EXPORT_BUNDLE_PROGRESS_BUNDLING_label" = "Bundling %@";
+"EXPORT_BUNDLE_PROGRESS_BUNDLING_label" = "编组 %@";
 
 /* Label for the progress indication of bundling presentations. This is shown when we're actively writing out the data to the disk. */
-"EXPORT_BUNDLE_PROGRESS_SAVING_label" = "Saving Bundle";
+"EXPORT_BUNDLE_PROGRESS_SAVING_label" = "正在保存编组";
 
 /* Title for the export images dialog */
-"EXPORT_IMAGES_title" = "Save";
+"EXPORT_IMAGES_title" = "保存";
 
 /* Label for the filename field */
-"EXPORT_IMAGES_SAVE_AS_label" = "Save As:";
+"EXPORT_IMAGES_SAVE_AS_label" = "另存为：";
 
 /* Placeholder file name when exporting slide images from multiple presentations at once */
-"EXPORT_IMAGES_FILENAME_placeholder" = "Slide Images";
+"EXPORT_IMAGES_FILENAME_placeholder" = "幻灯片图像";
 
 /* Label for the JPEG format option */
-"EXPORT_IMAGES_FORMAT_JPEG_label" = "JPEG (with slide background color)";
+"EXPORT_IMAGES_FORMAT_JPEG_label" = "JPEG (带幻灯片背景颜色)";
 
 /* Label for the PNG format option */
-"EXPORT_IMAGES_FORMAT_PNG_label" = "PNG (without slide background color)";
+"EXPORT_IMAGES_FORMAT_PNG_label" = "PNG (不带幻灯片背景颜色)";
 
 /* Label for the option to include media in the images */
-"EXPORT_IMAGES_INCLUDE_MEDIA_label" = "Include Media Actions";
+"EXPORT_IMAGES_INCLUDE_MEDIA_label" = "包括媒体动画";
 
 /* Label for the progress indication of exporting slide images. %@ is the presentation name. %i/%i is the current number of exported images and the total number of slides to export. */
-"EXPORT_IMAGES_PROGRESS_label" = "Exporting images for %@ (%i/%i)";
+"EXPORT_IMAGES_PROGRESS_label" = "z正在导出图像 %@ (%i/%i)";
 
 /* Label for the presentation title when exporting to plaintext */
-"EXPORT_TEXT_PRESENTATION_TITLE_label" = "Title: %@";
+"EXPORT_TEXT_PRESENTATION_TITLE_label" = "标题： %@";
 
 /* Title for the checkbox to include media files used by presentations within the playlist we're trying to export */
-"EXPORT_PLAYLISTS_INCLUDE_MEDIA_BUTTON_title" = "Include media within presentations";
+"EXPORT_PLAYLISTS_INCLUDE_MEDIA_BUTTON_title" = "含媒体";
 
 /* Title for the export progress dialog */
-"EXPORT_PROGRESS_title" = "Exporting";
+"EXPORT_PROGRESS_title" = "正在导出";
 
 /* Label to display the current item being exported */
-"EXPORT_PROGRESS_EXPORTING_label" = "Exporting %@";
+"EXPORT_PROGRESS_EXPORTING_label" = "正在导出 %@";
 
 /* Title for the export theme dialog */
-"EXPORT_THEMES_title" = "Export Themes";
+"EXPORT_THEMES_title" = "导出主题";
 
 /* Name for the file to export themes */
-"EXPORT_THEMES_FILE_name" = "Theme";
+"EXPORT_THEMES_FILE_name" = "主题";
 
 /* Label for the table to select themes to export */
-"EXPORT_THEMES_SELECT_THEMES_label" = "Select Themes to Export";
+"EXPORT_THEMES_SELECT_THEMES_label" = "选择要导出的主题";
 
 /* Label portion of the "Select All/None" control */
-"EXPORT_THEMES_SELECT_label" = "Select";
+"EXPORT_THEMES_SELECT_label" = "选择";
 
 /* Button to select all of the list of themes. Part of the "Select All/None" control. */
-"EXPORT_THEMES_SELECT_ALL_BUTTON_title" = "All";
+"EXPORT_THEMES_SELECT_ALL_BUTTON_title" = "全部";
 
 /* Button to select none from the list of themes. Part of the "Select All/None" control. */
-"EXPORT_THEMES_SELECT_NONE_BUTTON_title" = "None";
+"EXPORT_THEMES_SELECT_NONE_BUTTON_title" = "无";
 
 /* Alert shown when there was a problem opening the document we're trying to export */
-"EXPORT_ERROR_DOCUMENT_LOAD_message" = "There was a problem loading a document to export";
-"EXPORT_ERROR_DOCUMENT_LOAD_info" = "There was a problem opening the document at %@";
+"EXPORT_ERROR_DOCUMENT_LOAD_message" = "加载要导出文档时出现错误";
+"EXPORT_ERROR_DOCUMENT_LOAD_info" = "加载要导出的文档%@时出现错误 ";
 
 /* Alert shown when there was a problem with the URL pointing to the document we're trying to export */
-"EXPORT_ERROR_DOCUMENT_URL_message" = "There was a problem loading a document to export";
-"EXPORT_ERROR_DOCUMENT_URL_info" = "There was a problem finding the document named %@";
+"EXPORT_ERROR_DOCUMENT_URL_message" = "加载要导出文档时出现错误";
+"EXPORT_ERROR_DOCUMENT_URL_info" = "加载名为 %@ 的文档时出现错误";
 
 /* Alert shown when we weren't able to write a slide image to disk (exporting slide images) */
-"EXPORT_ERROR_SAVE_SLIDE_IMAGE_message" = "There was a problem saving a slide image";
-"EXPORT_ERROR_SAVE_SLIDE_IMAGE_info" = "Couldn't save a slide image to %@";
+"EXPORT_ERROR_SAVE_SLIDE_IMAGE_message" = "保存幻灯片图像时出现错误";
+"EXPORT_ERROR_SAVE_SLIDE_IMAGE_info" = "无法将幻灯片图像保存到 %@";
 
 /* Alert shown when we weren't able to create a directory to export files to */
-"EXPORT_ERROR_CREATE_DIRECTORY_message" = "There was a problem creating a directory";
-"EXPORT_ERROR_CREATE_DIRECTORY_info" = "Couldn't create a directory at %@";
+"EXPORT_ERROR_CREATE_DIRECTORY_message" = "创建目录时出错";
+"EXPORT_ERROR_CREATE_DIRECTORY_info" = "无法在 %@ 创建目录";
 
 /* Alert shown when there were multiple errors during export. There is no specific info text for this alert. */
-"EXPORT_ERROR_MULTIPLE_ERRORS_message" = "There were problems exporting files";
+"EXPORT_ERROR_MULTIPLE_ERRORS_message" = "导出文件时出错";
 
-"EXPORT_ERROR_GENERAL_ERROR_message" = "There was a problem exporting %@";
+"EXPORT_ERROR_GENERAL_ERROR_message" = "导出文件 %@ 时出错";
 
 /*
 ------------------------------------------------------------------------------
@@ -8792,226 +8792,226 @@ IMPORT
 */
 
 /* Title for the import file window */
-"IMPORT_TEXT_title" = "Import";
+"IMPORT_TEXT_title" = "导入";
 
 /* Label for the text parsing section */
-"IMPORT_TEXT_PARSING_label" = "Parsing";
+"IMPORT_TEXT_PARSING_label" = "正在解析";
 
 /* Label for specifying which delimiter to use when parsing text */
-"IMPORT_TEXT_SLIDE_DELIMITER_label" = "Slides delimited by";
+"IMPORT_TEXT_SLIDE_DELIMITER_label" = "幻灯片分隔";
 
 /* Label for specifying the number of delimiters to use before breaking to a new slide */
-"IMPORT_TEXT_SLIDE_DELIMITER_COUNT_label" = "delimiters per slide";
+"IMPORT_TEXT_SLIDE_DELIMITER_COUNT_label" = "分隔每个幻灯片";
 
 /* Label for the option to break on blank lines. Also called a paragraph break. */
-"IMPORT_TEXT_BREAK_MODE_BLANK_LINE_label" = "Paragraph Break";
+"IMPORT_TEXT_BREAK_MODE_BLANK_LINE_label" = "空行";
 
 /* Label for the option to break on new lines */
-"IMPORT_TEXT_BREAK_MODE_NEW_LINE_label" = "Line Break";
+"IMPORT_TEXT_BREAK_MODE_NEW_LINE_label" = "换行符";
 
 /* Label for the presentation options section */
-"IMPORT_TEXT_PRESENTATION_label" = "Presentation";
+"IMPORT_TEXT_PRESENTATION_label" = "演示";
 
 /* Label for the size option */
-"IMPORT_TEXT_PRESENTATION_SIZE_label" = "Size";
+"IMPORT_TEXT_PRESENTATION_SIZE_label" = "大小";
 
 /* Label for the theme option */
-"IMPORT_TEXT_PRESENTATION_THEME_label" = "Theme";
+"IMPORT_TEXT_PRESENTATION_THEME_label" = "主题";
 
 /* Title of the popup window where the user can select a library into which we will import files */
-"IMPORT_TEXT_DESTINATION_LIBRARY_WINDOW_title" = "Library Selection";
+"IMPORT_TEXT_DESTINATION_LIBRARY_WINDOW_title" = "选择库";
 
 /* A description for the library selection popup window */
-"IMPORT_TEXT_DESTINATION_LIBRARY_WINDOW_description" = "Choose a library to import into";
+"IMPORT_TEXT_DESTINATION_LIBRARY_WINDOW_description" = "选择要导入的库";
 
 /* Label for specifying the destination of the import */
-"IMPORT_TEXT_DESTINATION_label" = "Destination";
+"IMPORT_TEXT_DESTINATION_label" = "目标位置";
 
 /* Label for selecting the library into which the presentation will import */
-"IMPORT_TEXT_DESTINATION_LIBRARY_label" = "Library";
+"IMPORT_TEXT_DESTINATION_LIBRARY_label" = "库";
 
 /* Label for selecting the playlist into which the presentation will import */
-"IMPORT_TEXT_DESTINATION_PLAYLIST_label" = "Playlist";
+"IMPORT_TEXT_DESTINATION_PLAYLIST_label" = "播放列表";
 
 /* Title for the edit button */
-"IMPORT_TEXT_EDIT_title" = "Edit";
+"IMPORT_TEXT_EDIT_title" = "编辑";
 
 /* Title for the import button */
-"IMPORT_TEXT_IMPORT_title" = "Import";
+"IMPORT_TEXT_IMPORT_title" = "导入";
 
 /* Title for the button to import all pending files */
-"IMPORT_TEXT_IMPORT_ALL_title" = "Import All";
+"IMPORT_TEXT_IMPORT_ALL_title" = "全部导入";
 
 /* Title for the import button */
-"IMPORT_EDITOR_IMPORT_title" = "Import";
+"IMPORT_EDITOR_IMPORT_title" = "导入";
 
 /* Label for the presentation title */
-"IMPORT_EDITOR_TITLE_label" = "Title";
+"IMPORT_EDITOR_TITLE_label" = "标题";
 
 /* Label for the presentation copyright artist */
-"IMPORT_EDITOR_COPYRIGHT_ARTIST_label" = "Artist";
+"IMPORT_EDITOR_COPYRIGHT_ARTIST_label" = "艺术家";
 
 /* Label for the presentation copyright author */
-"IMPORT_EDITOR_COPYRIGHT_AUTHOR_label" = "Author";
+"IMPORT_EDITOR_COPYRIGHT_AUTHOR_label" = "作者";
 
 /* Label for the presentation copyright publisher */
-"IMPORT_EDITOR_COPYRIGHT_PUBLISHER_label" = "Publisher";
+"IMPORT_EDITOR_COPYRIGHT_PUBLISHER_label" = "发行商";
 
 /* Label for the presentation copyright song number */
 "IMPORT_EDITOR_COPYRIGHT_CCLI_label" = "CCLI #";
 
 /* Label for the presentation copyright year */
-"IMPORT_EDITOR_COPYRIGHT_YEAR_label" = "© Year";
+"IMPORT_EDITOR_COPYRIGHT_YEAR_label" = "© 年";
 
 /* Label for the option to display copyright information on slides */
-"IMPORT_EDITOR_COPYRIGHT_DISPLAY_label" = "Display Copyright";
-"IMPORT_EDITOR_COPYRIGHT_DISPLAY_tooltip" = "Display copyright info according to preference settings";
+"IMPORT_EDITOR_COPYRIGHT_DISPLAY_label" = "显示版权";
+"IMPORT_EDITOR_COPYRIGHT_DISPLAY_tooltip" = "根据偏好设置显示版权信息";
 
 /* Label for the presentation theme */
-"IMPORT_EDITOR_THEME_label" = "Theme";
+"IMPORT_EDITOR_THEME_label" = "主题";
 
 /* Title for the button in the file open panel that imports the selected media */
-"IMPORT_MEDIA_BUTTON_title" = "Import";
+"IMPORT_MEDIA_BUTTON_title" = "导入";
 
 /* Title for the window which shows progress when importing media. */
-"IMPORT_MEDIA_PROGRESS_WINDOW_title" = "Media import progress";
+"IMPORT_MEDIA_PROGRESS_WINDOW_title" = "媒体导入进度";
 
 /* Title for the import progress window */
-"IMPORT_PROGRESS_title" = "Importing Presentations";
+"IMPORT_PROGRESS_title" = "正在导入演示文稿";
 
 /* Label for import progress when importing several files. %i is the percent of files imported. */
-"IMPORT_PROGRESS_PERCENTAGE_label" = "%i%% complete…";
+"IMPORT_PROGRESS_PERCENTAGE_label" = "%i%% 已完成";
 
 /* Label displaying the current item being imported */
-"IMPORT_PROGRESS_IMPORTING_label" = "Importing %@";
+"IMPORT_PROGRESS_IMPORTING_label" = "正在导入 %@";
 
 /* Label displaying that the current item is being downloaded from iCloud. Mac only. */
-"IMPORT_PROGRESS_DOWNLOADING_ICLOUD_mac_label" = "Downloading from iCloud";
+"IMPORT_PROGRESS_DOWNLOADING_ICLOUD_mac_label" = "从iCloud下载";
 
 /* Label displaying that the current item is being downloaded from Dropbox. */
-"IMPORT_PROGRESS_DOWNLOADING_DROPBOX_label" = "Downloading from Dropbox…";
+"IMPORT_PROGRESS_DOWNLOADING_DROPBOX_label" = "从Dropbox下载";
 
 /* Label displaying the current item being converted */
-"IMPORT_PROGRESS_CONVERTING_label" = "Converting %@";
+"IMPORT_PROGRESS_CONVERTING_label" = "正在转换 %@";
 
 /* Label displaying the current item being migrated */
-"IMPORT_PROGRESS_MIGRATING_label" = "Migrating %@";
+"IMPORT_PROGRESS_MIGRATING_label" = "正在迁移 %@";
 
 /* Label displaying the current item being unzipped */
-"IMPORT_PROGRESS_UNZIP_BUNDLE_label" = "Unzipping bundle %@";
+"IMPORT_PROGRESS_UNZIP_BUNDLE_label" = "正在解压 %@";
 
 /* Label displaying the current document we're relinking media files to */
-"IMPORT_PROGRESS_RELINK_DOCUMENTS_label" = "Relinking media for %@";
+"IMPORT_PROGRESS_RELINK_DOCUMENTS_label" = "正在重新链接到媒体 %@";
 
 /* Mac PowerPoint error for any functionality that isn't yet implemented */
-"IMPORT_POWERPOINT_ERROR_NOT_IMPLEMENTED_message" = "Not Implemented";
+"IMPORT_POWERPOINT_ERROR_NOT_IMPLEMENTED_message" = "未实现";
 /* Mac PowerPoint error for when the user selects a file that isn't a valid PowerPoint document (incorrect file extension). */
-"IMPORT_POWERPOINT_ERROR_INVALID_FILE_EXTENSION_message" = "The selected file is not a valid PowerPoint document. File selected: %@";
+"IMPORT_POWERPOINT_ERROR_INVALID_FILE_EXTENSION_message" = "所选文件不是有效的PowerPoint文档。 已选择文件： %@";
 /* Mac PowerPoint error for when the import helper isn't available for the given file. */
-"IMPORT_POWERPOINT_ERROR_HELPER_UNAVAILABLE_message" = "PowerPoint import helper not available for file at %@";
+"IMPORT_POWERPOINT_ERROR_HELPER_UNAVAILABLE_message" = "PowerPoint 导入助手无法用于文件 %@";
 /* Mac PowerPoint error for when we can't open the presentation */
-"IMPORT_POWERPOINT_ERROR_UNABLE_TO_OPEN_PRESENTATION_message" = "Unable to open a valid presentation";
+"IMPORT_POWERPOINT_ERROR_UNABLE_TO_OPEN_PRESENTATION_message" = "无法打开有效的演示文稿";
 /* Mac PowerPoint error for when we can't create a temporary directory to hold the files created during import */
-"IMPORT_POWERPOINT_ERROR_UNABLE_TO_CREATE_TEMP_DIRECTORY_message" = "Unable to create temporary working directory for import";
+"IMPORT_POWERPOINT_ERROR_UNABLE_TO_CREATE_TEMP_DIRECTORY_message" = "无法为创建导入用的临时工作目录";
 /* Mac PowerPoint error for when we couldn't save the PowerPoint document as a PDF document */
-"IMPORT_POWERPOINT_ERROR_PDF_EXPORT_FAILED_message" = "Save PowerPoint as PDF (temporary) failed";
+"IMPORT_POWERPOINT_ERROR_PDF_EXPORT_FAILED_message" = "将PowerPoint保存为PDF（临时）失败";
 /* Mac PowerPoint error for when we couldn't create a PDF document from a PowerPoint document */
-"IMPORT_POWERPOINT_ERROR_FAILED_PDF_CREATION_message" = "Failed to create a PDF document from contents at location: %@";
+"IMPORT_POWERPOINT_ERROR_FAILED_PDF_CREATION_message" = "无法用位置 %@ 的内容中创建PDF文档";
 /* Mac PowerPoint error for when the images resources directory isn't available for some reason */
-"IMPORT_POWERPOINT_ERROR_RESOURCE_DIRECTORY_UNAVAILABLE_message" = "Unable to retrieve a valid image resources directory";
+"IMPORT_POWERPOINT_ERROR_RESOURCE_DIRECTORY_UNAVAILABLE_message" = "无法检索图像资源目录";
 /* Mac PowerPoint error for when we can't create a directory for image resources */
-"IMPORT_POWERPOINT_ERROR_FAILED_CREATE_RESOURCE_DIRECTORY_message" = "Error creating import image directory at: %@";
+"IMPORT_POWERPOINT_ERROR_FAILED_CREATE_RESOURCE_DIRECTORY_message" = "创建导入图像目录%@时出错";
 /* Mac PowerPoint error for when we can't convert a PDF document into image data */
-"IMPORT_POWERPOINT_ERROR_FAILED_PDF_PAGE_message" = "Failed converting PDF page to valid image data";
+"IMPORT_POWERPOINT_ERROR_FAILED_PDF_PAGE_message" = "将PDF页面转换为图像时失败";
 /* Mac PowerPoint error for when we can't write image data */
-"IMPORT_POWERPOINT_ERROR_FAILED_PDF_IMAGE_message" = "Failed writing image data to: %@";
+"IMPORT_POWERPOINT_ERROR_FAILED_PDF_IMAGE_message" = "将图像数据写入到%@失败";
 /* Mac PowerPoint error for when we can't get slides from the PowerPoint file */
-"IMPORT_POWERPOINT_ERROR_UNABLE_TO_GET_SLIDES_message" = "Unable to get slides from PowerPoint presentation";
+"IMPORT_POWERPOINT_ERROR_UNABLE_TO_GET_SLIDES_message" = "从PowerPoint演示文稿中获取幻灯片出错";
 /* Mac PowerPoint error for when we can't parse the PowerPoint slide elements */
-"IMPORT_POWERPOINT_ERROR_PRESENTATION_PARSING_message" = "Unable to parse slide elements in presentation. Code: %ld";
+"IMPORT_POWERPOINT_ERROR_PRESENTATION_PARSING_message" = "解析演示文稿中的幻灯片出错。错误代码：%ld";
 /* Mac PowerPoint error for when we can't get text properties from the PowerPoint document */
-"IMPORT_POWERPOINT_ERROR_UNABLE_TO_GET_TEXT_message" = "Unable to get text properties from PowerPoint";
+"IMPORT_POWERPOINT_ERROR_UNABLE_TO_GET_TEXT_message" = "从PowerPoint获取文本属性出错";
 /* Mac PowerPoint error for when we can't save an image for a slide element */
-"IMPORT_POWERPOINT_ERROR_FAILED_SAVING_IMAGE_message" = "Unable to save the image slide element to: %@";
+"IMPORT_POWERPOINT_ERROR_FAILED_SAVING_IMAGE_message" = "无法将图像幻灯片保存到： %@";
 /* Mac PowerPoint error for a generic error creating a slide element for an image from the PowerPoint file */
-"IMPORT_POWERPOINT_ERROR_CREATE_IMAGE_ELEMENT_message" = "Unknown error creating image slide element";
+"IMPORT_POWERPOINT_ERROR_CREATE_IMAGE_ELEMENT_message" = "创建图像幻灯片元素时，遇到未知错误";
 /* Mac PowerPoint error for when we can't move a file used by the PowerPoint document into our resources directory */
-"IMPORT_POWERPOINT_ERROR_MOVING_PICTURE_TO_RESOURCES_message" = "Error moving exported PowerPoint asset to document resources";
+"IMPORT_POWERPOINT_ERROR_MOVING_PICTURE_TO_RESOURCES_message" = "将PowerPoint资产导出到文档资源时出错";
 /* Mac PowerPoint error for any unknown PowerPoint error */
-"IMPORT_POWERPOINT_ERROR_UNKNOWN_message" = "Unknown PowerPoint Import Error";
+"IMPORT_POWERPOINT_ERROR_UNKNOWN_message" = "未知PowerPoint导入错误";
 
 /* Mac PowerPoint import status for when we're finishing the import */
-"IMPORT_POWERPOINT_PROGRESS_FINALIZING" = "Finalizing document";
+"IMPORT_POWERPOINT_PROGRESS_FINALIZING" = "正在定稿文件...";
 /* Mac PowerPoint import status for when we're generating slide images from the PowerPoint slides. %ld represents the current slide and total slides, respectively. */
-"IMPORT_POWERPOINT_PROGRESS_SLIDE_IMAGE_GENERATION_label" = "Generating slide image %ld out of %ld";
+"IMPORT_POWERPOINT_PROGRESS_SLIDE_IMAGE_GENERATION_label" = "正在生成幻灯片图像 %ld / %ld";
 /* Mac PowerPoint import status for when we're creating slides from the PowerPoint slides. %ld represents the current slide and total slides, respectively. */
-"IMPORT_POWERPOINT_PROGRESS_SLIDE_CREATION_label" = "Creating slide %ld out of %ld";
+"IMPORT_POWERPOINT_PROGRESS_SLIDE_CREATION_label" = "正在创建幻灯片 %ld / %ld";
 /* Mac PowerPoint import status for when we're waiting for PowerPoint to open. */
-"IMPORT_POWERPOINT_PROGRESS_OPENING_label" = "Opening PowerPoint";
+"IMPORT_POWERPOINT_PROGRESS_OPENING_label" = "打开PowerPoint";
 
 /* Alert shown when attempting to use PowerPoint viewer without it being installed. Windows only. */
-"IMPORT_POWERPOINT_VIEWER_ALERT_windows_info" = "PowerPoint Viewer has not been detected on your computer. It must be installed to use this feature.";
+"IMPORT_POWERPOINT_VIEWER_ALERT_windows_info" = "未在计算机上检测到PowerPoint Viewer。使用此功能前，必须安装它。";
 
 /* Title for the button to locate the PowerPoint viewer installation file. Windows only. */
-"IMPORT_POWERPOINT_VIEWER_ALERT_LOCATE_windows_title" = "Locate…";
+"IMPORT_POWERPOINT_VIEWER_ALERT_LOCATE_windows_title" = "定位到…";
 
 /* Title for the button to open the download page from Microsoft. Windows only. */
-"IMPORT_POWERPOINT_VIEWER_ALERT_DOWNLOAD_windows_title" = "Download…";
+"IMPORT_POWERPOINT_VIEWER_ALERT_DOWNLOAD_windows_title" = "下载…";
 
 /* Title for the radio button to import all slides from the PowerPoint file as JPEG images */
-"IMPORT_POWERPOINT_OPTIONS_IMPORT_SLIDES_AS_IMAGES_title" = "Import all slides as JPEG images";
+"IMPORT_POWERPOINT_OPTIONS_IMPORT_SLIDES_AS_IMAGES_title" = "将所有幻灯片导入为JPEG图像";
 
 /* Title for the radio button to import text from the PowerPoint as individual slide elements */
-"IMPORT_POWERPOINT_OPTIONS_IMPORT_TEXT_title" = "Import text objects as ProPresenter slide elements";
+"IMPORT_POWERPOINT_OPTIONS_IMPORT_TEXT_title" = "将文本对象导入为Propresenter幻灯片元素";
 
 /* Title for the radio button to import text and graphics from the PowerPoint as individual slide elements */
-"IMPORT_POWERPOINT_OPTIONS_IMPORT_TEXT_AND_GRAPHICS_title" = "Import text and graphic objects as ProPresenter slide elements";
+"IMPORT_POWERPOINT_OPTIONS_IMPORT_TEXT_AND_GRAPHICS_title" = "将文本和图形对象导入为PropResenter幻灯片元素";
 
 /* Alert shown when attempting to migrate with no previous installation */
-"IMPORT_MIGRATION_ALERT_info" = "ProPresenter 6 installation not found on this machine.";
+"IMPORT_MIGRATION_ALERT_info" = "在本机上找不到Propresenter 6。";
 
 /* Name of an automatically created library to hold sample content */
-"IMPORT_SAMPLE_CONTENT_LIBRARY_name" = "Sample";
+"IMPORT_SAMPLE_CONTENT_LIBRARY_name" = "样例";
 
 /* Name of an automatically created playlist with all the sample content we downloaded */
-"IMPORT_SAMPLE_CONTENT_PLAYLIST_name" = "Sample Content";
+"IMPORT_SAMPLE_CONTENT_PLAYLIST_name" = "样例内容";
 
 /* An error message given when the user tries to import a file we don't support */
-"IMPORT_ERROR_INCOMPATIBLE_DOCUMENT_message" = "This document (%@) isn't compatible with ProPresenter";
+"IMPORT_ERROR_INCOMPATIBLE_DOCUMENT_message" = "本文档(%@)与Propresenter不兼容";
 
 /* An error message given when ProPresenter encounters an error when trying to import a document */
-"IMPORT_ERROR_INTERNAL_message" = "There was an internal error importing this document (%@)";
+"IMPORT_ERROR_INTERNAL_message" = "导入本文档(%@)时，遇到内部错误";
 
 /* An error message given when we could not upgrade a presentation from an older version of ProPresenter*/
-"IMPORT_ERROR_PROCORE_message" = "This document (%@) failed to upgrade during import. Reason: %@.";
+"IMPORT_ERROR_PROCORE_message" = "导入并升级文档(%@)时出错。原因： %@.";
 
 /* The error message given when an error occurred when working with a temporary directory. */
-"IMPORT_ERROR_TEMPORARY_DIRECTORY_description" = "File error";
-"IMPORT_ERROR_TEMPORARY_DIRECTORY_info" = "Failed to write to a temporary directory";
+"IMPORT_ERROR_TEMPORARY_DIRECTORY_description" = "文件错误";
+"IMPORT_ERROR_TEMPORARY_DIRECTORY_info" = "写入临时目录时出错";
 
 /* The error message given when an invalid file URL is encountered during import. */
-"IMPORT_ERROR_INVALID_FILE_description" = "Invalid file";
-"IMPORT_ERROR_INVALID_FILE_info" = "ProPresenter cannot handle the file type at path %@";
+"IMPORT_ERROR_INVALID_FILE_description" = "无效的文件";
+"IMPORT_ERROR_INVALID_FILE_info" = "Propresenter无法处理路径%@下的文件";
 
 /* The error message given when ProPresenter is unable to unzip a file. */
-"IMPORT_ERROR_UNZIP_description" = "Error unzipping files";
-"IMPORT_ERROR_UNZIP_info" = "Failed to unzip the file at path %@";
+"IMPORT_ERROR_UNZIP_description" = "解压缩文件错误";
+"IMPORT_ERROR_UNZIP_info" = "解压缩路径%@的下文件出错";
 
 /* The error message given when no files were found within a bundle. */
-"IMPORT_ERROR_BUNDLE_NO_FILES_FOUND_description" = "No files found";
-"IMPORT_ERROR_BUNDLE_NO_FILES_FOUND_info" = "No files found within the bundle at path %@";
+"IMPORT_ERROR_BUNDLE_NO_FILES_FOUND_description" = "文件未找到";
+"IMPORT_ERROR_BUNDLE_NO_FILES_FOUND_info" = "在路径%@中未找到链接的文件";
 
 /* The error message given when an error occurred trying to relink media for a bundle. */
-"IMPORT_ERROR_BUNDLE_RELINKING_MEDIA_description" = "Errors relinking media";
-"IMPORT_ERROR_BUNDLE_RELINKING_MEDIA_info" = "There were errors relinking media from %@";
+"IMPORT_ERROR_BUNDLE_RELINKING_MEDIA_description" = "重新链接媒体文件错误";
+"IMPORT_ERROR_BUNDLE_RELINKING_MEDIA_info" = "重新链接媒体文件%@错误";
 
 /* The error message given when trying to import text from the clipboard, but the clipboard does not contain any text. */
-"IMPORT_ERROR_CLIPBOARD_DOES_NOT_CONTAIN_TEXT_description" = "The clipboard is empty.";
-"IMPORT_ERROR_CLIPBOARD_DOES_NOT_CONTAIN_TEXT_info" = "There is no text on the clipboard to import";
+"IMPORT_ERROR_CLIPBOARD_DOES_NOT_CONTAIN_TEXT_description" = "剪贴板是空的。";
+"IMPORT_ERROR_CLIPBOARD_DOES_NOT_CONTAIN_TEXT_info" = "剪贴板上没有可用来导入的文本";
 
 /* The error message given when trying to import a PowerPoint document without having PowerPoint installed. */
-"IMPORT_ERROR_POWERPOINT_NOT_DETECTED_description" = "PowerPoint version 2016 or greater must be installed in order to import.";
-"IMPORT_ERROR_POWERPOINT_NOT_DETECTED_info" = "PowerPoint is required to be able to import PowerPoint documents";
+"IMPORT_ERROR_POWERPOINT_NOT_DETECTED_description" = "必须安装PowerPoint 2016或更高版本，才能导入。";
+"IMPORT_ERROR_POWERPOINT_NOT_DETECTED_info" = "需要安装PowerPoint，才能导入PowerPoint文档";
 
 
 /*
@@ -9021,28 +9021,28 @@ CONTIGUOUS_VIEW
 */
 
 /* Title for the button to trigger the linked timer of the header item */
-"CONTIGUOUS_VIEW_HEADER_TRIGGER_BUTTON_title" = "Trigger";
+"CONTIGUOUS_VIEW_HEADER_TRIGGER_BUTTON_title" = "触发器";
 
 /* Label for the linked timer of the header item*/
-"CONTIGUOUS_VIEW_HEADER_LINKED_TIMER_label" = "Linked Timer";
+"CONTIGUOUS_VIEW_HEADER_LINKED_TIMER_label" = "已链接的计时器";
 
 /* Placeholder name for the header's editable name text field */
-"CONTIGUOUS_VIEW_HEADER_NAME_placeholder" = "Name";
+"CONTIGUOUS_VIEW_HEADER_NAME_placeholder" = "名称";
 
 /* Button for a playlist media cue that opens the inspector for that media */
-"CONTIGUOUS_VIEW_MEDIA_INSPECTOR_BUTTON_title" = "Inspector…";
+"CONTIGUOUS_VIEW_MEDIA_INSPECTOR_BUTTON_title" = "检查…";
 
 /* Label for the duration of a media item */
-"CONTIGUOUS_VIEW_MEDIA_DURATION_label" = "Duration:";
+"CONTIGUOUS_VIEW_MEDIA_DURATION_label" = "持续时间：";
 
 /* Title for the button to link a ProPresenter item with the Planning Center plan */
-"CONTIGUOUS_VIEW_PCO_HEADER_LINK_BUTTON_title" = "Link…";
+"CONTIGUOUS_VIEW_PCO_HEADER_LINK_BUTTON_title" = "链接…";
 
 /* Title for the button to unlink a ProPresenter item with the Planning Center plan */
-"CONTIGUOUS_VIEW_PCO_HEADER_UNLINK_BUTTON_title" = "Unlink…";
+"CONTIGUOUS_VIEW_PCO_HEADER_UNLINK_BUTTON_title" = "解除链接…";
 
 /* Label shown as a drop area to link a ProPresenter item with the Planning Center plan */
-"CONTIGUOUS_VIEW_PCO_DROP_ITEM_label" = "Drop Presentation or Media here";
+"CONTIGUOUS_VIEW_PCO_DROP_ITEM_label" = "拖拽演示文稿或媒体到此处";
 
 
 /*
@@ -9052,124 +9052,124 @@ TRANSITIONS
 */
 
 /* Title for the button the change the transition */
-"TRANSITIONS_CHANGE_BUTTON_title" = "Change";
+"TRANSITIONS_CHANGE_BUTTON_title" = "修改";
 
 /* Title for the short-form choose transition button */
-"TRANSITIONS_CHOOSE_BUTTON_title" = "Choose…";
+"TRANSITIONS_CHOOSE_BUTTON_title" = "选择…";
 
 /* Title for the long-form choose transition button */
-"TRANSITIONS_CHOOSE_TRANSITION_BUTTON_title" = "Choose Transition";
+"TRANSITIONS_CHOOSE_TRANSITION_BUTTON_title" = "选择过渡";
 
 /* Tooltip for the button to select the cut transition */
-"TRANSITIONS_CUT_toolip" = "Cut";
+"TRANSITIONS_CUT_toolip" = "裁剪";
 
 /* Tooltip for the button to select the dissolve transition */
-"TRANSITIONS_DISSOLVE_toolip" = "Dissolve";
+"TRANSITIONS_DISSOLVE_toolip" = "溶解";
 
 /* Tooltip for the button to open the transition view */
-"TRANSITIONS_ADVANCED_toolip" = "Advanced";
+"TRANSITIONS_ADVANCED_toolip" = "高级";
 
 /* Label for the favorited transitions section */
-"TRANSITIONS_FAVORITES_label" = "Favorites";
+"TRANSITIONS_FAVORITES_label" = "收藏";
 
 /* Label for the section containing transitions that were recently used */
-"TRANSITIONS_RECENTS_label" = "Recents";
+"TRANSITIONS_RECENTS_label" = "最近的";
 
 /* Label for the section containing all available transitions */
-"TRANSITIONS_ALL_label" = "All";
+"TRANSITIONS_ALL_label" = "全部";
 
 /* Label for the button to clear the recent transitions */
-"TRANSITIONS_CLEAR_label" = "Clear";
+"TRANSITIONS_CLEAR_label" = "清除";
 
 /* Label displayed when there are no results when filtering */
-"TRANSITIONS_NO_SEARCH_RESULTS_label" = "No Results";
+"TRANSITIONS_NO_SEARCH_RESULTS_label" = "没有结果";
 
 /* Label displayed when there have been no transitions favorited yet */
-"TRANSITIONS_NO_FAVORITES_label" = "No Favorite Transitions";
+"TRANSITIONS_NO_FAVORITES_label" = "没有收藏的过渡";
 
 /* Label displayed when there have been no transitions favorited yet */
-"TRANSITIONS_NO_RECENTS_label" = "No Recent Transitions";
+"TRANSITIONS_NO_RECENTS_label" = "无最近的过渡";
 
 /* Label displayed when there are no transitions available */
-"TRANSITIONS_NONE_AVAILABLE_label" = "No Available Transitions";
+"TRANSITIONS_NONE_AVAILABLE_label" = "没有可用的过渡";
 
 /* Label displayed when there are no transitions available in a specific category. %@ is the category. */
-"TRANSITIONS_NONE_AVAILABLE_IN_CATEGORY_label" = "No Available Transitions in %@";
+"TRANSITIONS_NONE_AVAILABLE_IN_CATEGORY_label" = "%@中没有可用的过渡";
 
 /* Label displayed when the user has no favorite transitions. This tells the user how to add a transition to their list of favorites. */
-"TRANSITIONS_NONE_AVAILABLE_SUBTITLE_label" = "Click the star to favorite a transition";
+"TRANSITIONS_NONE_AVAILABLE_SUBTITLE_label" = "单击星标添加过渡到收藏";
 
 /* Title for the menu item to save the current transition as a favorite */
-"TRANISTIONS_SAVE_AS_title" = "Save As…";
+"TRANISTIONS_SAVE_AS_title" = "另存为…";
 
 /* Label for the slider to change the transition duration */
-"TRANSITIONS_DURATION_label" = "Duration:";
+"TRANSITIONS_DURATION_label" = "持续时间:";
 
 /* Title for the top left direction parameter */
-"TRANSITIONS_DIRECTION_TOP_LEFT_title" = "From Top Left";
+"TRANSITIONS_DIRECTION_TOP_LEFT_title" = "从左上角";
 
 /* Title for the top center direction parameter */
-"TRANSITIONS_DIRECTION_TOP_CENTER_title" = "From Top";
+"TRANSITIONS_DIRECTION_TOP_CENTER_title" = "从顶部";
 
 /* Title for the top right direction parameter */
-"TRANSITIONS_DIRECTION_TOP_RIGHT_title" = "From Top Right";
+"TRANSITIONS_DIRECTION_TOP_RIGHT_title" = "从右上角";
 
 /* Title for the middle left direction parameter */
-"TRANSITIONS_DIRECTION_MIDDLE_LEFT_title" = "From Left";
+"TRANSITIONS_DIRECTION_MIDDLE_LEFT_title" = "从左侧";
 
 /* Title for the middle center direction parameter */
-"TRANSITIONS_DIRECTION_MIDDLE_CENTER_title" = "Center";
+"TRANSITIONS_DIRECTION_MIDDLE_CENTER_title" = "中心";
 
 /* Title for the middle right direction parameter */
-"TRANSITIONS_DIRECTION_MIDDLE_RIGHT_title" = "From Right";
+"TRANSITIONS_DIRECTION_MIDDLE_RIGHT_title" = "从右侧";
 
 /* Title for the bottom left direction parameter */
-"TRANSITIONS_DIRECTION_BOTTOM_LEFT_title" = "From Bottom Left";
+"TRANSITIONS_DIRECTION_BOTTOM_LEFT_title" = "从左下方";
 
 /* Title for the bottom center direction parameter */
-"TRANSITIONS_DIRECTION_BOTTOM_CENTER_title" = "From Bottom";
+"TRANSITIONS_DIRECTION_BOTTOM_CENTER_title" = "从底部";
 
 /* Title for the bottom right direction parameter */
-"TRANSITIONS_DIRECTION_BOTTOM_RIGHT_title" = "From Bottom Right";
+"TRANSITIONS_DIRECTION_BOTTOM_RIGHT_title" = "从右下方";
 
 /* The following are the names of the available transitions in ProPresenter */
-"TRANSITIONS_AMOEBA_name" = "Amoeba";
-"TRANSITIONS_COLOR_BURN_name" = "Color Burn";
-"TRANSITIONS_COLOR_PUSH_name" = "Color Push";
-"TRANSITIONS_COLOR_WARP_name" = "Color Warp";
-"TRANSITIONS_CROSS_HATCH_name" = "Cross Hatch";
-"TRANSITIONS_CUBE_name" = "Cube";
-"TRANSITIONS_CUT_name" = "Cut";
-"TRANSITIONS_DEFAULT_DISSOLVE_title" = "Default (Dissolve)";
-"TRANSITIONS_DISPERSION_BLUR_name" = "Dispersion Blur";
-"TRANSITIONS_DISSOLVE_name" = "Dissolve";
-"TRANSITIONS_DOOR_name" = "Door";
-"TRANSITIONS_FADE_name" = "Fade";
-"TRANSITIONS_FADE_BLACK_name" = "Fade Black";
-"TRANSITIONS_FADE_BRIGHT_name" = "Fade Bright";
-"TRANSITIONS_FADE_DARK_name" = "Fade Dark";
-"TRANSITIONS_FADE_GRAY_name" = "Fade Gray";
-"TRANSITIONS_FADE_WHITE_name" = "Fade White";
-"TRANSITIONS_FILM_BURN_name" = "Film Burn";
-"TRANSITIONS_FLIP_name" = "Flip";
-"TRANSITIONS_FLY_IN_name" = "Fly In";
-"TRANSITIONS_IRIS_name" = "Iris";
-"TRANSITIONS_KALEIDOSCOPE_WIPE_name" = "Kaleidoscope Wipe";
-"TRANSITIONS_MOSAIC_name" = "Mosaic";
-"TRANSITIONS_MOVE_IN_name" = "Move In";
+"TRANSITIONS_AMOEBA_name" = "变形";
+"TRANSITIONS_COLOR_BURN_name" = "颜色加深";
+"TRANSITIONS_COLOR_PUSH_name" = "颜色推入";
+"TRANSITIONS_COLOR_WARP_name" = "颜色翘曲";
+"TRANSITIONS_CROSS_HATCH_name" = "棋盘";
+"TRANSITIONS_CUBE_name" = "立方体";
+"TRANSITIONS_CUT_name" = "剪开";
+"TRANSITIONS_DEFAULT_DISSOLVE_title" = "默认(溶解)";
+"TRANSITIONS_DISPERSION_BLUR_name" = "分散模糊";
+"TRANSITIONS_DISSOLVE_name" = "溶解";
+"TRANSITIONS_DOOR_name" = "门";
+"TRANSITIONS_FADE_name" = "褪色";
+"TRANSITIONS_FADE_BLACK_name" = "褪到黑";
+"TRANSITIONS_FADE_BRIGHT_name" = "褪到亮";
+"TRANSITIONS_FADE_DARK_name" = "褪到暗";
+"TRANSITIONS_FADE_GRAY_name" = "褪到灰";
+"TRANSITIONS_FADE_WHITE_name" = "褪到白";
+"TRANSITIONS_FILM_BURN_name" = "光晕";
+"TRANSITIONS_FLIP_name" = "翻动";
+"TRANSITIONS_FLY_IN_name" = "飞入.";
+"TRANSITIONS_IRIS_name" = "虹膜";
+"TRANSITIONS_KALEIDOSCOPE_WIPE_name" = "万花筒";
+"TRANSITIONS_MOSAIC_name" = "马赛克";
+"TRANSITIONS_MOVE_IN_name" = "切入";
 "TRANSITIONS_NOISY_ZOOM_name" = "Noisy Zoom";
-"TRANSITIONS_PUSH_name" = "Push";
-"TRANSITIONS_RANDOM_PIXELS_name" = "Random Pixels";
-"TRANSITIONS_RANDOM_SQUARES_name" = "Random Squares";
-"TRANSITIONS_RANDOM_SQUARES_FLICKER_name" = "Random Squares Flicker";
-"TRANSITIONS_REVEAL_name" = "Reveal";
-"TRANSITIONS_RIPPLE_name" = "Ripple";
-"TRANSITIONS_SQUARE_WIPE_name" = "Square Wipe";
-"TRANSITIONS_SWAP_name" = "Swap";
-"TRANSITIONS_WARP_FADE_name" = "Warp Fade";
-"TRANSITIONS_WAVE_DISSOLVE_name" = "Wave Dissolve";
-"TRANSITIONS_WIPE_name" = "Wipe";
-"TRANSITIONS_ZOOM_IN_name" = "Zoom In";
+"TRANSITIONS_PUSH_name" = "推入";
+"TRANSITIONS_RANDOM_PIXELS_name" = "随机像素";
+"TRANSITIONS_RANDOM_SQUARES_name" = "随机方块";
+"TRANSITIONS_RANDOM_SQUARES_FLICKER_name" = "随机方格闪烁";
+"TRANSITIONS_REVEAL_name" = "揭开";
+"TRANSITIONS_RIPPLE_name" = "波纹";
+"TRANSITIONS_SQUARE_WIPE_name" = "方形擦拭";
+"TRANSITIONS_SWAP_name" = "交换";
+"TRANSITIONS_WARP_FADE_name" = "弯曲消退";
+"TRANSITIONS_WAVE_DISSOLVE_name" = "波浪溶解";
+"TRANSITIONS_WIPE_name" = "擦除";
+"TRANSITIONS_ZOOM_IN_name" = "放大";
 
 
 /*
@@ -9179,106 +9179,106 @@ EFFECTS
 */
 
 /* Tooltip for the button that shows the popover for properties set on this effect */
-"EFFECT_PROPERTIES_BUTTON_tooltip" = "Effect Properties";
+"EFFECT_PROPERTIES_BUTTON_tooltip" = "效果属性";
 
 /* The title (or tooltip) for the button that enables or disables the current effect */
-"EFFECT_TOGGLE_BUTTON_title" = "Toggle Effect";
+"EFFECT_TOGGLE_BUTTON_title" = "切换效果";
 
 /* The title (or tooltip) for the button that replaces the current effect */
-"EFFECT_REPLACE_BUTTON_title" = "Replace / Remove Effect";
+"EFFECT_REPLACE_BUTTON_title" = "替换 / 删除效果";
 
 /* The label for an effect with no parameters */
-"EFFECT_NO_PARAMETERS_label" = "No Parameters";
+"EFFECT_NO_PARAMETERS_label" = "没有参数";
 
 /* The following are names of the available effects in ProPresenter */
-"EFFECT_ADJUST_COLOR_name" = "Adjust Color";
-"EFFECT_RBG_ADJUST_name" = "RGB Adjust";
-"EFFECT_BLUR_name" = "Blur";
-"EFFECT_COLOR_FILTER_name" = "Color Filter";
-"EFFECT_COLOR_INVERT_name" = "Color Invert";
-"EFFECT_COLOR_KEY_name" = "Color Key";
-"EFFECT_COLOR_POSTERIZE_name" = "Color Posterize";
-"EFFECT_COLOR_SWAP_name" = "Color Swap";
-"EFFECT_CRT_MONITOR_name" = "CRT Monitor";
-"EFFECT_DOTS_name" = "Dots";
-"EFFECT_EDGE_BLUR_name" = "Edge Blur";
-"EFFECT_EDGE_OUTLINE_name" = "Edge Outline";
-"EFFECT_EMBOSS_name" = "Emboss";
-"EFFECT_GRAY_INVERT_name" = "Gray Invert";
-"EFFECT_HALFTONE_name" = "Halftone";
-"EFFECT_HEAT_SIGATURE_name" = "Heat Signature";
-"EFFECT_HEXAGON_name" = "Hexagon";
-"EFFECT_IMAGE_DISTORTION_name" = "Image Distortion";
-"EFFECT_KALEIDOSCOPE_1_name" = "Kaleidoscope 1";
-"EFFECT_KALEIDOSCOPE_2_name" = "Kaleidoscope 2";
-"EFFECT_KALEIDOSCOPE_3_name" = "Kaleidoscope 3";
-"EFFECT_LENS_DISTORTION_name" = "Lens Distortion";
-"EFFECT_OLD_FILM_name" = "Old Film";
-"EFFECT_PICASSO_name" = "Picasso";
-"EFFECT_PIXELIZE_name" = "Pixelize";
-"EFFECT_PLASMA_name" = "Plasma";
-"EFFECT_RADIAL_BLUR_name" = "Radial Blur";
-"EFFECT_RIPPLE_CENTER_name" = "Ripple Center";
-"EFFECT_RIPPLE_SIDE_name" = "Ripple Side";
-"EFFECT_SEPIA_name" = "Sepia";
-"EFFECT_SHAKE_name" = "Shake";
-"EFFECT_STARS_name" = "Stars";
-"EFFECT_STROBE_name" = "Strobe";
-"EFFECT_TILE_name" = "Tile";
-"EFFECT_TOON_name" = "Toon";
-"EFFECT_TWOCOLOR_name" = "Two Color";
-"EFFECT_VIGNETTE_name" = "Vignette";
+"EFFECT_ADJUST_COLOR_name" = "调整颜色";
+"EFFECT_RBG_ADJUST_name" = "调整RGB";
+"EFFECT_BLUR_name" = "模糊";
+"EFFECT_COLOR_FILTER_name" = "滤色器";
+"EFFECT_COLOR_INVERT_name" = "彩色倒置";
+"EFFECT_COLOR_KEY_name" = "彩色钥匙";
+"EFFECT_COLOR_POSTERIZE_name" = "彩色海报";
+"EFFECT_COLOR_SWAP_name" = "彩色换档";
+"EFFECT_CRT_MONITOR_name" = "CRT 监视器";
+"EFFECT_DOTS_name" = "点号";
+"EFFECT_EDGE_BLUR_name" = "边缘模糊";
+"EFFECT_EDGE_OUTLINE_name" = "边缘轮廓";
+"EFFECT_EMBOSS_name" = "浮雕";
+"EFFECT_GRAY_INVERT_name" = "灰色倒置";
+"EFFECT_HALFTONE_name" = "半色调";
+"EFFECT_HEAT_SIGATURE_name" = "红外签名";
+"EFFECT_HEXAGON_name" = "六边形";
+"EFFECT_IMAGE_DISTORTION_name" = "图像畸变";
+"EFFECT_KALEIDOSCOPE_1_name" = "万花筒 1";
+"EFFECT_KALEIDOSCOPE_2_name" = "万花筒 2";
+"EFFECT_KALEIDOSCOPE_3_name" = "万花筒 3";
+"EFFECT_LENS_DISTORTION_name" = "镜头畸变";
+"EFFECT_OLD_FILM_name" = "老电影";
+"EFFECT_PICASSO_name" = "毕加索";
+"EFFECT_PIXELIZE_name" = "像素化";
+"EFFECT_PLASMA_name" = "等离子体";
+"EFFECT_RADIAL_BLUR_name" = "径向模糊";
+"EFFECT_RIPPLE_CENTER_name" = "波纹中心";
+"EFFECT_RIPPLE_SIDE_name" = "波纹边";
+"EFFECT_SEPIA_name" = "乌贼";
+"EFFECT_SHAKE_name" = "摇动";
+"EFFECT_STARS_name" = "星星";
+"EFFECT_STROBE_name" = "频闪";
+"EFFECT_TILE_name" = "瓦片";
+"EFFECT_TOON_name" = "卡通";
+"EFFECT_TWOCOLOR_name" = "两种颜色";
+"EFFECT_VIGNETTE_name" = "小插图";
 
-"EFFECT_PARAMETER_AMOUNT_name" = "Amount";
-"EFFECT_PARAMETER_ANGLE_name" = "Angle";
-"EFFECT_PARAMETER_ANIMATE_name" = "Animate";
-"EFFECT_PARAMETER_BLEND_COLOR_name" = "Blend Color";
-"EFFECT_PARAMETER_BLEND_name" = "Blend";
-"EFFECT_PARAMETER_BLUE_name" = "Blue";
-"EFFECT_PARAMETER_BRIGHTNESS_name" = "Brightness";
-"EFFECT_PARAMETER_BRIGHT_COLOR_name" = "Bright Color";
-"EFFECT_PARAMETER_BURN_COLOR_name" = "Burn Color";
-"EFFECT_PARAMETER_CELLS_name" = "Cells";
-"EFFECT_PARAMETER_CENTER_X_name" = "Center X";
-"EFFECT_PARAMETER_CENTER_Y_name" = "Center Y";
-"EFFECT_PARAMETER_COLOR_COUNT_name" = "Color Count";
-"EFFECT_PARAMETER_COLOR_DISTORTION_name" = "Color Distortion";
-"EFFECT_PARAMETER_COLOR_SEPARATION_name" = "Color Separation";
-"EFFECT_PARAMETER_COLOR_name" = "Color";
-"EFFECT_PARAMETER_CONSRAST_name" = "Contrast";
-"EFFECT_PARAMETER_DARK_COLOR_name" = "Dark Color";
-"EFFECT_PARAMETER_DECAY_name" = "Decay";
-"EFFECT_PARAMETER_DIRECTION_name" = "Direction";
-"EFFECT_PARAMETER_DURATION_name" = "Duration";
-"EFFECT_PARAMETER_FREQUENCY_name" = "Frequency";
-"EFFECT_PARAMETER_GAMMA_name" = "Gamma";
-"EFFECT_PARAMETER_GRAY_COMPONENTS_name" = "Color Removal";
-"EFFECT_PARAMETER_GRAY_COMPONENTS_name" = "Gray Components";
-"EFFECT_PARAMETER_GREEN_name" = "Green";
-"EFFECT_PARAMETER_HUE_name" = "Hue";
-"EFFECT_PARAMETER_INTENSITY_name" = "Intensity";
-"EFFECT_PARAMETER_ITERATIONS_name" = "Iterations";
-"EFFECT_PARAMETER_LENGTH_name" = "Length";
-"EFFECT_PARAMETER_LENS_SIZE_name" = "Lens Size";
-"EFFECT_PARAMETER_LIGHT_X_name" = "Light X";
-"EFFECT_PARAMETER_LIGHT_Y_name" = "Light Y";
-"EFFECT_PARAMETER_NEW_COLOR_name" = "New Color";
-"EFFECT_PARAMETER_NOISE_LEVEL_name" = "Noise Level";
-"EFFECT_PARAMETER_NUMBER_OF_COLORS_name" = "Number of colors";
-"EFFECT_PARAMETER_OLD_COLOR_name" = "Old Color";
-"EFFECT_PARAMETER_RADIUS_name" = "Radius";
-"EFFECT_PARAMETER_RANDOMNESS_name" = "Randomness";
-"EFFECT_PARAMETER_RED_name" = "Red";
-"EFFECT_PARAMETER_SATURATION_name" = "Saturation";
-"EFFECT_PARAMETER_SCALE_name" = "Scale";
-"EFFECT_PARAMETER_SCRATCHES_name" = "Scratches";
-"EFFECT_PARAMETER_SEPIA_EFFECT_name" = "Sepia Effect";
+"EFFECT_PARAMETER_AMOUNT_name" = "数量";
+"EFFECT_PARAMETER_ANGLE_name" = "角度";
+"EFFECT_PARAMETER_ANIMATE_name" = "动画";
+"EFFECT_PARAMETER_BLEND_COLOR_name" = "混合颜色";
+"EFFECT_PARAMETER_BLEND_name" = "混合";
+"EFFECT_PARAMETER_BLUE_name" = "蓝色";
+"EFFECT_PARAMETER_BRIGHTNESS_name" = "亮度";
+"EFFECT_PARAMETER_BRIGHT_COLOR_name" = "明亮色";
+"EFFECT_PARAMETER_BURN_COLOR_name" = "光晕色";
+"EFFECT_PARAMETER_CELLS_name" = "格";
+"EFFECT_PARAMETER_CENTER_X_name" = "中心 X";
+"EFFECT_PARAMETER_CENTER_Y_name" = "中心 Y";
+"EFFECT_PARAMETER_COLOR_COUNT_name" = "颜色数";
+"EFFECT_PARAMETER_COLOR_DISTORTION_name" = "颜色畸变";
+"EFFECT_PARAMETER_COLOR_SEPARATION_name" = "颜色分离";
+"EFFECT_PARAMETER_COLOR_name" = "颜色";
+"EFFECT_PARAMETER_CONSRAST_name" = "对比";
+"EFFECT_PARAMETER_DARK_COLOR_name" = "深色";
+"EFFECT_PARAMETER_DECAY_name" = "衰变";
+"EFFECT_PARAMETER_DIRECTION_name" = "方向";
+"EFFECT_PARAMETER_DURATION_name" = "期间";
+"EFFECT_PARAMETER_FREQUENCY_name" = "频率";
+"EFFECT_PARAMETER_GAMMA_name" = "伽玛";
+"EFFECT_PARAMETER_GRAY_COMPONENTS_name" = "颜色清除";
+"EFFECT_PARAMETER_GRAY_COMPONENTS_name" = "灰色组件";
+"EFFECT_PARAMETER_GREEN_name" = "绿色";
+"EFFECT_PARAMETER_HUE_name" = "色调";
+"EFFECT_PARAMETER_INTENSITY_name" = "强度";
+"EFFECT_PARAMETER_ITERATIONS_name" = "迭代";
+"EFFECT_PARAMETER_LENGTH_name" = "长度";
+"EFFECT_PARAMETER_LENS_SIZE_name" = "镜头尺寸";
+"EFFECT_PARAMETER_LIGHT_X_name" = "光 X";
+"EFFECT_PARAMETER_LIGHT_Y_name" = "光 Y";
+"EFFECT_PARAMETER_NEW_COLOR_name" = "新颜色";
+"EFFECT_PARAMETER_NOISE_LEVEL_name" = "噪音水平";
+"EFFECT_PARAMETER_NUMBER_OF_COLORS_name" = "颜色数";
+"EFFECT_PARAMETER_OLD_COLOR_name" = "旧颜色";
+"EFFECT_PARAMETER_RADIUS_name" = "半径";
+"EFFECT_PARAMETER_RANDOMNESS_name" = "随机";
+"EFFECT_PARAMETER_RED_name" = "红色";
+"EFFECT_PARAMETER_SATURATION_name" = "饱和";
+"EFFECT_PARAMETER_SCALE_name" = "比例";
+"EFFECT_PARAMETER_SCRATCHES_name" = "划痕";
+"EFFECT_PARAMETER_SEPIA_EFFECT_name" = "乌贼效应";
 "EFFECT_PARAMETER_SHARPNESS_name" = "锐利";
 "EFFECT_PARAMETER_SIDES_name" = "侧面";
 "EFFECT_PARAMETER_SIZE_name" = "尺寸";
 "EFFECT_PARAMETER_SPEED_name" = "速度";
 "EFFECT_PARAMETER_STRENGTH_name" = "力量";
-"EFFECT_PARAMETER_TOLERANCE_name" = "宽容";
+"EFFECT_PARAMETER_TOLERANCE_name" = "容错";
 "EFFECT_PARAMETER_VIGNETTE_name" = "小插图";
 "EFFECT_PARAMETER_ZOOM_name" = "缩放";
 
